@@ -1,0 +1,22 @@
+{
+  "name": "htmlbib",
+  "collaborators": [
+    "Asta Halkjær From <andro.from@gmail.com>"
+  ],
+  "description": "Create an HTML list of publications from a BibTeX file.\n",
+  "version": "0.1.0",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/astahfrom/htmlbib"
+  },
+  "files": [
+    "htmlbib_bg.wasm",
+    "htmlbib.js",
+    "htmlbib.d.ts",
+    "LICENSE.txt"
+  ],
+  "module": "htmlbib.js",
+  "types": "htmlbib.d.ts",
+  "sideEffects": false
+}
