@@ -18,5 +18,7 @@
   ],
   "module": "htmlbib.js",
   "types": "htmlbib.d.ts",
-  "sideEffects": false
+  "sideEffects": [
+    "./snippets/*"
+  ]
 }
