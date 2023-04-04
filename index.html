@@ -180,47 +180,40 @@
         <div>
           <dl>
 
-            <dt><b>A Naive Prover for First-Order Logic: A Minimal Example of Analytic Completeness</b></dt>
+            <dt><b>Verifying a Sequent Calculus Prover for First-Order Logic with Functions in Isabelle/HOL</b></dt>
             <dd>
-              Asta Halkjær From.
+              Asta Halkjær From and Frederik Krogsdal Jacobsen.
 
+              <i>Journal of Automated Reasoning</i>,
 
-              <i>28th International Conference on Types for Proofs and Programs, TYPES 2022, June 20-23, 2022, Nantes,
-                France</i>,
-              LIPIcs,
-
-              Schloss Dagstuhl - Leibniz-Zentrum für Informatik,
-              <i>Under submission,</i>
-              2022.
+              <i>under submission,</i>
+              2023.
 
 
 
 
               <details>
                 <summary>Abstract.</summary>
-                <p>The analytic technique for proving completeness gives a very operational perspective: build a
-                  countermodel to the unproved formula from a failed proof attempt in your calculus. We have to be
-                  careful, however, that the proof attempt did not fail because our strategy in finding it was flawed.
-                  Overcoming this concern requires designing a prover. In this paper I provide a minimal example of the
-                  analytic technique using a sequent calculus prover for first-order logic. I formalize the soundness
-                  and completeness in Isabelle/HOL using an existing framework and extract executable code to Haskell.
-                  The crucial idea is to move complexity from the prover itself to a stream of instructions that it
-                  follows. I build the stream from a concrete bijection between natural numbers and sequent calculus
-                  rules indexed by the formulas they apply to. The result serves as a minimal example of the analytic
-                  technique, a naive prover for first-order logic, and a case study in formal verification.</p>
+                <p>We describe the design, implementation and verification of an automated theorem prover for
+                  first-order logic with functions. The proof search procedure is based on sequent calculus and we
+                  formally verify its soundness and completeness in Isabelle/HOL using an existing abstract framework
+                  for coinductive proof trees. Our analytic completeness proof covers both open and closed formulas.
+                  Since our deterministic prover considers only the subset of terms relevant to proving a given sequent,
+                  we do so as well when building a countermodel from a failed proof. Finally, we formally connect our
+                  prover with the proof system and semantics of the existing SeCaV system. In particular, the prover can
+                  generate human-readable SeCaV proofs which are also machine-verifiable proof certificates.</p>
               </details>
 
               <details>
                 <summary>BibTeX.</summary>
-                <pre>@inproceedings{From22-TYPES,
-abstract = {The analytic technique for proving completeness gives a very operational perspective: build a countermodel to the unproved formula from a failed proof attempt in your calculus. We have to be careful, however, that the proof attempt did not fail because our strategy in finding it was flawed. Overcoming this concern requires designing a prover. In this paper I provide a minimal example of the analytic technique using a sequent calculus prover for first-order logic. I formalize the soundness and completeness in Isabelle/HOL using an existing framework and extract executable code to Haskell. The crucial idea is to move complexity from the prover itself to a stream of instructions that it follows. I build the stream from a concrete bijection between natural numbers and sequent calculus rules indexed by the formulas they apply to. The result serves as a minimal example of the analytic technique, a naive prover for first-order logic, and a case study in formal verification.},
-author = {Asta Halkj{æ}r From},
-booktitle = {28th International Conference on Types for Proofs and Programs, {TYPES} 2022, June 20-23, 2022, Nantes, France},
+                <pre>@article{FromJ22,
+abstract = {We describe the design, implementation and verification of an automated theorem prover for first-order logic with functions. The proof search procedure is based on sequent calculus and we formally verify its soundness and completeness in Isabelle/HOL using an existing abstract framework for coinductive proof trees. Our analytic completeness proof covers both open and closed formulas. Since our deterministic prover considers only the subset of terms relevant to proving a given sequent, we do so as well when building a countermodel from a failed proof. Finally, we formally connect our prover with the proof system and semantics of the existing SeCaV system. In particular, the prover can generate human-readable SeCaV proofs which are also machine-verifiable proof certificates.},
+author = {Asta Halkj{æ}r From and Frederik Krogsdal Jacobsen},
+journal = {Journal of Automated Reasoning},
 note = {Under submission},
-publisher = {Schloss Dagstuhl - Leibniz-Zentrum f{ü}r Informatik},
-series = {LIPIcs},
-title = {A Naive Prover for First-Order Logic: A Minimal Example of Analytic Completeness},
-year = {2022},
+publisher = {Springer},
+title = {Verifying a Sequent Calculus Prover for First-Order Logic with Functions in {Isabelle/HOL}},
+year = {2023},
 }</pre>
               </details>
             </dd>
@@ -232,7 +225,7 @@ year = {2022},
               <i>Journal of Logic and Computation --- Special Issue from the 27th Workshop on Logic, Language,
                 Information and Computation (WoLLIC 2021)</i>,
 
-              <i>Accepted for publication,</i>
+              <i>accepted for publication,</i>
               2022.
 
 
@@ -274,7 +267,7 @@ year = {2022},
               <i>Journal of Logic and Computation --- Special Issue from the 36th Italian Conference on Computational
                 Logic (CILC 2021)</i>,
 
-              <i>Accepted for publication,</i>
+              <i>accepted for publication,</i>
               2022.
 
 
@@ -335,7 +328,7 @@ abstract = {I formalize a Henkin-style completeness proof for an axiomatic syste
 author = {Asta Halkj{æ}r From},
 booktitle = {Web Summer School in Logic, Language, and Information - {ESSLLI} 2020 Student Session, Brandeis University, USA, July 11-17, 2020, Selected Papers 2019-2020},
 editor = {Alexandra Pavlova and Mina Young Pedersen},
-note = {Accepted for publication},
+note = {accepted for publication},
 publisher = {Springer},
 series = {Lecture Notes in Computer Science},
 title = {Formalizing Henkin-Style Completeness of an Axiomatic System for Propositional Logic},
