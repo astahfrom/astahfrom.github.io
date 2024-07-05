@@ -62,8 +62,18 @@
     <section>
       <h2>About me</h2>
       <p>
-        I am currently employed as a full-stack software developer at Dalux.
+        I am a postdoc at DIKU starting August 2024.
       </p>
+      <p>
+        I worked for a year as a full-stack software developer at Dalux where I:
+      </p>
+      <ul>
+        <li>refined the suite of concurrent, end-to-end Cypress tests,</li>
+        <li>improved the handling and stamping of PDFs,</li>
+        <li>wrote a Roslyn code analyser to detect would-be runtime errors at compile time,</li>
+        <li>worked on integrating full Angular template type checking,</li>
+        <li>and more...</li>
+      </ul>
       <p>
         I was a PhD student at DTU Compute from February 2020 to February 2023 working on <em>Formally Correct
           Deduction
@@ -195,44 +205,6 @@
         <div>
           <dl>
 
-            <dt><b>Verifying a Sequent Calculus Prover for First-Order Logic with Functions in Isabelle/HOL</b></dt>
-            <dd>
-              Asta Halkjær From and Frederik Krogsdal Jacobsen.
-
-              <i>Journal of Automated Reasoning</i>,
-
-              <i>Accepted for publication,</i>
-              2023.
-
-
-
-
-              <details>
-                <summary>Abstract.</summary>
-                <p>We describe the design, implementation and verification of an automated theorem prover for
-                  first-order logic with functions. The proof search procedure is based on sequent calculus and we
-                  formally verify its soundness and completeness in Isabelle/HOL using an existing abstract framework
-                  for coinductive proof trees. Our analytic completeness proof covers both open and closed formulas.
-                  Since our deterministic prover considers only the subset of terms relevant to proving a given sequent,
-                  we do so as well when building a countermodel from a failed proof. Finally, we formally connect our
-                  prover with the proof system and semantics of the existing SeCaV system. In particular, the prover can
-                  generate human-readable SeCaV proofs which are also machine-verifiable proof certificates.</p>
-              </details>
-
-              <details>
-                <summary>BibTeX.</summary>
-                <pre>@article{FromJ22,
-abstract = {We describe the design, implementation and verification of an automated theorem prover for first-order logic with functions. The proof search procedure is based on sequent calculus and we formally verify its soundness and completeness in Isabelle/HOL using an existing abstract framework for coinductive proof trees. Our analytic completeness proof covers both open and closed formulas. Since our deterministic prover considers only the subset of terms relevant to proving a given sequent, we do so as well when building a countermodel from a failed proof. Finally, we formally connect our prover with the proof system and semantics of the existing SeCaV system. In particular, the prover can generate human-readable SeCaV proofs which are also machine-verifiable proof certificates.},
-author = {Asta Halkj{æ}r From and Frederik Krogsdal Jacobsen},
-journal = {Journal of Automated Reasoning},
-note = {Under submission},
-publisher = {Springer},
-title = {Verifying a Sequent Calculus Prover for First-Order Logic with Functions in {Isabelle/HOL}},
-year = {2023},
-}</pre>
-              </details>
-            </dd>
-
             <dt><b>Formalized Soundness and Completeness of Epistemic and Public Announcement Logic</b></dt>
             <dd>
               Asta Halkjær From.
@@ -283,6 +255,48 @@ year = {2022},
         <div>
           <dl>
 
+            <dt><b>Verifying a Sequent Calculus Prover for First-Order Logic with Functions in Isabelle&#x2F;HOL</b>
+            </dt>
+            <dd>
+              Asta Halkjær From and Frederik Krogsdal Jacobsen.
+
+              <i>Journal of Automated Reasoning 68(15)</i>,
+
+
+              2024.
+
+              DOI: <a href="https://doi.org/10.1007/s10817-024-09697-3">10.1007&#x2F;s10817-024-09697-3</a>.
+
+
+              <details>
+                <summary>Abstract.</summary>
+                <p>We describe the design, implementation and verification of an automated theorem prover for
+                  first-order logic with functions. The proof search procedure is based on sequent calculus and we
+                  formally verify its soundness and completeness in Isabelle&#x2F;HOL using an existing abstract
+                  framework for coinductive proof trees. Our analytic completeness proof covers both open and closed
+                  formulas. Since our deterministic prover considers only the subset of terms relevant to proving a
+                  given sequent, we do so as well when building a countermodel from a failed proof. Finally, we formally
+                  connect our prover with the proof system and semantics of the existing SeCaV system. In particular,
+                  the prover can generate human-readable SeCaV proofs which are also machine-verifiable proof
+                  certificates.</p>
+              </details>
+
+              <details>
+                <summary>BibTeX.</summary>
+                <pre>@article{FromJ24,
+abstract = {We describe the design, implementation and verification of an automated theorem prover for first-order logic with functions. The proof search procedure is based on sequent calculus and we formally verify its soundness and completeness in Isabelle&#x2F;HOL using an existing abstract framework for coinductive proof trees. Our analytic completeness proof covers both open and closed formulas. Since our deterministic prover considers only the subset of terms relevant to proving a given sequent, we do so as well when building a countermodel from a failed proof. Finally, we formally connect our prover with the proof system and semantics of the existing SeCaV system. In particular, the prover can generate human-readable SeCaV proofs which are also machine-verifiable proof certificates.},
+author = {Asta Halkj{æ}r From and Frederik Krogsdal Jacobsen},
+doi = {10.1007&#x2F;s10817-024-09697-3},
+journal = {Journal of Automated Reasoning},
+number = {15},
+publisher = {Springer},
+title = {Verifying a Sequent Calculus Prover for First-Order Logic with Functions in {Isabelle&#x2F;HOL}},
+volume = {68},
+year = {2024},
+}</pre>
+              </details>
+            </dd>
+
             <dt><b>A Naive Prover for First-Order Logic: A Minimal Example of Analytic Completeness</b></dt>
             <dd>
               Asta Halkjær From and Jørgen Villadsen.
@@ -296,16 +310,29 @@ year = {2022},
 
               2023.
 
-              DOI: <a href="https://doi.org/10.1007/978-3-031-43513-3_25">10.1007/978-3-031-43513-3_25</a>.
+              DOI: <a href="https://doi.org/10.1007/978-3-031-43513-3_25">10.1007&#x2F;978-3-031-43513-3_25</a>.
 
 
+              <details>
+                <summary>Abstract.</summary>
+                <p>The analytic technique for proving completeness gives a very operational perspective: build a
+                  countermodel to the unproved formula from a failed proof attempt in your calculus. We have to be
+                  careful, however, that the proof attempt did not fail because our strategy in finding it was flawed.
+                  Overcoming this concern requires designing a prover. We design and formalize in Isabelle&#x2F;HOL a
+                  sequent calculus prover for first-order logic with functions. We formalize soundness and completeness
+                  theorems using an existing framework and extract executable code to Haskell. The crucial idea is to
+                  move complexity from the prover itself to a stream of instructions that it follows. The result serves
+                  as a minimal example of the analytic technique, a naive prover for first-order logic, and a case study
+                  in formal verification.</p>
+              </details>
 
               <details>
                 <summary>BibTeX.</summary>
                 <pre>@inproceedings{FromV23,
+abstract = {The analytic technique for proving completeness gives a very operational perspective: build a countermodel to the unproved formula from a failed proof attempt in your calculus. We have to be careful, however, that the proof attempt did not fail because our strategy in finding it was flawed. Overcoming this concern requires designing a prover. We design and formalize in Isabelle&#x2F;HOL a sequent calculus prover for first-order logic with functions. We formalize soundness and completeness theorems using an existing framework and extract executable code to Haskell. The crucial idea is to move complexity from the prover itself to a stream of instructions that it follows. The result serves as a minimal example of the analytic technique, a naive prover for first-order logic, and a case study in formal verification.},
 author = {Asta Halkj{æ}r From and J{ø}rgen Villadsen},
 booktitle = {Automated Reasoning with Analytic Tableaux and Related Methods - 32nd International Conference, {TABLEAUX} 2023, Prague, Czech Republic, September 18-21, 2023, Proceedings},
-doi = {10.1007/978-3-031-43513-3_25},
+doi = {10.1007&#x2F;978-3-031-43513-3_25},
 editor = {Revantha Ramanayake and Josef Urban},
 pages = {468--480},
 publisher = {Springer},
@@ -317,7 +344,7 @@ year = {2023},
               </details>
             </dd>
 
-            <dt><b>A sequent calculus for first-order logic formalized in Isabelle/HOL</b></dt>
+            <dt><b>A sequent calculus for first-order logic formalized in Isabelle&#x2F;HOL</b></dt>
             <dd>
               Asta Halkjær From, Anders Schlichtkrull and Jørgen Villadsen.
 
@@ -326,19 +353,30 @@ year = {2023},
 
               2023.
 
-              DOI: <a href="https://doi.org/10.1093/logcom/exad013">10.1093/logcom/exad013</a>.
+              DOI: <a href="https://doi.org/10.1093/logcom/exad013">10.1093&#x2F;logcom&#x2F;exad013</a>.
 
 
+              <details>
+                <summary>Abstract.</summary>
+                <p>We formalize in Isabelle&#x2F;HOL soundness and completeness of a one-sided sequent calculus for
+                  first-order logic. The completeness is shown via a translation from a semantic tableau calculus, whose
+                  completeness proof we base on the theory entry ‘First-Order Logic According to Fitting’ by Berghofer
+                  in the Archive of Formal Proofs. The calculi and proof techniques are taken from Ben-Ari’s textbook
+                  Mathematical Logic for Computer Science (Springer, 2012). We thereby demonstrate that Berghofer’s
+                  approach works not only for natural deduction but also constitutes a framework for mechanically
+                  checked completeness proofs for a range of proof systems.</p>
+              </details>
 
               <details>
                 <summary>BibTeX.</summary>
                 <pre>@article{FromSV23,
+abstract = {We formalize in Isabelle&#x2F;HOL soundness and completeness of a one-sided sequent calculus for first-order logic. The completeness is shown via a translation from a semantic tableau calculus, whose completeness proof we base on the theory entry ‘First-Order Logic According to Fitting’ by Berghofer in the Archive of Formal Proofs. The calculi and proof techniques are taken from Ben-Ari’s textbook Mathematical Logic for Computer Science (Springer, 2012). We thereby demonstrate that Berghofer’s approach works not only for natural deduction but also constitutes a framework for mechanically checked completeness proofs for a range of proof systems.},
 author = {Asta Halkj{æ}r From and Anders Schlichtkrull and J{ø}rgen Villadsen},
-doi = {10.1093/logcom/exad013},
+doi = {10.1093&#x2F;logcom&#x2F;exad013},
 journal = {Journal of Logic and Computation},
 number = {4},
 pages = {818--836},
-title = {A sequent calculus for first-order logic formalized in {Isabelle/HOL}},
+title = {A sequent calculus for first-order logic formalized in {Isabelle&#x2F;HOL}},
 volume = {33},
 year = {2023},
 }</pre>
