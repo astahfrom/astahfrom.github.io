@@ -1,11 +1,10 @@
 {
   "name": "cartouches",
-  "type": "module",
   "collaborators": [
     "Asta Halkjær From <andro.from@gmail.com>"
   ],
   "description": "Parses Isabelle LaTeX output into manageable snippets.\n",
-  "version": "0.2.0",
+  "version": "0.1.0",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -16,9 +15,7 @@
     "cartouches.js",
     "cartouches.d.ts"
   ],
-  "main": "cartouches.js",
+  "module": "cartouches.js",
   "types": "cartouches.d.ts",
-  "sideEffects": [
-    "./snippets/*"
-  ]
+  "sideEffects": false
 }
