@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/default.xsl"?>
+<fr:tree xmlns:fr="http://www.forester-notes.org" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:xml="http://www.w3.org/XML/1998/namespace" root="false" base-url="/">
+  <fr:frontmatter>
+    <fr:authors>
+      <fr:author>
+        <fr:link href="/jvilladsen/" title="Jørgen Villadsen" uri="http://localhost/jvilladsen/" display-uri="jvilladsen" type="local">Jørgen Villadsen</fr:link>
+      </fr:author>
+      <fr:author>
+        <fr:link href="/ahfrom/" title="Asta Halkjær From" uri="http://localhost/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+      </fr:author>
+      <fr:author>
+        <fr:link href="/aschlichtkrull/" title="Anders Schlichtkrull" uri="http://localhost/aschlichtkrull/" display-uri="aschlichtkrull" type="local">Anders Schlichtkrull</fr:link>
+      </fr:author>
+    </fr:authors>
+    <fr:date>
+      <fr:year>2018</fr:year>
+    </fr:date>
+    <fr:uri>http://localhost/jvilladsen-ahfrom-aschlichtkrull-2018-thedu/</fr:uri>
+    <fr:display-uri>jvilladsen-ahfrom-aschlichtkrull-2018-thedu</fr:display-uri>
+    <fr:route>/jvilladsen-ahfrom-aschlichtkrull-2018-thedu/</fr:route>
+    <fr:title text="Natural Deduction Assistant (NaDeA)">Natural Deduction Assistant (NaDeA)</fr:title>
+    <fr:taxon>Reference</fr:taxon>
+    <fr:meta name="doi">10.4204/EPTCS.290.2</fr:meta>
+    <fr:meta name="venue">In P. Quaresma and W. Neuper (ed.) Proceedings 7th International Workshop on Theorem proving components for Educational software (ThEdu@FLoC 2018)</fr:meta>
+    <fr:meta name="bibtex"><![CDATA[@inproceedings{VilladsenFS18,
+abstract = {We present the Natural Deduction Assistant (NaDeA) and discuss its advantages and disadvantages as a tool for teaching logic. NaDeA is available online and is based on a formalization of natural deduction in the Isabelle proof assistant. We first provide concise formulations of the main formalization results. We then elaborate on the prerequisites for NaDeA, in particular we describe a formalization in Isabelle of "Hilbert's Axioms" that we use as a starting point in our bachelor course on mathematical logic. We discuss a recent evaluation of NaDeA and also give an overview of the exercises in NaDeA.},
+author = {J{ø}rgen Villadsen and Asta Halkj{æ}r From and Anders Schlichtkrull},
+booktitle = {Proceedings 7th International Workshop on Theorem proving components for Educational software, ThEdu@FLoC 2018, Oxford, United Kingdom, 18 july 2018},
+doi = {10.4204/EPTCS.290.2},
+editor = {Pedro Quaresma and Walther Neuper},
+pages = {14--29},
+publisher = {Open Publishing Association},
+series = {{EPTCS}},
+title = {{Natural Deduction Assistant (NaDeA)}},
+volume = {290},
+year = {2018},
+}]]></fr:meta>
+  </fr:frontmatter>
+  <fr:mainmatter>
+    <html:p>We present the Natural Deduction Assistant (NaDeA) and discuss its advantages and disadvantages as a tool for teaching logic. NaDeA is available online and is based on a formalization of natural deduction in the Isabelle proof assistant. We first provide concise formulations of the main formalization results. We then elaborate on the prerequisites for NaDeA, in particular we describe a formalization in Isabelle of "Hilbert's Axioms" that we use as a starting point in our bachelor course on mathematical logic. We discuss a recent evaluation of NaDeA and also give an overview of the exercises in NaDeA.</html:p>
+  </fr:mainmatter>
+  <fr:backmatter>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="References">References</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Context">Context</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Backlinks">Backlinks</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Related">Related</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Contributions">Contributions</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+  </fr:backmatter>
+</fr:tree>

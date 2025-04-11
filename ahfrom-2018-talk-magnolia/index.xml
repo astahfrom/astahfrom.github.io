@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/default.xsl"?>
+<fr:tree xmlns:fr="http://www.forester-notes.org" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:xml="http://www.w3.org/XML/1998/namespace" root="false" base-url="/">
+  <fr:frontmatter>
+    <fr:authors>
+      <fr:author>
+        <fr:link href="/ahfrom/" title="Asta Halkjær From" uri="http://localhost/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+      </fr:author>
+    </fr:authors>
+    <fr:date>
+      <fr:year>2018</fr:year>
+      <fr:month>3</fr:month>
+      <fr:day>15</fr:day>
+    </fr:date>
+    <fr:uri>http://localhost/ahfrom-2018-talk-magnolia/</fr:uri>
+    <fr:display-uri>ahfrom-2018-talk-magnolia</fr:display-uri>
+    <fr:route>/ahfrom-2018-talk-magnolia/</fr:route>
+    <fr:title text="Magnolia: Implementing System F with Anonymous Sums and Products">Magnolia: Implementing System F with Anonymous Sums and Products</fr:title>
+    <fr:taxon>Reference</fr:taxon>
+    <fr:meta name="venue">Workshop on Programs &amp; Proofs, DTU Compute</fr:meta>
+    <fr:meta name="slides">/bafkrmicrj3hz2lqxewdjt2gkjkszssqessmbd4q5hwslrr7mpt53f5ygdu.pdf</fr:meta>
+  </fr:frontmatter>
+  <fr:mainmatter>
+    <html:p>I present my OCaml implementation of the Complete and Easy Bidirectional Type Checking for Higher-Rank Polymorphism paper using Harper's abstract binding trees and with data types from PFPL.</html:p>
+  </fr:mainmatter>
+  <fr:backmatter>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="References">References</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Context">Context</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Backlinks">Backlinks</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Related">Related</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Contributions">Contributions</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+  </fr:backmatter>
+</fr:tree>

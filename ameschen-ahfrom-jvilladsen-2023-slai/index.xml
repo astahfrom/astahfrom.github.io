@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/default.xsl"?>
+<fr:tree xmlns:fr="http://www.forester-notes.org" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:xml="http://www.w3.org/XML/1998/namespace" root="false" base-url="/">
+  <fr:frontmatter>
+    <fr:authors>
+      <fr:author>
+        <fr:link href="/ameschen/" title="Agnes Moesgård Eschen" uri="http://localhost/ameschen/" display-uri="ameschen" type="local">Agnes Moesgård Eschen</fr:link>
+      </fr:author>
+      <fr:author>
+        <fr:link href="/ahfrom/" title="Asta Halkjær From" uri="http://localhost/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+      </fr:author>
+      <fr:author>
+        <fr:link href="/jvilladsen/" title="Jørgen Villadsen" uri="http://localhost/jvilladsen/" display-uri="jvilladsen" type="local">Jørgen Villadsen</fr:link>
+      </fr:author>
+    </fr:authors>
+    <fr:date>
+      <fr:year>2023</fr:year>
+    </fr:date>
+    <fr:uri>http://localhost/ameschen-ahfrom-jvilladsen-2023-slai/</fr:uri>
+    <fr:display-uri>ameschen-ahfrom-jvilladsen-2023-slai</fr:display-uri>
+    <fr:route>/ameschen-ahfrom-jvilladsen-2023-slai/</fr:route>
+    <fr:title text="More Formalized Axiomatic Systems for Propositional Logic in Isabelle/HOL">More Formalized Axiomatic Systems for Propositional Logic in Isabelle/HOL</fr:title>
+    <fr:taxon>Reference</fr:taxon>
+    <fr:meta name="external">https://slai2022.islai.org/proceedings/</fr:meta>
+    <fr:meta name="venue">In S. Cojocaru et al (ed.) Logic and Artificial Intelligence</fr:meta>
+    <fr:meta name="bibtex"><![CDATA[@inbook{EschenFV23,
+abstract = {We consider a plethora of well-known axiomatic systems, and some less well-known variants, for classical propositional logic all with soundness and completeness theorems formalized in the proof assistant Isabelle/HOL. We have previously only formalized systems based on either implication and falsity or on disjunction and negation. We have now formalized 12 additional systems based on implication and negation. Each of them has three or more axioms. We have also formalized single-axiom systems, by Lukasiewicz and Tarski as well as by Meredith, and we describe the formalization of the former in detail. A few systems with two axioms are described too.},
+address = {Chisinau},
+author = {Agnes Moesg{å}rd Eschen and Asta Halkj{æ}r From and J{ø}rgen Villadsen},
+booktitle = {Logic and Artificial Intelligence},
+editor = {Svetlana Cojocaru and Ioachim Drugus and Mykola Nikitchenco and Alexei Muravitsky},
+isbn = {978-9975-68-484-2},
+pages = {7--22},
+publisher = {Vladimir Andrunachievici Institute of Mathematics and Computer Science},
+title = {More Formalized Axiomatic Systems for Propositional Logic in {Isabelle/HOL}},
+url = {https://slai2022.islai.org/proceedings/},
+year = {2023},
+}]]></fr:meta>
+  </fr:frontmatter>
+  <fr:mainmatter>
+    <html:p>We consider a plethora of well-known axiomatic systems, and some less well-known variants, for classical propositional logic all with soundness and completeness theorems formalized in the proof assistant Isabelle/HOL. We have previously only formalized systems based on either implication and falsity or on disjunction and negation. We have now formalized 12 additional systems based on implication and negation. Each of them has three or more axioms. We have also formalized single-axiom systems, by Lukasiewicz and Tarski as well as by Meredith, and we describe the formalization of the former in detail. A few systems with two axioms are described too.</html:p>
+  </fr:mainmatter>
+  <fr:backmatter>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="References">References</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Context">Context</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Backlinks">Backlinks</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Related">Related</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Contributions">Contributions</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+  </fr:backmatter>
+</fr:tree>

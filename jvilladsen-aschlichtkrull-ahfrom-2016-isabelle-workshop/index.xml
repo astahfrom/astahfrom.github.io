@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/default.xsl"?>
+<fr:tree xmlns:fr="http://www.forester-notes.org" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:xml="http://www.w3.org/XML/1998/namespace" root="false" base-url="/">
+  <fr:frontmatter>
+    <fr:authors>
+      <fr:author>
+        <fr:link href="/jvilladsen/" title="Jørgen Villadsen" uri="http://localhost/jvilladsen/" display-uri="jvilladsen" type="local">Jørgen Villadsen</fr:link>
+      </fr:author>
+      <fr:author>
+        <fr:link href="/aschlichtkrull/" title="Anders Schlichtkrull" uri="http://localhost/aschlichtkrull/" display-uri="aschlichtkrull" type="local">Anders Schlichtkrull</fr:link>
+      </fr:author>
+      <fr:author>
+        <fr:link href="/ahfrom/" title="Asta Halkjær From" uri="http://localhost/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+      </fr:author>
+    </fr:authors>
+    <fr:date>
+      <fr:year>2016</fr:year>
+    </fr:date>
+    <fr:uri>http://localhost/jvilladsen-aschlichtkrull-ahfrom-2016-isabelle-workshop/</fr:uri>
+    <fr:display-uri>jvilladsen-aschlichtkrull-ahfrom-2016-isabelle-workshop</fr:display-uri>
+    <fr:route>/jvilladsen-aschlichtkrull-ahfrom-2016-isabelle-workshop/</fr:route>
+    <fr:title text="Code Generation for a Simple First-Order Prover">Code Generation for a Simple First-Order Prover</fr:title>
+    <fr:taxon>Reference</fr:taxon>
+    <fr:meta name="external">https://web.archive.org/web/20220121022845/https://www21.in.tum.de/~nipkow/Isabelle2016/Isabelle2016_12.pdf</fr:meta>
+    <fr:meta name="venue">Isabelle Workshop 2016</fr:meta>
+    <fr:meta name="bibtex"><![CDATA[@unpublished{VilladsenSF16,
+abstract = {We present Standard ML code generation in Isabelle/HOL of a sound and complete prover for first-order logic, taking formalizations by Tom Ridge and others as the starting point. We also define a set of so-called unfolding rules and show how to use these as a simple prover, with the aim of using the approach for teaching logic and verification to computer science students at the bachelor level.},
+author = {Jørgen Villadsen and Anders Schlichtkrull and Asta Halkjær From},
+note = {Isabelle Workshop 2016},
+title = {Code Generation for a Simple First-Order Prover},
+url = {https://web.archive.org/web/20220121022845/https://www21.in.tum.de/~nipkow/Isabelle2016/Isabelle2016_12.pdf},
+year = {2016},
+}]]></fr:meta>
+  </fr:frontmatter>
+  <fr:mainmatter>
+    <html:p>We present Standard ML code generation in Isabelle/HOL of a sound and complete prover for first-order logic, taking formalizations by Tom Ridge and others as the starting point. We also define a set of so-called unfolding rules and show how to use these as a simple prover, with the aim of using the approach for teaching logic and verification to computer science students at the bachelor level.</html:p>
+  </fr:mainmatter>
+  <fr:backmatter>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="References">References</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Context">Context</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Backlinks">Backlinks</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Related">Related</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Contributions">Contributions</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+  </fr:backmatter>
+</fr:tree>

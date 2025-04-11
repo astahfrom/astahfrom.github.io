@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/default.xsl"?>
+<fr:tree xmlns:fr="http://www.forester-notes.org" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:xml="http://www.w3.org/XML/1998/namespace" root="false" base-url="/">
+  <fr:frontmatter>
+    <fr:authors />
+    <fr:uri>http://localhost/abjensen/</fr:uri>
+    <fr:display-uri>abjensen</fr:display-uri>
+    <fr:route>/abjensen/</fr:route>
+    <fr:title text="Alexander Birch Jensen">Alexander Birch Jensen</fr:title>
+    <fr:taxon>Person</fr:taxon>
+    <fr:meta name="orcid">0000-0002-7298-2133</fr:meta>
+  </fr:frontmatter>
+  <fr:mainmatter />
+  <fr:backmatter>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="References">References</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Context">Context</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Backlinks">Backlinks</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/ahfrom/" title="Asta Halkjær From" uri="http://localhost/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2020</fr:year>
+              <fr:month>2</fr:month>
+              <fr:day>5</fr:day>
+            </fr:date>
+            <fr:uri>http://localhost/ahfrom-2020-msc-thesis/</fr:uri>
+            <fr:display-uri>ahfrom-2020-msc-thesis</fr:display-uri>
+            <fr:route>/ahfrom-2020-msc-thesis/</fr:route>
+            <fr:title text="Hybrid Logic">Hybrid Logic</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+            <fr:meta name="venue">MSc thesis, Technical University of Denmark</fr:meta>
+            <fr:meta name="slides">/bafkrmif2f42yxasrnngbmbxcgqfrc2x54v224pncgi363c4gdamulg6vpa.pdf</fr:meta>
+            <fr:meta name="external">/bafkrmibgefm3nzpxevhkgcdeyjvm4bieoayke44eshkhujkcz3d4vftdya.pdf</fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Advisors: <fr:link href="/jvilladsen/" title="Jørgen Villadsen" uri="http://localhost/jvilladsen/" display-uri="jvilladsen" type="local">Jørgen Villadsen</fr:link>, <fr:link href="/abjensen/" title="Alexander Birch Jensen" uri="http://localhost/abjensen/" display-uri="abjensen" type="local">Alexander Birch Jensen</fr:link>, and <fr:link href="/pblackburn/" title="Patrick Blackburn" uri="http://localhost/pblackburn/" display-uri="pblackburn" type="local">Patrick Blackburn</fr:link>.</html:p>
+            <html:p>I formalize a Seligman-style tableau system for basic hybrid logic in the proof assistant Isabelle/HOL. Unlike the original system, I name every block on the tableau to avoid the risk of needing to backtrack when constructing a tableau. The tableau rules are restricted to only allow extensions of the tableau that include a new formula and I show via a strengthening lemma that this restriction preserves completeness. Showing strengthening under this restriction requires relaxing the Nom rule to allow the shared nominal to occur on any block, not just the current one as originally done. The <fr:tex display="inline"><![CDATA[(\diamond )]]></fr:tex> rule is restricted to only apply to unwitnessed <fr:tex display="inline"><![CDATA[\diamond ]]></fr:tex>-formulas and this restriction is lifted by proving a substitution lemma for the calculus. General versions of the @-rules are derived from their restricted counterparts using a structural lemma that allows weakening, factoring and reordering at the level of blocks and a similar lemma that works inside the current block. These lemmas show that forward referencing in the tableau is admissible as long as it is acyclic. The GoTo rule is restricted using a notion of coins where each application of GoTo requires spending a coin and coins are earned through applications of the remaining rules. If a branch can be closed then it can be closed starting from a single coin. This restriction of GoTo works better with rule induction than the simpler scheme of disallowing two applications in a row. I show that the Bridge rule is admissible using a set of indices into the branch that satisfies a particular descendant relation. This set effectively guides what formula occurrences should be modified when one accessibility formula is replaced by another. Next, I apply an existing synthetic completeness proof based on maximally consistent sets of blocks to show that the negation of any valid formula has a closing tableau. Using this approach for the restricted system is novel. Finally, in pursuit of a terminating system, I suggest a restriction of the Nom rule based on tags that directly encodes the notion of copying in the right direction and sketch a strategy for lifting this restriction.</html:p>
+            <html:p>
+              <fr:link href="/ahfrom-2019-afp-hybrid/" title="Formalizing a Seligman-Style Tableau System for Hybrid Logic" uri="http://localhost/ahfrom-2019-afp-hybrid/" display-uri="ahfrom-2019-afp-hybrid" type="local" />
+            </html:p>
+          </fr:mainmatter>
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Related">Related</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Contributions">Contributions</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/jvilladsen/" title="Jørgen Villadsen" uri="http://localhost/jvilladsen/" display-uri="jvilladsen" type="local">Jørgen Villadsen</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="/ahfrom/" title="Asta Halkjær From" uri="http://localhost/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="/abjensen/" title="Alexander Birch Jensen" uri="http://localhost/abjensen/" display-uri="abjensen" type="local">Alexander Birch Jensen</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="/aschlichtkrull/" title="Anders Schlichtkrull" uri="http://localhost/aschlichtkrull/" display-uri="aschlichtkrull" type="local">Anders Schlichtkrull</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2022</fr:year>
+            </fr:date>
+            <fr:uri>http://localhost/jvilladsen-ahfrom-abjensen-aschlichtkrull-2022-nplinai/</fr:uri>
+            <fr:display-uri>jvilladsen-ahfrom-abjensen-aschlichtkrull-2022-nplinai</fr:display-uri>
+            <fr:route>/jvilladsen-ahfrom-abjensen-aschlichtkrull-2022-nplinai/</fr:route>
+            <fr:title text="Interactive Theorem Proving for Logic and Information">Interactive Theorem Proving for Logic and Information</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+            <fr:meta name="doi">10.1007/978-3-030-90138-7_2</fr:meta>
+            <fr:meta name="venue">In R. Loukanova (ed.) Natural Language Processing in Artificial Intelligence (NLPinAI 2021)</fr:meta>
+            <fr:meta name="bibtex"><![CDATA[@inbook{VilladsenFJS22,
+abstract = {Automated reasoning is the study of computer programs that can build proofs of theorems in a logic. Such programs can be either automatic theorem provers or interactive theorem provers. The latter are also called proof assistants because the user constructs the proofs with the help of the system. We focus on the Isabelle proof assistant. The system ensures that the proofs are correct, in contrast to pen-and-paper proofs which must be checked manually. We present applications to logical systems and models of information, in particular selected modal logics extending classical propositional logic. Epistemic logic allows intelligent systems to reason about the knowledge of agents. Public announcements can change the knowledge of the system and its agents. In order to account for this, epistemic logic can be extended to public announcement logic. An axiomatic system consists of axioms and rules of inference for deriving statements in a logic. Sound systems can only derive valid statements and complete systems can derive all valid statements. We describe formalizations of sound and complete axiomatic systems for epistemic logic and public announcement logic, thereby strengthening the foundations of automated reasoning for logic and information.},
+address = {Cham},
+author = {Villadsen, J{ø}rgen and From, Asta Halkj{æ}r and Jensen, Alexander Birch and Schlichtkrull, Anders},
+booktitle = {Natural Language Processing in Artificial Intelligence --- NLPinAI 2021},
+doi = {10.1007/978-3-030-90138-7_2},
+editor = {Loukanova, Roussanka},
+isbn = {978-3-030-90138-7},
+pages = {25--48},
+publisher = {Springer International Publishing},
+series = {Studies in Computational Intelligence},
+title = {Interactive Theorem Proving for Logic and Information},
+volume = {999},
+year = {2022},
+}]]></fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Automated reasoning is the study of computer programs that can build proofs of theorems in a logic. Such programs can be either automatic theorem provers or interactive theorem provers. The latter are also called proof assistants because the user constructs the proofs with the help of the system. We focus on the Isabelle proof assistant. The system ensures that the proofs are correct, in contrast to pen-and-paper proofs which must be checked manually. We present applications to logical systems and models of information, in particular selected modal logics extending classical propositional logic. Epistemic logic allows intelligent systems to reason about the knowledge of agents. Public announcements can change the knowledge of the system and its agents. In order to account for this, epistemic logic can be extended to public announcement logic. An axiomatic system consists of axioms and rules of inference for deriving statements in a logic. Sound systems can only derive valid statements and complete systems can derive all valid statements. We describe formalizations of sound and complete axiomatic systems for epistemic logic and public announcement logic, thereby strengthening the foundations of automated reasoning for logic and information.</html:p>
+            <html:p>
+              <fr:link href="/ahfrom-2021-afp-pal/" title="Public Announcement Logic" uri="http://localhost/ahfrom-2021-afp-pal/" display-uri="ahfrom-2021-afp-pal" type="local" />
+            </html:p>
+            <html:p>
+              <fr:link href="/ahfrom-2018-afp-epistemic/" title="Epistemic Logic: Completeness of Modal Logics" uri="http://localhost/ahfrom-2018-afp-epistemic/" display-uri="ahfrom-2018-afp-epistemic" type="local" />
+            </html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/ahfrom/" title="Asta Halkjær From" uri="http://localhost/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="/abjensen/" title="Alexander Birch Jensen" uri="http://localhost/abjensen/" display-uri="abjensen" type="local">Alexander Birch Jensen</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="/jvilladsen/" title="Jørgen Villadsen" uri="http://localhost/jvilladsen/" display-uri="jvilladsen" type="local">Jørgen Villadsen</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2021</fr:year>
+            </fr:date>
+            <fr:uri>http://localhost/ahfrom-abjensen-jvilladsen-2021-lamassr/</fr:uri>
+            <fr:display-uri>ahfrom-abjensen-jvilladsen-2021-lamassr</fr:display-uri>
+            <fr:route>/ahfrom-abjensen-jvilladsen-2021-lamassr/</fr:route>
+            <fr:title text="Formalized Soundness and Completeness of Epistemic Logic">Formalized Soundness and Completeness of Epistemic Logic</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+            <fr:meta name="external">https://lamassr.github.io/editions/2021/papers/Formalized-Soundness.pdf</fr:meta>
+            <fr:meta name="venue">International Workshop on Logical Aspects in Multi-Agent Systems and Strategic Reasoning (LAMAS &amp; SR 2021)</fr:meta>
+            <fr:meta name="slides">/bafkrmifz4s3xphlgzo6ud5jyc7exmdeoqwmbtwuya2htzmo74l635mhghu.pdf</fr:meta>
+            <fr:meta name="bibtex"><![CDATA[@unpublished{FromJV21a,
+abstract = {Epistemic logic allows reasoning about the knowledge of agents, and deductive proof systems enable this reasoning with a few axioms and inference rules. We strengthen the logical foundations of such a system by formalizing it in the proof assistant Isabelle/HOL. Our definitions are given in the precise language of higher-order logic and every step of our soundness and completeness proofs is mechanically checked.},
+author = {Asta Halkjær From and Alexander Birch Jensen and Jørgen Villadsen},
+note = {International Workshop on Logical Aspects in Multi-Agent Systems and Strategic Reasoning (LAMAS & SR 2021), accepted abstract},
+title = {Formalized Soundness and Completeness of Epistemic Logic},
+url = {https://lamassr.github.io/editions/2021/papers/Formalized-Soundness.pdf},
+year = {2021},
+}]]></fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Epistemic logic allows reasoning about the knowledge of agents, and deductive proof systems enable this reasoning with a few axioms and inference rules. We strengthen the logical foundations of such a system by formalizing it in the proof assistant Isabelle/HOL. Our definitions are given in the precise language of higher-order logic and every step of our soundness and completeness proofs is mechanically checked.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/ahfrom/" title="Asta Halkjær From" uri="http://localhost/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="/abjensen/" title="Alexander Birch Jensen" uri="http://localhost/abjensen/" display-uri="abjensen" type="local">Alexander Birch Jensen</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="/aschlichtkrull/" title="Anders Schlichtkrull" uri="http://localhost/aschlichtkrull/" display-uri="aschlichtkrull" type="local">Anders Schlichtkrull</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="/jvilladsen/" title="Jørgen Villadsen" uri="http://localhost/jvilladsen/" display-uri="jvilladsen" type="local">Jørgen Villadsen</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2019</fr:year>
+            </fr:date>
+            <fr:uri>http://localhost/ahfrom-abjensen-aschlichtkrull-jvilladsen-2019-thedu/</fr:uri>
+            <fr:display-uri>ahfrom-abjensen-aschlichtkrull-jvilladsen-2019-thedu</fr:display-uri>
+            <fr:route>/ahfrom-abjensen-aschlichtkrull-jvilladsen-2019-thedu/</fr:route>
+            <fr:title text="Teaching a Formalized Logical Calculus">Teaching a Formalized Logical Calculus</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+            <fr:meta name="doi">10.4204/EPTCS.313.5</fr:meta>
+            <fr:meta name="venue">In P. Quaresma, W. Neuper and J. Marcos (ed.) Proceedings 8th International Workshop on Theorem Proving Components for Educational Software (ThEdu@CADE 2019)</fr:meta>
+            <fr:meta name="bibtex"><![CDATA[@inproceedings{FromJSV19,
+abstract = {Classical first-order logic is in many ways central to work in mathematics, linguistics, computer science and artificial intelligence, so it is worthwhile to define it in full detail. We present soundness and completeness proofs of a sequent calculus for first-order logic, formalized in the interactive proof assistant Isabelle/HOL. Our formalization is based on work by Stefan Berghofer, which we have since updated to use Isabelle's declarative proof style Isar (Archive of Formal Proofs, Entry FOL-Fitting, August 2007 / July 2018). We represent variables with de Bruijn indices; this makes substitution under quantifiers less intuitive for a human reader. However, the nature of natural numbers yields an elegant solution when compared to implementations of substitution using variables represented by strings. The sequent calculus considered has the special property of an always empty antecedent and a list of formulas in the succedent. We obtain the proofs of soundness and completeness for the sequent calculus as a derived result of the inverse duality of its tableau counterpart. We strive to not only present the results of the proofs of soundness and completeness, but also to provide a deep dive into a programming-like approach to the formalization of first-order logic syntax, semantics and the sequent calculus. We use the formalization in a bachelor course on logic for computer science and discuss our experiences.},
+author = {Asta Halkj{æ}r From and Alexander Birch Jensen and Anders Schlichtkrull and J{ø}rgen Villadsen},
+booktitle = {Proceedings 8th International Workshop on Theorem Proving Components for Educational Software, ThEdu@CADE 2019, Natal, Brazil, 25th August 2019},
+doi = {10.4204/EPTCS.313.5},
+editor = {Pedro Quaresma and Walther Neuper and Jo{ã}o Marcos},
+pages = {73--92},
+publisher = {Open Publishing Association},
+series = {{EPTCS}},
+title = {Teaching a Formalized Logical Calculus},
+volume = {313},
+year = {2019},
+}]]></fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Classical first-order logic is in many ways central to work in mathematics, linguistics, computer science and artificial intelligence, so it is worthwhile to define it in full detail. We present soundness and completeness proofs of a sequent calculus for first-order logic, formalized in the interactive proof assistant Isabelle/HOL. Our formalization is based on work by Stefan Berghofer, which we have since updated to use Isabelle's declarative proof style Isar (Archive of Formal Proofs, Entry FOL-Fitting, August 2007 / July 2018). We represent variables with de Bruijn indices; this makes substitution under quantifiers less intuitive for a human reader. However, the nature of natural numbers yields an elegant solution when compared to implementations of substitution using variables represented by strings. The sequent calculus considered has the special property of an always empty antecedent and a list of formulas in the succedent. We obtain the proofs of soundness and completeness for the sequent calculus as a derived result of the inverse duality of its tableau counterpart. We strive to not only present the results of the proofs of soundness and completeness, but also to provide a deep dive into a programming-like approach to the formalization of first-order logic syntax, semantics and the sequent calculus. We use the formalization in a bachelor course on logic for computer science and discuss our experiences.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+  </fr:backmatter>
+</fr:tree>

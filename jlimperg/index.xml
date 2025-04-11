@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/default.xsl"?>
+<fr:tree xmlns:fr="http://www.forester-notes.org" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:xml="http://www.w3.org/XML/1998/namespace" root="false" base-url="/">
+  <fr:frontmatter>
+    <fr:authors />
+    <fr:uri>http://localhost/jlimperg/</fr:uri>
+    <fr:display-uri>jlimperg</fr:display-uri>
+    <fr:route>/jlimperg/</fr:route>
+    <fr:title text="Jannis Limperg">Jannis Limperg</fr:title>
+    <fr:taxon>Person</fr:taxon>
+    <fr:meta name="external">https://limperg.de/</fr:meta>
+    <fr:meta name="institution">LMU München</fr:meta>
+    <fr:meta name="orcid">0000-0002-8861-5231</fr:meta>
+    <fr:meta name="position">PhD student</fr:meta>
+  </fr:frontmatter>
+  <fr:mainmatter />
+  <fr:backmatter>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="References">References</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Context">Context</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Backlinks">Backlinks</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Related">Related</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Contributions">Contributions</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/jlimperg/" title="Jannis Limperg" uri="http://localhost/jlimperg/" display-uri="jlimperg" type="local">Jannis Limperg</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="/ahfrom/" title="Asta Halkjær From" uri="http://localhost/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2023</fr:year>
+            </fr:date>
+            <fr:uri>http://localhost/jlimperg-ahfrom-2023-cpp/</fr:uri>
+            <fr:display-uri>jlimperg-ahfrom-2023-cpp</fr:display-uri>
+            <fr:route>/jlimperg-ahfrom-2023-cpp/</fr:route>
+            <fr:title text="Aesop: White-Box Best-First Proof Search for Lean">Aesop: White-Box Best-First Proof Search for Lean</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+            <fr:meta name="doi">10.1145/3573105.3575671</fr:meta>
+            <fr:meta name="venue">In R. Krebbers et al (ed.) Proceedings of the 12th ACM SIGPLAN International Conference on Certified Programs and Proofs (CPP 2023)</fr:meta>
+            <fr:meta name="bibtex"><![CDATA[@inproceedings{LimpergF23,
+abstract = {We present Aesop, a proof search tactic for the Lean 4 interactive theorem prover. Aesop performs a tree-based search over a user-specified set of proof rules. It supports safe and unsafe rules and uses a best-first search strategy with customisable prioritisation. Aesop also allows users to register custom normalisation rules and integrates Lean's simplifier to support equational reasoning. Many details of Aesop's search procedure are designed to make it a white-box proof automation tactic, meaning that users should be able to easily predict how their rules will be applied, and thus how powerful and fast their Aesop invocations will be. Since we use a best-first search strategy, it is not obvious how to handle metavariables which appear in multiple goals. The most common strategy for dealing with metavariables relies on backtracking and is therefore not suitable for best-first search. We give an algorithm which addresses this issue. The algorithm works with any search strategy, is independent of the underlying logic and makes few assumptions about how rules interact with metavariables. We conjecture that with a fair search strategy, the algorithm is as complete as the given set of rules allows.},
+author = {Jannis Limperg and Asta Halkj{æ}r From},
+booktitle = {Proceedings of the 12th {ACM} {SIGPLAN} International Conference on Certified Programs and Proofs, {CPP} 2023, Boston, MA, USA, January 16-17, 2023},
+doi = {10.1145/3573105.3575671},
+editor = {Robbert Krebbers and Dmitriy Traytel and Brigitte Pientka and Steve Zdancewic},
+pages = {253--266},
+publisher = {{ACM}},
+title = {Aesop: White-Box Best-First Proof Search for Lean},
+year = {2023},
+}]]></fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>We present Aesop, a proof search tactic for the Lean 4 interactive theorem prover. Aesop performs a tree-based search over a user-specified set of proof rules. It supports safe and unsafe rules and uses a best-first search strategy with customisable prioritisation. Aesop also allows users to register custom normalisation rules and integrates Lean's simplifier to support equational reasoning. Many details of Aesop's search procedure are designed to make it a white-box proof automation tactic, meaning that users should be able to easily predict how their rules will be applied, and thus how powerful and fast their Aesop invocations will be. Since we use a best-first search strategy, it is not obvious how to handle metavariables which appear in multiple goals. The most common strategy for dealing with metavariables relies on backtracking and is therefore not suitable for best-first search. We give an algorithm which addresses this issue. The algorithm works with any search strategy, is independent of the underlying logic and makes few assumptions about how rules interact with metavariables. We conjecture that with a fair search strategy, the algorithm is as complete as the given set of rules allows.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+  </fr:backmatter>
+</fr:tree>

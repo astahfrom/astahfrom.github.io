@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/default.xsl"?>
+<fr:tree xmlns:fr="http://www.forester-notes.org" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:xml="http://www.w3.org/XML/1998/namespace" root="false" base-url="/">
+  <fr:frontmatter>
+    <fr:authors>
+      <fr:author>
+        <fr:link href="/ahfrom/" title="Asta Halkjær From" uri="http://localhost/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+      </fr:author>
+      <fr:author>
+        <fr:link href="/abjensen/" title="Alexander Birch Jensen" uri="http://localhost/abjensen/" display-uri="abjensen" type="local">Alexander Birch Jensen</fr:link>
+      </fr:author>
+      <fr:author>
+        <fr:link href="/aschlichtkrull/" title="Anders Schlichtkrull" uri="http://localhost/aschlichtkrull/" display-uri="aschlichtkrull" type="local">Anders Schlichtkrull</fr:link>
+      </fr:author>
+      <fr:author>
+        <fr:link href="/jvilladsen/" title="Jørgen Villadsen" uri="http://localhost/jvilladsen/" display-uri="jvilladsen" type="local">Jørgen Villadsen</fr:link>
+      </fr:author>
+    </fr:authors>
+    <fr:date>
+      <fr:year>2019</fr:year>
+    </fr:date>
+    <fr:uri>http://localhost/ahfrom-abjensen-aschlichtkrull-jvilladsen-2019-thedu/</fr:uri>
+    <fr:display-uri>ahfrom-abjensen-aschlichtkrull-jvilladsen-2019-thedu</fr:display-uri>
+    <fr:route>/ahfrom-abjensen-aschlichtkrull-jvilladsen-2019-thedu/</fr:route>
+    <fr:title text="Teaching a Formalized Logical Calculus">Teaching a Formalized Logical Calculus</fr:title>
+    <fr:taxon>Reference</fr:taxon>
+    <fr:meta name="doi">10.4204/EPTCS.313.5</fr:meta>
+    <fr:meta name="venue">In P. Quaresma, W. Neuper and J. Marcos (ed.) Proceedings 8th International Workshop on Theorem Proving Components for Educational Software (ThEdu@CADE 2019)</fr:meta>
+    <fr:meta name="bibtex"><![CDATA[@inproceedings{FromJSV19,
+abstract = {Classical first-order logic is in many ways central to work in mathematics, linguistics, computer science and artificial intelligence, so it is worthwhile to define it in full detail. We present soundness and completeness proofs of a sequent calculus for first-order logic, formalized in the interactive proof assistant Isabelle/HOL. Our formalization is based on work by Stefan Berghofer, which we have since updated to use Isabelle's declarative proof style Isar (Archive of Formal Proofs, Entry FOL-Fitting, August 2007 / July 2018). We represent variables with de Bruijn indices; this makes substitution under quantifiers less intuitive for a human reader. However, the nature of natural numbers yields an elegant solution when compared to implementations of substitution using variables represented by strings. The sequent calculus considered has the special property of an always empty antecedent and a list of formulas in the succedent. We obtain the proofs of soundness and completeness for the sequent calculus as a derived result of the inverse duality of its tableau counterpart. We strive to not only present the results of the proofs of soundness and completeness, but also to provide a deep dive into a programming-like approach to the formalization of first-order logic syntax, semantics and the sequent calculus. We use the formalization in a bachelor course on logic for computer science and discuss our experiences.},
+author = {Asta Halkj{æ}r From and Alexander Birch Jensen and Anders Schlichtkrull and J{ø}rgen Villadsen},
+booktitle = {Proceedings 8th International Workshop on Theorem Proving Components for Educational Software, ThEdu@CADE 2019, Natal, Brazil, 25th August 2019},
+doi = {10.4204/EPTCS.313.5},
+editor = {Pedro Quaresma and Walther Neuper and Jo{ã}o Marcos},
+pages = {73--92},
+publisher = {Open Publishing Association},
+series = {{EPTCS}},
+title = {Teaching a Formalized Logical Calculus},
+volume = {313},
+year = {2019},
+}]]></fr:meta>
+  </fr:frontmatter>
+  <fr:mainmatter>
+    <html:p>Classical first-order logic is in many ways central to work in mathematics, linguistics, computer science and artificial intelligence, so it is worthwhile to define it in full detail. We present soundness and completeness proofs of a sequent calculus for first-order logic, formalized in the interactive proof assistant Isabelle/HOL. Our formalization is based on work by Stefan Berghofer, which we have since updated to use Isabelle's declarative proof style Isar (Archive of Formal Proofs, Entry FOL-Fitting, August 2007 / July 2018). We represent variables with de Bruijn indices; this makes substitution under quantifiers less intuitive for a human reader. However, the nature of natural numbers yields an elegant solution when compared to implementations of substitution using variables represented by strings. The sequent calculus considered has the special property of an always empty antecedent and a list of formulas in the succedent. We obtain the proofs of soundness and completeness for the sequent calculus as a derived result of the inverse duality of its tableau counterpart. We strive to not only present the results of the proofs of soundness and completeness, but also to provide a deep dive into a programming-like approach to the formalization of first-order logic syntax, semantics and the sequent calculus. We use the formalization in a bachelor course on logic for computer science and discuss our experiences.</html:p>
+  </fr:mainmatter>
+  <fr:backmatter>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="References">References</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Context">Context</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Backlinks">Backlinks</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Related">Related</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Contributions">Contributions</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+  </fr:backmatter>
+</fr:tree>

@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/default.xsl"?>
+<fr:tree xmlns:fr="http://www.forester-notes.org" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:xml="http://www.w3.org/XML/1998/namespace" root="false" base-url="/">
+  <fr:frontmatter>
+    <fr:authors />
+    <fr:uri>http://localhost/pblackburn/</fr:uri>
+    <fr:display-uri>pblackburn</fr:display-uri>
+    <fr:route>/pblackburn/</fr:route>
+    <fr:title text="Patrick Blackburn">Patrick Blackburn</fr:title>
+    <fr:taxon>Person</fr:taxon>
+    <fr:meta name="external">https://www.patrickblackburn.org/</fr:meta>
+    <fr:meta name="institution">University of Roskilde</fr:meta>
+    <fr:meta name="orcid">0000-0001-9345-552X</fr:meta>
+    <fr:meta name="position">Professor</fr:meta>
+  </fr:frontmatter>
+  <fr:mainmatter />
+  <fr:backmatter>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="References">References</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Context">Context</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Backlinks">Backlinks</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/ahfrom/" title="Asta Halkjær From" uri="http://localhost/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2020</fr:year>
+              <fr:month>2</fr:month>
+              <fr:day>5</fr:day>
+            </fr:date>
+            <fr:uri>http://localhost/ahfrom-2020-msc-thesis/</fr:uri>
+            <fr:display-uri>ahfrom-2020-msc-thesis</fr:display-uri>
+            <fr:route>/ahfrom-2020-msc-thesis/</fr:route>
+            <fr:title text="Hybrid Logic">Hybrid Logic</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+            <fr:meta name="venue">MSc thesis, Technical University of Denmark</fr:meta>
+            <fr:meta name="slides">/bafkrmif2f42yxasrnngbmbxcgqfrc2x54v224pncgi363c4gdamulg6vpa.pdf</fr:meta>
+            <fr:meta name="external">/bafkrmibgefm3nzpxevhkgcdeyjvm4bieoayke44eshkhujkcz3d4vftdya.pdf</fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Advisors: <fr:link href="/jvilladsen/" title="Jørgen Villadsen" uri="http://localhost/jvilladsen/" display-uri="jvilladsen" type="local">Jørgen Villadsen</fr:link>, <fr:link href="/abjensen/" title="Alexander Birch Jensen" uri="http://localhost/abjensen/" display-uri="abjensen" type="local">Alexander Birch Jensen</fr:link>, and <fr:link href="/pblackburn/" title="Patrick Blackburn" uri="http://localhost/pblackburn/" display-uri="pblackburn" type="local">Patrick Blackburn</fr:link>.</html:p>
+            <html:p>I formalize a Seligman-style tableau system for basic hybrid logic in the proof assistant Isabelle/HOL. Unlike the original system, I name every block on the tableau to avoid the risk of needing to backtrack when constructing a tableau. The tableau rules are restricted to only allow extensions of the tableau that include a new formula and I show via a strengthening lemma that this restriction preserves completeness. Showing strengthening under this restriction requires relaxing the Nom rule to allow the shared nominal to occur on any block, not just the current one as originally done. The <fr:tex display="inline"><![CDATA[(\diamond )]]></fr:tex> rule is restricted to only apply to unwitnessed <fr:tex display="inline"><![CDATA[\diamond ]]></fr:tex>-formulas and this restriction is lifted by proving a substitution lemma for the calculus. General versions of the @-rules are derived from their restricted counterparts using a structural lemma that allows weakening, factoring and reordering at the level of blocks and a similar lemma that works inside the current block. These lemmas show that forward referencing in the tableau is admissible as long as it is acyclic. The GoTo rule is restricted using a notion of coins where each application of GoTo requires spending a coin and coins are earned through applications of the remaining rules. If a branch can be closed then it can be closed starting from a single coin. This restriction of GoTo works better with rule induction than the simpler scheme of disallowing two applications in a row. I show that the Bridge rule is admissible using a set of indices into the branch that satisfies a particular descendant relation. This set effectively guides what formula occurrences should be modified when one accessibility formula is replaced by another. Next, I apply an existing synthetic completeness proof based on maximally consistent sets of blocks to show that the negation of any valid formula has a closing tableau. Using this approach for the restricted system is novel. Finally, in pursuit of a terminating system, I suggest a restriction of the Nom rule based on tags that directly encodes the notion of copying in the right direction and sketch a strategy for lifting this restriction.</html:p>
+            <html:p>
+              <fr:link href="/ahfrom-2019-afp-hybrid/" title="Formalizing a Seligman-Style Tableau System for Hybrid Logic" uri="http://localhost/ahfrom-2019-afp-hybrid/" display-uri="ahfrom-2019-afp-hybrid" type="local" />
+            </html:p>
+          </fr:mainmatter>
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Related">Related</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Contributions">Contributions</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/jvilladsen/" title="Jørgen Villadsen" uri="http://localhost/jvilladsen/" display-uri="jvilladsen" type="local">Jørgen Villadsen</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="/ahfrom/" title="Asta Halkjær From" uri="http://localhost/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="/pblackburn/" title="Patrick Blackburn" uri="http://localhost/pblackburn/" display-uri="pblackburn" type="local">Patrick Blackburn</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2021</fr:year>
+            </fr:date>
+            <fr:uri>http://localhost/jvilladsen-ahfrom-pblackburn-2021-thedu/</fr:uri>
+            <fr:display-uri>jvilladsen-ahfrom-pblackburn-2021-thedu</fr:display-uri>
+            <fr:route>/jvilladsen-ahfrom-pblackburn-2021-thedu/</fr:route>
+            <fr:title text="Teaching Intuitionistic and Classical Propositional Logic Using Isabelle">Teaching Intuitionistic and Classical Propositional Logic Using Isabelle</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+            <fr:meta name="doi">10.4204/EPTCS.354.6</fr:meta>
+            <fr:meta name="venue">In J. Marcos, W. Neuper and P. Quaresma (ed.) Proceedings 10th International Workshop on Theorem Proving Components for Educational Software (ThEdu@CADE 2021)</fr:meta>
+            <fr:meta name="bibtex"><![CDATA[@inproceedings{VilladsenFB21,
+abstract = {We describe a natural deduction formalization of intuitionistic and classical propositional logic in the Isabelle/Pure framework. In contrast to earlier work, where we explored the pedagogical benefits of using a deep embedding approach to logical modelling, here we employ a logical framework modelling. This gives rise to simple and natural teaching examples and we report on the role it played in teaching our Automated Reasoning course in 2020 and 2021.},
+author = {J{ø}rgen Villadsen and Asta Halkj{æ}r From and Patrick Blackburn},
+booktitle = {Proceedings 10th International Workshop on Theorem Proving Components for Educational Software, ThEdu@CADE 2021, (Remote) Carnegie Mellon University, Pittsburgh, PA, United States, 11 July 2021},
+doi = {10.4204/EPTCS.354.6},
+editor = {Jo{ã}o Marcos and Walther Neuper and Pedro Quaresma},
+pages = {71--85},
+publisher = {Open Publishing Association},
+series = {{EPTCS}},
+title = {Teaching Intuitionistic and Classical Propositional Logic Using {Isabelle}},
+volume = {354},
+year = {2021},
+}]]></fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>We describe a natural deduction formalization of intuitionistic and classical propositional logic in the Isabelle/Pure framework. In contrast to earlier work, where we explored the pedagogical benefits of using a deep embedding approach to logical modelling, here we employ a logical framework modelling. This gives rise to simple and natural teaching examples and we report on the role it played in teaching our Automated Reasoning course in 2020 and 2021.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/ahfrom/" title="Asta Halkjær From" uri="http://localhost/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="/pblackburn/" title="Patrick Blackburn" uri="http://localhost/pblackburn/" display-uri="pblackburn" type="local">Patrick Blackburn</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="/jvilladsen/" title="Jørgen Villadsen" uri="http://localhost/jvilladsen/" display-uri="jvilladsen" type="local">Jørgen Villadsen</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2020</fr:year>
+            </fr:date>
+            <fr:uri>http://localhost/ahfrom-pblackburn-jvilladsen-2020-ijcar/</fr:uri>
+            <fr:display-uri>ahfrom-pblackburn-jvilladsen-2020-ijcar</fr:display-uri>
+            <fr:route>/ahfrom-pblackburn-jvilladsen-2020-ijcar/</fr:route>
+            <fr:title text="Formalizing a Seligman-Style Tableau System for Hybrid Logic (Short Paper)">Formalizing a Seligman-Style Tableau System for Hybrid Logic (Short Paper)</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+            <fr:meta name="doi">10.1007/978-3-030-51074-9_27</fr:meta>
+            <fr:meta name="venue">In N. Peltier and V. Sofronie-Stokkermans (ed.) Automated Reasoning - 10th International Joint Conference (IJCAR 2020)</fr:meta>
+            <fr:meta name="slides">/bafkrmiayct4s3reqd4vth3ee52kzx3abq66ozo7vqnhlc2dyfle443goi4.pdf</fr:meta>
+            <fr:meta name="bibtex"><![CDATA[@inproceedings{FromBV20,
+abstract = {Hybrid logic is modal logic enriched with names for worlds. We formalize soundness and completeness proofs for a Seligman-style tableau system for hybrid logic in the proof assistant Isabelle/HOL. The formalization shows how to lift certain rule restrictions, thereby simplifying the original un-formalized proof. Moreover, the completeness proof we formalize is synthetic which suggests we can extend this work to prove a wider range of results about hybrid logic.},
+author = {Asta Halkj{æ}r From and Patrick Blackburn and J{ø}rgen Villadsen},
+booktitle = {Automated Reasoning - 10th International Joint Conference, {IJCAR} 2020, Paris, France, July 1-4, 2020, Proceedings, Part {I}},
+doi = {10.1007/978-3-030-51074-9_27},
+editor = {Nicolas Peltier and Viorica Sofronie{-}Stokkermans},
+pages = {474--481},
+publisher = {Springer},
+series = {Lecture Notes in Computer Science},
+title = {Formalizing a {Seligman}-Style Tableau System for Hybrid Logic (Short Paper)},
+volume = {12166},
+year = {2020},
+}]]></fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Hybrid logic is modal logic enriched with names for worlds. We formalize soundness and completeness proofs for a Seligman-style tableau system for hybrid logic in the proof assistant Isabelle/HOL. The formalization shows how to lift certain rule restrictions, thereby simplifying the original un-formalized proof. Moreover, the completeness proof we formalize is synthetic which suggests we can extend this work to prove a wider range of results about hybrid logic.</html:p>
+            <html:p>
+              <fr:link href="/ahfrom-2019-afp-hybrid/" title="Formalizing a Seligman-Style Tableau System for Hybrid Logic" uri="http://localhost/ahfrom-2019-afp-hybrid/" display-uri="ahfrom-2019-afp-hybrid" type="local" />
+            </html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/ahfrom/" title="Asta Halkjær From" uri="http://localhost/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="/jvilladsen/" title="Jørgen Villadsen" uri="http://localhost/jvilladsen/" display-uri="jvilladsen" type="local">Jørgen Villadsen</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="/pblackburn/" title="Patrick Blackburn" uri="http://localhost/pblackburn/" display-uri="pblackburn" type="local">Patrick Blackburn</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2020</fr:year>
+            </fr:date>
+            <fr:uri>http://localhost/ahfrom-jvilladsen-pblackburn-2020-thedu/</fr:uri>
+            <fr:display-uri>ahfrom-jvilladsen-pblackburn-2020-thedu</fr:display-uri>
+            <fr:route>/ahfrom-jvilladsen-pblackburn-2020-thedu/</fr:route>
+            <fr:title text="Isabelle/HOL as a Meta-Language for Teaching Logic">Isabelle/HOL as a Meta-Language for Teaching Logic</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+            <fr:meta name="doi">10.4204/EPTCS.328.2</fr:meta>
+            <fr:meta name="venue">In P. Quaresma, W. Neuper and J. Marcos (ed.) Proceedings 9th International Workshop on Theorem Proving Components for Educational Software (ThEdu@IJCAR 2020)</fr:meta>
+            <fr:meta name="bibtex"><![CDATA[@inproceedings{FromVB20,
+abstract = {Proof assistants are important tools for teaching logic. We support this claim by discussing three formalizations in Isabelle/HOL used in a recent course on automated reasoning. The first is a formalization of System W (a system of classical propositional logic with only two primitive symbols), the second is the Natural Deduction Assistant (NaDeA), and the third is a one-sided sequent calculus that uses our Sequent Calculus Verifier (SeCaV). We describe each formalization in turn, concentrating on how we used them in our teaching, and commenting on features that are interesting or useful from a logic education perspective. In the conclusion, we reflect on the lessons learned and where they might lead us next.},
+author = {Asta Halkj{æ}r From and J{ø}rgen Villadsen and Patrick Blackburn},
+booktitle = {Proceedings 9th International Workshop on Theorem Proving Components for Educational Software, ThEdu@IJCAR 2020, Paris, France, 29th June 2020},
+doi = {10.4204/EPTCS.328.2},
+editor = {Pedro Quaresma and Walther Neuper and Jo{ã}o Marcos},
+pages = {18--34},
+publisher = {Open Publishing Association},
+series = {{EPTCS}},
+title = {{Isabelle/HOL} as a Meta-Language for Teaching Logic},
+volume = {328},
+year = {2020},
+}]]></fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Proof assistants are important tools for teaching logic. We support this claim by discussing three formalizations in Isabelle/HOL used in a recent course on automated reasoning. The first is a formalization of System W (a system of classical propositional logic with only two primitive symbols), the second is the Natural Deduction Assistant (NaDeA), and the third is a one-sided sequent calculus that uses our Sequent Calculus Verifier (SeCaV). We describe each formalization in turn, concentrating on how we used them in our teaching, and commenting on features that are interesting or useful from a logic education perspective. In the conclusion, we reflect on the lessons learned and where they might lead us next.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+  </fr:backmatter>
+</fr:tree>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/default.xsl"?>
+<fr:tree xmlns:fr="http://www.forester-notes.org" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:xml="http://www.w3.org/XML/1998/namespace" root="false" base-url="/">
+  <fr:frontmatter>
+    <fr:authors>
+      <fr:author>
+        <fr:link href="/ahfrom/" title="Asta Halkjær From" uri="http://localhost/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+      </fr:author>
+    </fr:authors>
+    <fr:date>
+      <fr:year>2025</fr:year>
+      <fr:month>1</fr:month>
+      <fr:day>7</fr:day>
+    </fr:date>
+    <fr:uri>http://localhost/ahfrom-2025-talk-bits/</fr:uri>
+    <fr:display-uri>ahfrom-2025-talk-bits</fr:display-uri>
+    <fr:route>/ahfrom-2025-talk-bits/</fr:route>
+    <fr:title text="How to Speak Logic with your Computer: The Unreasonable Effectiveness of a Machine Assistant">How to Speak Logic with your Computer: The Unreasonable Effectiveness of a Machine Assistant</fr:title>
+    <fr:taxon>Reference</fr:taxon>
+    <fr:meta name="venue">DIKU Bits, University of Copenhagen</fr:meta>
+    <fr:meta name="slides">/bafkrmih2onpoea7xf6nbpjoeusnnhuwnyus4bdfc6zjy6tnbv6dc2435ye.pdf</fr:meta>
+    <fr:meta name="external">https://di.ku.dk/forsidebegivenheder/begivenheder-2024/diku-bits-by-asta-halkjaer-from/</fr:meta>
+  </fr:frontmatter>
+  <fr:mainmatter>
+    <html:p>Imagine if LaTeX could check your work and fill out parts of your proofs for you. In this talk, I will introduce higher-order logic and the Isabelle proof assistant. Unlike English, sentences in logic have a precise meaning. This means we can do computer science and mathematics in a language that both humans and computers can "speak". I do most of my own work on logic with Isabelle as my companion.</html:p>
+  </fr:mainmatter>
+  <fr:backmatter>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="References">References</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Context">Context</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Backlinks">Backlinks</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Related">Related</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Contributions">Contributions</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+  </fr:backmatter>
+</fr:tree>

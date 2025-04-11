@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/default.xsl"?>
+<fr:tree xmlns:fr="http://www.forester-notes.org" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:xml="http://www.w3.org/XML/1998/namespace" root="false" base-url="/">
+  <fr:frontmatter>
+    <fr:authors>
+      <fr:author>
+        <fr:link href="/ahfrom/" title="Asta Halkjær From" uri="http://localhost/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+      </fr:author>
+    </fr:authors>
+    <fr:date>
+      <fr:year>2022</fr:year>
+      <fr:month>9</fr:month>
+    </fr:date>
+    <fr:uri>http://localhost/ahfrom-2022-talk-pal/</fr:uri>
+    <fr:display-uri>ahfrom-2022-talk-pal</fr:display-uri>
+    <fr:route>/ahfrom-2022-talk-pal/</fr:route>
+    <fr:title text="Generic Epistemic and Public Announcement Logic Completeness Results">Generic Epistemic and Public Announcement Logic Completeness Results</fr:title>
+    <fr:taxon>Reference</fr:taxon>
+    <fr:meta name="venue">Logic &amp; AI @ AlgoLoG seminar, DTU Compute</fr:meta>
+    <fr:meta name="slides">/bafkrmiati2ris22dy24q6aix3smywxzd22xklozrgi55fngo7mnv3n2dz4.pdf</fr:meta>
+  </fr:frontmatter>
+  <fr:mainmatter>
+    <html:p>A tour de force of my <fr:link href="/ahfrom-2018-afp-epistemic/" title="Epistemic Logic: Completeness of Modal Logics" uri="http://localhost/ahfrom-2018-afp-epistemic/" display-uri="ahfrom-2018-afp-epistemic" type="local">epistemic logic</fr:link> and <fr:link href="/ahfrom-2021-afp-pal/" title="Public Announcement Logic" uri="http://localhost/ahfrom-2021-afp-pal/" display-uri="ahfrom-2021-afp-pal" type="local">public announcement logic</fr:link> formalizations.</html:p>
+  </fr:mainmatter>
+  <fr:backmatter>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="References">References</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/ahfrom/" title="Asta Halkjær From" uri="http://localhost/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2021</fr:year>
+            </fr:date>
+            <fr:uri>http://localhost/ahfrom-2021-afp-pal/</fr:uri>
+            <fr:display-uri>ahfrom-2021-afp-pal</fr:display-uri>
+            <fr:route>/ahfrom-2021-afp-pal/</fr:route>
+            <fr:title text="Public Announcement Logic">Public Announcement Logic</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+            <fr:meta name="external">https://isa-afp.org/entries/Public_Announcement_Logic.html</fr:meta>
+            <fr:meta name="venue">Archive of Formal Proofs</fr:meta>
+            <fr:meta name="bibtex"><![CDATA[@article{Public_Announcement_Logic-AFP,
+abstract = {This work is a formalization of public announcement logic with countably many agents. It includes proofs of soundness and completeness for a variant of the axiom system PA + DIST! + NEC!. The completeness proof builds on the Epistemic Logic theory. Paper: doi.org/10.1007/978-3-030-90138-7\_2.},
+author = {Asta Halkjær From},
+issn = {2150-914x},
+journal = {Archive of Formal Proofs},
+month = {June},
+title = {Public Announcement Logic},
+url = {https://isa-afp.org/entries/Public_Announcement_Logic.html},
+year = {2021},
+}]]></fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>This work is a formalization of public announcement logic with countably many agents. It includes proofs of soundness and completeness for a variant of the axiom system PA + DIST! + NEC!. The completeness proof builds on the Epistemic Logic theory. Paper: doi.org/10.1007/978-3-030-90138-7_2.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/ahfrom/" title="Asta Halkjær From" uri="http://localhost/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2018</fr:year>
+            </fr:date>
+            <fr:uri>http://localhost/ahfrom-2018-afp-epistemic/</fr:uri>
+            <fr:display-uri>ahfrom-2018-afp-epistemic</fr:display-uri>
+            <fr:route>/ahfrom-2018-afp-epistemic/</fr:route>
+            <fr:title text="Epistemic Logic: Completeness of Modal Logics">Epistemic Logic: Completeness of Modal Logics</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+            <fr:meta name="external">https://isa-afp.org/entries/Epistemic_Logic.html</fr:meta>
+            <fr:meta name="venue">Archive of Formal Proofs</fr:meta>
+            <fr:meta name="bibtex"><![CDATA[@article{Epistemic_Logic-AFP,
+abstract = {This work is a formalization of epistemic logic. It includes proofs of soundness and completeness for the axiom system K. The completeness proof is based on the textbook "Reasoning About Knowledge" by Fagin, Halpern, Moses and Vardi (MIT Press 1995). The extensions of system K (T, KB, K4, S4, S5) and their completeness proofs are based on the textbook "Modal Logic" by Blackburn, de Rijke and Venema (Cambridge University Press 2001). Papers: doi.org/10.1007/978-3-030-88853-4\_1, doi.org/10.1007/978-3-030-90138-7\_2.},
+author = {Asta Halkjær From},
+issn = {2150-914x},
+journal = {Archive of Formal Proofs},
+month = {October},
+title = {Epistemic Logic: Completeness of Modal Logics},
+url = {https://isa-afp.org/entries/Epistemic_Logic.html},
+year = {2018},
+}]]></fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>This work is a formalization of epistemic logic. It includes proofs of soundness and completeness for the axiom system K. The completeness proof is based on the textbook "Reasoning About Knowledge" by Fagin, Halpern, Moses and Vardi (MIT Press 1995). The extensions of system K (T, KB, K4, S4, S5) and their completeness proofs are based on the textbook "Modal Logic" by Blackburn, de Rijke and Venema (Cambridge University Press 2001). Papers: doi.org/10.1007/978-3-030-88853-4_1, doi.org/10.1007/978-3-030-90138-7_2.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Context">Context</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Backlinks">Backlinks</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Related">Related</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Contributions">Contributions</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+  </fr:backmatter>
+</fr:tree>

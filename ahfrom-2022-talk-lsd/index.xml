@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/default.xsl"?>
+<fr:tree xmlns:fr="http://www.forester-notes.org" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:xml="http://www.w3.org/XML/1998/namespace" root="false" base-url="/">
+  <fr:frontmatter>
+    <fr:authors>
+      <fr:author>
+        <fr:link href="/ahfrom/" title="Asta Halkjær From" uri="http://localhost/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+      </fr:author>
+    </fr:authors>
+    <fr:date>
+      <fr:year>2022</fr:year>
+      <fr:month>5</fr:month>
+      <fr:day>6</fr:day>
+    </fr:date>
+    <fr:uri>http://localhost/ahfrom-2022-talk-lsd/</fr:uri>
+    <fr:display-uri>ahfrom-2022-talk-lsd</fr:display-uri>
+    <fr:route>/ahfrom-2022-talk-lsd/</fr:route>
+    <fr:title text="A Naive Prover for First-Order Logic">A Naive Prover for First-Order Logic</fr:title>
+    <fr:taxon>Reference</fr:taxon>
+    <fr:meta name="venue">The Languages, Systems, and Data Seminar (LSD spring 2022)</fr:meta>
+    <fr:meta name="slides">/bafkrmigayu2vn7j5jdnawtzu5e6tlksd6vjlamv2fvuv5mjvhbanhpndxa.pdf</fr:meta>
+  </fr:frontmatter>
+  <fr:mainmatter>
+    <html:p>I present the <fr:link href="/ahfrom-2022-afp-naive/" title="A Naive Prover for First-Order Logic" uri="http://localhost/ahfrom-2022-afp-naive/" display-uri="ahfrom-2022-afp-naive" type="local">naive prover</fr:link> for proving completeness of first-order logic sequent calculus.</html:p>
+    <html:p>Invited by Lindsey Kuper (UC Santa Cruz).</html:p>
+    <html:p>I gave an earlier version of this talk as a guest lecture in 02256 Automated Reasoning at DTU Compute, invited by <fr:link href="/jvilladsen/" title="Jørgen Villadsen" uri="http://localhost/jvilladsen/" display-uri="jvilladsen" type="local">Jørgen Villadsen</fr:link>.</html:p>
+  </fr:mainmatter>
+  <fr:backmatter>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="References">References</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/ahfrom/" title="Asta Halkjær From" uri="http://localhost/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2022</fr:year>
+            </fr:date>
+            <fr:uri>http://localhost/ahfrom-2022-afp-naive/</fr:uri>
+            <fr:display-uri>ahfrom-2022-afp-naive</fr:display-uri>
+            <fr:route>/ahfrom-2022-afp-naive/</fr:route>
+            <fr:title text="A Naive Prover for First-Order Logic">A Naive Prover for First-Order Logic</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+            <fr:meta name="external">https://isa-afp.org/entries/FOL_Seq_Calc3.html</fr:meta>
+            <fr:meta name="venue">Archive of Formal Proofs</fr:meta>
+            <fr:meta name="bibtex"><![CDATA[@article{FOL_Seq_Calc3-AFP,
+abstract = { The AFP entry Abstract Completeness by Blanchette, Popescu and Traytel formalizes the core of Beth/Hintikka-style completeness proofs for first-order logic and can be used to formalize executable sequent calculus provers. In the Journal of Automated Reasoning, the authors instantiate the framework with a sequent calculus for first-order logic and prove its completeness. Their use of an infinite set of proof rules indexed by formulas yields very direct arguments. A fair stream of these rules controls the prover, making its definition remarkably simple. The AFP entry, however, only contains a toy example for propositional logic. The AFP entry A Sequent Calculus Prover for First-Order Logic with Functions by From and Jacobsen also uses the framework, but uses a finite set of generic rules resulting in a more sophisticated prover with more complicated proofs. This entry contains an executable sequent calculus prover for first-order logic with functions in the style presented by Blanchette et al. The prover can be exported to Haskell and this entry includes formalized proofs of its soundness and completeness. The proofs are simpler than those for the prover by From and Jacobsen but the performance of the prover is significantly worse. The included theory Fair-Stream first proves that the sequence of natural numbers 0, 0, 1, 0, 1, 2, etc. is fair. It then proves that mapping any surjective function across the sequence preserves fairness. This method of obtaining a fair stream of rules is similar to the one given by Blanchette et al. The concrete functions from natural numbers to terms, formulas and rules are defined using the Nat-Bijection theory in the HOL-Library. },
+author = {Asta Halkjær From},
+issn = {2150-914x},
+journal = {Archive of Formal Proofs},
+month = {March},
+title = {A Naive Prover for First-Order Logic},
+url = {https://isa-afp.org/entries/FOL_Seq_Calc3.html},
+year = {2022},
+}]]></fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>The AFP entry Abstract Completeness by Blanchette, Popescu and Traytel formalizes the core of Beth/Hintikka-style completeness proofs for first-order logic and can be used to formalize executable sequent calculus provers. In the Journal of Automated Reasoning, the authors instantiate the framework with a sequent calculus for first-order logic and prove its completeness. Their use of an infinite set of proof rules indexed by formulas yields very direct arguments. A fair stream of these rules controls the prover, making its definition remarkably simple. The AFP entry, however, only contains a toy example for propositional logic. The AFP entry A Sequent Calculus Prover for First-Order Logic with Functions by From and Jacobsen also uses the framework, but uses a finite set of generic rules resulting in a more sophisticated prover with more complicated proofs. This entry contains an executable sequent calculus prover for first-order logic with functions in the style presented by Blanchette et al. The prover can be exported to Haskell and this entry includes formalized proofs of its soundness and completeness. The proofs are simpler than those for the prover by From and Jacobsen but the performance of the prover is significantly worse. The included theory Fair-Stream first proves that the sequence of natural numbers 0, 0, 1, 0, 1, 2, etc. is fair. It then proves that mapping any surjective function across the sequence preserves fairness. This method of obtaining a fair stream of rules is similar to the one given by Blanchette et al. The concrete functions from natural numbers to terms, formulas and rules are defined using the Nat-Bijection theory in the HOL-Library.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Context">Context</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Backlinks">Backlinks</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Related">Related</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors />
+            <fr:uri>http://localhost/jvilladsen/</fr:uri>
+            <fr:display-uri>jvilladsen</fr:display-uri>
+            <fr:route>/jvilladsen/</fr:route>
+            <fr:title text="Jørgen Villadsen">Jørgen Villadsen</fr:title>
+            <fr:taxon>Person</fr:taxon>
+            <fr:meta name="external">https://people.compute.dtu.dk/jovi/</fr:meta>
+            <fr:meta name="institution">Technical University of Denmark</fr:meta>
+            <fr:meta name="orcid">0000-0003-3624-1159</fr:meta>
+            <fr:meta name="position">Associate Professor</fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter />
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Contributions">Contributions</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+  </fr:backmatter>
+</fr:tree>

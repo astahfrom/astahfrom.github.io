@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/default.xsl"?>
+<fr:tree xmlns:fr="http://www.forester-notes.org" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:xml="http://www.w3.org/XML/1998/namespace" root="false" base-url="/">
+  <fr:frontmatter>
+    <fr:authors>
+      <fr:author>
+        <fr:link href="/ahfrom/" title="Asta Halkjær From" uri="http://localhost/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+      </fr:author>
+      <fr:author>
+        <fr:link href="/jvilladsen/" title="Jørgen Villadsen" uri="http://localhost/jvilladsen/" display-uri="jvilladsen" type="local">Jørgen Villadsen</fr:link>
+      </fr:author>
+    </fr:authors>
+    <fr:date>
+      <fr:year>2021</fr:year>
+    </fr:date>
+    <fr:uri>http://localhost/ahfrom-jvilladsen-2021-tfpie/</fr:uri>
+    <fr:display-uri>ahfrom-jvilladsen-2021-tfpie</fr:display-uri>
+    <fr:route>/ahfrom-jvilladsen-2021-tfpie/</fr:route>
+    <fr:title text="Teaching Automated Reasoning and Formally Verified Functional Programming in Agda and Isabelle/HOL">Teaching Automated Reasoning and Formally Verified Functional Programming in Agda and Isabelle/HOL</fr:title>
+    <fr:taxon>Reference</fr:taxon>
+    <fr:meta name="external">https://wiki.tfpie.science.ru.nl/images/a/a6/TFPIE_AHF_JV.pdf</fr:meta>
+    <fr:meta name="venue">10th International Workshop on Trends in Functional Programming in Education (TFPIE 2021)</fr:meta>
+    <fr:meta name="bibtex"><![CDATA[@unpublished{FromV21-TFPIE,
+abstract = {We formalize two micro provers for propositional logic in Isabelle/HOL and Agda. The provers are used in an automated reasoning course at DTU where they concretize discussions of soundness and completeness. The students are familiar with functional programming beforehand but formalizing the provers, and other programs, introduces the students to formally verified functional programming in a proof assistant. Proofs that have been informal in previous courses, for instance of termination, can now be verified by the machine, and the provers provide practical examples. Similarly, the formal meta-languages provided by the formalizations clarify boundaries that can be muddled with pen and paper, for instance between syntactic and semantic arguments. We find that the automation available in Isabelle/HOL provides succinctness while the verification in Agda closer resembles functional programming.},
+author = {From, Asta Halkj{æ}r and Villadsen, J{ø}rgen},
+note = {10th International Workshop on Trends in Functional Programming in Education (TFPIE 2021) --- Presentation Only/Online Papers},
+title = {Teaching Automated Reasoning and Formally Verified Functional Programming in {Agda} and {Isabelle/HOL}},
+url = {https://wiki.tfpie.science.ru.nl/images/a/a6/TFPIE_AHF_JV.pdf},
+year = {2021},
+}]]></fr:meta>
+  </fr:frontmatter>
+  <fr:mainmatter>
+    <html:p>We formalize two micro provers for propositional logic in Isabelle/HOL and Agda. The provers are used in an automated reasoning course at DTU where they concretize discussions of soundness and completeness. The students are familiar with functional programming beforehand but formalizing the provers, and other programs, introduces the students to formally verified functional programming in a proof assistant. Proofs that have been informal in previous courses, for instance of termination, can now be verified by the machine, and the provers provide practical examples. Similarly, the formal meta-languages provided by the formalizations clarify boundaries that can be muddled with pen and paper, for instance between syntactic and semantic arguments. We find that the automation available in Isabelle/HOL provides succinctness while the verification in Agda closer resembles functional programming.</html:p>
+  </fr:mainmatter>
+  <fr:backmatter>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="References">References</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Context">Context</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Backlinks">Backlinks</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Related">Related</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Contributions">Contributions</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+  </fr:backmatter>
+</fr:tree>
