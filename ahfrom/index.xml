@@ -13,9 +13,7 @@
     <fr:meta name="orcid">0000-0002-3601-0804</fr:meta>
     <fr:meta name="position">Postdoc</fr:meta>
   </fr:frontmatter>
-  <fr:mainmatter>
-    <html:p>Insert stuff here</html:p>
-  </fr:mainmatter>
+  <fr:mainmatter />
   <fr:backmatter>
     <fr:tree show-metadata="false" hidden-when-empty="true">
       <fr:frontmatter>
