@@ -61,7 +61,9 @@ year = {2021},
             <fr:title text="Epistemic Logic: Completeness of Modal Logics">Epistemic Logic: Completeness of Modal Logics</fr:title>
             <fr:taxon>Reference</fr:taxon>
             <fr:meta name="external">https://isa-afp.org/entries/Epistemic_Logic.html</fr:meta>
-            <fr:meta name="venue">Archive of Formal Proofs</fr:meta>
+            <fr:meta name="venue">
+              <fr:link href="/afp/" title="Archive of Formal Proofs" uri="http://localhost/afp/" display-uri="afp" type="local">Archive of Formal Proofs</fr:link>
+            </fr:meta>
             <fr:meta name="bibtex"><![CDATA[@article{Epistemic_Logic-AFP,
 abstract = {This work is a formalization of epistemic logic. It includes proofs of soundness and completeness for the axiom system K. The completeness proof is based on the textbook "Reasoning About Knowledge" by Fagin, Halpern, Moses and Vardi (MIT Press 1995). The extensions of system K (T, KB, K4, S4, S5) and their completeness proofs are based on the textbook "Modal Logic" by Blackburn, de Rijke and Venema (Cambridge University Press 2001). Papers: doi.org/10.1007/978-3-030-88853-4\_1, doi.org/10.1007/978-3-030-90138-7\_2.},
 author = {Asta Halkjær From},

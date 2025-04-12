@@ -17,7 +17,7 @@
     <fr:route>/ahfrom-2021-talk-wld/</fr:route>
     <fr:title text="Hybrid Logic">Hybrid Logic</fr:title>
     <fr:taxon>Reference</fr:taxon>
-    <fr:meta name="venue">3rd World Logic Day 2021, A Zoom on Logic, DTU Compute</fr:meta>
+    <fr:meta name="venue">3rd World Logic Day 2021, A Zoom on Logic, <fr:link href="/dtucompute/" title="DTU Compute" uri="http://localhost/dtucompute/" display-uri="dtucompute" type="local">DTU Compute</fr:link></fr:meta>
     <fr:meta name="slides">/bafkrmig2ivpizcq3mwoc3dffs5i6s73pumbt2n4huc4t52ubizi54pjbvu.pdf</fr:meta>
   </fr:frontmatter>
   <fr:mainmatter>
@@ -96,7 +96,22 @@ year = {2020},
         <fr:authors />
         <fr:title text="Related">Related</fr:title>
       </fr:frontmatter>
-      <fr:mainmatter />
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors />
+            <fr:uri>http://localhost/dtucompute/</fr:uri>
+            <fr:display-uri>dtucompute</fr:display-uri>
+            <fr:route>/dtucompute/</fr:route>
+            <fr:title text="DTU Compute">DTU Compute</fr:title>
+            <fr:taxon>Department</fr:taxon>
+            <fr:meta name="venue">
+              <fr:link href="/dtu/" title="Technical University of Denmark" uri="http://localhost/dtu/" display-uri="dtu" type="local">Technical University of Denmark</fr:link>
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter />
+        </fr:tree>
+      </fr:mainmatter>
     </fr:tree>
     <fr:tree show-metadata="false" hidden-when-empty="true">
       <fr:frontmatter>

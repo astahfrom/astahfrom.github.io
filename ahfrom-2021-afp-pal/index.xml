@@ -16,7 +16,9 @@
     <fr:title text="Public Announcement Logic">Public Announcement Logic</fr:title>
     <fr:taxon>Reference</fr:taxon>
     <fr:meta name="external">https://isa-afp.org/entries/Public_Announcement_Logic.html</fr:meta>
-    <fr:meta name="venue">Archive of Formal Proofs</fr:meta>
+    <fr:meta name="venue">
+      <fr:link href="/afp/" title="Archive of Formal Proofs" uri="http://localhost/afp/" display-uri="afp" type="local">Archive of Formal Proofs</fr:link>
+    </fr:meta>
     <fr:meta name="bibtex"><![CDATA[@article{Public_Announcement_Logic-AFP,
 abstract = {This work is a formalization of public announcement logic with countably many agents. It includes proofs of soundness and completeness for a variant of the axiom system PA + DIST! + NEC!. The completeness proof builds on the Epistemic Logic theory. Paper: doi.org/10.1007/978-3-030-90138-7\_2.},
 author = {Asta Halkjær From},
@@ -106,7 +108,7 @@ year = {2024},
             <fr:route>/ahfrom-2022-talk-pal/</fr:route>
             <fr:title text="Generic Epistemic and Public Announcement Logic Completeness Results">Generic Epistemic and Public Announcement Logic Completeness Results</fr:title>
             <fr:taxon>Reference</fr:taxon>
-            <fr:meta name="venue">Logic &amp; AI @ AlgoLoG seminar, DTU Compute</fr:meta>
+            <fr:meta name="venue">Logic &amp; AI @ AlgoLoG seminar, <fr:link href="/dtucompute/" title="DTU Compute" uri="http://localhost/dtucompute/" display-uri="dtucompute" type="local">DTU Compute</fr:link></fr:meta>
             <fr:meta name="slides">/bafkrmiati2ris22dy24q6aix3smywxzd22xklozrgi55fngo7mnv3n2dz4.pdf</fr:meta>
           </fr:frontmatter>
           <fr:mainmatter>
@@ -172,7 +174,20 @@ year = {2022},
         <fr:authors />
         <fr:title text="Related">Related</fr:title>
       </fr:frontmatter>
-      <fr:mainmatter />
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors />
+            <fr:uri>http://localhost/afp/</fr:uri>
+            <fr:display-uri>afp</fr:display-uri>
+            <fr:route>/afp/</fr:route>
+            <fr:title text="Archive of Formal Proofs">Archive of Formal Proofs</fr:title>
+            <fr:taxon>Journal</fr:taxon>
+            <fr:meta name="external">https://www.isa-afp.org/</fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter />
+        </fr:tree>
+      </fr:mainmatter>
     </fr:tree>
     <fr:tree show-metadata="false" hidden-when-empty="true">
       <fr:frontmatter>

@@ -9,13 +9,15 @@
     <fr:title text="Asta Halkjær From">Asta Halkjær From</fr:title>
   </fr:frontmatter>
   <fr:mainmatter>
-    <html:p>I am a postdoc at DIKU from August 2024 to August 2026 in Dmitriy Traytel's group. I teach Software Development for Digital Health for 4th semester Health and IT students.</html:p>
-    <html:p>I worked for a year as a full-stack software developer at Dalux where I: <html:ul><html:li>refined the suite of concurrent, end-to-end Cypress tests,</html:li>
+    <html:p>I am a postdoc at <fr:link href="/diku/" title="Department of Computer Science" uri="http://localhost/diku/" display-uri="diku" type="local">DIKU</fr:link> from August 2024 to August 2026 in <fr:link href="/dtraytel/" title="Dmitriy Traytel" uri="http://localhost/dtraytel/" display-uri="dtraytel" type="local">Dmitriy Traytel</fr:link>'s group. I teach Software Development for Digital Health for 4th semester Health and IT students.</html:p>
+    <html:p>I was a PhD student at <fr:link href="/dtucompute/" title="DTU Compute" uri="http://localhost/dtucompute/" display-uri="dtucompute" type="local">DTU Compute</fr:link> from February 2020 to February 2023 working on <fr:link href="/ahfrom-2023-phd-thesis/" title="Formally Correct Deduction Methods for Computational Logic" uri="http://localhost/ahfrom-2023-phd-thesis/" display-uri="ahfrom-2023-phd-thesis" type="local">Formally Correct Deduction Methods for Computational Logic</fr:link>, especially using the proof assistant Isabelle/HOL. My supervisor was <fr:link href="/jvilladsen/" title="Jørgen Villadsen" uri="http://localhost/jvilladsen/" display-uri="jvilladsen" type="local">Jørgen Villadsen</fr:link> and my co-supervisor was <fr:link href="/ngierasimczuk/" title="Nina Gierasimczuk" uri="http://localhost/ngierasimczuk/" display-uri="ngierasimczuk" type="local">Nina Gierasimczuk</fr:link>. <fr:link href="/dtu/" title="Technical University of Denmark" uri="http://localhost/dtu/" display-uri="dtu" type="local">DTU</fr:link> granted me a Young Researcher Award for my PhD.</html:p>
+    <html:p>Before that, I was a <fr:link href="/ahfrom-2020-msc-thesis/" title="Hybrid Logic" uri="http://localhost/ahfrom-2020-msc-thesis/" display-uri="ahfrom-2020-msc-thesis" type="local">MSc</fr:link> student on the Honours Programme in Computer Science and Engineering at <fr:link href="/dtu/" title="Technical University of Denmark" uri="http://localhost/dtu/" display-uri="dtu" type="local">DTU</fr:link> from 2018 to 2020 and a <fr:link href="/ahfrom-2017-bsc-thesis/" title="Formalized First-Order Logic" uri="http://localhost/ahfrom-2017-bsc-thesis/" display-uri="ahfrom-2017-bsc-thesis" type="local">BSc</fr:link> student in software technology at <fr:link href="/dtu/" title="Technical University of Denmark" uri="http://localhost/dtu/" display-uri="dtu" type="local">DTU</fr:link> from 2014 to 2018.</html:p>
+    <html:p>I was employed for a year as a full-stack software developer at <fr:link href="/dalux/" title="Dalux" uri="http://localhost/dalux/" display-uri="dalux" type="local">Dalux</fr:link> where I:
+<html:ul><html:li>refined the suite of concurrent, end-to-end Cypress tests,</html:li>
 <html:li>improved the handling and stamping of PDFs,</html:li>
-<html:li>wrote a Roslyn code analyser to detect would-be runtime errors at compile time,</html:li>
+<html:li>wrote a Roslyn code analyzer to detect would-be runtime errors at compile time,</html:li>
 <html:li>worked on integrating full Angular template type checking,</html:li>
 <html:li>and more...</html:li></html:ul></html:p>
-    <html:p>I was a PhD student at DTU Compute from February 2020 to February 2023 working on Formally Correct Deduction Methods for Computational Logic, especially using the proof assistant Isabelle/HOL. My supervisor was Jørgen Villadsen and my co-supervisor was Nina Gierasimczuk. DTU granted me a Young Researcher Award for my PhD. Before that, I was a MSc student on the Honours Programme in Computer Science and Engineering at DTU from 2018 to 2020 and a BSc student in software technology at DTU from 2014 to 2018.</html:p>
     <html:p>You might be looking for my <fr:link href="../cartouches/" type="external">Isabelle snippets generator</fr:link> or my <fr:link href="../htmlbib/" type="external">online bibliography templating tool</fr:link>.</html:p>
     <html:p>This page was built using <fr:link href="https://www.forester-notes.org/index/index.xml" type="external">Forester</fr:link>. Use <html:code>Ctrl-k</html:code> to search.</html:p>
     <fr:tree show-metadata="false">
@@ -1301,7 +1303,7 @@ year = {2018},
               </fr:frontmatter>
               <fr:mainmatter>
                 <html:p>We present a soundness and completeness proof of a natural deduction calculus for first-order logic, formalized in the interactive proof assistant Isabelle/HOL. Our formalization is based on previous work by Stefan Berghofer. The proof formalized by Berghofer uses Hintikka sets and only considers completeness for closed formulas. We build on this proof to cover formulas with free variables via the following steps. First we universally close the formula, obtaining a derivation of its closure. Since we consider entailment in general we turn any judgment premises into implications as part of this. Then we eliminate each added quantifier with a fresh constant using the universal elimination rule from the calculus. Thereafter we use our own admissible rule to substitute the original variables for the fresh constants. Finally we show that the premises can always be weakened and use this to turn the implications back into premises, obtaining a derivation of the original formula. We eliminate the universal closure with fresh constants instead of the free variables directly because we represent variables with de Bruijn indices; this makes reasoning about a chain of substitutions for free variables tricky, as each new substitution adjusts the variables from the previous ones. Furthermore, we have updated Berghofer’s formalization to use Isabelle’s declarative proof style Isar. Our formalization is available online: https://bitbucket.org/isafol/isafol/src/master/FOL_Berghofer/ A further development of the calculus is used for teaching at DTU.</html:p>
-                <html:p>I also gave this talk at a local Isabelle workshop at DTU Compute.</html:p>
+                <html:p>I also gave this talk at a local Isabelle workshop at <fr:link href="/dtucompute/" title="DTU Compute" uri="http://localhost/dtucompute/" display-uri="dtucompute" type="local">DTU Compute</fr:link>.</html:p>
               </fr:mainmatter>
             </fr:tree>
             <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
@@ -1588,37 +1590,13 @@ year = {2016},
               <fr:mainmatter>
                 <html:p>Advisors: <fr:link href="/jvilladsen/" title="Jørgen Villadsen" uri="http://localhost/jvilladsen/" display-uri="jvilladsen" type="local">Jørgen Villadsen</fr:link> and <fr:link href="/ngierasimczuk/" title="Nina Gierasimczuk" uri="http://localhost/ngierasimczuk/" display-uri="ngierasimczuk" type="local">Nina Gierasimczuk</fr:link>.</html:p>
                 <html:p>Some logics make it easier to say what we want than others and some methods of deduction are simpler to work with than others. One thing typically remains important: that we can deduce all valid things (completeness). In this thesis I tackle completeness of various deduction methods for various logics. The work is formalized in the proof assistant Isabelle/HOL which offers a common language for mathematics and computer science where proofs can be checked mechanically. This thesis discusses the following contributions of my PhD project in particular:
-<html:ul><html:li>A historical overview of formalized completeness proofs and a formalization that explains the essence of synthetic completeness proofs.</html:li>
-<html:li>A formalization of a concise completeness proof for first-order logic in Isabelle/HOL, including solutions to the issues of formalizing quantifiers and proving completeness for formulas with free variables.</html:li>
-<html:li>A verified prover for first-order logic with functions, with a formalized completeness proof that takes the search strategy of the prover into account.</html:li>
-<html:li>A synthetic completeness proof for a tableau system for basic hybrid logic which is both terminating and in the Seligman style where the proof rules reflect the local perspective that modal logic is based on.</html:li>
-<html:li>Formalized soundness and completeness results for epistemic and public announcement logic, instantiated to a range of concrete axiom systems.</html:li>
-<html:li>A best-first proof search tactic for the proof assistant Lean 4.</html:li>
-<html:li>An abstract framework for synthetic completeness proofs.</html:li></html:ul></html:p>
-                <html:p>
-                  <fr:link href="/ahfrom-2021-esslli/" title="Formalizing Henkin-Style Completeness of an Axiomatic System for Propositional Logic" uri="http://localhost/ahfrom-2021-esslli/" display-uri="ahfrom-2021-esslli" type="local" />
-                </html:p>
-                <html:p>
-                  <fr:link href="/ahfrom-2021-types/" title="A Succinct Formalization of the Completeness of First-Order Logic" uri="http://localhost/ahfrom-2021-types/" display-uri="ahfrom-2021-types" type="local" />
-                </html:p>
-                <html:p>
-                  <fr:link href="/ahfrom-fkjacobsen-2022-itp/" title="Verifying a Sequent Calculus Prover for First-Order Logic with Functions in Isabelle/HOL" uri="http://localhost/ahfrom-fkjacobsen-2022-itp/" display-uri="ahfrom-fkjacobsen-2022-itp" type="local" />
-                </html:p>
-                <html:p>
-                  <fr:link href="/ahfrom-2020-types/" title="Synthetic Completeness for a Terminating Seligman-Style Tableau System" uri="http://localhost/ahfrom-2020-types/" display-uri="ahfrom-2020-types" type="local" />
-                </html:p>
-                <html:p>
-                  <fr:link href="/ahfrom-2021-esslli/" title="Formalizing Henkin-Style Completeness of an Axiomatic System for Propositional Logic" uri="http://localhost/ahfrom-2021-esslli/" display-uri="ahfrom-2021-esslli" type="local" />
-                </html:p>
-                <html:p>
-                  <fr:link href="/ahfrom-2024-jlc-wollic/" title="Formalized Soundness and Completeness of Epistemic and Public Announcement Logic" uri="http://localhost/ahfrom-2024-jlc-wollic/" display-uri="ahfrom-2024-jlc-wollic" type="local" />
-                </html:p>
-                <html:p>
-                  <fr:link href="/jlimperg-ahfrom-2023-cpp/" title="Aesop: White-Box Best-First Proof Search for Lean" uri="http://localhost/jlimperg-ahfrom-2023-cpp/" display-uri="jlimperg-ahfrom-2023-cpp" type="local" />
-                </html:p>
-                <html:p>
-                  <fr:link href="/ahfrom-2025-cpp/" title="An Isabelle/HOL Framework for Synthetic Completeness Proofs" uri="http://localhost/ahfrom-2025-cpp/" display-uri="ahfrom-2025-cpp" type="local" />
-                </html:p>
+<html:ul><html:li><fr:link href="/ahfrom-2021-esslli/" title="Formalizing Henkin-Style Completeness of an Axiomatic System for Propositional Logic" uri="http://localhost/ahfrom-2021-esslli/" display-uri="ahfrom-2021-esslli" type="local">A historical overview of formalized completeness proofs and a formalization that explains the essence of synthetic completeness proofs.</fr:link></html:li>
+<html:li><fr:link href="/ahfrom-2021-types/" title="A Succinct Formalization of the Completeness of First-Order Logic" uri="http://localhost/ahfrom-2021-types/" display-uri="ahfrom-2021-types" type="local">A formalization of a concise completeness proof for first-order logic in Isabelle/HOL, including solutions to the issues of formalizing quantifiers and proving completeness for formulas with free variables.</fr:link></html:li>
+<html:li><fr:link href="/ahfrom-fkjacobsen-2022-itp/" title="Verifying a Sequent Calculus Prover for First-Order Logic with Functions in Isabelle/HOL" uri="http://localhost/ahfrom-fkjacobsen-2022-itp/" display-uri="ahfrom-fkjacobsen-2022-itp" type="local">A verified prover for first-order logic with functions, with a formalized completeness proof that takes the search strategy of the prover into account.</fr:link></html:li>
+<html:li><fr:link href="/ahfrom-2020-types/" title="Synthetic Completeness for a Terminating Seligman-Style Tableau System" uri="http://localhost/ahfrom-2020-types/" display-uri="ahfrom-2020-types" type="local">A synthetic completeness proof for a tableau system for basic hybrid logic which is both terminating and in the Seligman style where the proof rules reflect the local perspective that modal logic is based on.</fr:link></html:li>
+<html:li><fr:link href="/ahfrom-2024-jlc-wollic/" title="Formalized Soundness and Completeness of Epistemic and Public Announcement Logic" uri="http://localhost/ahfrom-2024-jlc-wollic/" display-uri="ahfrom-2024-jlc-wollic" type="local">Formalized soundness and completeness results for epistemic and public announcement logic, instantiated to a range of concrete axiom systems.</fr:link></html:li>
+<html:li><fr:link href="/jlimperg-ahfrom-2023-cpp/" title="Aesop: White-Box Best-First Proof Search for Lean" uri="http://localhost/jlimperg-ahfrom-2023-cpp/" display-uri="jlimperg-ahfrom-2023-cpp" type="local">A best-first proof search tactic for the proof assistant Lean 4.</fr:link></html:li>
+<html:li><fr:link href="/ahfrom-2025-cpp/" title="An Isabelle/HOL Framework for Synthetic Completeness Proofs" uri="http://localhost/ahfrom-2025-cpp/" display-uri="ahfrom-2025-cpp" type="local">An abstract framework for synthetic completeness proofs.</fr:link></html:li></html:ul></html:p>
               </fr:mainmatter>
             </fr:tree>
             <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
@@ -1706,7 +1684,7 @@ year = {2016},
             <fr:route>/ahfrom-2025-talk-bits/</fr:route>
             <fr:title text="How to Speak Logic with your Computer: The Unreasonable Effectiveness of a Machine Assistant">How to Speak Logic with your Computer: The Unreasonable Effectiveness of a Machine Assistant</fr:title>
             <fr:taxon>Reference</fr:taxon>
-            <fr:meta name="venue">DIKU Bits, University of Copenhagen</fr:meta>
+            <fr:meta name="venue"><fr:link href="/diku/" title="Department of Computer Science" uri="http://localhost/diku/" display-uri="diku" type="local">DIKU</fr:link> Bits</fr:meta>
             <fr:meta name="slides">/bafkrmih2onpoea7xf6nbpjoeusnnhuwnyus4bdfc6zjy6tnbv6dc2435ye.pdf</fr:meta>
             <fr:meta name="external">https://di.ku.dk/forsidebegivenheder/begivenheder-2024/diku-bits-by-asta-halkjaer-from/</fr:meta>
           </fr:frontmatter>
@@ -1754,7 +1732,7 @@ year = {2016},
             <fr:route>/ahfrom-2022-talk-pal/</fr:route>
             <fr:title text="Generic Epistemic and Public Announcement Logic Completeness Results">Generic Epistemic and Public Announcement Logic Completeness Results</fr:title>
             <fr:taxon>Reference</fr:taxon>
-            <fr:meta name="venue">Logic &amp; AI @ AlgoLoG seminar, DTU Compute</fr:meta>
+            <fr:meta name="venue">Logic &amp; AI @ AlgoLoG seminar, <fr:link href="/dtucompute/" title="DTU Compute" uri="http://localhost/dtucompute/" display-uri="dtucompute" type="local">DTU Compute</fr:link></fr:meta>
             <fr:meta name="slides">/bafkrmiati2ris22dy24q6aix3smywxzd22xklozrgi55fngo7mnv3n2dz4.pdf</fr:meta>
           </fr:frontmatter>
           <fr:mainmatter>
@@ -1784,7 +1762,7 @@ year = {2016},
           <fr:mainmatter>
             <html:p>I present the <fr:link href="/ahfrom-2022-afp-naive/" title="A Naive Prover for First-Order Logic" uri="http://localhost/ahfrom-2022-afp-naive/" display-uri="ahfrom-2022-afp-naive" type="local">naive prover</fr:link> for proving completeness of first-order logic sequent calculus.</html:p>
             <html:p>Invited by Lindsey Kuper (UC Santa Cruz).</html:p>
-            <html:p>I gave an earlier version of this talk as a guest lecture in 02256 Automated Reasoning at DTU Compute, invited by <fr:link href="/jvilladsen/" title="Jørgen Villadsen" uri="http://localhost/jvilladsen/" display-uri="jvilladsen" type="local">Jørgen Villadsen</fr:link>.</html:p>
+            <html:p>I gave an earlier version of this talk as a guest lecture in 02256 Automated Reasoning at <fr:link href="/dtucompute/" title="DTU Compute" uri="http://localhost/dtucompute/" display-uri="dtucompute" type="local">DTU Compute</fr:link>, invited by <fr:link href="/jvilladsen/" title="Jørgen Villadsen" uri="http://localhost/jvilladsen/" display-uri="jvilladsen" type="local">Jørgen Villadsen</fr:link>.</html:p>
           </fr:mainmatter>
         </fr:tree>
         <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
@@ -1804,11 +1782,11 @@ year = {2016},
             <fr:route>/ahfrom-2021-talk-kickoff/</fr:route>
             <fr:title text="My PhD Journey">My PhD Journey</fr:title>
             <fr:taxon>Reference</fr:taxon>
-            <fr:meta name="venue">Kick-off event for new PhD students at DTU Compute</fr:meta>
+            <fr:meta name="venue">Kick-off event for new PhD students at <fr:link href="/dtucompute/" title="DTU Compute" uri="http://localhost/dtucompute/" display-uri="dtucompute" type="local">DTU Compute</fr:link></fr:meta>
           </fr:frontmatter>
           <fr:mainmatter>
             <html:p>Slides available on request.</html:p>
-            <html:p>Invited by Kim Knudsen, Head of PhD School, DTU Compute.</html:p>
+            <html:p>Invited by Kim Knudsen, Head of PhD School, <fr:link href="/dtucompute/" title="DTU Compute" uri="http://localhost/dtucompute/" display-uri="dtucompute" type="local">DTU Compute</fr:link>.</html:p>
           </fr:mainmatter>
         </fr:tree>
         <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
@@ -1828,7 +1806,7 @@ year = {2016},
             <fr:route>/ahfrom-2021-talk-wld/</fr:route>
             <fr:title text="Hybrid Logic">Hybrid Logic</fr:title>
             <fr:taxon>Reference</fr:taxon>
-            <fr:meta name="venue">3rd World Logic Day 2021, A Zoom on Logic, DTU Compute</fr:meta>
+            <fr:meta name="venue">3rd World Logic Day 2021, A Zoom on Logic, <fr:link href="/dtucompute/" title="DTU Compute" uri="http://localhost/dtucompute/" display-uri="dtucompute" type="local">DTU Compute</fr:link></fr:meta>
             <fr:meta name="slides">/bafkrmig2ivpizcq3mwoc3dffs5i6s73pumbt2n4huc4t52ubizi54pjbvu.pdf</fr:meta>
           </fr:frontmatter>
           <fr:mainmatter>
@@ -1852,7 +1830,7 @@ year = {2016},
             <fr:route>/ahfrom-2020-talk-belief-revision/</fr:route>
             <fr:title text="Belief Revision and Isabelle/HOL">Belief Revision and Isabelle/HOL</fr:title>
             <fr:taxon>Reference</fr:taxon>
-            <fr:meta name="venue">Seminar course on belief revision at DTU Compute,</fr:meta>
+            <fr:meta name="venue">Seminar course on belief revision at <fr:link href="/dtucompute/" title="DTU Compute" uri="http://localhost/dtucompute/" display-uri="dtucompute" type="local">DTU Compute</fr:link></fr:meta>
             <fr:meta name="slides">/bafkrmibawehd65itfdzm2owllfouwwmzfsb7j52dhonxpgdgvtbwqvy7ke.pdf</fr:meta>
           </fr:frontmatter>
           <fr:mainmatter>
@@ -1907,7 +1885,7 @@ Methods for Computational Logic</fr:title>
           </fr:frontmatter>
           <fr:mainmatter>
             <html:p>I present ideas for my <fr:link href="/ahfrom-2020-msc-thesis/" title="Hybrid Logic" uri="http://localhost/ahfrom-2020-msc-thesis/" display-uri="ahfrom-2020-msc-thesis" type="local">MSc thesis</fr:link> on using Isabelle/HOL to formalizing <fr:link href="/ahfrom-pblackburn-jvilladsen-2020-ijcar/" title="Formalizing a Seligman-Style Tableau System for Hybrid Logic (Short Paper)" uri="http://localhost/ahfrom-pblackburn-jvilladsen-2020-ijcar/" display-uri="ahfrom-pblackburn-jvilladsen-2020-ijcar" type="local">a Seligman-style tableau system for hybrid logic</fr:link>.</html:p>
-            <html:p>I also gave this talk at an AlgoLoG section seminar seminar at DTU Compute.</html:p>
+            <html:p>I also gave this talk at an AlgoLoG section seminar seminar at <fr:link href="/dtucompute/" title="DTU Compute" uri="http://localhost/dtucompute/" display-uri="dtucompute" type="local">DTU Compute</fr:link>.</html:p>
           </fr:mainmatter>
         </fr:tree>
         <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
@@ -1927,7 +1905,7 @@ Methods for Computational Logic</fr:title>
             <fr:route>/ahfrom-2018-talk-magnolia/</fr:route>
             <fr:title text="Magnolia: Implementing System F with Anonymous Sums and Products">Magnolia: Implementing System F with Anonymous Sums and Products</fr:title>
             <fr:taxon>Reference</fr:taxon>
-            <fr:meta name="venue">Workshop on Programs &amp; Proofs, DTU Compute</fr:meta>
+            <fr:meta name="venue">Workshop on Programs &amp; Proofs, <fr:link href="/dtucompute/" title="DTU Compute" uri="http://localhost/dtucompute/" display-uri="dtucompute" type="local">DTU Compute</fr:link></fr:meta>
             <fr:meta name="slides">/bafkrmicrj3hz2lqxewdjt2gkjkszssqessmbd4q5hwslrr7mpt53f5ygdu.pdf</fr:meta>
           </fr:frontmatter>
           <fr:mainmatter>
@@ -1951,7 +1929,7 @@ Methods for Computational Logic</fr:title>
             <fr:route>/ahfrom-2017-talk-fit/</fr:route>
             <fr:title text="FIT: From's Isabelle Tutorial: Verification of Quicksort">FIT: From's Isabelle Tutorial: Verification of Quicksort</fr:title>
             <fr:taxon>Reference</fr:taxon>
-            <fr:meta name="venue">Proof Assistants and Related Tools (PART), DTU Compute</fr:meta>
+            <fr:meta name="venue">Proof Assistants and Related Tools (PART), <fr:link href="/dtucompute/" title="DTU Compute" uri="http://localhost/dtucompute/" display-uri="dtucompute" type="local">DTU Compute</fr:link></fr:meta>
             <fr:meta name="slides">/bafkrmidsxiws4hsnsxe2afgjfilfjb45zjna3r4fynpqlaum3wok64zmmq.pdf</fr:meta>
           </fr:frontmatter>
           <fr:mainmatter>
@@ -1963,10 +1941,10 @@ Methods for Computational Logic</fr:title>
     <fr:tree show-metadata="false">
       <fr:frontmatter>
         <fr:authors />
-        <fr:uri>http://localhost/afp/</fr:uri>
-        <fr:display-uri>afp</fr:display-uri>
-        <fr:route>/afp/</fr:route>
-        <fr:title text="Archive of Formal Proofs">Archive of Formal Proofs</fr:title>
+        <fr:uri>http://localhost/isabelle/</fr:uri>
+        <fr:display-uri>isabelle</fr:display-uri>
+        <fr:route>/isabelle/</fr:route>
+        <fr:title text="Entries in the Archive of Formal Proofs">Entries in the Archive of Formal Proofs</fr:title>
       </fr:frontmatter>
       <fr:mainmatter>
         <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
@@ -1985,7 +1963,9 @@ Methods for Computational Logic</fr:title>
             <fr:title text="Synthetic Completeness">Synthetic Completeness</fr:title>
             <fr:taxon>Reference</fr:taxon>
             <fr:meta name="external">https://isa-afp.org/entries/Synthetic_Completeness.html</fr:meta>
-            <fr:meta name="venue">Archive of Formal Proofs</fr:meta>
+            <fr:meta name="venue">
+              <fr:link href="/afp/" title="Archive of Formal Proofs" uri="http://localhost/afp/" display-uri="afp" type="local">Archive of Formal Proofs</fr:link>
+            </fr:meta>
             <fr:meta name="bibtex"><![CDATA[@article{Synthetic_Completeness-AFP,
 abstract = {In this work, I provide an abstract framework for proving the completeness of a logical calculus using the synthetic method. The synthetic method is based on maximal consistent saturated sets (MCSs). A set of formulas is consistent (with respect to the calculus) when we cannot derive a contradiction from it. It is maximally consistent when it contains every formula that is consistent with it. For logics where it is relevant, it is saturated when it contains a witness for every existential formula. To prove completeness using these maximal consistent saturated sets, we prove a truth lemma: every formula in an MCS has a satisfying model. Here, Hintikka sets provide a useful stepping stone. These can be seen as characterizations of the MCSs based on simple subformula conditions rather than via the calculus. We then prove that every Hintikka set gives rise to a satisfying model and that MCSs are Hintikka sets. Now, assume a valid formula cannot be derived. Then its negation must be consistent and therefore satisfiable. This contradicts validity and the original formula must be derivable. To start, I build maximal consistent saturated sets for any logic that satisfies a small set of assumptions. I do this using a transfinite version of Lindenbaum's lemma, which allows me to support languages of any cardinality. I then prove useful abstract results about derivations and refutations as they relate to MCSs. Finally, I show how Hintikka sets can be derived from the logic's semantics, outlining one way to prove the required truth lemma. To demonstrate the versatility of the framework, I instantiate it with five different examples. The formalization contains soundness and completeness results for: a propositional tableau calculus, a propositional sequent calculus, an axiomatic system for modal logic, a labelled natural deduction system for hybrid logic and a natural deduction system for first-order logic. The tableau example uses custom Hintikka sets based on the calculus, but the other four examples derive them from the semantics in the style of the framework. The hybrid and first-order logic examples rely on saturated MCSs. This places requirements on the cardinalities of their languages to ensure that there are enough witnesses available. In both cases, the type of witnesses must be infinite and have cardinality at least that of the type of propositional/predicate symbols.},
 author = {Asta Halkjær From},
@@ -2017,7 +1997,9 @@ year = {2023},
             <fr:title text="A Naive Prover for First-Order Logic">A Naive Prover for First-Order Logic</fr:title>
             <fr:taxon>Reference</fr:taxon>
             <fr:meta name="external">https://isa-afp.org/entries/FOL_Seq_Calc3.html</fr:meta>
-            <fr:meta name="venue">Archive of Formal Proofs</fr:meta>
+            <fr:meta name="venue">
+              <fr:link href="/afp/" title="Archive of Formal Proofs" uri="http://localhost/afp/" display-uri="afp" type="local">Archive of Formal Proofs</fr:link>
+            </fr:meta>
             <fr:meta name="bibtex"><![CDATA[@article{FOL_Seq_Calc3-AFP,
 abstract = { The AFP entry Abstract Completeness by Blanchette, Popescu and Traytel formalizes the core of Beth/Hintikka-style completeness proofs for first-order logic and can be used to formalize executable sequent calculus provers. In the Journal of Automated Reasoning, the authors instantiate the framework with a sequent calculus for first-order logic and prove its completeness. Their use of an infinite set of proof rules indexed by formulas yields very direct arguments. A fair stream of these rules controls the prover, making its definition remarkably simple. The AFP entry, however, only contains a toy example for propositional logic. The AFP entry A Sequent Calculus Prover for First-Order Logic with Functions by From and Jacobsen also uses the framework, but uses a finite set of generic rules resulting in a more sophisticated prover with more complicated proofs. This entry contains an executable sequent calculus prover for first-order logic with functions in the style presented by Blanchette et al. The prover can be exported to Haskell and this entry includes formalized proofs of its soundness and completeness. The proofs are simpler than those for the prover by From and Jacobsen but the performance of the prover is significantly worse. The included theory Fair-Stream first proves that the sequence of natural numbers 0, 0, 1, 0, 1, 2, etc. is fair. It then proves that mapping any surjective function across the sequence preserves fairness. This method of obtaining a fair stream of rules is similar to the one given by Blanchette et al. The concrete functions from natural numbers to terms, formulas and rules are defined using the Nat-Bijection theory in the HOL-Library. },
 author = {Asta Halkjær From},
@@ -2052,7 +2034,9 @@ year = {2022},
             <fr:title text="A Sequent Calculus Prover for First-Order Logic with Functions">A Sequent Calculus Prover for First-Order Logic with Functions</fr:title>
             <fr:taxon>Reference</fr:taxon>
             <fr:meta name="external">https://isa-afp.org/entries/FOL_Seq_Calc2.html</fr:meta>
-            <fr:meta name="venue">Archive of Formal Proofs</fr:meta>
+            <fr:meta name="venue">
+              <fr:link href="/afp/" title="Archive of Formal Proofs" uri="http://localhost/afp/" display-uri="afp" type="local">Archive of Formal Proofs</fr:link>
+            </fr:meta>
             <fr:meta name="bibtex"><![CDATA[@article{FOL_Seq_Calc2-AFP,
 abstract = {We formalize an automated theorem prover for first-order logic with functions. The proof search procedure is based on sequent calculus and we verify its soundness and completeness using the Abstract Soundness and Abstract Completeness theories. Our analytic completeness proof covers both open and closed formulas. Since our deterministic prover considers only the subset of terms relevant to proving a given sequent, we do so as well when building a countermodel from a failed proof. We formally connect our prover with the proof system and semantics of the existing SeCaV system. In particular, the prover's output can be post-processed in Haskell to generate human-readable SeCaV proofs which are also machine-verifiable proof certificates. Paper: doi.org/10.4230/LIPIcs.ITP.2022.13.},
 author = {Asta Halkjær From and Frederik Krogsdal Jacobsen},
@@ -2087,7 +2071,9 @@ year = {2022},
             <fr:title text="Soundness and Completeness of Implicational Logic">Soundness and Completeness of Implicational Logic</fr:title>
             <fr:taxon>Reference</fr:taxon>
             <fr:meta name="external">https://isa-afp.org/entries/Implicational_Logic.html</fr:meta>
-            <fr:meta name="venue">Archive of Formal Proofs</fr:meta>
+            <fr:meta name="venue">
+              <fr:link href="/afp/" title="Archive of Formal Proofs" uri="http://localhost/afp/" display-uri="afp" type="local">Archive of Formal Proofs</fr:link>
+            </fr:meta>
             <fr:meta name="bibtex"><![CDATA[@article{Implicational_Logic-AFP,
 abstract = {This work is a formalization of soundness and completeness of the Bernays-Tarski axiom system for classical implicational logic. The completeness proof is constructive following the approach by László Kalmár, Elliott Mendelson and others. The result can be extended to full classical propositional logic by uncommenting a few lines for falsehood.},
 author = {Asta Halkjær From and Jørgen Villadsen},
@@ -2119,7 +2105,9 @@ year = {2022},
             <fr:title text="Public Announcement Logic">Public Announcement Logic</fr:title>
             <fr:taxon>Reference</fr:taxon>
             <fr:meta name="external">https://isa-afp.org/entries/Public_Announcement_Logic.html</fr:meta>
-            <fr:meta name="venue">Archive of Formal Proofs</fr:meta>
+            <fr:meta name="venue">
+              <fr:link href="/afp/" title="Archive of Formal Proofs" uri="http://localhost/afp/" display-uri="afp" type="local">Archive of Formal Proofs</fr:link>
+            </fr:meta>
             <fr:meta name="bibtex"><![CDATA[@article{Public_Announcement_Logic-AFP,
 abstract = {This work is a formalization of public announcement logic with countably many agents. It includes proofs of soundness and completeness for a variant of the axiom system PA + DIST! + NEC!. The completeness proof builds on the Epistemic Logic theory. Paper: doi.org/10.1007/978-3-030-90138-7\_2.},
 author = {Asta Halkjær From},
@@ -2151,7 +2139,9 @@ year = {2021},
             <fr:title text="Soundness and Completeness of an Axiomatic System for First-Order Logic">Soundness and Completeness of an Axiomatic System for First-Order Logic</fr:title>
             <fr:taxon>Reference</fr:taxon>
             <fr:meta name="external">https://isa-afp.org/entries/FOL_Axiomatic.html</fr:meta>
-            <fr:meta name="venue">Archive of Formal Proofs</fr:meta>
+            <fr:meta name="venue">
+              <fr:link href="/afp/" title="Archive of Formal Proofs" uri="http://localhost/afp/" display-uri="afp" type="local">Archive of Formal Proofs</fr:link>
+            </fr:meta>
             <fr:meta name="bibtex"><![CDATA[@article{FOL_Axiomatic-AFP,
 abstract = {This work is a formalization of the soundness and completeness of an axiomatic system for first-order logic. The proof system is based on System Q1 by Smullyan and the completeness proof follows his textbook "First-Order Logic" (Springer-Verlag 1968). The completeness proof is in the Henkin style where a consistent set is extended to a maximal consistent set using Lindenbaum's construction and Henkin witnesses are added during the construction to ensure saturation as well. The resulting set is a Hintikka set which, by the model existence theorem, is satisfiable in the Herbrand universe. Paper: doi.org/10.4230/LIPIcs.TYPES.2021.8.},
 author = {Asta Halkjær From},
@@ -2183,7 +2173,9 @@ year = {2021},
             <fr:title text="A Sequent Calculus for First-Order Logic">A Sequent Calculus for First-Order Logic</fr:title>
             <fr:taxon>Reference</fr:taxon>
             <fr:meta name="external">https://isa-afp.org/entries/FOL_Seq_Calc1.html</fr:meta>
-            <fr:meta name="venue">Archive of Formal Proofs</fr:meta>
+            <fr:meta name="venue">
+              <fr:link href="/afp/" title="Archive of Formal Proofs" uri="http://localhost/afp/" display-uri="afp" type="local">Archive of Formal Proofs</fr:link>
+            </fr:meta>
             <fr:meta name="bibtex"><![CDATA[@article{FOL_Seq_Calc1-AFP,
 abstract = {This work formalizes soundness and completeness of a one-sided sequent calculus for first-order logic. The completeness is shown via a translation from a complete semantic tableau calculus, the proof of which is based on the First-Order Logic According to Fitting theory. The calculi and proof techniques are taken from Ben-Ari's Mathematical Logic for Computer Science. Paper: ceur-ws.org/Vol-3002/paper7.pdf.},
 author = {Asta Halkjær From},
@@ -2215,7 +2207,9 @@ year = {2019},
             <fr:title text="Formalizing a Seligman-Style Tableau System for Hybrid Logic">Formalizing a Seligman-Style Tableau System for Hybrid Logic</fr:title>
             <fr:taxon>Reference</fr:taxon>
             <fr:meta name="external">https://isa-afp.org/entries/Hybrid_Logic.html</fr:meta>
-            <fr:meta name="venue">Archive of Formal Proofs</fr:meta>
+            <fr:meta name="venue">
+              <fr:link href="/afp/" title="Archive of Formal Proofs" uri="http://localhost/afp/" display-uri="afp" type="local">Archive of Formal Proofs</fr:link>
+            </fr:meta>
             <fr:meta name="bibtex"><![CDATA[@article{Hybrid_Logic-AFP,
 abstract = {This work is a formalization of soundness and completeness proofs for a Seligman-style tableau system for hybrid logic. The completeness result is obtained via a synthetic approach using maximally consistent sets of tableau blocks. The formalization differs from previous work in a few ways. First, to avoid the need to backtrack in the construction of a tableau, the formalized system has no unnamed initial segment, and therefore no Name rule. Second, I show that the full Bridge rule is admissible in the system. Third, I start from rules restricted to only extend the branch with new formulas, including only witnessing diamonds that are not already witnessed, and show that the unrestricted rules are admissible. Similarly, I start from simpler versions of the @-rules and show that these are sufficient. The GoTo rule is restricted using a notion of potential such that each application consumes potential and potential is earned through applications of the remaining rules. I show that if a branch can be closed then it can be closed starting from a single unit. Finally, Nom is restricted by a fixed set of allowed nominals. The resulting system should be terminating. Paper: doi.org/10.4230/LIPIcs.TYPES.2020.5.},
 author = {Asta Halkjær From},
@@ -2247,7 +2241,9 @@ year = {2019},
             <fr:title text="Epistemic Logic: Completeness of Modal Logics">Epistemic Logic: Completeness of Modal Logics</fr:title>
             <fr:taxon>Reference</fr:taxon>
             <fr:meta name="external">https://isa-afp.org/entries/Epistemic_Logic.html</fr:meta>
-            <fr:meta name="venue">Archive of Formal Proofs</fr:meta>
+            <fr:meta name="venue">
+              <fr:link href="/afp/" title="Archive of Formal Proofs" uri="http://localhost/afp/" display-uri="afp" type="local">Archive of Formal Proofs</fr:link>
+            </fr:meta>
             <fr:meta name="bibtex"><![CDATA[@article{Epistemic_Logic-AFP,
 abstract = {This work is a formalization of epistemic logic. It includes proofs of soundness and completeness for the axiom system K. The completeness proof is based on the textbook "Reasoning About Knowledge" by Fagin, Halpern, Moses and Vardi (MIT Press 1995). The extensions of system K (T, KB, K4, S4, S5) and their completeness proofs are based on the textbook "Modal Logic" by Blackburn, de Rijke and Venema (Cambridge University Press 2001). Papers: doi.org/10.1007/978-3-030-88853-4\_1, doi.org/10.1007/978-3-030-90138-7\_2.},
 author = {Asta Halkjær From},
@@ -2272,7 +2268,96 @@ year = {2018},
         <fr:authors />
         <fr:title text="References">References</fr:title>
       </fr:frontmatter>
-      <fr:mainmatter />
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/ahfrom/" title="Asta Halkjær From" uri="http://localhost/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2023</fr:year>
+              <fr:month>1</fr:month>
+              <fr:day>31</fr:day>
+            </fr:date>
+            <fr:uri>http://localhost/ahfrom-2023-phd-thesis/</fr:uri>
+            <fr:display-uri>ahfrom-2023-phd-thesis</fr:display-uri>
+            <fr:route>/ahfrom-2023-phd-thesis/</fr:route>
+            <fr:title text="Formally Correct Deduction Methods for Computational Logic">Formally Correct Deduction Methods for Computational Logic</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+            <fr:meta name="venue">PhD thesis, Technical University of Denmark</fr:meta>
+            <fr:meta name="slides">/bafkrmihlakseuvtsrtlywgufu6u7td4va5ezlfnlvwapqbfekcjubtxee4.pdf</fr:meta>
+            <fr:meta name="external">/bafkrmia3dddrsbaogkrwfwjc3i4f3vdjhq6rlnoziegwyk5veymmgzlnfa.pdf</fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Advisors: <fr:link href="/jvilladsen/" title="Jørgen Villadsen" uri="http://localhost/jvilladsen/" display-uri="jvilladsen" type="local">Jørgen Villadsen</fr:link> and <fr:link href="/ngierasimczuk/" title="Nina Gierasimczuk" uri="http://localhost/ngierasimczuk/" display-uri="ngierasimczuk" type="local">Nina Gierasimczuk</fr:link>.</html:p>
+            <html:p>Some logics make it easier to say what we want than others and some methods of deduction are simpler to work with than others. One thing typically remains important: that we can deduce all valid things (completeness). In this thesis I tackle completeness of various deduction methods for various logics. The work is formalized in the proof assistant Isabelle/HOL which offers a common language for mathematics and computer science where proofs can be checked mechanically. This thesis discusses the following contributions of my PhD project in particular:
+<html:ul><html:li><fr:link href="/ahfrom-2021-esslli/" title="Formalizing Henkin-Style Completeness of an Axiomatic System for Propositional Logic" uri="http://localhost/ahfrom-2021-esslli/" display-uri="ahfrom-2021-esslli" type="local">A historical overview of formalized completeness proofs and a formalization that explains the essence of synthetic completeness proofs.</fr:link></html:li>
+<html:li><fr:link href="/ahfrom-2021-types/" title="A Succinct Formalization of the Completeness of First-Order Logic" uri="http://localhost/ahfrom-2021-types/" display-uri="ahfrom-2021-types" type="local">A formalization of a concise completeness proof for first-order logic in Isabelle/HOL, including solutions to the issues of formalizing quantifiers and proving completeness for formulas with free variables.</fr:link></html:li>
+<html:li><fr:link href="/ahfrom-fkjacobsen-2022-itp/" title="Verifying a Sequent Calculus Prover for First-Order Logic with Functions in Isabelle/HOL" uri="http://localhost/ahfrom-fkjacobsen-2022-itp/" display-uri="ahfrom-fkjacobsen-2022-itp" type="local">A verified prover for first-order logic with functions, with a formalized completeness proof that takes the search strategy of the prover into account.</fr:link></html:li>
+<html:li><fr:link href="/ahfrom-2020-types/" title="Synthetic Completeness for a Terminating Seligman-Style Tableau System" uri="http://localhost/ahfrom-2020-types/" display-uri="ahfrom-2020-types" type="local">A synthetic completeness proof for a tableau system for basic hybrid logic which is both terminating and in the Seligman style where the proof rules reflect the local perspective that modal logic is based on.</fr:link></html:li>
+<html:li><fr:link href="/ahfrom-2024-jlc-wollic/" title="Formalized Soundness and Completeness of Epistemic and Public Announcement Logic" uri="http://localhost/ahfrom-2024-jlc-wollic/" display-uri="ahfrom-2024-jlc-wollic" type="local">Formalized soundness and completeness results for epistemic and public announcement logic, instantiated to a range of concrete axiom systems.</fr:link></html:li>
+<html:li><fr:link href="/jlimperg-ahfrom-2023-cpp/" title="Aesop: White-Box Best-First Proof Search for Lean" uri="http://localhost/jlimperg-ahfrom-2023-cpp/" display-uri="jlimperg-ahfrom-2023-cpp" type="local">A best-first proof search tactic for the proof assistant Lean 4.</fr:link></html:li>
+<html:li><fr:link href="/ahfrom-2025-cpp/" title="An Isabelle/HOL Framework for Synthetic Completeness Proofs" uri="http://localhost/ahfrom-2025-cpp/" display-uri="ahfrom-2025-cpp" type="local">An abstract framework for synthetic completeness proofs.</fr:link></html:li></html:ul></html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/ahfrom/" title="Asta Halkjær From" uri="http://localhost/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2020</fr:year>
+              <fr:month>2</fr:month>
+              <fr:day>5</fr:day>
+            </fr:date>
+            <fr:uri>http://localhost/ahfrom-2020-msc-thesis/</fr:uri>
+            <fr:display-uri>ahfrom-2020-msc-thesis</fr:display-uri>
+            <fr:route>/ahfrom-2020-msc-thesis/</fr:route>
+            <fr:title text="Hybrid Logic">Hybrid Logic</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+            <fr:meta name="venue">MSc thesis, Technical University of Denmark</fr:meta>
+            <fr:meta name="slides">/bafkrmif2f42yxasrnngbmbxcgqfrc2x54v224pncgi363c4gdamulg6vpa.pdf</fr:meta>
+            <fr:meta name="external">/bafkrmibgefm3nzpxevhkgcdeyjvm4bieoayke44eshkhujkcz3d4vftdya.pdf</fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Advisors: <fr:link href="/jvilladsen/" title="Jørgen Villadsen" uri="http://localhost/jvilladsen/" display-uri="jvilladsen" type="local">Jørgen Villadsen</fr:link>, <fr:link href="/abjensen/" title="Alexander Birch Jensen" uri="http://localhost/abjensen/" display-uri="abjensen" type="local">Alexander Birch Jensen</fr:link>, and <fr:link href="/pblackburn/" title="Patrick Blackburn" uri="http://localhost/pblackburn/" display-uri="pblackburn" type="local">Patrick Blackburn</fr:link>.</html:p>
+            <html:p>I formalize a Seligman-style tableau system for basic hybrid logic in the proof assistant Isabelle/HOL. Unlike the original system, I name every block on the tableau to avoid the risk of needing to backtrack when constructing a tableau. The tableau rules are restricted to only allow extensions of the tableau that include a new formula and I show via a strengthening lemma that this restriction preserves completeness. Showing strengthening under this restriction requires relaxing the Nom rule to allow the shared nominal to occur on any block, not just the current one as originally done. The <fr:tex display="inline"><![CDATA[(\diamond )]]></fr:tex> rule is restricted to only apply to unwitnessed <fr:tex display="inline"><![CDATA[\diamond ]]></fr:tex>-formulas and this restriction is lifted by proving a substitution lemma for the calculus. General versions of the @-rules are derived from their restricted counterparts using a structural lemma that allows weakening, factoring and reordering at the level of blocks and a similar lemma that works inside the current block. These lemmas show that forward referencing in the tableau is admissible as long as it is acyclic. The GoTo rule is restricted using a notion of coins where each application of GoTo requires spending a coin and coins are earned through applications of the remaining rules. If a branch can be closed then it can be closed starting from a single coin. This restriction of GoTo works better with rule induction than the simpler scheme of disallowing two applications in a row. I show that the Bridge rule is admissible using a set of indices into the branch that satisfies a particular descendant relation. This set effectively guides what formula occurrences should be modified when one accessibility formula is replaced by another. Next, I apply an existing synthetic completeness proof based on maximally consistent sets of blocks to show that the negation of any valid formula has a closing tableau. Using this approach for the restricted system is novel. Finally, in pursuit of a terminating system, I suggest a restriction of the Nom rule based on tags that directly encodes the notion of copying in the right direction and sketch a strategy for lifting this restriction.</html:p>
+            <html:p>
+              <fr:link href="/ahfrom-2019-afp-hybrid/" title="Formalizing a Seligman-Style Tableau System for Hybrid Logic" uri="http://localhost/ahfrom-2019-afp-hybrid/" display-uri="ahfrom-2019-afp-hybrid" type="local" />
+            </html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/ahfrom/" title="Asta Halkjær From" uri="http://localhost/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2017</fr:year>
+              <fr:month>6</fr:month>
+              <fr:day>7</fr:day>
+            </fr:date>
+            <fr:uri>http://localhost/ahfrom-2017-bsc-thesis/</fr:uri>
+            <fr:display-uri>ahfrom-2017-bsc-thesis</fr:display-uri>
+            <fr:route>/ahfrom-2017-bsc-thesis/</fr:route>
+            <fr:title text="Formalized First-Order Logic">Formalized First-Order Logic</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+            <fr:meta name="venue">BSc thesis, Technical University of Denmark</fr:meta>
+            <fr:meta name="slides">/bafkrmidyzxhgvx765ci7iir3gfu4oo2kpspkhseineoygmtdnkm5x5p44i.pdf</fr:meta>
+            <fr:meta name="external">/bafkrmigyesd2x7y7pjzqfzmh4ymip2qvjer5yi4qfmxflcnjc4pwwxnsfi.pdf</fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Advisors: <fr:link href="/jvilladsen/" title="Jørgen Villadsen" uri="http://localhost/jvilladsen/" display-uri="jvilladsen" type="local">Jørgen Villadsen</fr:link>, <fr:link href="/aschlichtkrull/" title="Anders Schlichtkrull" uri="http://localhost/aschlichtkrull/" display-uri="aschlichtkrull" type="local">Anders Schlichtkrull</fr:link>, and <fr:link href="/jblarsen/" title="John Bruntse Larsen" uri="http://localhost/jblarsen/" display-uri="jblarsen" type="local">John Bruntse Larsen</fr:link>.</html:p>
+            <html:p>The goal of this thesis is to formalize first-order logic, specifically the natural deduction proof system NaDeA, in the proof assistant Isabelle. The syntax and semantics are formalized as Isabelle data types and functions and the inference rules of NaDeA are defined as an inductive set. The soundness of these inference rules is formally verified, ensuring only valid formulas can be derived in the proof system. A textbook proof of completeness for sentences in natural deduction using abstract consistency properties is explained before this proof is formalized. This formalization is based on existing work, but modernized for this thesis. It is described in depth and a version of the completeness result using any countably infinite domain is developed by proving that the semantics respect the bijection between this and the domain of Herbrand terms. Next the problem of open formulas is discussed and a solution provided by an extension to NaDeA. This extension allows the derivation of the original formula from its universal closure, enabling us to close the formula, apply the original completeness result and derive the original one in the extended system. Assumptions are handled by turning them into implications and back again, a technique that requires a proof of weakening to be formalized first. It is unlikely that this extension is actually necessary for completeness for open formulas, but it makes the otherwise subtle interaction between substitution and de Bruijn indices more manageable. Finally insights gained while working with the formalization and extending it are shared, in the hope that it may help other formal verification efforts</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+      </fr:mainmatter>
     </fr:tree>
     <fr:tree show-metadata="false" hidden-when-empty="true">
       <fr:frontmatter>
@@ -2293,7 +2378,114 @@ year = {2018},
         <fr:authors />
         <fr:title text="Related">Related</fr:title>
       </fr:frontmatter>
-      <fr:mainmatter />
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors />
+            <fr:date>
+              <fr:year>2023</fr:year>
+              <fr:month>8</fr:month>
+            </fr:date>
+            <fr:date>
+              <fr:year>2024</fr:year>
+              <fr:month>8</fr:month>
+            </fr:date>
+            <fr:uri>http://localhost/dalux/</fr:uri>
+            <fr:display-uri>dalux</fr:display-uri>
+            <fr:route>/dalux/</fr:route>
+            <fr:title text="Dalux">Dalux</fr:title>
+            <fr:taxon>Company</fr:taxon>
+            <fr:meta name="external">https://www.dalux.com/</fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter />
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors />
+            <fr:uri>http://localhost/dtucompute/</fr:uri>
+            <fr:display-uri>dtucompute</fr:display-uri>
+            <fr:route>/dtucompute/</fr:route>
+            <fr:title text="DTU Compute">DTU Compute</fr:title>
+            <fr:taxon>Department</fr:taxon>
+            <fr:meta name="venue">
+              <fr:link href="/dtu/" title="Technical University of Denmark" uri="http://localhost/dtu/" display-uri="dtu" type="local">Technical University of Denmark</fr:link>
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter />
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors />
+            <fr:uri>http://localhost/diku/</fr:uri>
+            <fr:display-uri>diku</fr:display-uri>
+            <fr:route>/diku/</fr:route>
+            <fr:title text="Department of Computer Science">Department of Computer Science</fr:title>
+            <fr:taxon>Department</fr:taxon>
+            <fr:meta name="venue">
+              <fr:link href="/ucph/" title="University of Copenhagen" uri="http://localhost/ucph/" display-uri="ucph" type="local">University of Copenhagen</fr:link>
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter />
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors />
+            <fr:uri>http://localhost/dtraytel/</fr:uri>
+            <fr:display-uri>dtraytel</fr:display-uri>
+            <fr:route>/dtraytel/</fr:route>
+            <fr:title text="Dmitriy Traytel">Dmitriy Traytel</fr:title>
+            <fr:taxon>Person</fr:taxon>
+            <fr:meta name="external">https://traytel.bitbucket.io/</fr:meta>
+            <fr:meta name="institution">
+              <fr:link href="/ucph/" title="University of Copenhagen" uri="http://localhost/ucph/" display-uri="ucph" type="local">University of Copenhagen</fr:link>
+            </fr:meta>
+            <fr:meta name="orcid">0000-0001-7982-2768</fr:meta>
+            <fr:meta name="position">Associate Professor</fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter />
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors />
+            <fr:uri>http://localhost/jvilladsen/</fr:uri>
+            <fr:display-uri>jvilladsen</fr:display-uri>
+            <fr:route>/jvilladsen/</fr:route>
+            <fr:title text="Jørgen Villadsen">Jørgen Villadsen</fr:title>
+            <fr:taxon>Person</fr:taxon>
+            <fr:meta name="external">https://people.compute.dtu.dk/jovi/</fr:meta>
+            <fr:meta name="institution">Technical University of Denmark</fr:meta>
+            <fr:meta name="orcid">0000-0003-3624-1159</fr:meta>
+            <fr:meta name="position">Associate Professor</fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter />
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors />
+            <fr:uri>http://localhost/ngierasimczuk/</fr:uri>
+            <fr:display-uri>ngierasimczuk</fr:display-uri>
+            <fr:route>/ngierasimczuk/</fr:route>
+            <fr:title text="Nina Gierasimczuk">Nina Gierasimczuk</fr:title>
+            <fr:taxon>Person</fr:taxon>
+            <fr:meta name="external">https://ninagierasimczuk.com/</fr:meta>
+            <fr:meta name="institution">Technical University of Denmark</fr:meta>
+            <fr:meta name="orcid">0000-0001-5081-4676</fr:meta>
+            <fr:meta name="position">Associate Professor</fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter />
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors />
+            <fr:uri>http://localhost/dtu/</fr:uri>
+            <fr:display-uri>dtu</fr:display-uri>
+            <fr:route>/dtu/</fr:route>
+            <fr:title text="Technical University of Denmark">Technical University of Denmark</fr:title>
+            <fr:taxon>Institution</fr:taxon>
+          </fr:frontmatter>
+          <fr:mainmatter />
+        </fr:tree>
+      </fr:mainmatter>
     </fr:tree>
     <fr:tree show-metadata="false" hidden-when-empty="true">
       <fr:frontmatter>

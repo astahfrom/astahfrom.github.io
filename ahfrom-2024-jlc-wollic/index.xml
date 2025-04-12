@@ -60,7 +60,9 @@ year = {2024},
             <fr:title text="Public Announcement Logic">Public Announcement Logic</fr:title>
             <fr:taxon>Reference</fr:taxon>
             <fr:meta name="external">https://isa-afp.org/entries/Public_Announcement_Logic.html</fr:meta>
-            <fr:meta name="venue">Archive of Formal Proofs</fr:meta>
+            <fr:meta name="venue">
+              <fr:link href="/afp/" title="Archive of Formal Proofs" uri="http://localhost/afp/" display-uri="afp" type="local">Archive of Formal Proofs</fr:link>
+            </fr:meta>
             <fr:meta name="bibtex"><![CDATA[@article{Public_Announcement_Logic-AFP,
 abstract = {This work is a formalization of public announcement logic with countably many agents. It includes proofs of soundness and completeness for a variant of the axiom system PA + DIST! + NEC!. The completeness proof builds on the Epistemic Logic theory. Paper: doi.org/10.1007/978-3-030-90138-7\_2.},
 author = {Asta Halkjær From},
@@ -92,7 +94,9 @@ year = {2021},
             <fr:title text="Epistemic Logic: Completeness of Modal Logics">Epistemic Logic: Completeness of Modal Logics</fr:title>
             <fr:taxon>Reference</fr:taxon>
             <fr:meta name="external">https://isa-afp.org/entries/Epistemic_Logic.html</fr:meta>
-            <fr:meta name="venue">Archive of Formal Proofs</fr:meta>
+            <fr:meta name="venue">
+              <fr:link href="/afp/" title="Archive of Formal Proofs" uri="http://localhost/afp/" display-uri="afp" type="local">Archive of Formal Proofs</fr:link>
+            </fr:meta>
             <fr:meta name="bibtex"><![CDATA[@article{Epistemic_Logic-AFP,
 abstract = {This work is a formalization of epistemic logic. It includes proofs of soundness and completeness for the axiom system K. The completeness proof is based on the textbook "Reasoning About Knowledge" by Fagin, Halpern, Moses and Vardi (MIT Press 1995). The extensions of system K (T, KB, K4, S4, S5) and their completeness proofs are based on the textbook "Modal Logic" by Blackburn, de Rijke and Venema (Cambridge University Press 2001). Papers: doi.org/10.1007/978-3-030-88853-4\_1, doi.org/10.1007/978-3-030-90138-7\_2.},
 author = {Asta Halkjær From},
@@ -147,37 +151,13 @@ year = {2018},
           <fr:mainmatter>
             <html:p>Advisors: <fr:link href="/jvilladsen/" title="Jørgen Villadsen" uri="http://localhost/jvilladsen/" display-uri="jvilladsen" type="local">Jørgen Villadsen</fr:link> and <fr:link href="/ngierasimczuk/" title="Nina Gierasimczuk" uri="http://localhost/ngierasimczuk/" display-uri="ngierasimczuk" type="local">Nina Gierasimczuk</fr:link>.</html:p>
             <html:p>Some logics make it easier to say what we want than others and some methods of deduction are simpler to work with than others. One thing typically remains important: that we can deduce all valid things (completeness). In this thesis I tackle completeness of various deduction methods for various logics. The work is formalized in the proof assistant Isabelle/HOL which offers a common language for mathematics and computer science where proofs can be checked mechanically. This thesis discusses the following contributions of my PhD project in particular:
-<html:ul><html:li>A historical overview of formalized completeness proofs and a formalization that explains the essence of synthetic completeness proofs.</html:li>
-<html:li>A formalization of a concise completeness proof for first-order logic in Isabelle/HOL, including solutions to the issues of formalizing quantifiers and proving completeness for formulas with free variables.</html:li>
-<html:li>A verified prover for first-order logic with functions, with a formalized completeness proof that takes the search strategy of the prover into account.</html:li>
-<html:li>A synthetic completeness proof for a tableau system for basic hybrid logic which is both terminating and in the Seligman style where the proof rules reflect the local perspective that modal logic is based on.</html:li>
-<html:li>Formalized soundness and completeness results for epistemic and public announcement logic, instantiated to a range of concrete axiom systems.</html:li>
-<html:li>A best-first proof search tactic for the proof assistant Lean 4.</html:li>
-<html:li>An abstract framework for synthetic completeness proofs.</html:li></html:ul></html:p>
-            <html:p>
-              <fr:link href="/ahfrom-2021-esslli/" title="Formalizing Henkin-Style Completeness of an Axiomatic System for Propositional Logic" uri="http://localhost/ahfrom-2021-esslli/" display-uri="ahfrom-2021-esslli" type="local" />
-            </html:p>
-            <html:p>
-              <fr:link href="/ahfrom-2021-types/" title="A Succinct Formalization of the Completeness of First-Order Logic" uri="http://localhost/ahfrom-2021-types/" display-uri="ahfrom-2021-types" type="local" />
-            </html:p>
-            <html:p>
-              <fr:link href="/ahfrom-fkjacobsen-2022-itp/" title="Verifying a Sequent Calculus Prover for First-Order Logic with Functions in Isabelle/HOL" uri="http://localhost/ahfrom-fkjacobsen-2022-itp/" display-uri="ahfrom-fkjacobsen-2022-itp" type="local" />
-            </html:p>
-            <html:p>
-              <fr:link href="/ahfrom-2020-types/" title="Synthetic Completeness for a Terminating Seligman-Style Tableau System" uri="http://localhost/ahfrom-2020-types/" display-uri="ahfrom-2020-types" type="local" />
-            </html:p>
-            <html:p>
-              <fr:link href="/ahfrom-2021-esslli/" title="Formalizing Henkin-Style Completeness of an Axiomatic System for Propositional Logic" uri="http://localhost/ahfrom-2021-esslli/" display-uri="ahfrom-2021-esslli" type="local" />
-            </html:p>
-            <html:p>
-              <fr:link href="/ahfrom-2024-jlc-wollic/" title="Formalized Soundness and Completeness of Epistemic and Public Announcement Logic" uri="http://localhost/ahfrom-2024-jlc-wollic/" display-uri="ahfrom-2024-jlc-wollic" type="local" />
-            </html:p>
-            <html:p>
-              <fr:link href="/jlimperg-ahfrom-2023-cpp/" title="Aesop: White-Box Best-First Proof Search for Lean" uri="http://localhost/jlimperg-ahfrom-2023-cpp/" display-uri="jlimperg-ahfrom-2023-cpp" type="local" />
-            </html:p>
-            <html:p>
-              <fr:link href="/ahfrom-2025-cpp/" title="An Isabelle/HOL Framework for Synthetic Completeness Proofs" uri="http://localhost/ahfrom-2025-cpp/" display-uri="ahfrom-2025-cpp" type="local" />
-            </html:p>
+<html:ul><html:li><fr:link href="/ahfrom-2021-esslli/" title="Formalizing Henkin-Style Completeness of an Axiomatic System for Propositional Logic" uri="http://localhost/ahfrom-2021-esslli/" display-uri="ahfrom-2021-esslli" type="local">A historical overview of formalized completeness proofs and a formalization that explains the essence of synthetic completeness proofs.</fr:link></html:li>
+<html:li><fr:link href="/ahfrom-2021-types/" title="A Succinct Formalization of the Completeness of First-Order Logic" uri="http://localhost/ahfrom-2021-types/" display-uri="ahfrom-2021-types" type="local">A formalization of a concise completeness proof for first-order logic in Isabelle/HOL, including solutions to the issues of formalizing quantifiers and proving completeness for formulas with free variables.</fr:link></html:li>
+<html:li><fr:link href="/ahfrom-fkjacobsen-2022-itp/" title="Verifying a Sequent Calculus Prover for First-Order Logic with Functions in Isabelle/HOL" uri="http://localhost/ahfrom-fkjacobsen-2022-itp/" display-uri="ahfrom-fkjacobsen-2022-itp" type="local">A verified prover for first-order logic with functions, with a formalized completeness proof that takes the search strategy of the prover into account.</fr:link></html:li>
+<html:li><fr:link href="/ahfrom-2020-types/" title="Synthetic Completeness for a Terminating Seligman-Style Tableau System" uri="http://localhost/ahfrom-2020-types/" display-uri="ahfrom-2020-types" type="local">A synthetic completeness proof for a tableau system for basic hybrid logic which is both terminating and in the Seligman style where the proof rules reflect the local perspective that modal logic is based on.</fr:link></html:li>
+<html:li><fr:link href="/ahfrom-2024-jlc-wollic/" title="Formalized Soundness and Completeness of Epistemic and Public Announcement Logic" uri="http://localhost/ahfrom-2024-jlc-wollic/" display-uri="ahfrom-2024-jlc-wollic" type="local">Formalized soundness and completeness results for epistemic and public announcement logic, instantiated to a range of concrete axiom systems.</fr:link></html:li>
+<html:li><fr:link href="/jlimperg-ahfrom-2023-cpp/" title="Aesop: White-Box Best-First Proof Search for Lean" uri="http://localhost/jlimperg-ahfrom-2023-cpp/" display-uri="jlimperg-ahfrom-2023-cpp" type="local">A best-first proof search tactic for the proof assistant Lean 4.</fr:link></html:li>
+<html:li><fr:link href="/ahfrom-2025-cpp/" title="An Isabelle/HOL Framework for Synthetic Completeness Proofs" uri="http://localhost/ahfrom-2025-cpp/" display-uri="ahfrom-2025-cpp" type="local">An abstract framework for synthetic completeness proofs.</fr:link></html:li></html:ul></html:p>
           </fr:mainmatter>
         </fr:tree>
       </fr:mainmatter>

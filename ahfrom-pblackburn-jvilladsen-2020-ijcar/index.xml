@@ -67,7 +67,9 @@ year = {2020},
             <fr:title text="Formalizing a Seligman-Style Tableau System for Hybrid Logic">Formalizing a Seligman-Style Tableau System for Hybrid Logic</fr:title>
             <fr:taxon>Reference</fr:taxon>
             <fr:meta name="external">https://isa-afp.org/entries/Hybrid_Logic.html</fr:meta>
-            <fr:meta name="venue">Archive of Formal Proofs</fr:meta>
+            <fr:meta name="venue">
+              <fr:link href="/afp/" title="Archive of Formal Proofs" uri="http://localhost/afp/" display-uri="afp" type="local">Archive of Formal Proofs</fr:link>
+            </fr:meta>
             <fr:meta name="bibtex"><![CDATA[@article{Hybrid_Logic-AFP,
 abstract = {This work is a formalization of soundness and completeness proofs for a Seligman-style tableau system for hybrid logic. The completeness result is obtained via a synthetic approach using maximally consistent sets of tableau blocks. The formalization differs from previous work in a few ways. First, to avoid the need to backtrack in the construction of a tableau, the formalized system has no unnamed initial segment, and therefore no Name rule. Second, I show that the full Bridge rule is admissible in the system. Third, I start from rules restricted to only extend the branch with new formulas, including only witnessing diamonds that are not already witnessed, and show that the unrestricted rules are admissible. Similarly, I start from simpler versions of the @-rules and show that these are sufficient. The GoTo rule is restricted using a notion of potential such that each application consumes potential and potential is earned through applications of the remaining rules. I show that if a branch can be closed then it can be closed starting from a single unit. Finally, Nom is restricted by a fixed set of allowed nominals. The resulting system should be terminating. Paper: doi.org/10.4230/LIPIcs.TYPES.2020.5.},
 author = {Asta Halkjær From},
@@ -115,7 +117,7 @@ year = {2019},
             <fr:route>/ahfrom-2021-talk-wld/</fr:route>
             <fr:title text="Hybrid Logic">Hybrid Logic</fr:title>
             <fr:taxon>Reference</fr:taxon>
-            <fr:meta name="venue">3rd World Logic Day 2021, A Zoom on Logic, DTU Compute</fr:meta>
+            <fr:meta name="venue">3rd World Logic Day 2021, A Zoom on Logic, <fr:link href="/dtucompute/" title="DTU Compute" uri="http://localhost/dtucompute/" display-uri="dtucompute" type="local">DTU Compute</fr:link></fr:meta>
             <fr:meta name="slides">/bafkrmig2ivpizcq3mwoc3dffs5i6s73pumbt2n4huc4t52ubizi54pjbvu.pdf</fr:meta>
           </fr:frontmatter>
           <fr:mainmatter>
@@ -170,7 +172,7 @@ Methods for Computational Logic</fr:title>
           </fr:frontmatter>
           <fr:mainmatter>
             <html:p>I present ideas for my <fr:link href="/ahfrom-2020-msc-thesis/" title="Hybrid Logic" uri="http://localhost/ahfrom-2020-msc-thesis/" display-uri="ahfrom-2020-msc-thesis" type="local">MSc thesis</fr:link> on using Isabelle/HOL to formalizing <fr:link href="/ahfrom-pblackburn-jvilladsen-2020-ijcar/" title="Formalizing a Seligman-Style Tableau System for Hybrid Logic (Short Paper)" uri="http://localhost/ahfrom-pblackburn-jvilladsen-2020-ijcar/" display-uri="ahfrom-pblackburn-jvilladsen-2020-ijcar" type="local">a Seligman-style tableau system for hybrid logic</fr:link>.</html:p>
-            <html:p>I also gave this talk at an AlgoLoG section seminar seminar at DTU Compute.</html:p>
+            <html:p>I also gave this talk at an AlgoLoG section seminar seminar at <fr:link href="/dtucompute/" title="DTU Compute" uri="http://localhost/dtucompute/" display-uri="dtucompute" type="local">DTU Compute</fr:link>.</html:p>
           </fr:mainmatter>
         </fr:tree>
       </fr:mainmatter>

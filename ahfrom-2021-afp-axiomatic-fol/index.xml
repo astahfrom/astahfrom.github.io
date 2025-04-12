@@ -16,7 +16,9 @@
     <fr:title text="Soundness and Completeness of an Axiomatic System for First-Order Logic">Soundness and Completeness of an Axiomatic System for First-Order Logic</fr:title>
     <fr:taxon>Reference</fr:taxon>
     <fr:meta name="external">https://isa-afp.org/entries/FOL_Axiomatic.html</fr:meta>
-    <fr:meta name="venue">Archive of Formal Proofs</fr:meta>
+    <fr:meta name="venue">
+      <fr:link href="/afp/" title="Archive of Formal Proofs" uri="http://localhost/afp/" display-uri="afp" type="local">Archive of Formal Proofs</fr:link>
+    </fr:meta>
     <fr:meta name="bibtex"><![CDATA[@article{FOL_Axiomatic-AFP,
 abstract = {This work is a formalization of the soundness and completeness of an axiomatic system for first-order logic. The proof system is based on System Q1 by Smullyan and the completeness proof follows his textbook "First-Order Logic" (Springer-Verlag 1968). The completeness proof is in the Henkin style where a consistent set is extended to a maximal consistent set using Lindenbaum's construction and Henkin witnesses are added during the construction to ensure saturation as well. The resulting set is a Hintikka set which, by the model existence theorem, is satisfiable in the Herbrand universe. Paper: doi.org/10.4230/LIPIcs.TYPES.2021.8.},
 author = {Asta Halkjær From},
@@ -97,7 +99,20 @@ year = {2021},
         <fr:authors />
         <fr:title text="Related">Related</fr:title>
       </fr:frontmatter>
-      <fr:mainmatter />
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors />
+            <fr:uri>http://localhost/afp/</fr:uri>
+            <fr:display-uri>afp</fr:display-uri>
+            <fr:route>/afp/</fr:route>
+            <fr:title text="Archive of Formal Proofs">Archive of Formal Proofs</fr:title>
+            <fr:taxon>Journal</fr:taxon>
+            <fr:meta name="external">https://www.isa-afp.org/</fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter />
+        </fr:tree>
+      </fr:mainmatter>
     </fr:tree>
     <fr:tree show-metadata="false" hidden-when-empty="true">
       <fr:frontmatter>
