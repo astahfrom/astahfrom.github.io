@@ -17,7 +17,7 @@
     <fr:route>/forest/ahfrom-2020-msc-thesis/</fr:route>
     <fr:title text="Hybrid Logic">Hybrid Logic</fr:title>
     <fr:taxon>Reference</fr:taxon>
-    <fr:meta name="venue">MSc thesis, Technical University of Denmark</fr:meta>
+    <fr:meta name="venue">MSc thesis, <fr:link href="/forest/dtu/" title="Technical University of Denmark" uri="https://astahfrom.github.io/forest/dtu/" display-uri="dtu" type="local">Technical University of Denmark</fr:link></fr:meta>
     <fr:meta name="slides">/forest/bafkrmif2f42yxasrnngbmbxcgqfrc2x54v224pncgi363c4gdamulg6vpa.pdf</fr:meta>
     <fr:meta name="external">/forest/bafkrmibgefm3nzpxevhkgcdeyjvm4bieoayke44eshkhujkcz3d4vftdya.pdf</fr:meta>
   </fr:frontmatter>
@@ -179,6 +179,17 @@ year = {2019},
             <fr:meta name="institution">University of Roskilde</fr:meta>
             <fr:meta name="orcid">0000-0001-9345-552X</fr:meta>
             <fr:meta name="position">Professor</fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter />
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors />
+            <fr:uri>https://astahfrom.github.io/forest/dtu/</fr:uri>
+            <fr:display-uri>dtu</fr:display-uri>
+            <fr:route>/forest/dtu/</fr:route>
+            <fr:title text="Technical University of Denmark">Technical University of Denmark</fr:title>
+            <fr:taxon>Institution</fr:taxon>
           </fr:frontmatter>
           <fr:mainmatter />
         </fr:tree>

@@ -49,7 +49,7 @@
             <fr:route>/forest/ahfrom-2017-bsc-thesis/</fr:route>
             <fr:title text="Formalized First-Order Logic">Formalized First-Order Logic</fr:title>
             <fr:taxon>Reference</fr:taxon>
-            <fr:meta name="venue">BSc thesis, Technical University of Denmark</fr:meta>
+            <fr:meta name="venue">BSc thesis, <fr:link href="/forest/dtu/" title="Technical University of Denmark" uri="https://astahfrom.github.io/forest/dtu/" display-uri="dtu" type="local">Technical University of Denmark</fr:link></fr:meta>
             <fr:meta name="slides">/forest/bafkrmidyzxhgvx765ci7iir3gfu4oo2kpspkhseineoygmtdnkm5x5p44i.pdf</fr:meta>
             <fr:meta name="external">/forest/bafkrmigyesd2x7y7pjzqfzmh4ymip2qvjer5yi4qfmxflcnjc4pwwxnsfi.pdf</fr:meta>
           </fr:frontmatter>

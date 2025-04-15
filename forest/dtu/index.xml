@@ -75,6 +75,94 @@
         </fr:tree>
         <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
           <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2023</fr:year>
+              <fr:month>1</fr:month>
+              <fr:day>31</fr:day>
+            </fr:date>
+            <fr:uri>https://astahfrom.github.io/forest/ahfrom-2023-phd-thesis/</fr:uri>
+            <fr:display-uri>ahfrom-2023-phd-thesis</fr:display-uri>
+            <fr:route>/forest/ahfrom-2023-phd-thesis/</fr:route>
+            <fr:title text="Formally Correct Deduction Methods for Computational Logic">Formally Correct Deduction Methods for Computational Logic</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+            <fr:meta name="venue">PhD thesis, <fr:link href="/forest/dtu/" title="Technical University of Denmark" uri="https://astahfrom.github.io/forest/dtu/" display-uri="dtu" type="local">Technical University of Denmark</fr:link></fr:meta>
+            <fr:meta name="slides">/forest/bafkrmihlakseuvtsrtlywgufu6u7td4va5ezlfnlvwapqbfekcjubtxee4.pdf</fr:meta>
+            <fr:meta name="external">/forest/bafkrmia3dddrsbaogkrwfwjc3i4f3vdjhq6rlnoziegwyk5veymmgzlnfa.pdf</fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Advisors: <fr:link href="/forest/jvilladsen/" title="Jørgen Villadsen" uri="https://astahfrom.github.io/forest/jvilladsen/" display-uri="jvilladsen" type="local">Jørgen Villadsen</fr:link> and <fr:link href="/forest/ngierasimczuk/" title="Nina Gierasimczuk" uri="https://astahfrom.github.io/forest/ngierasimczuk/" display-uri="ngierasimczuk" type="local">Nina Gierasimczuk</fr:link>.</html:p>
+            <html:p>Some logics make it easier to say what we want than others and some methods of deduction are simpler to work with than others. One thing typically remains important: that we can deduce all valid things (completeness). In this thesis I tackle completeness of various deduction methods for various logics. The work is formalized in the proof assistant Isabelle/HOL which offers a common language for mathematics and computer science where proofs can be checked mechanically. This thesis discusses the following contributions of my PhD project in particular:
+<html:ul><html:li><fr:link href="/forest/ahfrom-2021-esslli/" title="Formalizing Henkin-Style Completeness of an Axiomatic System for Propositional Logic" uri="https://astahfrom.github.io/forest/ahfrom-2021-esslli/" display-uri="ahfrom-2021-esslli" type="local">A historical overview of formalized completeness proofs and a formalization that explains the essence of synthetic completeness proofs.</fr:link></html:li>
+<html:li><fr:link href="/forest/ahfrom-2021-types/" title="A Succinct Formalization of the Completeness of First-Order Logic" uri="https://astahfrom.github.io/forest/ahfrom-2021-types/" display-uri="ahfrom-2021-types" type="local">A formalization of a concise completeness proof for first-order logic in Isabelle/HOL, including solutions to the issues of formalizing quantifiers and proving completeness for formulas with free variables.</fr:link></html:li>
+<html:li><fr:link href="/forest/ahfrom-fkjacobsen-2022-itp/" title="Verifying a Sequent Calculus Prover for First-Order Logic with Functions in Isabelle/HOL" uri="https://astahfrom.github.io/forest/ahfrom-fkjacobsen-2022-itp/" display-uri="ahfrom-fkjacobsen-2022-itp" type="local">A verified prover for first-order logic with functions, with a formalized completeness proof that takes the search strategy of the prover into account.</fr:link></html:li>
+<html:li><fr:link href="/forest/ahfrom-2020-types/" title="Synthetic Completeness for a Terminating Seligman-Style Tableau System" uri="https://astahfrom.github.io/forest/ahfrom-2020-types/" display-uri="ahfrom-2020-types" type="local">A synthetic completeness proof for a tableau system for basic hybrid logic which is both terminating and in the Seligman style where the proof rules reflect the local perspective that modal logic is based on.</fr:link></html:li>
+<html:li><fr:link href="/forest/ahfrom-2024-jlc-wollic/" title="Formalized Soundness and Completeness of Epistemic and Public Announcement Logic" uri="https://astahfrom.github.io/forest/ahfrom-2024-jlc-wollic/" display-uri="ahfrom-2024-jlc-wollic" type="local">Formalized soundness and completeness results for epistemic and public announcement logic, instantiated to a range of concrete axiom systems.</fr:link></html:li>
+<html:li><fr:link href="/forest/jlimperg-ahfrom-2023-cpp/" title="Aesop: White-Box Best-First Proof Search for Lean" uri="https://astahfrom.github.io/forest/jlimperg-ahfrom-2023-cpp/" display-uri="jlimperg-ahfrom-2023-cpp" type="local">A best-first proof search tactic for the proof assistant Lean 4.</fr:link></html:li>
+<html:li><fr:link href="/forest/ahfrom-2025-cpp/" title="An Isabelle/HOL Framework for Synthetic Completeness Proofs" uri="https://astahfrom.github.io/forest/ahfrom-2025-cpp/" display-uri="ahfrom-2025-cpp" type="local">An abstract framework for synthetic completeness proofs.</fr:link></html:li></html:ul></html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2020</fr:year>
+              <fr:month>2</fr:month>
+              <fr:day>5</fr:day>
+            </fr:date>
+            <fr:uri>https://astahfrom.github.io/forest/ahfrom-2020-msc-thesis/</fr:uri>
+            <fr:display-uri>ahfrom-2020-msc-thesis</fr:display-uri>
+            <fr:route>/forest/ahfrom-2020-msc-thesis/</fr:route>
+            <fr:title text="Hybrid Logic">Hybrid Logic</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+            <fr:meta name="venue">MSc thesis, <fr:link href="/forest/dtu/" title="Technical University of Denmark" uri="https://astahfrom.github.io/forest/dtu/" display-uri="dtu" type="local">Technical University of Denmark</fr:link></fr:meta>
+            <fr:meta name="slides">/forest/bafkrmif2f42yxasrnngbmbxcgqfrc2x54v224pncgi363c4gdamulg6vpa.pdf</fr:meta>
+            <fr:meta name="external">/forest/bafkrmibgefm3nzpxevhkgcdeyjvm4bieoayke44eshkhujkcz3d4vftdya.pdf</fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Advisors: <fr:link href="/forest/jvilladsen/" title="Jørgen Villadsen" uri="https://astahfrom.github.io/forest/jvilladsen/" display-uri="jvilladsen" type="local">Jørgen Villadsen</fr:link>, <fr:link href="/forest/abjensen/" title="Alexander Birch Jensen" uri="https://astahfrom.github.io/forest/abjensen/" display-uri="abjensen" type="local">Alexander Birch Jensen</fr:link>, and <fr:link href="/forest/pblackburn/" title="Patrick Blackburn" uri="https://astahfrom.github.io/forest/pblackburn/" display-uri="pblackburn" type="local">Patrick Blackburn</fr:link>.</html:p>
+            <html:p>I formalize a Seligman-style tableau system for basic hybrid logic in the proof assistant Isabelle/HOL. Unlike the original system, I name every block on the tableau to avoid the risk of needing to backtrack when constructing a tableau. The tableau rules are restricted to only allow extensions of the tableau that include a new formula and I show via a strengthening lemma that this restriction preserves completeness. Showing strengthening under this restriction requires relaxing the Nom rule to allow the shared nominal to occur on any block, not just the current one as originally done. The <fr:tex display="inline"><![CDATA[(\diamond )]]></fr:tex> rule is restricted to only apply to unwitnessed <fr:tex display="inline"><![CDATA[\diamond ]]></fr:tex>-formulas and this restriction is lifted by proving a substitution lemma for the calculus. General versions of the @-rules are derived from their restricted counterparts using a structural lemma that allows weakening, factoring and reordering at the level of blocks and a similar lemma that works inside the current block. These lemmas show that forward referencing in the tableau is admissible as long as it is acyclic. The GoTo rule is restricted using a notion of coins where each application of GoTo requires spending a coin and coins are earned through applications of the remaining rules. If a branch can be closed then it can be closed starting from a single coin. This restriction of GoTo works better with rule induction than the simpler scheme of disallowing two applications in a row. I show that the Bridge rule is admissible using a set of indices into the branch that satisfies a particular descendant relation. This set effectively guides what formula occurrences should be modified when one accessibility formula is replaced by another. Next, I apply an existing synthetic completeness proof based on maximally consistent sets of blocks to show that the negation of any valid formula has a closing tableau. Using this approach for the restricted system is novel. Finally, in pursuit of a terminating system, I suggest a restriction of the Nom rule based on tags that directly encodes the notion of copying in the right direction and sketch a strategy for lifting this restriction.</html:p>
+            <html:p>
+              <fr:link href="/forest/ahfrom-2019-afp-hybrid/" title="Formalizing a Seligman-Style Tableau System for Hybrid Logic" uri="https://astahfrom.github.io/forest/ahfrom-2019-afp-hybrid/" display-uri="ahfrom-2019-afp-hybrid" type="local" />
+            </html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2017</fr:year>
+              <fr:month>6</fr:month>
+              <fr:day>7</fr:day>
+            </fr:date>
+            <fr:uri>https://astahfrom.github.io/forest/ahfrom-2017-bsc-thesis/</fr:uri>
+            <fr:display-uri>ahfrom-2017-bsc-thesis</fr:display-uri>
+            <fr:route>/forest/ahfrom-2017-bsc-thesis/</fr:route>
+            <fr:title text="Formalized First-Order Logic">Formalized First-Order Logic</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+            <fr:meta name="venue">BSc thesis, <fr:link href="/forest/dtu/" title="Technical University of Denmark" uri="https://astahfrom.github.io/forest/dtu/" display-uri="dtu" type="local">Technical University of Denmark</fr:link></fr:meta>
+            <fr:meta name="slides">/forest/bafkrmidyzxhgvx765ci7iir3gfu4oo2kpspkhseineoygmtdnkm5x5p44i.pdf</fr:meta>
+            <fr:meta name="external">/forest/bafkrmigyesd2x7y7pjzqfzmh4ymip2qvjer5yi4qfmxflcnjc4pwwxnsfi.pdf</fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Advisors: <fr:link href="/forest/jvilladsen/" title="Jørgen Villadsen" uri="https://astahfrom.github.io/forest/jvilladsen/" display-uri="jvilladsen" type="local">Jørgen Villadsen</fr:link>, <fr:link href="/forest/aschlichtkrull/" title="Anders Schlichtkrull" uri="https://astahfrom.github.io/forest/aschlichtkrull/" display-uri="aschlichtkrull" type="local">Anders Schlichtkrull</fr:link>, and <fr:link href="/forest/jblarsen/" title="John Bruntse Larsen" uri="https://astahfrom.github.io/forest/jblarsen/" display-uri="jblarsen" type="local">John Bruntse Larsen</fr:link>.</html:p>
+            <html:p>The goal of this thesis is to formalize first-order logic, specifically the natural deduction proof system NaDeA, in the proof assistant Isabelle. The syntax and semantics are formalized as Isabelle data types and functions and the inference rules of NaDeA are defined as an inductive set. The soundness of these inference rules is formally verified, ensuring only valid formulas can be derived in the proof system. A textbook proof of completeness for sentences in natural deduction using abstract consistency properties is explained before this proof is formalized. This formalization is based on existing work, but modernized for this thesis. It is described in depth and a version of the completeness result using any countably infinite domain is developed by proving that the semantics respect the bijection between this and the domain of Herbrand terms. Next the problem of open formulas is discussed and a solution provided by an extension to NaDeA. This extension allows the derivation of the original formula from its universal closure, enabling us to close the formula, apply the original completeness result and derive the original one in the extended system. Assumptions are handled by turning them into implications and back again, a technique that requires a proof of weakening to be formalized first. It is unlikely that this extension is actually necessary for completeness for open formulas, but it makes the otherwise subtle interaction between substitution and de Bruijn indices more manageable. Finally insights gained while working with the formalization and extending it are shared, in the hope that it may help other formal verification efforts</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
             <fr:authors />
             <fr:uri>https://astahfrom.github.io/forest/dtucompute/</fr:uri>
             <fr:display-uri>dtucompute</fr:display-uri>

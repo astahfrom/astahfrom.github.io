@@ -48,7 +48,7 @@
             <fr:route>/forest/ahfrom-2020-msc-thesis/</fr:route>
             <fr:title text="Hybrid Logic">Hybrid Logic</fr:title>
             <fr:taxon>Reference</fr:taxon>
-            <fr:meta name="venue">MSc thesis, Technical University of Denmark</fr:meta>
+            <fr:meta name="venue">MSc thesis, <fr:link href="/forest/dtu/" title="Technical University of Denmark" uri="https://astahfrom.github.io/forest/dtu/" display-uri="dtu" type="local">Technical University of Denmark</fr:link></fr:meta>
             <fr:meta name="slides">/forest/bafkrmif2f42yxasrnngbmbxcgqfrc2x54v224pncgi363c4gdamulg6vpa.pdf</fr:meta>
             <fr:meta name="external">/forest/bafkrmibgefm3nzpxevhkgcdeyjvm4bieoayke44eshkhujkcz3d4vftdya.pdf</fr:meta>
           </fr:frontmatter>

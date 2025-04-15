@@ -612,7 +612,7 @@ year = {2024},
                     <fr:route>/forest/ahfrom-2023-phd-thesis/</fr:route>
                     <fr:title text="Formally Correct Deduction Methods for Computational Logic">Formally Correct Deduction Methods for Computational Logic</fr:title>
                     <fr:taxon>Reference</fr:taxon>
-                    <fr:meta name="venue">PhD thesis, Technical University of Denmark</fr:meta>
+                    <fr:meta name="venue">PhD thesis, <fr:link href="/forest/dtu/" title="Technical University of Denmark" uri="https://astahfrom.github.io/forest/dtu/" display-uri="dtu" type="local">Technical University of Denmark</fr:link></fr:meta>
                     <fr:meta name="slides">/forest/bafkrmihlakseuvtsrtlywgufu6u7td4va5ezlfnlvwapqbfekcjubtxee4.pdf</fr:meta>
                     <fr:meta name="external">/forest/bafkrmia3dddrsbaogkrwfwjc3i4f3vdjhq6rlnoziegwyk5veymmgzlnfa.pdf</fr:meta>
                   </fr:frontmatter>
@@ -662,6 +662,7 @@ year = {2023},
                   </fr:frontmatter>
                   <fr:mainmatter>
                     <html:p>We present Aesop, a proof search tactic for the Lean 4 interactive theorem prover. Aesop performs a tree-based search over a user-specified set of proof rules. It supports safe and unsafe rules and uses a best-first search strategy with customisable prioritisation. Aesop also allows users to register custom normalisation rules and integrates Lean's simplifier to support equational reasoning. Many details of Aesop's search procedure are designed to make it a white-box proof automation tactic, meaning that users should be able to easily predict how their rules will be applied, and thus how powerful and fast their Aesop invocations will be. Since we use a best-first search strategy, it is not obvious how to handle metavariables which appear in multiple goals. The most common strategy for dealing with metavariables relies on backtracking and is therefore not suitable for best-first search. We give an algorithm which addresses this issue. The algorithm works with any search strategy, is independent of the underlying logic and makes few assumptions about how rules interact with metavariables. We conjecture that with a fair search strategy, the algorithm is as complete as the given set of rules allows.</html:p>
+                    <html:p>We won a distinguished paper award for this work.</html:p>
                   </fr:mainmatter>
                 </fr:tree>
               </fr:mainmatter>

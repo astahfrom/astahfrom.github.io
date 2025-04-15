@@ -17,7 +17,7 @@
     <fr:route>/forest/ahfrom-2017-bsc-thesis/</fr:route>
     <fr:title text="Formalized First-Order Logic">Formalized First-Order Logic</fr:title>
     <fr:taxon>Reference</fr:taxon>
-    <fr:meta name="venue">BSc thesis, Technical University of Denmark</fr:meta>
+    <fr:meta name="venue">BSc thesis, <fr:link href="/forest/dtu/" title="Technical University of Denmark" uri="https://astahfrom.github.io/forest/dtu/" display-uri="dtu" type="local">Technical University of Denmark</fr:link></fr:meta>
     <fr:meta name="slides">/forest/bafkrmidyzxhgvx765ci7iir3gfu4oo2kpspkhseineoygmtdnkm5x5p44i.pdf</fr:meta>
     <fr:meta name="external">/forest/bafkrmigyesd2x7y7pjzqfzmh4ymip2qvjer5yi4qfmxflcnjc4pwwxnsfi.pdf</fr:meta>
   </fr:frontmatter>
@@ -116,6 +116,17 @@
             </fr:meta>
             <fr:meta name="orcid">0000-0003-3624-1159</fr:meta>
             <fr:meta name="position">Associate Professor</fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter />
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors />
+            <fr:uri>https://astahfrom.github.io/forest/dtu/</fr:uri>
+            <fr:display-uri>dtu</fr:display-uri>
+            <fr:route>/forest/dtu/</fr:route>
+            <fr:title text="Technical University of Denmark">Technical University of Denmark</fr:title>
+            <fr:taxon>Institution</fr:taxon>
           </fr:frontmatter>
           <fr:mainmatter />
         </fr:tree>
