@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/forest/default.xsl"?>
+<fr:tree xmlns:fr="http://www.forester-notes.org" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:xml="http://www.w3.org/XML/1998/namespace" root="false" base-url="/forest/">
+  <fr:frontmatter>
+    <fr:authors>
+      <fr:author>
+        <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+      </fr:author>
+      <fr:author>
+        <fr:link href="/forest/jvilladsen/" title="Jørgen Villadsen" uri="https://astahfrom.github.io/forest/jvilladsen/" display-uri="jvilladsen" type="local">Jørgen Villadsen</fr:link>
+      </fr:author>
+    </fr:authors>
+    <fr:date>
+      <fr:year>2022</fr:year>
+    </fr:date>
+    <fr:uri>https://astahfrom.github.io/forest/ahfrom-jvilladsen-2022-afp-implicational/</fr:uri>
+    <fr:display-uri>ahfrom-jvilladsen-2022-afp-implicational</fr:display-uri>
+    <fr:route>/forest/ahfrom-jvilladsen-2022-afp-implicational/</fr:route>
+    <fr:title text="Soundness and Completeness of Implicational Logic">Soundness and Completeness of Implicational Logic</fr:title>
+    <fr:taxon>Reference</fr:taxon>
+    <fr:meta name="external">https://isa-afp.org/entries/Implicational_Logic.html</fr:meta>
+    <fr:meta name="venue">
+      <fr:link href="/forest/afp/" title="Archive of Formal Proofs" uri="https://astahfrom.github.io/forest/afp/" display-uri="afp" type="local">Archive of Formal Proofs</fr:link>
+    </fr:meta>
+    <fr:meta name="bibtex"><![CDATA[@article{Implicational_Logic-AFP,
+abstract = {This work is a formalization of soundness and completeness of the Bernays-Tarski axiom system for classical implicational logic. The completeness proof is constructive following the approach by László Kalmár, Elliott Mendelson and others. The result can be extended to full classical propositional logic by uncommenting a few lines for falsehood.},
+author = {Asta Halkjær From and Jørgen Villadsen},
+issn = {2150-914x},
+journal = {Archive of Formal Proofs},
+month = {September},
+title = {Soundness and Completeness of Implicational Logic},
+url = {https://isa-afp.org/entries/Implicational_Logic.html},
+year = {2022},
+}]]></fr:meta>
+  </fr:frontmatter>
+  <fr:mainmatter>
+    <html:p>This work is a formalization of soundness and completeness of the Bernays-Tarski axiom system for classical implicational logic. The completeness proof is constructive following the approach by László Kalmár, Elliott Mendelson and others. The result can be extended to full classical propositional logic by uncommenting a few lines for falsehood.</html:p>
+  </fr:mainmatter>
+  <fr:backmatter>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="References">References</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Context">Context</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Backlinks">Backlinks</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Related">Related</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors />
+            <fr:uri>https://astahfrom.github.io/forest/afp/</fr:uri>
+            <fr:display-uri>afp</fr:display-uri>
+            <fr:route>/forest/afp/</fr:route>
+            <fr:title text="Archive of Formal Proofs">Archive of Formal Proofs</fr:title>
+            <fr:taxon>Journal</fr:taxon>
+            <fr:meta name="external">https://www.isa-afp.org/</fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter />
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Contributions">Contributions</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+  </fr:backmatter>
+</fr:tree>

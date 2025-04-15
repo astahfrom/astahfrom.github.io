@@ -1,0 +1,1295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/forest/default.xsl"?>
+<fr:tree xmlns:fr="http://www.forester-notes.org" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:xml="http://www.w3.org/XML/1998/namespace" root="false" base-url="/forest/">
+  <fr:frontmatter>
+    <fr:authors />
+    <fr:uri>https://astahfrom.github.io/forest/jvilladsen/</fr:uri>
+    <fr:display-uri>jvilladsen</fr:display-uri>
+    <fr:route>/forest/jvilladsen/</fr:route>
+    <fr:title text="Jørgen Villadsen">Jørgen Villadsen</fr:title>
+    <fr:taxon>Person</fr:taxon>
+    <fr:meta name="external">https://people.compute.dtu.dk/jovi/</fr:meta>
+    <fr:meta name="institution">
+      <fr:link href="/forest/dtu/" title="Technical University of Denmark" uri="https://astahfrom.github.io/forest/dtu/" display-uri="dtu" type="local">Technical University of Denmark</fr:link>
+    </fr:meta>
+    <fr:meta name="orcid">0000-0003-3624-1159</fr:meta>
+    <fr:meta name="position">Associate Professor</fr:meta>
+  </fr:frontmatter>
+  <fr:mainmatter />
+  <fr:backmatter>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="References">References</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Context">Context</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Backlinks">Backlinks</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>4</fr:month>
+              <fr:day>15</fr:day>
+            </fr:date>
+            <fr:uri>https://astahfrom.github.io/forest/ahf-phd/</fr:uri>
+            <fr:display-uri>ahf-phd</fr:display-uri>
+            <fr:route>/forest/ahf-phd/</fr:route>
+            <fr:title text="PhD">PhD</fr:title>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>I was a PhD student at <fr:link href="/forest/dtucompute/" title="DTU Compute" uri="https://astahfrom.github.io/forest/dtucompute/" display-uri="dtucompute" type="local">DTU Compute</fr:link> from February 2020 to February 2023 working on <fr:link href="/forest/ahfrom-2023-phd-thesis/" title="Formally Correct Deduction Methods for Computational Logic" uri="https://astahfrom.github.io/forest/ahfrom-2023-phd-thesis/" display-uri="ahfrom-2023-phd-thesis" type="local">Formally Correct Deduction Methods for Computational Logic</fr:link>, especially using the proof assistant Isabelle/HOL. I was supervised by <fr:link href="/forest/jvilladsen/" title="Jørgen Villadsen" uri="https://astahfrom.github.io/forest/jvilladsen/" display-uri="jvilladsen" type="local">Jørgen Villadsen</fr:link> and co-supervised by <fr:link href="/forest/ngierasimczuk/" title="Nina Gierasimczuk" uri="https://astahfrom.github.io/forest/ngierasimczuk/" display-uri="ngierasimczuk" type="local">Nina Gierasimczuk</fr:link>. <fr:link href="/forest/dtu/" title="Technical University of Denmark" uri="https://astahfrom.github.io/forest/dtu/" display-uri="dtu" type="local">DTU</fr:link> granted me a Young Researcher Award for my PhD.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2023</fr:year>
+              <fr:month>1</fr:month>
+              <fr:day>31</fr:day>
+            </fr:date>
+            <fr:uri>https://astahfrom.github.io/forest/ahfrom-2023-phd-thesis/</fr:uri>
+            <fr:display-uri>ahfrom-2023-phd-thesis</fr:display-uri>
+            <fr:route>/forest/ahfrom-2023-phd-thesis/</fr:route>
+            <fr:title text="Formally Correct Deduction Methods for Computational Logic">Formally Correct Deduction Methods for Computational Logic</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+            <fr:meta name="venue">PhD thesis, Technical University of Denmark</fr:meta>
+            <fr:meta name="slides">/forest/bafkrmihlakseuvtsrtlywgufu6u7td4va5ezlfnlvwapqbfekcjubtxee4.pdf</fr:meta>
+            <fr:meta name="external">/forest/bafkrmia3dddrsbaogkrwfwjc3i4f3vdjhq6rlnoziegwyk5veymmgzlnfa.pdf</fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Advisors: <fr:link href="/forest/jvilladsen/" title="Jørgen Villadsen" uri="https://astahfrom.github.io/forest/jvilladsen/" display-uri="jvilladsen" type="local">Jørgen Villadsen</fr:link> and <fr:link href="/forest/ngierasimczuk/" title="Nina Gierasimczuk" uri="https://astahfrom.github.io/forest/ngierasimczuk/" display-uri="ngierasimczuk" type="local">Nina Gierasimczuk</fr:link>.</html:p>
+            <html:p>Some logics make it easier to say what we want than others and some methods of deduction are simpler to work with than others. One thing typically remains important: that we can deduce all valid things (completeness). In this thesis I tackle completeness of various deduction methods for various logics. The work is formalized in the proof assistant Isabelle/HOL which offers a common language for mathematics and computer science where proofs can be checked mechanically. This thesis discusses the following contributions of my PhD project in particular:
+<html:ul><html:li><fr:link href="/forest/ahfrom-2021-esslli/" title="Formalizing Henkin-Style Completeness of an Axiomatic System for Propositional Logic" uri="https://astahfrom.github.io/forest/ahfrom-2021-esslli/" display-uri="ahfrom-2021-esslli" type="local">A historical overview of formalized completeness proofs and a formalization that explains the essence of synthetic completeness proofs.</fr:link></html:li>
+<html:li><fr:link href="/forest/ahfrom-2021-types/" title="A Succinct Formalization of the Completeness of First-Order Logic" uri="https://astahfrom.github.io/forest/ahfrom-2021-types/" display-uri="ahfrom-2021-types" type="local">A formalization of a concise completeness proof for first-order logic in Isabelle/HOL, including solutions to the issues of formalizing quantifiers and proving completeness for formulas with free variables.</fr:link></html:li>
+<html:li><fr:link href="/forest/ahfrom-fkjacobsen-2022-itp/" title="Verifying a Sequent Calculus Prover for First-Order Logic with Functions in Isabelle/HOL" uri="https://astahfrom.github.io/forest/ahfrom-fkjacobsen-2022-itp/" display-uri="ahfrom-fkjacobsen-2022-itp" type="local">A verified prover for first-order logic with functions, with a formalized completeness proof that takes the search strategy of the prover into account.</fr:link></html:li>
+<html:li><fr:link href="/forest/ahfrom-2020-types/" title="Synthetic Completeness for a Terminating Seligman-Style Tableau System" uri="https://astahfrom.github.io/forest/ahfrom-2020-types/" display-uri="ahfrom-2020-types" type="local">A synthetic completeness proof for a tableau system for basic hybrid logic which is both terminating and in the Seligman style where the proof rules reflect the local perspective that modal logic is based on.</fr:link></html:li>
+<html:li><fr:link href="/forest/ahfrom-2024-jlc-wollic/" title="Formalized Soundness and Completeness of Epistemic and Public Announcement Logic" uri="https://astahfrom.github.io/forest/ahfrom-2024-jlc-wollic/" display-uri="ahfrom-2024-jlc-wollic" type="local">Formalized soundness and completeness results for epistemic and public announcement logic, instantiated to a range of concrete axiom systems.</fr:link></html:li>
+<html:li><fr:link href="/forest/jlimperg-ahfrom-2023-cpp/" title="Aesop: White-Box Best-First Proof Search for Lean" uri="https://astahfrom.github.io/forest/jlimperg-ahfrom-2023-cpp/" display-uri="jlimperg-ahfrom-2023-cpp" type="local">A best-first proof search tactic for the proof assistant Lean 4.</fr:link></html:li>
+<html:li><fr:link href="/forest/ahfrom-2025-cpp/" title="An Isabelle/HOL Framework for Synthetic Completeness Proofs" uri="https://astahfrom.github.io/forest/ahfrom-2025-cpp/" display-uri="ahfrom-2025-cpp" type="local">An abstract framework for synthetic completeness proofs.</fr:link></html:li></html:ul></html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2022</fr:year>
+              <fr:month>5</fr:month>
+              <fr:day>6</fr:day>
+            </fr:date>
+            <fr:uri>https://astahfrom.github.io/forest/ahfrom-2022-talk-lsd/</fr:uri>
+            <fr:display-uri>ahfrom-2022-talk-lsd</fr:display-uri>
+            <fr:route>/forest/ahfrom-2022-talk-lsd/</fr:route>
+            <fr:title text="A Naive Prover for First-Order Logic">A Naive Prover for First-Order Logic</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+            <fr:meta name="venue">The Languages, Systems, and Data Seminar (LSD spring 2022)</fr:meta>
+            <fr:meta name="slides">/forest/bafkrmigayu2vn7j5jdnawtzu5e6tlksd6vjlamv2fvuv5mjvhbanhpndxa.pdf</fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>I present the <fr:link href="/forest/ahfrom-2022-afp-naive/" title="A Naive Prover for First-Order Logic" uri="https://astahfrom.github.io/forest/ahfrom-2022-afp-naive/" display-uri="ahfrom-2022-afp-naive" type="local">naive prover</fr:link> for proving completeness of first-order logic sequent calculus.</html:p>
+            <html:p>Invited by Lindsey Kuper (UC Santa Cruz).</html:p>
+            <html:p>I gave an earlier version of this talk as a guest lecture in 02256 Automated Reasoning at <fr:link href="/forest/dtucompute/" title="DTU Compute" uri="https://astahfrom.github.io/forest/dtucompute/" display-uri="dtucompute" type="local">DTU Compute</fr:link>, invited by <fr:link href="/forest/jvilladsen/" title="Jørgen Villadsen" uri="https://astahfrom.github.io/forest/jvilladsen/" display-uri="jvilladsen" type="local">Jørgen Villadsen</fr:link>.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2020</fr:year>
+              <fr:month>2</fr:month>
+              <fr:day>5</fr:day>
+            </fr:date>
+            <fr:uri>https://astahfrom.github.io/forest/ahfrom-2020-msc-thesis/</fr:uri>
+            <fr:display-uri>ahfrom-2020-msc-thesis</fr:display-uri>
+            <fr:route>/forest/ahfrom-2020-msc-thesis/</fr:route>
+            <fr:title text="Hybrid Logic">Hybrid Logic</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+            <fr:meta name="venue">MSc thesis, Technical University of Denmark</fr:meta>
+            <fr:meta name="slides">/forest/bafkrmif2f42yxasrnngbmbxcgqfrc2x54v224pncgi363c4gdamulg6vpa.pdf</fr:meta>
+            <fr:meta name="external">/forest/bafkrmibgefm3nzpxevhkgcdeyjvm4bieoayke44eshkhujkcz3d4vftdya.pdf</fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Advisors: <fr:link href="/forest/jvilladsen/" title="Jørgen Villadsen" uri="https://astahfrom.github.io/forest/jvilladsen/" display-uri="jvilladsen" type="local">Jørgen Villadsen</fr:link>, <fr:link href="/forest/abjensen/" title="Alexander Birch Jensen" uri="https://astahfrom.github.io/forest/abjensen/" display-uri="abjensen" type="local">Alexander Birch Jensen</fr:link>, and <fr:link href="/forest/pblackburn/" title="Patrick Blackburn" uri="https://astahfrom.github.io/forest/pblackburn/" display-uri="pblackburn" type="local">Patrick Blackburn</fr:link>.</html:p>
+            <html:p>I formalize a Seligman-style tableau system for basic hybrid logic in the proof assistant Isabelle/HOL. Unlike the original system, I name every block on the tableau to avoid the risk of needing to backtrack when constructing a tableau. The tableau rules are restricted to only allow extensions of the tableau that include a new formula and I show via a strengthening lemma that this restriction preserves completeness. Showing strengthening under this restriction requires relaxing the Nom rule to allow the shared nominal to occur on any block, not just the current one as originally done. The <fr:tex display="inline"><![CDATA[(\diamond )]]></fr:tex> rule is restricted to only apply to unwitnessed <fr:tex display="inline"><![CDATA[\diamond ]]></fr:tex>-formulas and this restriction is lifted by proving a substitution lemma for the calculus. General versions of the @-rules are derived from their restricted counterparts using a structural lemma that allows weakening, factoring and reordering at the level of blocks and a similar lemma that works inside the current block. These lemmas show that forward referencing in the tableau is admissible as long as it is acyclic. The GoTo rule is restricted using a notion of coins where each application of GoTo requires spending a coin and coins are earned through applications of the remaining rules. If a branch can be closed then it can be closed starting from a single coin. This restriction of GoTo works better with rule induction than the simpler scheme of disallowing two applications in a row. I show that the Bridge rule is admissible using a set of indices into the branch that satisfies a particular descendant relation. This set effectively guides what formula occurrences should be modified when one accessibility formula is replaced by another. Next, I apply an existing synthetic completeness proof based on maximally consistent sets of blocks to show that the negation of any valid formula has a closing tableau. Using this approach for the restricted system is novel. Finally, in pursuit of a terminating system, I suggest a restriction of the Nom rule based on tags that directly encodes the notion of copying in the right direction and sketch a strategy for lifting this restriction.</html:p>
+            <html:p>
+              <fr:link href="/forest/ahfrom-2019-afp-hybrid/" title="Formalizing a Seligman-Style Tableau System for Hybrid Logic" uri="https://astahfrom.github.io/forest/ahfrom-2019-afp-hybrid/" display-uri="ahfrom-2019-afp-hybrid" type="local" />
+            </html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2017</fr:year>
+              <fr:month>6</fr:month>
+              <fr:day>7</fr:day>
+            </fr:date>
+            <fr:uri>https://astahfrom.github.io/forest/ahfrom-2017-bsc-thesis/</fr:uri>
+            <fr:display-uri>ahfrom-2017-bsc-thesis</fr:display-uri>
+            <fr:route>/forest/ahfrom-2017-bsc-thesis/</fr:route>
+            <fr:title text="Formalized First-Order Logic">Formalized First-Order Logic</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+            <fr:meta name="venue">BSc thesis, Technical University of Denmark</fr:meta>
+            <fr:meta name="slides">/forest/bafkrmidyzxhgvx765ci7iir3gfu4oo2kpspkhseineoygmtdnkm5x5p44i.pdf</fr:meta>
+            <fr:meta name="external">/forest/bafkrmigyesd2x7y7pjzqfzmh4ymip2qvjer5yi4qfmxflcnjc4pwwxnsfi.pdf</fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Advisors: <fr:link href="/forest/jvilladsen/" title="Jørgen Villadsen" uri="https://astahfrom.github.io/forest/jvilladsen/" display-uri="jvilladsen" type="local">Jørgen Villadsen</fr:link>, <fr:link href="/forest/aschlichtkrull/" title="Anders Schlichtkrull" uri="https://astahfrom.github.io/forest/aschlichtkrull/" display-uri="aschlichtkrull" type="local">Anders Schlichtkrull</fr:link>, and <fr:link href="/forest/jblarsen/" title="John Bruntse Larsen" uri="https://astahfrom.github.io/forest/jblarsen/" display-uri="jblarsen" type="local">John Bruntse Larsen</fr:link>.</html:p>
+            <html:p>The goal of this thesis is to formalize first-order logic, specifically the natural deduction proof system NaDeA, in the proof assistant Isabelle. The syntax and semantics are formalized as Isabelle data types and functions and the inference rules of NaDeA are defined as an inductive set. The soundness of these inference rules is formally verified, ensuring only valid formulas can be derived in the proof system. A textbook proof of completeness for sentences in natural deduction using abstract consistency properties is explained before this proof is formalized. This formalization is based on existing work, but modernized for this thesis. It is described in depth and a version of the completeness result using any countably infinite domain is developed by proving that the semantics respect the bijection between this and the domain of Herbrand terms. Next the problem of open formulas is discussed and a solution provided by an extension to NaDeA. This extension allows the derivation of the original formula from its universal closure, enabling us to close the formula, apply the original completeness result and derive the original one in the extended system. Assumptions are handled by turning them into implications and back again, a technique that requires a proof of weakening to be formalized first. It is unlikely that this extension is actually necessary for completeness for open formulas, but it makes the otherwise subtle interaction between substitution and de Bruijn indices more manageable. Finally insights gained while working with the formalization and extending it are shared, in the hope that it may help other formal verification efforts</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Related">Related</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors />
+            <fr:uri>https://astahfrom.github.io/forest/dtu/</fr:uri>
+            <fr:display-uri>dtu</fr:display-uri>
+            <fr:route>/forest/dtu/</fr:route>
+            <fr:title text="Technical University of Denmark">Technical University of Denmark</fr:title>
+            <fr:taxon>Institution</fr:taxon>
+          </fr:frontmatter>
+          <fr:mainmatter />
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Contributions">Contributions</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="/forest/jvilladsen/" title="Jørgen Villadsen" uri="https://astahfrom.github.io/forest/jvilladsen/" display-uri="jvilladsen" type="local">Jørgen Villadsen</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2023</fr:year>
+            </fr:date>
+            <fr:uri>https://astahfrom.github.io/forest/ahfrom-jvilladsen-2023-tableaux/</fr:uri>
+            <fr:display-uri>ahfrom-jvilladsen-2023-tableaux</fr:display-uri>
+            <fr:route>/forest/ahfrom-jvilladsen-2023-tableaux/</fr:route>
+            <fr:title text="A Naive Prover for First-Order Logic: A Minimal Example of Analytic Completeness">A Naive Prover for First-Order Logic: A Minimal Example of Analytic Completeness</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+            <fr:meta name="doi">10.1007/978-3-031-43513-3_25</fr:meta>
+            <fr:meta name="venue">In R. Ramanayake and J. Urban (ed.) Automated Reasoning with Analytic Tableaux and Related Methods - 32nd International Conference (TABLEAUX 2023)</fr:meta>
+            <fr:meta name="bibtex"><![CDATA[@inproceedings{FromV23,
+abstract = {The analytic technique for proving completeness gives a very operational perspective: build a countermodel to the unproved formula from a failed proof attempt in your calculus. We have to be careful, however, that the proof attempt did not fail because our strategy in finding it was flawed. Overcoming this concern requires designing a prover. We design and formalize in Isabelle/HOL a sequent calculus prover for first-order logic with functions. We formalize soundness and completeness theorems using an existing framework and extract executable code to Haskell. The crucial idea is to move complexity from the prover itself to a stream of instructions that it follows. The result serves as a minimal example of the analytic technique, a naive prover for first-order logic, and a case study in formal verification.},
+author = {Asta Halkj{æ}r From and J{ø}rgen Villadsen},
+booktitle = {Automated Reasoning with Analytic Tableaux and Related Methods - 32nd International Conference, {TABLEAUX} 2023, Prague, Czech Republic, September 18-21, 2023, Proceedings},
+doi = {10.1007/978-3-031-43513-3_25},
+editor = {Revantha Ramanayake and Josef Urban},
+pages = {468--480},
+publisher = {Springer},
+series = {Lecture Notes in Computer Science},
+title = {A Naive Prover for First-Order Logic: {A} Minimal Example of Analytic Completeness},
+volume = {14278},
+year = {2023},
+}]]></fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>The analytic technique for proving completeness gives a very operational perspective: build a countermodel to the unproved formula from a failed proof attempt in your calculus. We have to be careful, however, that the proof attempt did not fail because our strategy in finding it was flawed. Overcoming this concern requires designing a prover. We design and formalize in Isabelle/HOL a sequent calculus prover for first-order logic with functions. We formalize soundness and completeness theorems using an existing framework and extract executable code to Haskell. The crucial idea is to move complexity from the prover itself to a stream of instructions that it follows. The result serves as a minimal example of the analytic technique, a naive prover for first-order logic, and a case study in formal verification.</html:p>
+            <html:p>
+              <fr:link href="/forest/ahfrom-2022-afp-naive/" title="A Naive Prover for First-Order Logic" uri="https://astahfrom.github.io/forest/ahfrom-2022-afp-naive/" display-uri="ahfrom-2022-afp-naive" type="local" />
+            </html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="/forest/aschlichtkrull/" title="Anders Schlichtkrull" uri="https://astahfrom.github.io/forest/aschlichtkrull/" display-uri="aschlichtkrull" type="local">Anders Schlichtkrull</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="/forest/jvilladsen/" title="Jørgen Villadsen" uri="https://astahfrom.github.io/forest/jvilladsen/" display-uri="jvilladsen" type="local">Jørgen Villadsen</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2023</fr:year>
+            </fr:date>
+            <fr:uri>https://astahfrom.github.io/forest/ahfrom-aschlichtkrull-jvilladsen-2023-jlc/</fr:uri>
+            <fr:display-uri>ahfrom-aschlichtkrull-jvilladsen-2023-jlc</fr:display-uri>
+            <fr:route>/forest/ahfrom-aschlichtkrull-jvilladsen-2023-jlc/</fr:route>
+            <fr:title text="A Sequent Calculus for First-order Logic Formalized in Isabelle/HOL">A Sequent Calculus for First-order Logic Formalized in Isabelle/HOL</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+            <fr:meta name="doi">10.1093/logcom/exad013</fr:meta>
+            <fr:meta name="venue">Journal of Logic and Computation 33(4)</fr:meta>
+            <fr:meta name="bibtex"><![CDATA[@article{FromSV23,
+abstract = {We formalize in Isabelle/HOL soundness and completeness of a one-sided sequent calculus for first-order logic. The completeness is shown via a translation from a semantic tableau calculus, whose completeness proof we base on the theory entry ‘First-Order Logic According to Fitting’ by Berghofer in the Archive of Formal Proofs. The calculi and proof techniques are taken from Ben-Ari’s textbook Mathematical Logic for Computer Science (Springer, 2012). We thereby demonstrate that Berghofer’s approach works not only for natural deduction but also constitutes a framework for mechanically checked completeness proofs for a range of proof systems.},
+author = {Asta Halkj{æ}r From and Anders Schlichtkrull and J{ø}rgen Villadsen},
+doi = {10.1093/logcom/exad013},
+journal = {Journal of Logic and Computation},
+number = {4},
+pages = {818--836},
+title = {A Sequent Calculus for First-order Logic Formalized in {Isabelle/HOL}},
+volume = {33},
+year = {2023},
+}]]></fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>We formalize in Isabelle/HOL soundness and completeness of a one-sided sequent calculus for first-order logic. The completeness is shown via a translation from a semantic tableau calculus, whose completeness proof we base on the theory entry ‘First-Order Logic According to Fitting’ by Berghofer in the Archive of Formal Proofs. The calculi and proof techniques are taken from Ben-Ari’s textbook Mathematical Logic for Computer Science (Springer, 2012). We thereby demonstrate that Berghofer’s approach works not only for natural deduction but also constitutes a framework for mechanically checked completeness proofs for a range of proof systems.</html:p>
+            <html:p>
+              <fr:link href="/forest/ahfrom-2019-afp-seqcalc-fol/" title="A Sequent Calculus for First-Order Logic" uri="https://astahfrom.github.io/forest/ahfrom-2019-afp-seqcalc-fol/" display-uri="ahfrom-2019-afp-seqcalc-fol" type="local" />
+            </html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/forest/ameschen/" title="Agnes Moesgård Eschen" uri="https://astahfrom.github.io/forest/ameschen/" display-uri="ameschen" type="local">Agnes Moesgård Eschen</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="/forest/jvilladsen/" title="Jørgen Villadsen" uri="https://astahfrom.github.io/forest/jvilladsen/" display-uri="jvilladsen" type="local">Jørgen Villadsen</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2023</fr:year>
+            </fr:date>
+            <fr:uri>https://astahfrom.github.io/forest/ameschen-ahfrom-jvilladsen-2023-slai/</fr:uri>
+            <fr:display-uri>ameschen-ahfrom-jvilladsen-2023-slai</fr:display-uri>
+            <fr:route>/forest/ameschen-ahfrom-jvilladsen-2023-slai/</fr:route>
+            <fr:title text="More Formalized Axiomatic Systems for Propositional Logic in Isabelle/HOL">More Formalized Axiomatic Systems for Propositional Logic in Isabelle/HOL</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+            <fr:meta name="external">https://slai2022.islai.org/proceedings/</fr:meta>
+            <fr:meta name="venue">In S. Cojocaru et al (ed.) Logic and Artificial Intelligence</fr:meta>
+            <fr:meta name="bibtex"><![CDATA[@inbook{EschenFV23,
+abstract = {We consider a plethora of well-known axiomatic systems, and some less well-known variants, for classical propositional logic all with soundness and completeness theorems formalized in the proof assistant Isabelle/HOL. We have previously only formalized systems based on either implication and falsity or on disjunction and negation. We have now formalized 12 additional systems based on implication and negation. Each of them has three or more axioms. We have also formalized single-axiom systems, by Lukasiewicz and Tarski as well as by Meredith, and we describe the formalization of the former in detail. A few systems with two axioms are described too.},
+address = {Chisinau},
+author = {Agnes Moesg{å}rd Eschen and Asta Halkj{æ}r From and J{ø}rgen Villadsen},
+booktitle = {Logic and Artificial Intelligence},
+editor = {Svetlana Cojocaru and Ioachim Drugus and Mykola Nikitchenco and Alexei Muravitsky},
+isbn = {978-9975-68-484-2},
+pages = {7--22},
+publisher = {Vladimir Andrunachievici Institute of Mathematics and Computer Science},
+title = {More Formalized Axiomatic Systems for Propositional Logic in {Isabelle/HOL}},
+url = {https://slai2022.islai.org/proceedings/},
+year = {2023},
+}]]></fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>We consider a plethora of well-known axiomatic systems, and some less well-known variants, for classical propositional logic all with soundness and completeness theorems formalized in the proof assistant Isabelle/HOL. We have previously only formalized systems based on either implication and falsity or on disjunction and negation. We have now formalized 12 additional systems based on implication and negation. Each of them has three or more axioms. We have also formalized single-axiom systems, by Lukasiewicz and Tarski as well as by Meredith, and we describe the formalization of the former in detail. A few systems with two axioms are described too.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="/forest/stlund/" title="Simon Tobias Lund" uri="https://astahfrom.github.io/forest/stlund/" display-uri="stlund" type="local">Simon Tobias Lund</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="/forest/jvilladsen/" title="Jørgen Villadsen" uri="https://astahfrom.github.io/forest/jvilladsen/" display-uri="jvilladsen" type="local">Jørgen Villadsen</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2022</fr:year>
+            </fr:date>
+            <fr:uri>https://astahfrom.github.io/forest/ahfrom-stlund-jvilladsen-2022-dcai/</fr:uri>
+            <fr:display-uri>ahfrom-stlund-jvilladsen-2022-dcai</fr:display-uri>
+            <fr:route>/forest/ahfrom-stlund-jvilladsen-2022-dcai/</fr:route>
+            <fr:title text="A Case Study in Computer-Assisted Meta-reasoning">A Case Study in Computer-Assisted Meta-reasoning</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+            <fr:meta name="doi">10.1007/978-3-030-86887-1_5</fr:meta>
+            <fr:meta name="venue">In S. R. González et al (ed.) Distributed Computing and Artificial Intelligence, Volume 2: Special Sessions 18th International Conference</fr:meta>
+            <fr:meta name="bibtex"><![CDATA[@inproceedings{FromLV22,
+abstract = {We discuss human and mechanized reasoning with regards to the use of proof assistants, in particular Isabelle/HOL. We use the development of novel NAND- and NOR-based micro provers as a case study. Current, widely available automated reasoning technology is suitable for assisting humans with certain types of reasoning, like finding proofs for well-defined theorems. Other types of reasoning, like the discovery of new theorems, are notoriously difficult for mechanized reasoning. Our case study indicates that proof assistants are well suited as development tools for assuredly correct programs in languages like Haskell.},
+address = {Cham},
+author = {From, Asta Halkj{æ}r and Lund, Simon Tobias and Villadsen, J{ø}rgen},
+booktitle = {Distributed Computing and Artificial Intelligence, Volume 2: Special Sessions 18th International Conference},
+doi = {10.1007/978-3-030-86887-1_5},
+editor = {Gonz{á}lez, Sara Rodr{í}guez and Machado, Jos{é} Manuel and Gonz{á}lez-Briones, Alfonso and Wikarek, Jaroslaw and Loukanova, Roussanka and Katranas, George and Casado-Vara, Roberto},
+isbn = {978-3-030-86887-1},
+pages = {53--63},
+publisher = {Springer International Publishing},
+series = {Lecture Notes in Networks and Systems},
+title = {A Case Study in Computer-Assisted Meta-reasoning},
+volume = {332},
+year = {2022},
+}]]></fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>We discuss human and mechanized reasoning with regards to the use of proof assistants, in particular Isabelle/HOL. We use the development of novel NAND- and NOR-based micro provers as a case study. Current, widely available automated reasoning technology is suitable for assisting humans with certain types of reasoning, like finding proofs for well-defined theorems. Other types of reasoning, like the discovery of new theorems, are notoriously difficult for mechanized reasoning. Our case study indicates that proof assistants are well suited as development tools for assuredly correct programs in languages like Haskell.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/forest/jvilladsen/" title="Jørgen Villadsen" uri="https://astahfrom.github.io/forest/jvilladsen/" display-uri="jvilladsen" type="local">Jørgen Villadsen</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="/forest/abjensen/" title="Alexander Birch Jensen" uri="https://astahfrom.github.io/forest/abjensen/" display-uri="abjensen" type="local">Alexander Birch Jensen</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="/forest/aschlichtkrull/" title="Anders Schlichtkrull" uri="https://astahfrom.github.io/forest/aschlichtkrull/" display-uri="aschlichtkrull" type="local">Anders Schlichtkrull</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2022</fr:year>
+            </fr:date>
+            <fr:uri>https://astahfrom.github.io/forest/jvilladsen-ahfrom-abjensen-aschlichtkrull-2022-nplinai/</fr:uri>
+            <fr:display-uri>jvilladsen-ahfrom-abjensen-aschlichtkrull-2022-nplinai</fr:display-uri>
+            <fr:route>/forest/jvilladsen-ahfrom-abjensen-aschlichtkrull-2022-nplinai/</fr:route>
+            <fr:title text="Interactive Theorem Proving for Logic and Information">Interactive Theorem Proving for Logic and Information</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+            <fr:meta name="doi">10.1007/978-3-030-90138-7_2</fr:meta>
+            <fr:meta name="venue">In R. Loukanova (ed.) Natural Language Processing in Artificial Intelligence (NLPinAI 2021)</fr:meta>
+            <fr:meta name="bibtex"><![CDATA[@inbook{VilladsenFJS22,
+abstract = {Automated reasoning is the study of computer programs that can build proofs of theorems in a logic. Such programs can be either automatic theorem provers or interactive theorem provers. The latter are also called proof assistants because the user constructs the proofs with the help of the system. We focus on the Isabelle proof assistant. The system ensures that the proofs are correct, in contrast to pen-and-paper proofs which must be checked manually. We present applications to logical systems and models of information, in particular selected modal logics extending classical propositional logic. Epistemic logic allows intelligent systems to reason about the knowledge of agents. Public announcements can change the knowledge of the system and its agents. In order to account for this, epistemic logic can be extended to public announcement logic. An axiomatic system consists of axioms and rules of inference for deriving statements in a logic. Sound systems can only derive valid statements and complete systems can derive all valid statements. We describe formalizations of sound and complete axiomatic systems for epistemic logic and public announcement logic, thereby strengthening the foundations of automated reasoning for logic and information.},
+address = {Cham},
+author = {Villadsen, J{ø}rgen and From, Asta Halkj{æ}r and Jensen, Alexander Birch and Schlichtkrull, Anders},
+booktitle = {Natural Language Processing in Artificial Intelligence --- NLPinAI 2021},
+doi = {10.1007/978-3-030-90138-7_2},
+editor = {Loukanova, Roussanka},
+isbn = {978-3-030-90138-7},
+pages = {25--48},
+publisher = {Springer International Publishing},
+series = {Studies in Computational Intelligence},
+title = {Interactive Theorem Proving for Logic and Information},
+volume = {999},
+year = {2022},
+}]]></fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Automated reasoning is the study of computer programs that can build proofs of theorems in a logic. Such programs can be either automatic theorem provers or interactive theorem provers. The latter are also called proof assistants because the user constructs the proofs with the help of the system. We focus on the Isabelle proof assistant. The system ensures that the proofs are correct, in contrast to pen-and-paper proofs which must be checked manually. We present applications to logical systems and models of information, in particular selected modal logics extending classical propositional logic. Epistemic logic allows intelligent systems to reason about the knowledge of agents. Public announcements can change the knowledge of the system and its agents. In order to account for this, epistemic logic can be extended to public announcement logic. An axiomatic system consists of axioms and rules of inference for deriving statements in a logic. Sound systems can only derive valid statements and complete systems can derive all valid statements. We describe formalizations of sound and complete axiomatic systems for epistemic logic and public announcement logic, thereby strengthening the foundations of automated reasoning for logic and information.</html:p>
+            <html:p>
+              <fr:link href="/forest/ahfrom-2021-afp-pal/" title="Public Announcement Logic" uri="https://astahfrom.github.io/forest/ahfrom-2021-afp-pal/" display-uri="ahfrom-2021-afp-pal" type="local" />
+            </html:p>
+            <html:p>
+              <fr:link href="/forest/ahfrom-2018-afp-epistemic/" title="Epistemic Logic: Completeness of Modal Logics" uri="https://astahfrom.github.io/forest/ahfrom-2018-afp-epistemic/" display-uri="ahfrom-2018-afp-epistemic" type="local" />
+            </html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="/forest/jvilladsen/" title="Jørgen Villadsen" uri="https://astahfrom.github.io/forest/jvilladsen/" display-uri="jvilladsen" type="local">Jørgen Villadsen</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2022</fr:year>
+            </fr:date>
+            <fr:uri>https://astahfrom.github.io/forest/ahfrom-jvilladsen-2022-afp-implicational/</fr:uri>
+            <fr:display-uri>ahfrom-jvilladsen-2022-afp-implicational</fr:display-uri>
+            <fr:route>/forest/ahfrom-jvilladsen-2022-afp-implicational/</fr:route>
+            <fr:title text="Soundness and Completeness of Implicational Logic">Soundness and Completeness of Implicational Logic</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+            <fr:meta name="external">https://isa-afp.org/entries/Implicational_Logic.html</fr:meta>
+            <fr:meta name="venue">
+              <fr:link href="/forest/afp/" title="Archive of Formal Proofs" uri="https://astahfrom.github.io/forest/afp/" display-uri="afp" type="local">Archive of Formal Proofs</fr:link>
+            </fr:meta>
+            <fr:meta name="bibtex"><![CDATA[@article{Implicational_Logic-AFP,
+abstract = {This work is a formalization of soundness and completeness of the Bernays-Tarski axiom system for classical implicational logic. The completeness proof is constructive following the approach by László Kalmár, Elliott Mendelson and others. The result can be extended to full classical propositional logic by uncommenting a few lines for falsehood.},
+author = {Asta Halkjær From and Jørgen Villadsen},
+issn = {2150-914x},
+journal = {Archive of Formal Proofs},
+month = {September},
+title = {Soundness and Completeness of Implicational Logic},
+url = {https://isa-afp.org/entries/Implicational_Logic.html},
+year = {2022},
+}]]></fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>This work is a formalization of soundness and completeness of the Bernays-Tarski axiom system for classical implicational logic. The completeness proof is constructive following the approach by László Kalmár, Elliott Mendelson and others. The result can be extended to full classical propositional logic by uncommenting a few lines for falsehood.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="/forest/aschlichtkrull/" title="Anders Schlichtkrull" uri="https://astahfrom.github.io/forest/aschlichtkrull/" display-uri="aschlichtkrull" type="local">Anders Schlichtkrull</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="/forest/jvilladsen/" title="Jørgen Villadsen" uri="https://astahfrom.github.io/forest/jvilladsen/" display-uri="jvilladsen" type="local">Jørgen Villadsen</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2021</fr:year>
+            </fr:date>
+            <fr:uri>https://astahfrom.github.io/forest/ahfrom-aschlichtkrull-jvilladsen-2021-cilc/</fr:uri>
+            <fr:display-uri>ahfrom-aschlichtkrull-jvilladsen-2021-cilc</fr:display-uri>
+            <fr:route>/forest/ahfrom-aschlichtkrull-jvilladsen-2021-cilc/</fr:route>
+            <fr:title text="A Sequent Calculus for First-Order Logic Formalized in Isabelle/HOL">A Sequent Calculus for First-Order Logic Formalized in Isabelle/HOL</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+            <fr:meta name="external">http://ceur-ws.org/Vol-3002/paper7.pdf</fr:meta>
+            <fr:meta name="venue">In S. Monica and F. Bergenti (ed.) Proceedings of the 36th Italian Conference on Computational Logic (CILC 2021)</fr:meta>
+            <fr:meta name="bibtex"><![CDATA[@inproceedings{FromSV21,
+abstract = {We formalize in Isabelle/HOL soundness and completeness of a one-sided sequent calculus for first-order logic. The completeness is shown via a translation from a semantic tableau calculus, whose completeness proof we base on the theory entry “First-Order Logic According to Fitting” by Berghofer in the Archive of Formal Proofs (AFP). The calculi and proof techniques are taken from Ben-Ari’s textbook Mathematical Logic for Computer Science (Springer 2012). We thereby demonstrate that Berghofer’s approach works not only for natural deduction but constitutes a framework for mechanically-checked completeness proofs for a range of proof systems.},
+author = {Asta Halkj{æ}r From and Anders Schlichtkrull and J{ø}rgen Villadsen},
+booktitle = {Proceedings of the 36th Italian Conference on Computational Logic, Parma, Italy, September 7-9, 2021},
+editor = {Stefania Monica and Federico Bergenti},
+pages = {107--121},
+publisher = {CEUR-WS.org},
+series = {{CEUR} Workshop Proceedings},
+title = {A Sequent Calculus for First-Order Logic Formalized in {Isabelle/HOL}},
+url = {http://ceur-ws.org/Vol-3002/paper7.pdf},
+volume = {3002},
+year = {2021},
+}]]></fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>We formalize in Isabelle/HOL soundness and completeness of a one-sided sequent calculus for first-order logic. The completeness is shown via a translation from a semantic tableau calculus, whose completeness proof we base on the theory entry “First-Order Logic According to Fitting” by Berghofer in the Archive of Formal Proofs (AFP). The calculi and proof techniques are taken from Ben-Ari’s textbook Mathematical Logic for Computer Science (Springer 2012). We thereby demonstrate that Berghofer’s approach works not only for natural deduction but constitutes a framework for mechanically-checked completeness proofs for a range of proof systems.</html:p>
+            <html:p>
+              <fr:link href="/forest/ahfrom-2019-afp-seqcalc-fol/" title="A Sequent Calculus for First-Order Logic" uri="https://astahfrom.github.io/forest/ahfrom-2019-afp-seqcalc-fol/" display-uri="ahfrom-2019-afp-seqcalc-fol" type="local" />
+            </html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="/forest/abjensen/" title="Alexander Birch Jensen" uri="https://astahfrom.github.io/forest/abjensen/" display-uri="abjensen" type="local">Alexander Birch Jensen</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="/forest/jvilladsen/" title="Jørgen Villadsen" uri="https://astahfrom.github.io/forest/jvilladsen/" display-uri="jvilladsen" type="local">Jørgen Villadsen</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2021</fr:year>
+            </fr:date>
+            <fr:uri>https://astahfrom.github.io/forest/ahfrom-abjensen-jvilladsen-2021-lamassr/</fr:uri>
+            <fr:display-uri>ahfrom-abjensen-jvilladsen-2021-lamassr</fr:display-uri>
+            <fr:route>/forest/ahfrom-abjensen-jvilladsen-2021-lamassr/</fr:route>
+            <fr:title text="Formalized Soundness and Completeness of Epistemic Logic">Formalized Soundness and Completeness of Epistemic Logic</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+            <fr:meta name="external">https://lamassr.github.io/editions/2021/papers/Formalized-Soundness.pdf</fr:meta>
+            <fr:meta name="venue">International Workshop on Logical Aspects in Multi-Agent Systems and Strategic Reasoning (LAMAS &amp; SR 2021)</fr:meta>
+            <fr:meta name="slides">/forest/bafkrmifz4s3xphlgzo6ud5jyc7exmdeoqwmbtwuya2htzmo74l635mhghu.pdf</fr:meta>
+            <fr:meta name="bibtex"><![CDATA[@unpublished{FromJV21a,
+abstract = {Epistemic logic allows reasoning about the knowledge of agents, and deductive proof systems enable this reasoning with a few axioms and inference rules. We strengthen the logical foundations of such a system by formalizing it in the proof assistant Isabelle/HOL. Our definitions are given in the precise language of higher-order logic and every step of our soundness and completeness proofs is mechanically checked.},
+author = {Asta Halkjær From and Alexander Birch Jensen and Jørgen Villadsen},
+note = {International Workshop on Logical Aspects in Multi-Agent Systems and Strategic Reasoning (LAMAS & SR 2021), accepted abstract},
+title = {Formalized Soundness and Completeness of Epistemic Logic},
+url = {https://lamassr.github.io/editions/2021/papers/Formalized-Soundness.pdf},
+year = {2021},
+}]]></fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Epistemic logic allows reasoning about the knowledge of agents, and deductive proof systems enable this reasoning with a few axioms and inference rules. We strengthen the logical foundations of such a system by formalizing it in the proof assistant Isabelle/HOL. Our definitions are given in the precise language of higher-order logic and every step of our soundness and completeness proofs is mechanically checked.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="/forest/ameschen/" title="Agnes Moesgård Eschen" uri="https://astahfrom.github.io/forest/ameschen/" display-uri="ameschen" type="local">Agnes Moesgård Eschen</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="/forest/jvilladsen/" title="Jørgen Villadsen" uri="https://astahfrom.github.io/forest/jvilladsen/" display-uri="jvilladsen" type="local">Jørgen Villadsen</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2021</fr:year>
+            </fr:date>
+            <fr:uri>https://astahfrom.github.io/forest/ahfrom-ameschen-jvilladsen-2021-cicm/</fr:uri>
+            <fr:display-uri>ahfrom-ameschen-jvilladsen-2021-cicm</fr:display-uri>
+            <fr:route>/forest/ahfrom-ameschen-jvilladsen-2021-cicm/</fr:route>
+            <fr:title text="Formalizing Axiomatic Systems for Propositional Logic in Isabelle/HOL">Formalizing Axiomatic Systems for Propositional Logic in Isabelle/HOL</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+            <fr:meta name="doi">10.1007/978-3-030-81097-9_3</fr:meta>
+            <fr:meta name="venue">In F. Kamareddine and C. S. Coen (ed.) Intelligent Computer Mathematics - 14th International Conference (CICM 2021)</fr:meta>
+            <fr:meta name="slides">/forest/bafkrmihuicoogodnqur2r5iqzdhsni3s3iozdzjxcfz76ua33krmbcx7wq.pdf</fr:meta>
+            <fr:meta name="bibtex"><![CDATA[@inproceedings{FromEV21,
+abstract = {We formalize soundness and completeness proofs for a number of axiomatic systems for propositional logic in the proof assistant Isabelle/HOL.},
+author = {Asta Halkj{æ}r From and Agnes Moesg{å}rd Eschen and J{ø}rgen Villadsen},
+booktitle = {Intelligent Computer Mathematics - 14th International Conference, {CICM} 2021, Timisoara, Romania, July 26-31, 2021, Proceedings},
+doi = {10.1007/978-3-030-81097-9_3},
+editor = {Fairouz Kamareddine and Claudio Sacerdoti Coen},
+pages = {32--46},
+publisher = {Springer},
+series = {Lecture Notes in Computer Science},
+title = {Formalizing Axiomatic Systems for Propositional Logic in {Isabelle/HOL}},
+volume = {12833},
+year = {2021},
+}]]></fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>We formalize soundness and completeness proofs for a number of axiomatic systems for propositional logic in the proof assistant Isabelle/HOL.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="/forest/jvilladsen/" title="Jørgen Villadsen" uri="https://astahfrom.github.io/forest/jvilladsen/" display-uri="jvilladsen" type="local">Jørgen Villadsen</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2021</fr:year>
+            </fr:date>
+            <fr:uri>https://astahfrom.github.io/forest/ahfrom-jvilladsen-2021-types/</fr:uri>
+            <fr:display-uri>ahfrom-jvilladsen-2021-types</fr:display-uri>
+            <fr:route>/forest/ahfrom-jvilladsen-2021-types/</fr:route>
+            <fr:title text="On the Use of Isabelle/HOL for Formalizing New Concise Axiomatic Systems for Classical Propositional Logic">On the Use of Isabelle/HOL for Formalizing New Concise Axiomatic Systems for Classical Propositional Logic</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+            <fr:meta name="external">https://types21.liacs.nl/download/on-the-use-of-isabelle-hol-for-formalizing-new-concise-axiomatic-systems-for-classical-propositional-logic/</fr:meta>
+            <fr:meta name="venue">27th International Conference on Types for Proofs and Programs (TYPES 2021)</fr:meta>
+            <fr:meta name="bibtex"><![CDATA[@unpublished{FromV21-TYPES,
+abstract = {We describe novel axiomatic systems for classical propositional logic: one based on the K and S combinators and elimination rules and one on transitivity of implication, explosion and rules for disjunction. We show how Isabelle/HOL helps investigate such systems.},
+author = {Asta Halkjær From and Jørgen Villadsen},
+note = {27th International Conference on Types for Proofs and Programs (TYPES 2021), accepted abstract},
+title = {On the Use of Isabelle/HOL for Formalizing New Concise Axiomatic Systems for Classical Propositional Logic},
+url = {https://types21.liacs.nl/download/on-the-use-of-isabelle-hol-for-formalizing-new-concise-axiomatic-systems-for-classical-propositional-logic/},
+year = {2021},
+}]]></fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>We describe novel axiomatic systems for classical propositional logic: one based on the K and S combinators and elimination rules and one on transitivity of implication, explosion and rules for disjunction. We show how Isabelle/HOL helps investigate such systems.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="/forest/fkjacobsen/" title="Frederik Krogsdal Jacobsen" uri="https://astahfrom.github.io/forest/fkjacobsen/" display-uri="fkjacobsen" type="local">Frederik Krogsdal Jacobsen</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="/forest/jvilladsen/" title="Jørgen Villadsen" uri="https://astahfrom.github.io/forest/jvilladsen/" display-uri="jvilladsen" type="local">Jørgen Villadsen</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2021</fr:year>
+            </fr:date>
+            <fr:uri>https://astahfrom.github.io/forest/ahfrom-fkjacobsen-jvilladsen-2021-lsfa/</fr:uri>
+            <fr:display-uri>ahfrom-fkjacobsen-jvilladsen-2021-lsfa</fr:display-uri>
+            <fr:route>/forest/ahfrom-fkjacobsen-jvilladsen-2021-lsfa/</fr:route>
+            <fr:title text="SeCaV: A Sequent Calculus Verifier in Isabelle/HOL">SeCaV: A Sequent Calculus Verifier in Isabelle/HOL</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+            <fr:meta name="doi">10.4204/EPTCS.357.4</fr:meta>
+            <fr:meta name="venue">In M. Ayala-Rincón and E. Bonelli (ed.) Proceedings 16th Logical and Semantic Frameworks with Applications (LSFA 2021)</fr:meta>
+            <fr:meta name="bibtex"><![CDATA[@inproceedings{FromJV21,
+abstract = {We describe SeCaV, a sequent calculus verifier for first-order logic in Isabelle/HOL, and the SeCaV Unshortener, an online tool that expands succinct derivations into the full SeCaV syntax. We leverage the power of Isabelle/HOL as a proof checker for our SeCaV derivations. The interactive features of Isabelle/HOL make our system transparent. For instance, the user can simply click on a side condition to see its exact definition. Our formalized soundness and completeness proofs pertain exactly to the calculus as exposed to the user and not just to some model of our tool. Users can also write their derivations in the SeCaV Unshortener, which provides a lighter syntax, and expand them for later verification. We have used both tools in our teaching.},
+author = {Asta Halkj{æ}r From and Frederik Krogsdal Jacobsen and J{ø}rgen Villadsen},
+booktitle = {Proceedings 16th Logical and Semantic Frameworks with Applications, {LSFA} 2021, Buenos Aires, Argentina (Online), 23rd - 24th July, 2021},
+doi = {10.4204/EPTCS.357.4},
+editor = {Mauricio Ayala{-}Rinc{ó}n and Eduardo Bonelli},
+pages = {38--55},
+publisher = {Open Publishing Association},
+series = {{EPTCS}},
+title = {{SeCaV}: {A} Sequent Calculus Verifier in {Isabelle/HOL}},
+volume = {357},
+year = {2021},
+}]]></fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>We describe SeCaV, a sequent calculus verifier for first-order logic in Isabelle/HOL, and the SeCaV Unshortener, an online tool that expands succinct derivations into the full SeCaV syntax. We leverage the power of Isabelle/HOL as a proof checker for our SeCaV derivations. The interactive features of Isabelle/HOL make our system transparent. For instance, the user can simply click on a side condition to see its exact definition. Our formalized soundness and completeness proofs pertain exactly to the calculus as exposed to the user and not just to some model of our tool. Users can also write their derivations in the SeCaV Unshortener, which provides a lighter syntax, and expand them for later verification. We have used both tools in our teaching.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="/forest/jvilladsen/" title="Jørgen Villadsen" uri="https://astahfrom.github.io/forest/jvilladsen/" display-uri="jvilladsen" type="local">Jørgen Villadsen</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2021</fr:year>
+            </fr:date>
+            <fr:uri>https://astahfrom.github.io/forest/ahfrom-jvilladsen-2021-tfpie/</fr:uri>
+            <fr:display-uri>ahfrom-jvilladsen-2021-tfpie</fr:display-uri>
+            <fr:route>/forest/ahfrom-jvilladsen-2021-tfpie/</fr:route>
+            <fr:title text="Teaching Automated Reasoning and Formally Verified Functional Programming in Agda and Isabelle/HOL">Teaching Automated Reasoning and Formally Verified Functional Programming in Agda and Isabelle/HOL</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+            <fr:meta name="external">https://wiki.tfpie.science.ru.nl/images/a/a6/TFPIE_AHF_JV.pdf</fr:meta>
+            <fr:meta name="venue">10th International Workshop on Trends in Functional Programming in Education (TFPIE 2021)</fr:meta>
+            <fr:meta name="bibtex"><![CDATA[@unpublished{FromV21-TFPIE,
+abstract = {We formalize two micro provers for propositional logic in Isabelle/HOL and Agda. The provers are used in an automated reasoning course at DTU where they concretize discussions of soundness and completeness. The students are familiar with functional programming beforehand but formalizing the provers, and other programs, introduces the students to formally verified functional programming in a proof assistant. Proofs that have been informal in previous courses, for instance of termination, can now be verified by the machine, and the provers provide practical examples. Similarly, the formal meta-languages provided by the formalizations clarify boundaries that can be muddled with pen and paper, for instance between syntactic and semantic arguments. We find that the automation available in Isabelle/HOL provides succinctness while the verification in Agda closer resembles functional programming.},
+author = {From, Asta Halkj{æ}r and Villadsen, J{ø}rgen},
+note = {10th International Workshop on Trends in Functional Programming in Education (TFPIE 2021) --- Presentation Only/Online Papers},
+title = {Teaching Automated Reasoning and Formally Verified Functional Programming in {Agda} and {Isabelle/HOL}},
+url = {https://wiki.tfpie.science.ru.nl/images/a/a6/TFPIE_AHF_JV.pdf},
+year = {2021},
+}]]></fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>We formalize two micro provers for propositional logic in Isabelle/HOL and Agda. The provers are used in an automated reasoning course at DTU where they concretize discussions of soundness and completeness. The students are familiar with functional programming beforehand but formalizing the provers, and other programs, introduces the students to formally verified functional programming in a proof assistant. Proofs that have been informal in previous courses, for instance of termination, can now be verified by the machine, and the provers provide practical examples. Similarly, the formal meta-languages provided by the formalizations clarify boundaries that can be muddled with pen and paper, for instance between syntactic and semantic arguments. We find that the automation available in Isabelle/HOL provides succinctness while the verification in Agda closer resembles functional programming.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/forest/jvilladsen/" title="Jørgen Villadsen" uri="https://astahfrom.github.io/forest/jvilladsen/" display-uri="jvilladsen" type="local">Jørgen Villadsen</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="/forest/pblackburn/" title="Patrick Blackburn" uri="https://astahfrom.github.io/forest/pblackburn/" display-uri="pblackburn" type="local">Patrick Blackburn</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2021</fr:year>
+            </fr:date>
+            <fr:uri>https://astahfrom.github.io/forest/jvilladsen-ahfrom-pblackburn-2021-thedu/</fr:uri>
+            <fr:display-uri>jvilladsen-ahfrom-pblackburn-2021-thedu</fr:display-uri>
+            <fr:route>/forest/jvilladsen-ahfrom-pblackburn-2021-thedu/</fr:route>
+            <fr:title text="Teaching Intuitionistic and Classical Propositional Logic Using Isabelle">Teaching Intuitionistic and Classical Propositional Logic Using Isabelle</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+            <fr:meta name="doi">10.4204/EPTCS.354.6</fr:meta>
+            <fr:meta name="venue">In J. Marcos, W. Neuper and P. Quaresma (ed.) Proceedings 10th International Workshop on Theorem Proving Components for Educational Software (ThEdu@CADE 2021)</fr:meta>
+            <fr:meta name="bibtex"><![CDATA[@inproceedings{VilladsenFB21,
+abstract = {We describe a natural deduction formalization of intuitionistic and classical propositional logic in the Isabelle/Pure framework. In contrast to earlier work, where we explored the pedagogical benefits of using a deep embedding approach to logical modelling, here we employ a logical framework modelling. This gives rise to simple and natural teaching examples and we report on the role it played in teaching our Automated Reasoning course in 2020 and 2021.},
+author = {J{ø}rgen Villadsen and Asta Halkj{æ}r From and Patrick Blackburn},
+booktitle = {Proceedings 10th International Workshop on Theorem Proving Components for Educational Software, ThEdu@CADE 2021, (Remote) Carnegie Mellon University, Pittsburgh, PA, United States, 11 July 2021},
+doi = {10.4204/EPTCS.354.6},
+editor = {Jo{ã}o Marcos and Walther Neuper and Pedro Quaresma},
+pages = {71--85},
+publisher = {Open Publishing Association},
+series = {{EPTCS}},
+title = {Teaching Intuitionistic and Classical Propositional Logic Using {Isabelle}},
+volume = {354},
+year = {2021},
+}]]></fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>We describe a natural deduction formalization of intuitionistic and classical propositional logic in the Isabelle/Pure framework. In contrast to earlier work, where we explored the pedagogical benefits of using a deep embedding approach to logical modelling, here we employ a logical framework modelling. This gives rise to simple and natural teaching examples and we report on the role it played in teaching our Automated Reasoning course in 2020 and 2021.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="/forest/jvilladsen/" title="Jørgen Villadsen" uri="https://astahfrom.github.io/forest/jvilladsen/" display-uri="jvilladsen" type="local">Jørgen Villadsen</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2020</fr:year>
+            </fr:date>
+            <fr:uri>https://astahfrom.github.io/forest/ahfrom-jvilladsen-2020-isabelle-workshop/</fr:uri>
+            <fr:display-uri>ahfrom-jvilladsen-2020-isabelle-workshop</fr:display-uri>
+            <fr:route>/forest/ahfrom-jvilladsen-2020-isabelle-workshop/</fr:route>
+            <fr:title text="A Concise Sequent Calculus for Teaching First-Order Logic">A Concise Sequent Calculus for Teaching First-Order Logic</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+            <fr:meta name="external">https://files.sketis.net/Isabelle_Workshop_2020/Isabelle_2020_paper_6.pdf</fr:meta>
+            <fr:meta name="venue">Isabelle Workshop 2020</fr:meta>
+            <fr:meta name="slides">/forest/bafkrmihtqy63lees3qkjij5iqz6qj7e6ctvteevbpecrijgqln5z7gl5hq.pdf</fr:meta>
+            <fr:meta name="bibtex"><![CDATA[@unpublished{FromV20,
+abstract = {We have formalized soundness and completeness for a sequent calculus for classical first- order logic in the proof assistant Isabelle/HOL. We first describe a technique for extending a completeness result for closed formulas to completeness for open formulas as well. This requires some tricky reasoning due to our use of de Bruijn indices. We then describe a concise sequent calculus for first-order logic and introduce a useful way to write up the sequent calculus derivations in Isabelle/HOL. Our formalization has recently been used in a computer science course on automated reasoning.},
+author = {Asta Halkjær From and Jørgen Villadsen},
+note = {Isabelle Workshop 2020},
+title = {A Concise Sequent Calculus for Teaching First-Order Logic},
+url = {https://files.sketis.net/Isabelle_Workshop_2020/Isabelle_2020_paper_6.pdf},
+year = {2020},
+}]]></fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>We have formalized soundness and completeness for a sequent calculus for classical first- order logic in the proof assistant Isabelle/HOL. We first describe a technique for extending a completeness result for closed formulas to completeness for open formulas as well. This requires some tricky reasoning due to our use of de Bruijn indices. We then describe a concise sequent calculus for first-order logic and introduce a useful way to write up the sequent calculus derivations in Isabelle/HOL. Our formalization has recently been used in a computer science course on automated reasoning.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="/forest/pblackburn/" title="Patrick Blackburn" uri="https://astahfrom.github.io/forest/pblackburn/" display-uri="pblackburn" type="local">Patrick Blackburn</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="/forest/jvilladsen/" title="Jørgen Villadsen" uri="https://astahfrom.github.io/forest/jvilladsen/" display-uri="jvilladsen" type="local">Jørgen Villadsen</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2020</fr:year>
+            </fr:date>
+            <fr:uri>https://astahfrom.github.io/forest/ahfrom-pblackburn-jvilladsen-2020-ijcar/</fr:uri>
+            <fr:display-uri>ahfrom-pblackburn-jvilladsen-2020-ijcar</fr:display-uri>
+            <fr:route>/forest/ahfrom-pblackburn-jvilladsen-2020-ijcar/</fr:route>
+            <fr:title text="Formalizing a Seligman-Style Tableau System for Hybrid Logic (Short Paper)">Formalizing a Seligman-Style Tableau System for Hybrid Logic (Short Paper)</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+            <fr:meta name="doi">10.1007/978-3-030-51074-9_27</fr:meta>
+            <fr:meta name="venue">In N. Peltier and V. Sofronie-Stokkermans (ed.) Automated Reasoning - 10th International Joint Conference (IJCAR 2020)</fr:meta>
+            <fr:meta name="slides">/forest/bafkrmiayct4s3reqd4vth3ee52kzx3abq66ozo7vqnhlc2dyfle443goi4.pdf</fr:meta>
+            <fr:meta name="bibtex"><![CDATA[@inproceedings{FromBV20,
+abstract = {Hybrid logic is modal logic enriched with names for worlds. We formalize soundness and completeness proofs for a Seligman-style tableau system for hybrid logic in the proof assistant Isabelle/HOL. The formalization shows how to lift certain rule restrictions, thereby simplifying the original un-formalized proof. Moreover, the completeness proof we formalize is synthetic which suggests we can extend this work to prove a wider range of results about hybrid logic.},
+author = {Asta Halkj{æ}r From and Patrick Blackburn and J{ø}rgen Villadsen},
+booktitle = {Automated Reasoning - 10th International Joint Conference, {IJCAR} 2020, Paris, France, July 1-4, 2020, Proceedings, Part {I}},
+doi = {10.1007/978-3-030-51074-9_27},
+editor = {Nicolas Peltier and Viorica Sofronie{-}Stokkermans},
+pages = {474--481},
+publisher = {Springer},
+series = {Lecture Notes in Computer Science},
+title = {Formalizing a {Seligman}-Style Tableau System for Hybrid Logic (Short Paper)},
+volume = {12166},
+year = {2020},
+}]]></fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Hybrid logic is modal logic enriched with names for worlds. We formalize soundness and completeness proofs for a Seligman-style tableau system for hybrid logic in the proof assistant Isabelle/HOL. The formalization shows how to lift certain rule restrictions, thereby simplifying the original un-formalized proof. Moreover, the completeness proof we formalize is synthetic which suggests we can extend this work to prove a wider range of results about hybrid logic.</html:p>
+            <html:p>
+              <fr:link href="/forest/ahfrom-2019-afp-hybrid/" title="Formalizing a Seligman-Style Tableau System for Hybrid Logic" uri="https://astahfrom.github.io/forest/ahfrom-2019-afp-hybrid/" display-uri="ahfrom-2019-afp-hybrid" type="local" />
+            </html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="/forest/jvilladsen/" title="Jørgen Villadsen" uri="https://astahfrom.github.io/forest/jvilladsen/" display-uri="jvilladsen" type="local">Jørgen Villadsen</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="/forest/pblackburn/" title="Patrick Blackburn" uri="https://astahfrom.github.io/forest/pblackburn/" display-uri="pblackburn" type="local">Patrick Blackburn</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2020</fr:year>
+            </fr:date>
+            <fr:uri>https://astahfrom.github.io/forest/ahfrom-jvilladsen-pblackburn-2020-thedu/</fr:uri>
+            <fr:display-uri>ahfrom-jvilladsen-pblackburn-2020-thedu</fr:display-uri>
+            <fr:route>/forest/ahfrom-jvilladsen-pblackburn-2020-thedu/</fr:route>
+            <fr:title text="Isabelle/HOL as a Meta-Language for Teaching Logic">Isabelle/HOL as a Meta-Language for Teaching Logic</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+            <fr:meta name="doi">10.4204/EPTCS.328.2</fr:meta>
+            <fr:meta name="venue">In P. Quaresma, W. Neuper and J. Marcos (ed.) Proceedings 9th International Workshop on Theorem Proving Components for Educational Software (ThEdu@IJCAR 2020)</fr:meta>
+            <fr:meta name="bibtex"><![CDATA[@inproceedings{FromVB20,
+abstract = {Proof assistants are important tools for teaching logic. We support this claim by discussing three formalizations in Isabelle/HOL used in a recent course on automated reasoning. The first is a formalization of System W (a system of classical propositional logic with only two primitive symbols), the second is the Natural Deduction Assistant (NaDeA), and the third is a one-sided sequent calculus that uses our Sequent Calculus Verifier (SeCaV). We describe each formalization in turn, concentrating on how we used them in our teaching, and commenting on features that are interesting or useful from a logic education perspective. In the conclusion, we reflect on the lessons learned and where they might lead us next.},
+author = {Asta Halkj{æ}r From and J{ø}rgen Villadsen and Patrick Blackburn},
+booktitle = {Proceedings 9th International Workshop on Theorem Proving Components for Educational Software, ThEdu@IJCAR 2020, Paris, France, 29th June 2020},
+doi = {10.4204/EPTCS.328.2},
+editor = {Pedro Quaresma and Walther Neuper and Jo{ã}o Marcos},
+pages = {18--34},
+publisher = {Open Publishing Association},
+series = {{EPTCS}},
+title = {{Isabelle/HOL} as a Meta-Language for Teaching Logic},
+volume = {328},
+year = {2020},
+}]]></fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Proof assistants are important tools for teaching logic. We support this claim by discussing three formalizations in Isabelle/HOL used in a recent course on automated reasoning. The first is a formalization of System W (a system of classical propositional logic with only two primitive symbols), the second is the Natural Deduction Assistant (NaDeA), and the third is a one-sided sequent calculus that uses our Sequent Calculus Verifier (SeCaV). We describe each formalization in turn, concentrating on how we used them in our teaching, and commenting on features that are interesting or useful from a logic education perspective. In the conclusion, we reflect on the lessons learned and where they might lead us next.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="/forest/abjensen/" title="Alexander Birch Jensen" uri="https://astahfrom.github.io/forest/abjensen/" display-uri="abjensen" type="local">Alexander Birch Jensen</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="/forest/aschlichtkrull/" title="Anders Schlichtkrull" uri="https://astahfrom.github.io/forest/aschlichtkrull/" display-uri="aschlichtkrull" type="local">Anders Schlichtkrull</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="/forest/jvilladsen/" title="Jørgen Villadsen" uri="https://astahfrom.github.io/forest/jvilladsen/" display-uri="jvilladsen" type="local">Jørgen Villadsen</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2019</fr:year>
+            </fr:date>
+            <fr:uri>https://astahfrom.github.io/forest/ahfrom-abjensen-aschlichtkrull-jvilladsen-2019-thedu/</fr:uri>
+            <fr:display-uri>ahfrom-abjensen-aschlichtkrull-jvilladsen-2019-thedu</fr:display-uri>
+            <fr:route>/forest/ahfrom-abjensen-aschlichtkrull-jvilladsen-2019-thedu/</fr:route>
+            <fr:title text="Teaching a Formalized Logical Calculus">Teaching a Formalized Logical Calculus</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+            <fr:meta name="doi">10.4204/EPTCS.313.5</fr:meta>
+            <fr:meta name="venue">In P. Quaresma, W. Neuper and J. Marcos (ed.) Proceedings 8th International Workshop on Theorem Proving Components for Educational Software (ThEdu@CADE 2019)</fr:meta>
+            <fr:meta name="bibtex"><![CDATA[@inproceedings{FromJSV19,
+abstract = {Classical first-order logic is in many ways central to work in mathematics, linguistics, computer science and artificial intelligence, so it is worthwhile to define it in full detail. We present soundness and completeness proofs of a sequent calculus for first-order logic, formalized in the interactive proof assistant Isabelle/HOL. Our formalization is based on work by Stefan Berghofer, which we have since updated to use Isabelle's declarative proof style Isar (Archive of Formal Proofs, Entry FOL-Fitting, August 2007 / July 2018). We represent variables with de Bruijn indices; this makes substitution under quantifiers less intuitive for a human reader. However, the nature of natural numbers yields an elegant solution when compared to implementations of substitution using variables represented by strings. The sequent calculus considered has the special property of an always empty antecedent and a list of formulas in the succedent. We obtain the proofs of soundness and completeness for the sequent calculus as a derived result of the inverse duality of its tableau counterpart. We strive to not only present the results of the proofs of soundness and completeness, but also to provide a deep dive into a programming-like approach to the formalization of first-order logic syntax, semantics and the sequent calculus. We use the formalization in a bachelor course on logic for computer science and discuss our experiences.},
+author = {Asta Halkj{æ}r From and Alexander Birch Jensen and Anders Schlichtkrull and J{ø}rgen Villadsen},
+booktitle = {Proceedings 8th International Workshop on Theorem Proving Components for Educational Software, ThEdu@CADE 2019, Natal, Brazil, 25th August 2019},
+doi = {10.4204/EPTCS.313.5},
+editor = {Pedro Quaresma and Walther Neuper and Jo{ã}o Marcos},
+pages = {73--92},
+publisher = {Open Publishing Association},
+series = {{EPTCS}},
+title = {Teaching a Formalized Logical Calculus},
+volume = {313},
+year = {2019},
+}]]></fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Classical first-order logic is in many ways central to work in mathematics, linguistics, computer science and artificial intelligence, so it is worthwhile to define it in full detail. We present soundness and completeness proofs of a sequent calculus for first-order logic, formalized in the interactive proof assistant Isabelle/HOL. Our formalization is based on work by Stefan Berghofer, which we have since updated to use Isabelle's declarative proof style Isar (Archive of Formal Proofs, Entry FOL-Fitting, August 2007 / July 2018). We represent variables with de Bruijn indices; this makes substitution under quantifiers less intuitive for a human reader. However, the nature of natural numbers yields an elegant solution when compared to implementations of substitution using variables represented by strings. The sequent calculus considered has the special property of an always empty antecedent and a list of formulas in the succedent. We obtain the proofs of soundness and completeness for the sequent calculus as a derived result of the inverse duality of its tableau counterpart. We strive to not only present the results of the proofs of soundness and completeness, but also to provide a deep dive into a programming-like approach to the formalization of first-order logic syntax, semantics and the sequent calculus. We use the formalization in a bachelor course on logic for computer science and discuss our experiences.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/forest/jvilladsen/" title="Jørgen Villadsen" uri="https://astahfrom.github.io/forest/jvilladsen/" display-uri="jvilladsen" type="local">Jørgen Villadsen</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="/forest/aschlichtkrull/" title="Anders Schlichtkrull" uri="https://astahfrom.github.io/forest/aschlichtkrull/" display-uri="aschlichtkrull" type="local">Anders Schlichtkrull</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2018</fr:year>
+            </fr:date>
+            <fr:uri>https://astahfrom.github.io/forest/jvilladsen-aschlichtkrull-ahfrom-2018-paar/</fr:uri>
+            <fr:display-uri>jvilladsen-aschlichtkrull-ahfrom-2018-paar</fr:display-uri>
+            <fr:route>/forest/jvilladsen-aschlichtkrull-ahfrom-2018-paar/</fr:route>
+            <fr:title text="A Verified Simple Prover for First-Order Logic">A Verified Simple Prover for First-Order Logic</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+            <fr:meta name="external">http://ceur-ws.org/Vol-2162/paper-08.pdf</fr:meta>
+            <fr:meta name="venue">In B. Konev, J. Urban and P. Rümmer (ed.) Proceedings of the 6th Workshop on Practical Aspects of Automated Reasoning (PAAR 2018)</fr:meta>
+            <fr:meta name="bibtex"><![CDATA[@inproceedings{VilladsenSF18,
+abstract = {We present a simple prover for first-order logic with certified soundness and completeness in Isabelle/HOL, taking formalizations by Tom Ridge and others as the starting point, but with the aim of using the approach for teaching logic and verification to computer science stu- dents at the bachelor level. The prover is simple in the following sense: It is purely functional and can be executed with rewriting rules or as code generation to a number of functional programming languages. The prover uses no higher-order functions, that is, no function takes a function as argument or returns a function as its result. This is advantageous when students perform rewriting steps by hand. The prover uses the logic of first-order logic on negation normal form with a term language consist- ing of only variables. This subset of the full syntax of first-order logic allows for a simple proof system without resorting to the much weaker propositional logic.},
+author = {J{ø}rgen Villadsen and Anders Schlichtkrull and Asta Halkj{æ}r From},
+booktitle = {Proceedings of the 6th Workshop on Practical Aspects of Automated Reasoning co-located with Federated Logic Conference 2018 (FLoC 2018), Oxford, UK, July 19th, 2018},
+editor = {Boris Konev and Josef Urban and Philipp R{ü}mmer},
+pages = {88--104},
+publisher = {CEUR-WS.org},
+series = {{CEUR} Workshop Proceedings},
+title = {A Verified Simple Prover for First-Order Logic},
+url = {http://ceur-ws.org/Vol-2162/paper-08.pdf},
+volume = {2162},
+year = {2018},
+}]]></fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>We present a simple prover for first-order logic with certified soundness and completeness in Isabelle/HOL, taking formalizations by Tom Ridge and others as the starting point, but with the aim of using the approach for teaching logic and verification to computer science stu- dents at the bachelor level. The prover is simple in the following sense: It is purely functional and can be executed with rewriting rules or as code generation to a number of functional programming languages. The prover uses no higher-order functions, that is, no function takes a function as argument or returns a function as its result. This is advantageous when students perform rewriting steps by hand. The prover uses the logic of first-order logic on negation normal form with a term language consist- ing of only variables. This subset of the full syntax of first-order logic allows for a simple proof system without resorting to the much weaker propositional logic.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="/forest/aschlichtkrull/" title="Anders Schlichtkrull" uri="https://astahfrom.github.io/forest/aschlichtkrull/" display-uri="aschlichtkrull" type="local">Anders Schlichtkrull</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="/forest/jvilladsen/" title="Jørgen Villadsen" uri="https://astahfrom.github.io/forest/jvilladsen/" display-uri="jvilladsen" type="local">Jørgen Villadsen</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2018</fr:year>
+            </fr:date>
+            <fr:uri>https://astahfrom.github.io/forest/ahfrom-aschlichtkrull-jvilladsen-2018-isabelle-workshop/</fr:uri>
+            <fr:display-uri>ahfrom-aschlichtkrull-jvilladsen-2018-isabelle-workshop</fr:display-uri>
+            <fr:route>/forest/ahfrom-aschlichtkrull-jvilladsen-2018-isabelle-workshop/</fr:route>
+            <fr:title text="Drawing Trees">Drawing Trees</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+            <fr:meta name="external">https://files.sketis.net/Isabelle_Workshop_2018/Isabelle_2018_paper_7.pdf</fr:meta>
+            <fr:meta name="venue">Isabelle Workshop 2018</fr:meta>
+            <fr:meta name="bibtex"><![CDATA[@unpublished{FromSV18,
+abstract = {We formally prove in Isabelle/HOL two properties of an algorithm for laying out trees visually. The first property states that removing layout annotations recovers the original tree. The second property states that nodes are placed at least a unit of distance apart. We have yet to formalize three additional properties: That parents are centered above their children, that drawings are symmetrical with respect to reflection and that identical subtrees are rendered identically.},
+author = {Asta Halkjær From and Anders Schlichtkrull and Jørgen Villadsen},
+note = {Isabelle Workshop 2018},
+title = {Drawing Trees},
+url = {https://files.sketis.net/Isabelle_Workshop_2018/Isabelle_2018_paper_7.pdf},
+year = {2018},
+}]]></fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>We formally prove in Isabelle/HOL two properties of an algorithm for laying out trees visually. The first property states that removing layout annotations recovers the original tree. The second property states that nodes are placed at least a unit of distance apart. We have yet to formalize three additional properties: That parents are centered above their children, that drawings are symmetrical with respect to reflection and that identical subtrees are rendered identically.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/forest/jvilladsen/" title="Jørgen Villadsen" uri="https://astahfrom.github.io/forest/jvilladsen/" display-uri="jvilladsen" type="local">Jørgen Villadsen</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="/forest/sjacobi/" title="Salvador Jacobi" uri="https://astahfrom.github.io/forest/sjacobi/" display-uri="sjacobi" type="local">Salvador Jacobi</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="/forest/nnlarsen/" title="Nikolaj Nøkkentved Larsen" uri="https://astahfrom.github.io/forest/nnlarsen/" display-uri="nnlarsen" type="local">Nikolaj Nøkkentved Larsen</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2018</fr:year>
+            </fr:date>
+            <fr:uri>https://astahfrom.github.io/forest/jvilladsen-ahfrom-sjacobi-nnlarsen-2018-mapc/</fr:uri>
+            <fr:display-uri>jvilladsen-ahfrom-sjacobi-nnlarsen-2018-mapc</fr:display-uri>
+            <fr:route>/forest/jvilladsen-ahfrom-sjacobi-nnlarsen-2018-mapc/</fr:route>
+            <fr:title text="Multi-Agent Programming Contest 2016 --- The Python-DTU Team">Multi-Agent Programming Contest 2016 --- The Python-DTU Team</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+            <fr:meta name="doi">10.1504/IJAOSE.2018.10010604</fr:meta>
+            <fr:meta name="venue">International Journal of Agent-Oriented Software Engineering 6(1)</fr:meta>
+            <fr:meta name="bibtex"><![CDATA[@article{VilladsenFJL18,
+abstract = {We provide a detailed description of the Python-DTU system, including the overall system design and the tools used in the agent contest.},
+author = {J{ø}rgen Villadsen and Asta Halkj{æ}r From and Salvador Jacobi and Nikolaj N{ø}kkentved Larsen},
+doi = {10.1504/IJAOSE.2018.10010604},
+journal = {International Journal of Agent-Oriented Software Engineering},
+number = {1},
+pages = {86--100},
+title = {Multi-Agent Programming Contest 2016 --- The {Python-DTU} Team},
+volume = {6},
+year = {2018},
+}]]></fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>We provide a detailed description of the Python-DTU system, including the overall system design and the tools used in the agent contest.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/forest/jvilladsen/" title="Jørgen Villadsen" uri="https://astahfrom.github.io/forest/jvilladsen/" display-uri="jvilladsen" type="local">Jørgen Villadsen</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="/forest/mobjoern/" title="Mads Okholm Bjørn" uri="https://astahfrom.github.io/forest/mobjoern/" display-uri="mobjoern" type="local">Mads Okholm Bjørn</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="/forest/tshenney/" title="Thomas Søren Henney" uri="https://astahfrom.github.io/forest/tshenney/" display-uri="tshenney" type="local">Thomas Søren Henney</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="/forest/jblarsen/" title="John Bruntse Larsen" uri="https://astahfrom.github.io/forest/jblarsen/" display-uri="jblarsen" type="local">John Bruntse Larsen</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2018</fr:year>
+            </fr:date>
+            <fr:uri>https://astahfrom.github.io/forest/jvilladsen-mobjoern-ahfrom-tshenney-jblarsen-2018-mapc/</fr:uri>
+            <fr:display-uri>jvilladsen-mobjoern-ahfrom-tshenney-jblarsen-2018-mapc</fr:display-uri>
+            <fr:route>/forest/jvilladsen-mobjoern-ahfrom-tshenney-jblarsen-2018-mapc/</fr:route>
+            <fr:title text="Multi-Agent Programming Contest 2018 — The Jason-DTU Team">Multi-Agent Programming Contest 2018 — The Jason-DTU Team</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+            <fr:meta name="doi">10.1007/978-3-030-37959-9_3</fr:meta>
+            <fr:meta name="venue">In T. Ahlbrecht, J. Dix and N. Fiekas (ed.) The Multi-Agent Programming Contest 2018 — Agents Teaming Up in an Urban Environment</fr:meta>
+            <fr:meta name="bibtex"><![CDATA[@incollection{VilladsenBFHL18,
+abstract = {We provide a brief description of the Jason-DTU system, including the overall system design and the tools that we used in the Multi-Agent Programming Contest. We also provide a detailed evaluation of our system. The strengths of our system include dynamic assignment of agents to groups, enabling flexible use of agents according to the current situation. Our team performed overall very well and we won some matches by either a fairly big margin or closely.},
+author = {J{ø}rgen Villadsen and Mads Okholm Bj{ø}rn and Asta Halkj{æ}r From and Thomas S{ø}ren Henney and John Bruntse Larsen},
+booktitle = {The Multi-Agent Programming Contest 2018 --- Agents Teaming Up in an Urban Environment},
+doi = {10.1007/978-3-030-37959-9_3},
+editor = {Tobias Ahlbrecht and J{ü}rgen Dix and Niklas Fiekas},
+pages = {41--71},
+publisher = {Springer},
+series = {Lecture Notes in Computer Science},
+title = {Multi-Agent Programming Contest 2018 --- The {Jason-DTU} Team},
+volume = {11957},
+year = {2018},
+}]]></fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>We provide a brief description of the Jason-DTU system, including the overall system design and the tools that we used in the Multi-Agent Programming Contest. We also provide a detailed evaluation of our system. The strengths of our system include dynamic assignment of agents to groups, enabling flexible use of agents according to the current situation. Our team performed overall very well and we won some matches by either a fairly big margin or closely.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/forest/jvilladsen/" title="Jørgen Villadsen" uri="https://astahfrom.github.io/forest/jvilladsen/" display-uri="jvilladsen" type="local">Jørgen Villadsen</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="/forest/aschlichtkrull/" title="Anders Schlichtkrull" uri="https://astahfrom.github.io/forest/aschlichtkrull/" display-uri="aschlichtkrull" type="local">Anders Schlichtkrull</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2018</fr:year>
+            </fr:date>
+            <fr:uri>https://astahfrom.github.io/forest/jvilladsen-ahfrom-aschlichtkrull-2018-thedu/</fr:uri>
+            <fr:display-uri>jvilladsen-ahfrom-aschlichtkrull-2018-thedu</fr:display-uri>
+            <fr:route>/forest/jvilladsen-ahfrom-aschlichtkrull-2018-thedu/</fr:route>
+            <fr:title text="Natural Deduction Assistant (NaDeA)">Natural Deduction Assistant (NaDeA)</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+            <fr:meta name="doi">10.4204/EPTCS.290.2</fr:meta>
+            <fr:meta name="venue">In P. Quaresma and W. Neuper (ed.) Proceedings 7th International Workshop on Theorem proving components for Educational software (ThEdu@FLoC 2018)</fr:meta>
+            <fr:meta name="bibtex"><![CDATA[@inproceedings{VilladsenFS18,
+abstract = {We present the Natural Deduction Assistant (NaDeA) and discuss its advantages and disadvantages as a tool for teaching logic. NaDeA is available online and is based on a formalization of natural deduction in the Isabelle proof assistant. We first provide concise formulations of the main formalization results. We then elaborate on the prerequisites for NaDeA, in particular we describe a formalization in Isabelle of "Hilbert's Axioms" that we use as a starting point in our bachelor course on mathematical logic. We discuss a recent evaluation of NaDeA and also give an overview of the exercises in NaDeA.},
+author = {J{ø}rgen Villadsen and Asta Halkj{æ}r From and Anders Schlichtkrull},
+booktitle = {Proceedings 7th International Workshop on Theorem proving components for Educational software, ThEdu@FLoC 2018, Oxford, United Kingdom, 18 july 2018},
+doi = {10.4204/EPTCS.290.2},
+editor = {Pedro Quaresma and Walther Neuper},
+pages = {14--29},
+publisher = {Open Publishing Association},
+series = {{EPTCS}},
+title = {{Natural Deduction Assistant (NaDeA)}},
+volume = {290},
+year = {2018},
+}]]></fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>We present the Natural Deduction Assistant (NaDeA) and discuss its advantages and disadvantages as a tool for teaching logic. NaDeA is available online and is based on a formalization of natural deduction in the Isabelle proof assistant. We first provide concise formulations of the main formalization results. We then elaborate on the prerequisites for NaDeA, in particular we describe a formalization in Isabelle of "Hilbert's Axioms" that we use as a starting point in our bachelor course on mathematical logic. We discuss a recent evaluation of NaDeA and also give an overview of the exercises in NaDeA.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/forest/aschlichtkrull/" title="Anders Schlichtkrull" uri="https://astahfrom.github.io/forest/aschlichtkrull/" display-uri="aschlichtkrull" type="local">Anders Schlichtkrull</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="/forest/jvilladsen/" title="Jørgen Villadsen" uri="https://astahfrom.github.io/forest/jvilladsen/" display-uri="jvilladsen" type="local">Jørgen Villadsen</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2018</fr:year>
+            </fr:date>
+            <fr:uri>https://astahfrom.github.io/forest/aschlichtkrull-jvilladsen-ahfrom-2018-thedu/</fr:uri>
+            <fr:display-uri>aschlichtkrull-jvilladsen-ahfrom-2018-thedu</fr:display-uri>
+            <fr:route>/forest/aschlichtkrull-jvilladsen-ahfrom-2018-thedu/</fr:route>
+            <fr:title text="Students' Proof Assistant (SPA)">Students' Proof Assistant (SPA)</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+            <fr:meta name="doi">10.4204/EPTCS.290.1</fr:meta>
+            <fr:meta name="venue">In P. Quaresma and W. Neuper (ed.) Proceedings 7th International Workshop on Theorem proving components for Educational software (ThEdu@FLoC 2018)</fr:meta>
+            <fr:meta name="bibtex"><![CDATA[@inproceedings{SchlichtkrullVF18,
+abstract = {The Students' Proof Assistant (SPA) aims to both teach how to use a proof assistant like Isabelle and also to teach how reliable proof assistants are built. Technically it is a miniature proof assistant inside the Isabelle proof assistant. In addition we conjecture that a good way to teach structured proving is with a concrete prover where the connection between semantics, proof system, and prover is clear. The proofs in Lamport's TLAPS proof assistant have a very similar structure to those in the declarative prover SPA. To illustrate this we compare a proof of Pelletier's problem 43 in TLAPS, Isabelle/Isar and SPA. We also consider Pelletier's problem 34, also known as Andrews's Challenge, where students are encouraged to develop their own justification function and thus obtain a lot of insight into the proof assistant. Although SPA is fully functional we have so far only used it in a few educational scenarios.},
+author = {Anders Schlichtkrull and J{ø}rgen Villadsen and Asta Halkj{æ}r From},
+booktitle = {Proceedings 7th International Workshop on Theorem proving components for Educational software, ThEdu@FLoC 2018, Oxford, United Kingdom, 18 july 2018},
+doi = {10.4204/EPTCS.290.1},
+editor = {Pedro Quaresma and Walther Neuper},
+pages = {1--13},
+publisher = {Open Publishing Association},
+series = {{EPTCS}},
+title = {Students' Proof Assistant {(SPA)}},
+volume = {290},
+year = {2018},
+}]]></fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>The Students' Proof Assistant (SPA) aims to both teach how to use a proof assistant like Isabelle and also to teach how reliable proof assistants are built. Technically it is a miniature proof assistant inside the Isabelle proof assistant. In addition we conjecture that a good way to teach structured proving is with a concrete prover where the connection between semantics, proof system, and prover is clear. The proofs in Lamport's TLAPS proof assistant have a very similar structure to those in the declarative prover SPA. To illustrate this we compare a proof of Pelletier's problem 43 in TLAPS, Isabelle/Isar and SPA. We also consider Pelletier's problem 34, also known as Andrews's Challenge, where students are encouraged to develop their own justification function and thus obtain a lot of insight into the proof assistant. Although SPA is fully functional we have so far only used it in a few educational scenarios.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="/forest/jblarsen/" title="John Bruntse Larsen" uri="https://astahfrom.github.io/forest/jblarsen/" display-uri="jblarsen" type="local">John Bruntse Larsen</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="/forest/aschlichtkrull/" title="Anders Schlichtkrull" uri="https://astahfrom.github.io/forest/aschlichtkrull/" display-uri="aschlichtkrull" type="local">Anders Schlichtkrull</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="/forest/jvilladsen/" title="Jørgen Villadsen" uri="https://astahfrom.github.io/forest/jvilladsen/" display-uri="jvilladsen" type="local">Jørgen Villadsen</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2018</fr:year>
+            </fr:date>
+            <fr:uri>https://astahfrom.github.io/forest/ahfrom-jblarsen-aschlichtkrull-jvilladsen-2018-isabelle-workshop/</fr:uri>
+            <fr:display-uri>ahfrom-jblarsen-aschlichtkrull-jvilladsen-2018-isabelle-workshop</fr:display-uri>
+            <fr:route>/forest/ahfrom-jblarsen-aschlichtkrull-jvilladsen-2018-isabelle-workshop/</fr:route>
+            <fr:title text="Substitutionless First-Order Logic: A Formal Soundness Proof">Substitutionless First-Order Logic: A Formal Soundness Proof</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+            <fr:meta name="external">https://files.sketis.net/Isabelle_Workshop_2018/Isabelle_2018_paper_3.pdf</fr:meta>
+            <fr:meta name="venue">Isabelle Workshop 2018</fr:meta>
+            <fr:meta name="bibtex"><![CDATA[@unpublished{FromLSV18,
+abstract = {Substitution under quantifiers is non-trivial and may obscure a proof system for newcomers. Monk (Arch. Math. Log. Grundl. 1965) successfully eliminates substitution via identities and also uses a so-called normalization of formulas as a further simplification. We formalize the substitutionless proof system in Isabelle/HOL, spelling out its side conditions explicitly and verifying its soundness.},
+author = {Asta Halkjær From and John Bruntse Larsen and Anders Schlichtkrull and Jørgen Villadsen},
+note = {Isabelle Workshop 2018.},
+title = {Substitutionless First-Order Logic: A Formal Soundness Proof},
+url = {https://files.sketis.net/Isabelle_Workshop_2018/Isabelle_2018_paper_3.pdf},
+year = {2018},
+}]]></fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Substitution under quantifiers is non-trivial and may obscure a proof system for newcomers. Monk (Arch. Math. Log. Grundl. 1965) successfully eliminates substitution via identities and also uses a so-called normalization of formulas as a further simplification. We formalize the substitutionless proof system in Isabelle/HOL, spelling out its side conditions explicitly and verifying its soundness.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="/forest/hhatteland/" title="Helge Hatteland" uri="https://astahfrom.github.io/forest/hhatteland/" display-uri="hhatteland" type="local">Helge Hatteland</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="/forest/jvilladsen/" title="Jørgen Villadsen" uri="https://astahfrom.github.io/forest/jvilladsen/" display-uri="jvilladsen" type="local">Jørgen Villadsen</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2018</fr:year>
+            </fr:date>
+            <fr:uri>https://astahfrom.github.io/forest/ahfrom-hhatteland-jvilladsen-2018-sls/</fr:uri>
+            <fr:display-uri>ahfrom-hhatteland-jvilladsen-2018-sls</fr:display-uri>
+            <fr:route>/forest/ahfrom-hhatteland-jvilladsen-2018-sls/</fr:route>
+            <fr:title text="Teaching First-Order Logic with the Natural Deduction Assistant (NaDeA)">Teaching First-Order Logic with the Natural Deduction Assistant (NaDeA)</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+            <fr:meta name="external">https://scandinavianlogic.org/assets/attachments/book_of_abstracts_sls2018.pdfpage=11</fr:meta>
+            <fr:meta name="venue">Scandinavian Logic Symposium (SLS 2018)</fr:meta>
+            <fr:meta name="bibtex"><![CDATA[@unpublished{FromHV18,
+author = {Asta Halkjær From and Helge Hatteland and Jørgen Villadsen},
+note = {Scandinavian Logic Symposium (SLS 2018), accepted abstract},
+title = {Teaching First-Order Logic with the Natural Deduction Assistant ({NaDeA})},
+url = {https://scandinavianlogic.org/assets/attachments/book_of_abstracts_sls2018.pdf#page=11},
+year = {2018},
+}]]></fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>The natural deduction proof system is a popular way of teaching logic. It is also important in the philosophy of logic and the foundations of mathematics, in particular for systems of intuitionistic logic and constructive type theory, and it is used in many proof assistants along with automatic proof methods like the tableaux procedure and the resolution calculus. The natural deduction assistant (NaDeA) has been used for teaching first-order logic to hundreds of computer science bachelor students since 2015. NaDeA runs in a standard browser and is open source software. Upon completion of a natural deduction proof the student obtains a formal proof in the interactive proof assistant Isabelle/HOL of not only the correctness of the student’s natural deduction proof but also of the validity of the formula with respect to the classical semantics of formulas in first-order logic. Our formalization of the syntax, semantics and the inductive definition of the natural deduction proof system extends work by Stefan Berghofer and Melvin Fitting but with a much more detailed soundness proof that can be examined and tested by the students. The corresponding completeness proof is also available but it is of course quite demanding. We describe the main advantages and disadvantages of using an advanced e-learning tools like NaDeA for teaching logic. Furthermore we briefly survey related and future work. NaDeA can be used with or without installing Isabelle and is available online. https://nadea.compute.dtu.dk/</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/forest/jvilladsen/" title="Jørgen Villadsen" uri="https://astahfrom.github.io/forest/jvilladsen/" display-uri="jvilladsen" type="local">Jørgen Villadsen</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="/forest/aschlichtkrull/" title="Anders Schlichtkrull" uri="https://astahfrom.github.io/forest/aschlichtkrull/" display-uri="aschlichtkrull" type="local">Anders Schlichtkrull</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2017</fr:year>
+            </fr:date>
+            <fr:uri>https://astahfrom.github.io/forest/jvilladsen-ahfrom-aschlichtkrull-2017-thedu/</fr:uri>
+            <fr:display-uri>jvilladsen-ahfrom-aschlichtkrull-2017-thedu</fr:display-uri>
+            <fr:route>/forest/jvilladsen-ahfrom-aschlichtkrull-2017-thedu/</fr:route>
+            <fr:title text="Natural Deduction and the Isabelle Proof Assistant">Natural Deduction and the Isabelle Proof Assistant</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+            <fr:meta name="doi">10.4204/EPTCS.267.9</fr:meta>
+            <fr:meta name="venue">In P. Quaresma and W. Neuper (ed.) Proceedings 6th International Workshop on Theorem proving components for Educational software (ThEdu@CADE 2017)</fr:meta>
+            <fr:meta name="bibtex"><![CDATA[@inproceedings{VilladsenFS17,
+abstract = {We describe our Natural Deduction Assistant (NaDeA) and the interfaces between the Isabelle proof assistant and NaDeA. In particular, we explain how NaDeA, using a generated prover that has been verified in Isabelle, provides feedback to the student, and also how NaDeA, for each formula proved by the student, provides a generated theorem that can be verified in Isabelle.},
+author = {J{ø}rgen Villadsen and Asta Halkj{æ}r From and Anders Schlichtkrull},
+booktitle = {Proceedings 6th International Workshop on Theorem proving components for Educational software, ThEdu@CADE 2017, Gothenburg, Sweden, 6 Aug 2017},
+doi = {10.4204/EPTCS.267.9},
+editor = {Pedro Quaresma and Walther Neuper},
+pages = {140--155},
+publisher = {Open Publishing Association},
+series = {{EPTCS}},
+title = {Natural Deduction and the {Isabelle} Proof Assistant},
+volume = {267},
+year = {2017},
+}]]></fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>We describe our Natural Deduction Assistant (NaDeA) and the interfaces between the Isabelle proof assistant and NaDeA. In particular, we explain how NaDeA, using a generated prover that has been verified in Isabelle, provides feedback to the student, and also how NaDeA, for each formula proved by the student, provides a generated theorem that can be verified in Isabelle.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/forest/jvilladsen/" title="Jørgen Villadsen" uri="https://astahfrom.github.io/forest/jvilladsen/" display-uri="jvilladsen" type="local">Jørgen Villadsen</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="/forest/aschlichtkrull/" title="Anders Schlichtkrull" uri="https://astahfrom.github.io/forest/aschlichtkrull/" display-uri="aschlichtkrull" type="local">Anders Schlichtkrull</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2016</fr:year>
+            </fr:date>
+            <fr:uri>https://astahfrom.github.io/forest/jvilladsen-aschlichtkrull-ahfrom-2016-isabelle-workshop/</fr:uri>
+            <fr:display-uri>jvilladsen-aschlichtkrull-ahfrom-2016-isabelle-workshop</fr:display-uri>
+            <fr:route>/forest/jvilladsen-aschlichtkrull-ahfrom-2016-isabelle-workshop/</fr:route>
+            <fr:title text="Code Generation for a Simple First-Order Prover">Code Generation for a Simple First-Order Prover</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+            <fr:meta name="external">https://web.archive.org/web/20220121022845/https://www21.in.tum.de/~nipkow/Isabelle2016/Isabelle2016_12.pdf</fr:meta>
+            <fr:meta name="venue">Isabelle Workshop 2016</fr:meta>
+            <fr:meta name="bibtex"><![CDATA[@unpublished{VilladsenSF16,
+abstract = {We present Standard ML code generation in Isabelle/HOL of a sound and complete prover for first-order logic, taking formalizations by Tom Ridge and others as the starting point. We also define a set of so-called unfolding rules and show how to use these as a simple prover, with the aim of using the approach for teaching logic and verification to computer science students at the bachelor level.},
+author = {Jørgen Villadsen and Anders Schlichtkrull and Asta Halkjær From},
+note = {Isabelle Workshop 2016},
+title = {Code Generation for a Simple First-Order Prover},
+url = {https://web.archive.org/web/20220121022845/https://www21.in.tum.de/~nipkow/Isabelle2016/Isabelle2016_12.pdf},
+year = {2016},
+}]]></fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>We present Standard ML code generation in Isabelle/HOL of a sound and complete prover for first-order logic, taking formalizations by Tom Ridge and others as the starting point. We also define a set of so-called unfolding rules and show how to use these as a simple prover, with the aim of using the approach for teaching logic and verification to computer science students at the bachelor level.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+  </fr:backmatter>
+</fr:tree>

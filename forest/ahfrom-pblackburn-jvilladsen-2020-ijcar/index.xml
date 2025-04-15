@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/forest/default.xsl"?>
+<fr:tree xmlns:fr="http://www.forester-notes.org" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:xml="http://www.w3.org/XML/1998/namespace" root="false" base-url="/forest/">
+  <fr:frontmatter>
+    <fr:authors>
+      <fr:author>
+        <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+      </fr:author>
+      <fr:author>
+        <fr:link href="/forest/pblackburn/" title="Patrick Blackburn" uri="https://astahfrom.github.io/forest/pblackburn/" display-uri="pblackburn" type="local">Patrick Blackburn</fr:link>
+      </fr:author>
+      <fr:author>
+        <fr:link href="/forest/jvilladsen/" title="Jørgen Villadsen" uri="https://astahfrom.github.io/forest/jvilladsen/" display-uri="jvilladsen" type="local">Jørgen Villadsen</fr:link>
+      </fr:author>
+    </fr:authors>
+    <fr:date>
+      <fr:year>2020</fr:year>
+    </fr:date>
+    <fr:uri>https://astahfrom.github.io/forest/ahfrom-pblackburn-jvilladsen-2020-ijcar/</fr:uri>
+    <fr:display-uri>ahfrom-pblackburn-jvilladsen-2020-ijcar</fr:display-uri>
+    <fr:route>/forest/ahfrom-pblackburn-jvilladsen-2020-ijcar/</fr:route>
+    <fr:title text="Formalizing a Seligman-Style Tableau System for Hybrid Logic (Short Paper)">Formalizing a Seligman-Style Tableau System for Hybrid Logic (Short Paper)</fr:title>
+    <fr:taxon>Reference</fr:taxon>
+    <fr:meta name="doi">10.1007/978-3-030-51074-9_27</fr:meta>
+    <fr:meta name="venue">In N. Peltier and V. Sofronie-Stokkermans (ed.) Automated Reasoning - 10th International Joint Conference (IJCAR 2020)</fr:meta>
+    <fr:meta name="slides">/forest/bafkrmiayct4s3reqd4vth3ee52kzx3abq66ozo7vqnhlc2dyfle443goi4.pdf</fr:meta>
+    <fr:meta name="bibtex"><![CDATA[@inproceedings{FromBV20,
+abstract = {Hybrid logic is modal logic enriched with names for worlds. We formalize soundness and completeness proofs for a Seligman-style tableau system for hybrid logic in the proof assistant Isabelle/HOL. The formalization shows how to lift certain rule restrictions, thereby simplifying the original un-formalized proof. Moreover, the completeness proof we formalize is synthetic which suggests we can extend this work to prove a wider range of results about hybrid logic.},
+author = {Asta Halkj{æ}r From and Patrick Blackburn and J{ø}rgen Villadsen},
+booktitle = {Automated Reasoning - 10th International Joint Conference, {IJCAR} 2020, Paris, France, July 1-4, 2020, Proceedings, Part {I}},
+doi = {10.1007/978-3-030-51074-9_27},
+editor = {Nicolas Peltier and Viorica Sofronie{-}Stokkermans},
+pages = {474--481},
+publisher = {Springer},
+series = {Lecture Notes in Computer Science},
+title = {Formalizing a {Seligman}-Style Tableau System for Hybrid Logic (Short Paper)},
+volume = {12166},
+year = {2020},
+}]]></fr:meta>
+  </fr:frontmatter>
+  <fr:mainmatter>
+    <html:p>Hybrid logic is modal logic enriched with names for worlds. We formalize soundness and completeness proofs for a Seligman-style tableau system for hybrid logic in the proof assistant Isabelle/HOL. The formalization shows how to lift certain rule restrictions, thereby simplifying the original un-formalized proof. Moreover, the completeness proof we formalize is synthetic which suggests we can extend this work to prove a wider range of results about hybrid logic.</html:p>
+    <html:p>
+      <fr:link href="/forest/ahfrom-2019-afp-hybrid/" title="Formalizing a Seligman-Style Tableau System for Hybrid Logic" uri="https://astahfrom.github.io/forest/ahfrom-2019-afp-hybrid/" display-uri="ahfrom-2019-afp-hybrid" type="local" />
+    </html:p>
+  </fr:mainmatter>
+  <fr:backmatter>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="References">References</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2019</fr:year>
+            </fr:date>
+            <fr:uri>https://astahfrom.github.io/forest/ahfrom-2019-afp-hybrid/</fr:uri>
+            <fr:display-uri>ahfrom-2019-afp-hybrid</fr:display-uri>
+            <fr:route>/forest/ahfrom-2019-afp-hybrid/</fr:route>
+            <fr:title text="Formalizing a Seligman-Style Tableau System for Hybrid Logic">Formalizing a Seligman-Style Tableau System for Hybrid Logic</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+            <fr:meta name="external">https://isa-afp.org/entries/Hybrid_Logic.html</fr:meta>
+            <fr:meta name="venue">
+              <fr:link href="/forest/afp/" title="Archive of Formal Proofs" uri="https://astahfrom.github.io/forest/afp/" display-uri="afp" type="local">Archive of Formal Proofs</fr:link>
+            </fr:meta>
+            <fr:meta name="bibtex"><![CDATA[@article{Hybrid_Logic-AFP,
+abstract = {This work is a formalization of soundness and completeness proofs for a Seligman-style tableau system for hybrid logic. The completeness result is obtained via a synthetic approach using maximally consistent sets of tableau blocks. The formalization differs from previous work in a few ways. First, to avoid the need to backtrack in the construction of a tableau, the formalized system has no unnamed initial segment, and therefore no Name rule. Second, I show that the full Bridge rule is admissible in the system. Third, I start from rules restricted to only extend the branch with new formulas, including only witnessing diamonds that are not already witnessed, and show that the unrestricted rules are admissible. Similarly, I start from simpler versions of the @-rules and show that these are sufficient. The GoTo rule is restricted using a notion of potential such that each application consumes potential and potential is earned through applications of the remaining rules. I show that if a branch can be closed then it can be closed starting from a single unit. Finally, Nom is restricted by a fixed set of allowed nominals. The resulting system should be terminating. Paper: doi.org/10.4230/LIPIcs.TYPES.2020.5.},
+author = {Asta Halkjær From},
+issn = {2150-914x},
+journal = {Archive of Formal Proofs},
+month = {December},
+title = {Formalizing a Seligman-Style Tableau System for Hybrid Logic},
+url = {https://isa-afp.org/entries/Hybrid_Logic.html},
+year = {2019},
+}]]></fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>This work is a formalization of soundness and completeness proofs for a Seligman-style tableau system for hybrid logic. The completeness result is obtained via a synthetic approach using maximally consistent sets of tableau blocks. The formalization differs from previous work in a few ways. First, to avoid the need to backtrack in the construction of a tableau, the formalized system has no unnamed initial segment, and therefore no Name rule. Second, I show that the full Bridge rule is admissible in the system. Third, I start from rules restricted to only extend the branch with new formulas, including only witnessing diamonds that are not already witnessed, and show that the unrestricted rules are admissible. Similarly, I start from simpler versions of the @-rules and show that these are sufficient. The GoTo rule is restricted using a notion of potential such that each application consumes potential and potential is earned through applications of the remaining rules. I show that if a branch can be closed then it can be closed starting from a single unit. Finally, Nom is restricted by a fixed set of allowed nominals. The resulting system should be terminating. Paper: doi.org/10.4230/LIPIcs.TYPES.2020.5.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Context">Context</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Backlinks">Backlinks</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2021</fr:year>
+              <fr:month>1</fr:month>
+              <fr:day>14</fr:day>
+            </fr:date>
+            <fr:uri>https://astahfrom.github.io/forest/ahfrom-2021-talk-wld/</fr:uri>
+            <fr:display-uri>ahfrom-2021-talk-wld</fr:display-uri>
+            <fr:route>/forest/ahfrom-2021-talk-wld/</fr:route>
+            <fr:title text="Hybrid Logic">Hybrid Logic</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+            <fr:meta name="venue">3rd World Logic Day 2021, A Zoom on Logic, <fr:link href="/forest/dtucompute/" title="DTU Compute" uri="https://astahfrom.github.io/forest/dtucompute/" display-uri="dtucompute" type="local">DTU Compute</fr:link></fr:meta>
+            <fr:meta name="slides">/forest/bafkrmig2ivpizcq3mwoc3dffs5i6s73pumbt2n4huc4t52ubizi54pjbvu.pdf</fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>I talk about our <fr:link href="/forest/ahfrom-pblackburn-jvilladsen-2020-ijcar/" title="Formalizing a Seligman-Style Tableau System for Hybrid Logic (Short Paper)" uri="https://astahfrom.github.io/forest/ahfrom-pblackburn-jvilladsen-2020-ijcar/" display-uri="ahfrom-pblackburn-jvilladsen-2020-ijcar" type="local">Seligman-style tableau system for hybrid logic</fr:link>.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2020</fr:year>
+              <fr:month>7</fr:month>
+              <fr:day>20</fr:day>
+            </fr:date>
+            <fr:uri>https://astahfrom.github.io/forest/ahfrom-2020-talk-cicm/</fr:uri>
+            <fr:display-uri>ahfrom-2020-talk-cicm</fr:display-uri>
+            <fr:route>/forest/ahfrom-2020-talk-cicm/</fr:route>
+            <fr:title text="Formally Correct Deduction
+Methods for Computational Logic">Formally Correct Deduction
+Methods for Computational Logic</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+            <fr:meta name="venue">13th Conference on Intelligent Computer Mathematics (CICM 2020) doctoral session</fr:meta>
+            <fr:meta name="slides">/forest/bafkrmibdgbezbheebux5gkklfzqgkndpwdnprztb7caswvw56b7xo4z2oq.pdf</fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>I present preliminary work on my <fr:link href="/forest/ahfrom-2023-phd-thesis/" title="Formally Correct Deduction Methods for Computational Logic" uri="https://astahfrom.github.io/forest/ahfrom-2023-phd-thesis/" display-uri="ahfrom-2023-phd-thesis" type="local">PhD project</fr:link> including <fr:link href="/forest/ahfrom-pblackburn-jvilladsen-2020-ijcar/" title="Formalizing a Seligman-Style Tableau System for Hybrid Logic (Short Paper)" uri="https://astahfrom.github.io/forest/ahfrom-pblackburn-jvilladsen-2020-ijcar/" display-uri="ahfrom-pblackburn-jvilladsen-2020-ijcar" type="local">our paper on formalizing hybrid logic</fr:link>.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2019</fr:year>
+              <fr:month>9</fr:month>
+              <fr:day>7</fr:day>
+            </fr:date>
+            <fr:uri>https://astahfrom.github.io/forest/ahfrom-2019-talk-prior/</fr:uri>
+            <fr:display-uri>ahfrom-2019-talk-prior</fr:display-uri>
+            <fr:route>/forest/ahfrom-2019-talk-prior/</fr:route>
+            <fr:title text="Using the Isabelle Proof Assistant: Seligman-Style Tableau for Hybrid Logic">Using the Isabelle Proof Assistant: Seligman-Style Tableau for Hybrid Logic</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+            <fr:meta name="venue">The LogicS of Prior: Past, Present, and Future, Roskilde University</fr:meta>
+            <fr:meta name="slides">/forest/bafkrmicvxtj2njtxd4zvg7acfgdezs2boyvfm2l7zodcpkb4vundwhwysm.pdf</fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>I present ideas for my <fr:link href="/forest/ahfrom-2020-msc-thesis/" title="Hybrid Logic" uri="https://astahfrom.github.io/forest/ahfrom-2020-msc-thesis/" display-uri="ahfrom-2020-msc-thesis" type="local">MSc thesis</fr:link> on using Isabelle/HOL to formalizing <fr:link href="/forest/ahfrom-pblackburn-jvilladsen-2020-ijcar/" title="Formalizing a Seligman-Style Tableau System for Hybrid Logic (Short Paper)" uri="https://astahfrom.github.io/forest/ahfrom-pblackburn-jvilladsen-2020-ijcar/" display-uri="ahfrom-pblackburn-jvilladsen-2020-ijcar" type="local">a Seligman-style tableau system for hybrid logic</fr:link>.</html:p>
+            <html:p>I also gave this talk at an AlgoLoG section seminar seminar at <fr:link href="/forest/dtucompute/" title="DTU Compute" uri="https://astahfrom.github.io/forest/dtucompute/" display-uri="dtucompute" type="local">DTU Compute</fr:link>.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Related">Related</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Contributions">Contributions</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+  </fr:backmatter>
+</fr:tree>

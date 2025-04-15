@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/forest/default.xsl"?>
+<fr:tree xmlns:fr="http://www.forester-notes.org" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:xml="http://www.w3.org/XML/1998/namespace" root="false" base-url="/forest/">
+  <fr:frontmatter>
+    <fr:authors />
+    <fr:uri>https://astahfrom.github.io/forest/dtu/</fr:uri>
+    <fr:display-uri>dtu</fr:display-uri>
+    <fr:route>/forest/dtu/</fr:route>
+    <fr:title text="Technical University of Denmark">Technical University of Denmark</fr:title>
+    <fr:taxon>Institution</fr:taxon>
+  </fr:frontmatter>
+  <fr:mainmatter />
+  <fr:backmatter>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="References">References</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Context">Context</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Backlinks">Backlinks</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>4</fr:month>
+              <fr:day>15</fr:day>
+            </fr:date>
+            <fr:uri>https://astahfrom.github.io/forest/ahf-bscmsc/</fr:uri>
+            <fr:display-uri>ahf-bscmsc</fr:display-uri>
+            <fr:route>/forest/ahf-bscmsc/</fr:route>
+            <fr:title text="BSc and MSc">BSc and MSc</fr:title>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>I was a <fr:link href="/forest/ahfrom-2020-msc-thesis/" title="Hybrid Logic" uri="https://astahfrom.github.io/forest/ahfrom-2020-msc-thesis/" display-uri="ahfrom-2020-msc-thesis" type="local">MSc</fr:link> student on the Honours Programme in Computer Science and Engineering at <fr:link href="/forest/dtu/" title="Technical University of Denmark" uri="https://astahfrom.github.io/forest/dtu/" display-uri="dtu" type="local">DTU</fr:link> from 2018 to 2020 and a <fr:link href="/forest/ahfrom-2017-bsc-thesis/" title="Formalized First-Order Logic" uri="https://astahfrom.github.io/forest/ahfrom-2017-bsc-thesis/" display-uri="ahfrom-2017-bsc-thesis" type="local">BSc</fr:link> student in Software Technology at <fr:link href="/forest/dtu/" title="Technical University of Denmark" uri="https://astahfrom.github.io/forest/dtu/" display-uri="dtu" type="local">DTU</fr:link> from 2014 to 2018.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>4</fr:month>
+              <fr:day>15</fr:day>
+            </fr:date>
+            <fr:uri>https://astahfrom.github.io/forest/ahf-phd/</fr:uri>
+            <fr:display-uri>ahf-phd</fr:display-uri>
+            <fr:route>/forest/ahf-phd/</fr:route>
+            <fr:title text="PhD">PhD</fr:title>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>I was a PhD student at <fr:link href="/forest/dtucompute/" title="DTU Compute" uri="https://astahfrom.github.io/forest/dtucompute/" display-uri="dtucompute" type="local">DTU Compute</fr:link> from February 2020 to February 2023 working on <fr:link href="/forest/ahfrom-2023-phd-thesis/" title="Formally Correct Deduction Methods for Computational Logic" uri="https://astahfrom.github.io/forest/ahfrom-2023-phd-thesis/" display-uri="ahfrom-2023-phd-thesis" type="local">Formally Correct Deduction Methods for Computational Logic</fr:link>, especially using the proof assistant Isabelle/HOL. I was supervised by <fr:link href="/forest/jvilladsen/" title="Jørgen Villadsen" uri="https://astahfrom.github.io/forest/jvilladsen/" display-uri="jvilladsen" type="local">Jørgen Villadsen</fr:link> and co-supervised by <fr:link href="/forest/ngierasimczuk/" title="Nina Gierasimczuk" uri="https://astahfrom.github.io/forest/ngierasimczuk/" display-uri="ngierasimczuk" type="local">Nina Gierasimczuk</fr:link>. <fr:link href="/forest/dtu/" title="Technical University of Denmark" uri="https://astahfrom.github.io/forest/dtu/" display-uri="dtu" type="local">DTU</fr:link> granted me a Young Researcher Award for my PhD.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors />
+            <fr:uri>https://astahfrom.github.io/forest/dtucompute/</fr:uri>
+            <fr:display-uri>dtucompute</fr:display-uri>
+            <fr:route>/forest/dtucompute/</fr:route>
+            <fr:title text="DTU Compute">DTU Compute</fr:title>
+            <fr:taxon>Department</fr:taxon>
+            <fr:meta name="venue">
+              <fr:link href="/forest/dtu/" title="Technical University of Denmark" uri="https://astahfrom.github.io/forest/dtu/" display-uri="dtu" type="local">Technical University of Denmark</fr:link>
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter />
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors />
+            <fr:uri>https://astahfrom.github.io/forest/jvilladsen/</fr:uri>
+            <fr:display-uri>jvilladsen</fr:display-uri>
+            <fr:route>/forest/jvilladsen/</fr:route>
+            <fr:title text="Jørgen Villadsen">Jørgen Villadsen</fr:title>
+            <fr:taxon>Person</fr:taxon>
+            <fr:meta name="external">https://people.compute.dtu.dk/jovi/</fr:meta>
+            <fr:meta name="institution">
+              <fr:link href="/forest/dtu/" title="Technical University of Denmark" uri="https://astahfrom.github.io/forest/dtu/" display-uri="dtu" type="local">Technical University of Denmark</fr:link>
+            </fr:meta>
+            <fr:meta name="orcid">0000-0003-3624-1159</fr:meta>
+            <fr:meta name="position">Associate Professor</fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter />
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors />
+            <fr:uri>https://astahfrom.github.io/forest/ngierasimczuk/</fr:uri>
+            <fr:display-uri>ngierasimczuk</fr:display-uri>
+            <fr:route>/forest/ngierasimczuk/</fr:route>
+            <fr:title text="Nina Gierasimczuk">Nina Gierasimczuk</fr:title>
+            <fr:taxon>Person</fr:taxon>
+            <fr:meta name="external">https://ninagierasimczuk.com/</fr:meta>
+            <fr:meta name="institution">
+              <fr:link href="/forest/dtu/" title="Technical University of Denmark" uri="https://astahfrom.github.io/forest/dtu/" display-uri="dtu" type="local">Technical University of Denmark</fr:link>
+            </fr:meta>
+            <fr:meta name="orcid">0000-0001-5081-4676</fr:meta>
+            <fr:meta name="position">Associate Professor</fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter />
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors />
+            <fr:uri>https://astahfrom.github.io/forest/stlund/</fr:uri>
+            <fr:display-uri>stlund</fr:display-uri>
+            <fr:route>/forest/stlund/</fr:route>
+            <fr:title text="Simon Tobias Lund">Simon Tobias Lund</fr:title>
+            <fr:taxon>Person</fr:taxon>
+            <fr:meta name="institution">
+              <fr:link href="/forest/dtu/" title="Technical University of Denmark" uri="https://astahfrom.github.io/forest/dtu/" display-uri="dtu" type="local">Technical University of Denmark</fr:link>
+            </fr:meta>
+            <fr:meta name="orcid">0009-0005-2957-3472</fr:meta>
+            <fr:meta name="position">PhD student</fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter />
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Related">Related</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Contributions">Contributions</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+  </fr:backmatter>
+</fr:tree>

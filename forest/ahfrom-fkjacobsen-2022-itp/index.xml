@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/forest/default.xsl"?>
+<fr:tree xmlns:fr="http://www.forester-notes.org" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:xml="http://www.w3.org/XML/1998/namespace" root="false" base-url="/forest/">
+  <fr:frontmatter>
+    <fr:authors>
+      <fr:author>
+        <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+      </fr:author>
+      <fr:author>
+        <fr:link href="/forest/fkjacobsen/" title="Frederik Krogsdal Jacobsen" uri="https://astahfrom.github.io/forest/fkjacobsen/" display-uri="fkjacobsen" type="local">Frederik Krogsdal Jacobsen</fr:link>
+      </fr:author>
+    </fr:authors>
+    <fr:date>
+      <fr:year>2022</fr:year>
+    </fr:date>
+    <fr:uri>https://astahfrom.github.io/forest/ahfrom-fkjacobsen-2022-itp/</fr:uri>
+    <fr:display-uri>ahfrom-fkjacobsen-2022-itp</fr:display-uri>
+    <fr:route>/forest/ahfrom-fkjacobsen-2022-itp/</fr:route>
+    <fr:title text="Verifying a Sequent Calculus Prover for First-Order Logic with Functions in Isabelle/HOL">Verifying a Sequent Calculus Prover for First-Order Logic with Functions in Isabelle/HOL</fr:title>
+    <fr:taxon>Reference</fr:taxon>
+    <fr:meta name="doi">10.4230/LIPIcs.ITP.2022.13</fr:meta>
+    <fr:meta name="venue">In J. Andronick and L. de Moura (ed.) 13th International Conference on Interactive Theorem Proving (ITP 2022)</fr:meta>
+    <fr:meta name="slides">/forest/bafkrmidpylm6xwm7o3xcnantekrgxxnqdt45cut2zhvw7sx6vxr5ok2zq4.pdf</fr:meta>
+    <fr:meta name="bibtex"><![CDATA[@inproceedings{FromJ22,
+abstract = {We describe the design, implementation and verification of an automated theorem prover for first-order logic with functions. The proof search procedure is based on sequent calculus and we formally verify its soundness and completeness in Isabelle/HOL using an existing abstract framework for coinductive proof trees. Our analytic completeness proof covers both open and closed formulas. Since our deterministic prover considers only the subset of terms relevant to proving a given sequent, we do so as well when building a countermodel from a failed proof. Finally, we formally connect our prover with the proof system and semantics of the existing SeCaV system. In particular, the prover can generate human-readable SeCaV proofs which are also machine-verifiable proof certificates.},
+author = {Asta Halkj{æ}r From and Frederik Krogsdal Jacobsen},
+booktitle = {13th International Conference on Interactive Theorem Proving, {ITP} 2022, August 7-10, 2022, Haifa, Israel},
+doi = {10.4230/LIPIcs.ITP.2022.13},
+editor = {June Andronick and Leonardo de Moura},
+pages = {13:1--13:22},
+publisher = {Schloss Dagstuhl - Leibniz-Zentrum f{ü}r Informatik},
+series = {LIPIcs},
+title = {Verifying a Sequent Calculus Prover for First-Order Logic with Functions in {Isabelle/HOL}},
+volume = {237},
+year = {2022},
+}]]></fr:meta>
+  </fr:frontmatter>
+  <fr:mainmatter>
+    <html:p>We describe the design, implementation and verification of an automated theorem prover for first-order logic with functions. The proof search procedure is based on sequent calculus and we formally verify its soundness and completeness in Isabelle/HOL using an existing abstract framework for coinductive proof trees. Our analytic completeness proof covers both open and closed formulas. Since our deterministic prover considers only the subset of terms relevant to proving a given sequent, we do so as well when building a countermodel from a failed proof. Finally, we formally connect our prover with the proof system and semantics of the existing SeCaV system. In particular, the prover can generate human-readable SeCaV proofs which are also machine-verifiable proof certificates.</html:p>
+    <html:p>
+      <fr:link href="/forest/ahfrom-fkjacobsen-2022-afp-prover/" title="A Sequent Calculus Prover for First-Order Logic with Functions" uri="https://astahfrom.github.io/forest/ahfrom-fkjacobsen-2022-afp-prover/" display-uri="ahfrom-fkjacobsen-2022-afp-prover" type="local" />
+    </html:p>
+  </fr:mainmatter>
+  <fr:backmatter>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="References">References</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="/forest/fkjacobsen/" title="Frederik Krogsdal Jacobsen" uri="https://astahfrom.github.io/forest/fkjacobsen/" display-uri="fkjacobsen" type="local">Frederik Krogsdal Jacobsen</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2022</fr:year>
+            </fr:date>
+            <fr:uri>https://astahfrom.github.io/forest/ahfrom-fkjacobsen-2022-afp-prover/</fr:uri>
+            <fr:display-uri>ahfrom-fkjacobsen-2022-afp-prover</fr:display-uri>
+            <fr:route>/forest/ahfrom-fkjacobsen-2022-afp-prover/</fr:route>
+            <fr:title text="A Sequent Calculus Prover for First-Order Logic with Functions">A Sequent Calculus Prover for First-Order Logic with Functions</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+            <fr:meta name="external">https://isa-afp.org/entries/FOL_Seq_Calc2.html</fr:meta>
+            <fr:meta name="venue">
+              <fr:link href="/forest/afp/" title="Archive of Formal Proofs" uri="https://astahfrom.github.io/forest/afp/" display-uri="afp" type="local">Archive of Formal Proofs</fr:link>
+            </fr:meta>
+            <fr:meta name="bibtex"><![CDATA[@article{FOL_Seq_Calc2-AFP,
+abstract = {We formalize an automated theorem prover for first-order logic with functions. The proof search procedure is based on sequent calculus and we verify its soundness and completeness using the Abstract Soundness and Abstract Completeness theories. Our analytic completeness proof covers both open and closed formulas. Since our deterministic prover considers only the subset of terms relevant to proving a given sequent, we do so as well when building a countermodel from a failed proof. We formally connect our prover with the proof system and semantics of the existing SeCaV system. In particular, the prover's output can be post-processed in Haskell to generate human-readable SeCaV proofs which are also machine-verifiable proof certificates. Paper: doi.org/10.4230/LIPIcs.ITP.2022.13.},
+author = {Asta Halkjær From and Frederik Krogsdal Jacobsen},
+issn = {2150-914x},
+journal = {Archive of Formal Proofs},
+month = {January},
+title = {A Sequent Calculus Prover for First-Order Logic with Functions},
+url = {https://isa-afp.org/entries/FOL_Seq_Calc2.html},
+year = {2022},
+}]]></fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>We formalize an automated theorem prover for first-order logic with functions. The proof search procedure is based on sequent calculus and we verify its soundness and completeness using the Abstract Soundness and Abstract Completeness theories. Our analytic completeness proof covers both open and closed formulas. Since our deterministic prover considers only the subset of terms relevant to proving a given sequent, we do so as well when building a countermodel from a failed proof. We formally connect our prover with the proof system and semantics of the existing SeCaV system. In particular, the prover's output can be post-processed in Haskell to generate human-readable SeCaV proofs which are also machine-verifiable proof certificates. Paper: doi.org/10.4230/LIPIcs.ITP.2022.13.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Context">Context</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Backlinks">Backlinks</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2023</fr:year>
+              <fr:month>1</fr:month>
+              <fr:day>31</fr:day>
+            </fr:date>
+            <fr:uri>https://astahfrom.github.io/forest/ahfrom-2023-phd-thesis/</fr:uri>
+            <fr:display-uri>ahfrom-2023-phd-thesis</fr:display-uri>
+            <fr:route>/forest/ahfrom-2023-phd-thesis/</fr:route>
+            <fr:title text="Formally Correct Deduction Methods for Computational Logic">Formally Correct Deduction Methods for Computational Logic</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+            <fr:meta name="venue">PhD thesis, Technical University of Denmark</fr:meta>
+            <fr:meta name="slides">/forest/bafkrmihlakseuvtsrtlywgufu6u7td4va5ezlfnlvwapqbfekcjubtxee4.pdf</fr:meta>
+            <fr:meta name="external">/forest/bafkrmia3dddrsbaogkrwfwjc3i4f3vdjhq6rlnoziegwyk5veymmgzlnfa.pdf</fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Advisors: <fr:link href="/forest/jvilladsen/" title="Jørgen Villadsen" uri="https://astahfrom.github.io/forest/jvilladsen/" display-uri="jvilladsen" type="local">Jørgen Villadsen</fr:link> and <fr:link href="/forest/ngierasimczuk/" title="Nina Gierasimczuk" uri="https://astahfrom.github.io/forest/ngierasimczuk/" display-uri="ngierasimczuk" type="local">Nina Gierasimczuk</fr:link>.</html:p>
+            <html:p>Some logics make it easier to say what we want than others and some methods of deduction are simpler to work with than others. One thing typically remains important: that we can deduce all valid things (completeness). In this thesis I tackle completeness of various deduction methods for various logics. The work is formalized in the proof assistant Isabelle/HOL which offers a common language for mathematics and computer science where proofs can be checked mechanically. This thesis discusses the following contributions of my PhD project in particular:
+<html:ul><html:li><fr:link href="/forest/ahfrom-2021-esslli/" title="Formalizing Henkin-Style Completeness of an Axiomatic System for Propositional Logic" uri="https://astahfrom.github.io/forest/ahfrom-2021-esslli/" display-uri="ahfrom-2021-esslli" type="local">A historical overview of formalized completeness proofs and a formalization that explains the essence of synthetic completeness proofs.</fr:link></html:li>
+<html:li><fr:link href="/forest/ahfrom-2021-types/" title="A Succinct Formalization of the Completeness of First-Order Logic" uri="https://astahfrom.github.io/forest/ahfrom-2021-types/" display-uri="ahfrom-2021-types" type="local">A formalization of a concise completeness proof for first-order logic in Isabelle/HOL, including solutions to the issues of formalizing quantifiers and proving completeness for formulas with free variables.</fr:link></html:li>
+<html:li><fr:link href="/forest/ahfrom-fkjacobsen-2022-itp/" title="Verifying a Sequent Calculus Prover for First-Order Logic with Functions in Isabelle/HOL" uri="https://astahfrom.github.io/forest/ahfrom-fkjacobsen-2022-itp/" display-uri="ahfrom-fkjacobsen-2022-itp" type="local">A verified prover for first-order logic with functions, with a formalized completeness proof that takes the search strategy of the prover into account.</fr:link></html:li>
+<html:li><fr:link href="/forest/ahfrom-2020-types/" title="Synthetic Completeness for a Terminating Seligman-Style Tableau System" uri="https://astahfrom.github.io/forest/ahfrom-2020-types/" display-uri="ahfrom-2020-types" type="local">A synthetic completeness proof for a tableau system for basic hybrid logic which is both terminating and in the Seligman style where the proof rules reflect the local perspective that modal logic is based on.</fr:link></html:li>
+<html:li><fr:link href="/forest/ahfrom-2024-jlc-wollic/" title="Formalized Soundness and Completeness of Epistemic and Public Announcement Logic" uri="https://astahfrom.github.io/forest/ahfrom-2024-jlc-wollic/" display-uri="ahfrom-2024-jlc-wollic" type="local">Formalized soundness and completeness results for epistemic and public announcement logic, instantiated to a range of concrete axiom systems.</fr:link></html:li>
+<html:li><fr:link href="/forest/jlimperg-ahfrom-2023-cpp/" title="Aesop: White-Box Best-First Proof Search for Lean" uri="https://astahfrom.github.io/forest/jlimperg-ahfrom-2023-cpp/" display-uri="jlimperg-ahfrom-2023-cpp" type="local">A best-first proof search tactic for the proof assistant Lean 4.</fr:link></html:li>
+<html:li><fr:link href="/forest/ahfrom-2025-cpp/" title="An Isabelle/HOL Framework for Synthetic Completeness Proofs" uri="https://astahfrom.github.io/forest/ahfrom-2025-cpp/" display-uri="ahfrom-2025-cpp" type="local">An abstract framework for synthetic completeness proofs.</fr:link></html:li></html:ul></html:p>
+          </fr:mainmatter>
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Related">Related</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Contributions">Contributions</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+  </fr:backmatter>
+</fr:tree>

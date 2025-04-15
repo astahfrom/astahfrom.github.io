@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/forest/default.xsl"?>
+<fr:tree xmlns:fr="http://www.forester-notes.org" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:xml="http://www.w3.org/XML/1998/namespace" root="false" base-url="/forest/">
+  <fr:frontmatter>
+    <fr:authors />
+    <fr:uri>https://astahfrom.github.io/forest/diku/</fr:uri>
+    <fr:display-uri>diku</fr:display-uri>
+    <fr:route>/forest/diku/</fr:route>
+    <fr:title text="Department of Computer Science">Department of Computer Science</fr:title>
+    <fr:taxon>Department</fr:taxon>
+    <fr:meta name="venue">
+      <fr:link href="/forest/ucph/" title="University of Copenhagen" uri="https://astahfrom.github.io/forest/ucph/" display-uri="ucph" type="local">University of Copenhagen</fr:link>
+    </fr:meta>
+  </fr:frontmatter>
+  <fr:mainmatter />
+  <fr:backmatter>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="References">References</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Context">Context</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Backlinks">Backlinks</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>4</fr:month>
+              <fr:day>15</fr:day>
+            </fr:date>
+            <fr:uri>https://astahfrom.github.io/forest/ahf-sdps/</fr:uri>
+            <fr:display-uri>ahf-sdps</fr:display-uri>
+            <fr:route>/forest/ahf-sdps/</fr:route>
+            <fr:title text="Postdoc">Postdoc</fr:title>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>I am a postdoc in <fr:link href="/forest/dtraytel/" title="Dmitriy Traytel" uri="https://astahfrom.github.io/forest/dtraytel/" display-uri="dtraytel" type="local">Dmitriy Traytel</fr:link>'s group in the section for Software, Data, People &amp; Society (SDPS) in the <fr:link href="/forest/diku/" title="Department of Computer Science" uri="https://astahfrom.github.io/forest/diku/" display-uri="diku" type="local">Department of Computer Science</fr:link> at the <fr:link href="/forest/ucph/" title="University of Copenhagen" uri="https://astahfrom.github.io/forest/ucph/" display-uri="ucph" type="local">University of Copenhagen</fr:link>. I am employed from August 2024 to August 2026. I teach Software Development for Digital Health for 4th semester Health and IT students.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>1</fr:month>
+              <fr:day>7</fr:day>
+            </fr:date>
+            <fr:uri>https://astahfrom.github.io/forest/ahfrom-2025-talk-bits/</fr:uri>
+            <fr:display-uri>ahfrom-2025-talk-bits</fr:display-uri>
+            <fr:route>/forest/ahfrom-2025-talk-bits/</fr:route>
+            <fr:title text="How to Speak Logic with your Computer: The Unreasonable Effectiveness of a Machine Assistant">How to Speak Logic with your Computer: The Unreasonable Effectiveness of a Machine Assistant</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+            <fr:meta name="venue"><fr:link href="/forest/diku/" title="Department of Computer Science" uri="https://astahfrom.github.io/forest/diku/" display-uri="diku" type="local">DIKU</fr:link> Bits</fr:meta>
+            <fr:meta name="slides">/forest/bafkrmih2onpoea7xf6nbpjoeusnnhuwnyus4bdfc6zjy6tnbv6dc2435ye.pdf</fr:meta>
+            <fr:meta name="external">https://di.ku.dk/forsidebegivenheder/begivenheder-2024/diku-bits-by-asta-halkjaer-from/</fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Imagine if LaTeX could check your work and fill out parts of your proofs for you. In this talk, I will introduce higher-order logic and the Isabelle proof assistant. Unlike English, sentences in logic have a precise meaning. This means we can do computer science and mathematics in a language that both humans and computers can "speak". I do most of my own work on logic with Isabelle as my companion.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Related">Related</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors />
+            <fr:uri>https://astahfrom.github.io/forest/ucph/</fr:uri>
+            <fr:display-uri>ucph</fr:display-uri>
+            <fr:route>/forest/ucph/</fr:route>
+            <fr:title text="University of Copenhagen">University of Copenhagen</fr:title>
+            <fr:taxon>Institution</fr:taxon>
+          </fr:frontmatter>
+          <fr:mainmatter />
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Contributions">Contributions</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+  </fr:backmatter>
+</fr:tree>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/forest/default.xsl"?>
+<fr:tree xmlns:fr="http://www.forester-notes.org" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:xml="http://www.w3.org/XML/1998/namespace" root="false" base-url="/forest/">
+  <fr:frontmatter>
+    <fr:authors>
+      <fr:author>
+        <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+      </fr:author>
+      <fr:author>
+        <fr:link href="/forest/jvilladsen/" title="Jørgen Villadsen" uri="https://astahfrom.github.io/forest/jvilladsen/" display-uri="jvilladsen" type="local">Jørgen Villadsen</fr:link>
+      </fr:author>
+    </fr:authors>
+    <fr:date>
+      <fr:year>2021</fr:year>
+    </fr:date>
+    <fr:uri>https://astahfrom.github.io/forest/ahfrom-jvilladsen-2021-types/</fr:uri>
+    <fr:display-uri>ahfrom-jvilladsen-2021-types</fr:display-uri>
+    <fr:route>/forest/ahfrom-jvilladsen-2021-types/</fr:route>
+    <fr:title text="On the Use of Isabelle/HOL for Formalizing New Concise Axiomatic Systems for Classical Propositional Logic">On the Use of Isabelle/HOL for Formalizing New Concise Axiomatic Systems for Classical Propositional Logic</fr:title>
+    <fr:taxon>Reference</fr:taxon>
+    <fr:meta name="external">https://types21.liacs.nl/download/on-the-use-of-isabelle-hol-for-formalizing-new-concise-axiomatic-systems-for-classical-propositional-logic/</fr:meta>
+    <fr:meta name="venue">27th International Conference on Types for Proofs and Programs (TYPES 2021)</fr:meta>
+    <fr:meta name="bibtex"><![CDATA[@unpublished{FromV21-TYPES,
+abstract = {We describe novel axiomatic systems for classical propositional logic: one based on the K and S combinators and elimination rules and one on transitivity of implication, explosion and rules for disjunction. We show how Isabelle/HOL helps investigate such systems.},
+author = {Asta Halkjær From and Jørgen Villadsen},
+note = {27th International Conference on Types for Proofs and Programs (TYPES 2021), accepted abstract},
+title = {On the Use of Isabelle/HOL for Formalizing New Concise Axiomatic Systems for Classical Propositional Logic},
+url = {https://types21.liacs.nl/download/on-the-use-of-isabelle-hol-for-formalizing-new-concise-axiomatic-systems-for-classical-propositional-logic/},
+year = {2021},
+}]]></fr:meta>
+  </fr:frontmatter>
+  <fr:mainmatter>
+    <html:p>We describe novel axiomatic systems for classical propositional logic: one based on the K and S combinators and elimination rules and one on transitivity of implication, explosion and rules for disjunction. We show how Isabelle/HOL helps investigate such systems.</html:p>
+  </fr:mainmatter>
+  <fr:backmatter>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="References">References</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Context">Context</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Backlinks">Backlinks</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Related">Related</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Contributions">Contributions</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+  </fr:backmatter>
+</fr:tree>

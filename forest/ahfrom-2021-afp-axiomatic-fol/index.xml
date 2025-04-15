@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/forest/default.xsl"?>
+<fr:tree xmlns:fr="http://www.forester-notes.org" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:xml="http://www.w3.org/XML/1998/namespace" root="false" base-url="/forest/">
+  <fr:frontmatter>
+    <fr:authors>
+      <fr:author>
+        <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+      </fr:author>
+    </fr:authors>
+    <fr:date>
+      <fr:year>2021</fr:year>
+    </fr:date>
+    <fr:uri>https://astahfrom.github.io/forest/ahfrom-2021-afp-axiomatic-fol/</fr:uri>
+    <fr:display-uri>ahfrom-2021-afp-axiomatic-fol</fr:display-uri>
+    <fr:route>/forest/ahfrom-2021-afp-axiomatic-fol/</fr:route>
+    <fr:title text="Soundness and Completeness of an Axiomatic System for First-Order Logic">Soundness and Completeness of an Axiomatic System for First-Order Logic</fr:title>
+    <fr:taxon>Reference</fr:taxon>
+    <fr:meta name="external">https://isa-afp.org/entries/FOL_Axiomatic.html</fr:meta>
+    <fr:meta name="venue">
+      <fr:link href="/forest/afp/" title="Archive of Formal Proofs" uri="https://astahfrom.github.io/forest/afp/" display-uri="afp" type="local">Archive of Formal Proofs</fr:link>
+    </fr:meta>
+    <fr:meta name="bibtex"><![CDATA[@article{FOL_Axiomatic-AFP,
+abstract = {This work is a formalization of the soundness and completeness of an axiomatic system for first-order logic. The proof system is based on System Q1 by Smullyan and the completeness proof follows his textbook "First-Order Logic" (Springer-Verlag 1968). The completeness proof is in the Henkin style where a consistent set is extended to a maximal consistent set using Lindenbaum's construction and Henkin witnesses are added during the construction to ensure saturation as well. The resulting set is a Hintikka set which, by the model existence theorem, is satisfiable in the Herbrand universe. Paper: doi.org/10.4230/LIPIcs.TYPES.2021.8.},
+author = {Asta Halkjær From},
+issn = {2150-914x},
+journal = {Archive of Formal Proofs},
+month = {September},
+title = {Soundness and Completeness of an Axiomatic System for First-Order Logic},
+url = {https://isa-afp.org/entries/FOL_Axiomatic.html},
+year = {2021},
+}]]></fr:meta>
+  </fr:frontmatter>
+  <fr:mainmatter>
+    <html:p>This work is a formalization of the soundness and completeness of an axiomatic system for first-order logic. The proof system is based on System Q1 by Smullyan and the completeness proof follows his textbook "First-Order Logic" (Springer-Verlag 1968). The completeness proof is in the Henkin style where a consistent set is extended to a maximal consistent set using Lindenbaum's construction and Henkin witnesses are added during the construction to ensure saturation as well. The resulting set is a Hintikka set which, by the model existence theorem, is satisfiable in the Herbrand universe. Paper: doi.org/10.4230/LIPIcs.TYPES.2021.8.</html:p>
+  </fr:mainmatter>
+  <fr:backmatter>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="References">References</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Context">Context</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Backlinks">Backlinks</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2021</fr:year>
+            </fr:date>
+            <fr:uri>https://astahfrom.github.io/forest/ahfrom-2021-types/</fr:uri>
+            <fr:display-uri>ahfrom-2021-types</fr:display-uri>
+            <fr:route>/forest/ahfrom-2021-types/</fr:route>
+            <fr:title text="A Succinct Formalization of the Completeness of First-Order Logic">A Succinct Formalization of the Completeness of First-Order Logic</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+            <fr:meta name="doi">10.4230/LIPIcs.TYPES.2021.8</fr:meta>
+            <fr:meta name="venue">In H. Basold, J. Cockx and S. Ghilezan (ed.) 27th International Conference on Types for Proofs and Programs (TYPES 2021)</fr:meta>
+            <fr:meta name="bibtex"><![CDATA[@inproceedings{From21-TYPES,
+abstract = {I succinctly formalize the soundness and completeness of a small Hilbert system for first-order logic in the proof assistant Isabelle/HOL. The proof combines and details ideas from de Bruijn, Henkin, Herbrand, Hilbert, Hintikka, Lindenbaum, Smullyan and others in a novel way, and I use a declarative style, custom notation and proof automation to obtain a readable formalization. The formalized definitions of Hintikka sets and Herbrand structures allow open and closed formulas to be treated uniformly, making free variables a non-concern. This paper collects important techniques in mathematical logic in a way suited for both study and further work.},
+author = {Asta Halkj{æ}r From},
+booktitle = {27th International Conference on Types for Proofs and Programs, {TYPES} 2021, June 14-18, 2021, Leiden, The Netherlands (Virtual Conference)},
+doi = {10.4230/LIPIcs.TYPES.2021.8},
+editor = {Henning Basold and Jesper Cockx and Silvia Ghilezan},
+pages = {8:1--8:24},
+publisher = {Schloss Dagstuhl - Leibniz-Zentrum f{ü}r Informatik},
+series = {LIPIcs},
+title = {A Succinct Formalization of the Completeness of First-Order Logic},
+volume = {239},
+year = {2021},
+}]]></fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>I succinctly formalize the soundness and completeness of a small Hilbert system for first-order logic in the proof assistant Isabelle/HOL. The proof combines and details ideas from de Bruijn, Henkin, Herbrand, Hilbert, Hintikka, Lindenbaum, Smullyan and others in a novel way, and I use a declarative style, custom notation and proof automation to obtain a readable formalization. The formalized definitions of Hintikka sets and Herbrand structures allow open and closed formulas to be treated uniformly, making free variables a non-concern. This paper collects important techniques in mathematical logic in a way suited for both study and further work.</html:p>
+            <html:p>
+              <fr:link href="/forest/ahfrom-2021-afp-axiomatic-fol/" title="Soundness and Completeness of an Axiomatic System for First-Order Logic" uri="https://astahfrom.github.io/forest/ahfrom-2021-afp-axiomatic-fol/" display-uri="ahfrom-2021-afp-axiomatic-fol" type="local" />
+            </html:p>
+          </fr:mainmatter>
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Related">Related</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors />
+            <fr:uri>https://astahfrom.github.io/forest/afp/</fr:uri>
+            <fr:display-uri>afp</fr:display-uri>
+            <fr:route>/forest/afp/</fr:route>
+            <fr:title text="Archive of Formal Proofs">Archive of Formal Proofs</fr:title>
+            <fr:taxon>Journal</fr:taxon>
+            <fr:meta name="external">https://www.isa-afp.org/</fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter />
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Contributions">Contributions</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+  </fr:backmatter>
+</fr:tree>

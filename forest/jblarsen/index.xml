@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/forest/default.xsl"?>
+<fr:tree xmlns:fr="http://www.forester-notes.org" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:xml="http://www.w3.org/XML/1998/namespace" root="false" base-url="/forest/">
+  <fr:frontmatter>
+    <fr:authors />
+    <fr:uri>https://astahfrom.github.io/forest/jblarsen/</fr:uri>
+    <fr:display-uri>jblarsen</fr:display-uri>
+    <fr:route>/forest/jblarsen/</fr:route>
+    <fr:title text="John Bruntse Larsen">John Bruntse Larsen</fr:title>
+    <fr:taxon>Person</fr:taxon>
+    <fr:meta name="orcid">0000-0003-2500-9944</fr:meta>
+  </fr:frontmatter>
+  <fr:mainmatter />
+  <fr:backmatter>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="References">References</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Context">Context</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Backlinks">Backlinks</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2017</fr:year>
+              <fr:month>6</fr:month>
+              <fr:day>7</fr:day>
+            </fr:date>
+            <fr:uri>https://astahfrom.github.io/forest/ahfrom-2017-bsc-thesis/</fr:uri>
+            <fr:display-uri>ahfrom-2017-bsc-thesis</fr:display-uri>
+            <fr:route>/forest/ahfrom-2017-bsc-thesis/</fr:route>
+            <fr:title text="Formalized First-Order Logic">Formalized First-Order Logic</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+            <fr:meta name="venue">BSc thesis, Technical University of Denmark</fr:meta>
+            <fr:meta name="slides">/forest/bafkrmidyzxhgvx765ci7iir3gfu4oo2kpspkhseineoygmtdnkm5x5p44i.pdf</fr:meta>
+            <fr:meta name="external">/forest/bafkrmigyesd2x7y7pjzqfzmh4ymip2qvjer5yi4qfmxflcnjc4pwwxnsfi.pdf</fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Advisors: <fr:link href="/forest/jvilladsen/" title="Jørgen Villadsen" uri="https://astahfrom.github.io/forest/jvilladsen/" display-uri="jvilladsen" type="local">Jørgen Villadsen</fr:link>, <fr:link href="/forest/aschlichtkrull/" title="Anders Schlichtkrull" uri="https://astahfrom.github.io/forest/aschlichtkrull/" display-uri="aschlichtkrull" type="local">Anders Schlichtkrull</fr:link>, and <fr:link href="/forest/jblarsen/" title="John Bruntse Larsen" uri="https://astahfrom.github.io/forest/jblarsen/" display-uri="jblarsen" type="local">John Bruntse Larsen</fr:link>.</html:p>
+            <html:p>The goal of this thesis is to formalize first-order logic, specifically the natural deduction proof system NaDeA, in the proof assistant Isabelle. The syntax and semantics are formalized as Isabelle data types and functions and the inference rules of NaDeA are defined as an inductive set. The soundness of these inference rules is formally verified, ensuring only valid formulas can be derived in the proof system. A textbook proof of completeness for sentences in natural deduction using abstract consistency properties is explained before this proof is formalized. This formalization is based on existing work, but modernized for this thesis. It is described in depth and a version of the completeness result using any countably infinite domain is developed by proving that the semantics respect the bijection between this and the domain of Herbrand terms. Next the problem of open formulas is discussed and a solution provided by an extension to NaDeA. This extension allows the derivation of the original formula from its universal closure, enabling us to close the formula, apply the original completeness result and derive the original one in the extended system. Assumptions are handled by turning them into implications and back again, a technique that requires a proof of weakening to be formalized first. It is unlikely that this extension is actually necessary for completeness for open formulas, but it makes the otherwise subtle interaction between substitution and de Bruijn indices more manageable. Finally insights gained while working with the formalization and extending it are shared, in the hope that it may help other formal verification efforts</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Related">Related</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Contributions">Contributions</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/forest/jvilladsen/" title="Jørgen Villadsen" uri="https://astahfrom.github.io/forest/jvilladsen/" display-uri="jvilladsen" type="local">Jørgen Villadsen</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="/forest/mobjoern/" title="Mads Okholm Bjørn" uri="https://astahfrom.github.io/forest/mobjoern/" display-uri="mobjoern" type="local">Mads Okholm Bjørn</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="/forest/tshenney/" title="Thomas Søren Henney" uri="https://astahfrom.github.io/forest/tshenney/" display-uri="tshenney" type="local">Thomas Søren Henney</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="/forest/jblarsen/" title="John Bruntse Larsen" uri="https://astahfrom.github.io/forest/jblarsen/" display-uri="jblarsen" type="local">John Bruntse Larsen</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2018</fr:year>
+            </fr:date>
+            <fr:uri>https://astahfrom.github.io/forest/jvilladsen-mobjoern-ahfrom-tshenney-jblarsen-2018-mapc/</fr:uri>
+            <fr:display-uri>jvilladsen-mobjoern-ahfrom-tshenney-jblarsen-2018-mapc</fr:display-uri>
+            <fr:route>/forest/jvilladsen-mobjoern-ahfrom-tshenney-jblarsen-2018-mapc/</fr:route>
+            <fr:title text="Multi-Agent Programming Contest 2018 — The Jason-DTU Team">Multi-Agent Programming Contest 2018 — The Jason-DTU Team</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+            <fr:meta name="doi">10.1007/978-3-030-37959-9_3</fr:meta>
+            <fr:meta name="venue">In T. Ahlbrecht, J. Dix and N. Fiekas (ed.) The Multi-Agent Programming Contest 2018 — Agents Teaming Up in an Urban Environment</fr:meta>
+            <fr:meta name="bibtex"><![CDATA[@incollection{VilladsenBFHL18,
+abstract = {We provide a brief description of the Jason-DTU system, including the overall system design and the tools that we used in the Multi-Agent Programming Contest. We also provide a detailed evaluation of our system. The strengths of our system include dynamic assignment of agents to groups, enabling flexible use of agents according to the current situation. Our team performed overall very well and we won some matches by either a fairly big margin or closely.},
+author = {J{ø}rgen Villadsen and Mads Okholm Bj{ø}rn and Asta Halkj{æ}r From and Thomas S{ø}ren Henney and John Bruntse Larsen},
+booktitle = {The Multi-Agent Programming Contest 2018 --- Agents Teaming Up in an Urban Environment},
+doi = {10.1007/978-3-030-37959-9_3},
+editor = {Tobias Ahlbrecht and J{ü}rgen Dix and Niklas Fiekas},
+pages = {41--71},
+publisher = {Springer},
+series = {Lecture Notes in Computer Science},
+title = {Multi-Agent Programming Contest 2018 --- The {Jason-DTU} Team},
+volume = {11957},
+year = {2018},
+}]]></fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>We provide a brief description of the Jason-DTU system, including the overall system design and the tools that we used in the Multi-Agent Programming Contest. We also provide a detailed evaluation of our system. The strengths of our system include dynamic assignment of agents to groups, enabling flexible use of agents according to the current situation. Our team performed overall very well and we won some matches by either a fairly big margin or closely.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="/forest/jblarsen/" title="John Bruntse Larsen" uri="https://astahfrom.github.io/forest/jblarsen/" display-uri="jblarsen" type="local">John Bruntse Larsen</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="/forest/aschlichtkrull/" title="Anders Schlichtkrull" uri="https://astahfrom.github.io/forest/aschlichtkrull/" display-uri="aschlichtkrull" type="local">Anders Schlichtkrull</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="/forest/jvilladsen/" title="Jørgen Villadsen" uri="https://astahfrom.github.io/forest/jvilladsen/" display-uri="jvilladsen" type="local">Jørgen Villadsen</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2018</fr:year>
+            </fr:date>
+            <fr:uri>https://astahfrom.github.io/forest/ahfrom-jblarsen-aschlichtkrull-jvilladsen-2018-isabelle-workshop/</fr:uri>
+            <fr:display-uri>ahfrom-jblarsen-aschlichtkrull-jvilladsen-2018-isabelle-workshop</fr:display-uri>
+            <fr:route>/forest/ahfrom-jblarsen-aschlichtkrull-jvilladsen-2018-isabelle-workshop/</fr:route>
+            <fr:title text="Substitutionless First-Order Logic: A Formal Soundness Proof">Substitutionless First-Order Logic: A Formal Soundness Proof</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+            <fr:meta name="external">https://files.sketis.net/Isabelle_Workshop_2018/Isabelle_2018_paper_3.pdf</fr:meta>
+            <fr:meta name="venue">Isabelle Workshop 2018</fr:meta>
+            <fr:meta name="bibtex"><![CDATA[@unpublished{FromLSV18,
+abstract = {Substitution under quantifiers is non-trivial and may obscure a proof system for newcomers. Monk (Arch. Math. Log. Grundl. 1965) successfully eliminates substitution via identities and also uses a so-called normalization of formulas as a further simplification. We formalize the substitutionless proof system in Isabelle/HOL, spelling out its side conditions explicitly and verifying its soundness.},
+author = {Asta Halkjær From and John Bruntse Larsen and Anders Schlichtkrull and Jørgen Villadsen},
+note = {Isabelle Workshop 2018.},
+title = {Substitutionless First-Order Logic: A Formal Soundness Proof},
+url = {https://files.sketis.net/Isabelle_Workshop_2018/Isabelle_2018_paper_3.pdf},
+year = {2018},
+}]]></fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Substitution under quantifiers is non-trivial and may obscure a proof system for newcomers. Monk (Arch. Math. Log. Grundl. 1965) successfully eliminates substitution via identities and also uses a so-called normalization of formulas as a further simplification. We formalize the substitutionless proof system in Isabelle/HOL, spelling out its side conditions explicitly and verifying its soundness.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+  </fr:backmatter>
+</fr:tree>
