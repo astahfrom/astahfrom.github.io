@@ -2,14 +2,23 @@
 <?xml-stylesheet type="text/xsl" href="/forest/default.xsl"?>
 <fr:tree xmlns:fr="http://www.forester-notes.org" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:xml="http://www.w3.org/XML/1998/namespace" root="false" base-url="/forest/">
   <fr:frontmatter>
-    <fr:authors />
-    <fr:uri>https://astahfrom.github.io/forest/ahf-talks/</fr:uri>
-    <fr:display-uri>ahf-talks</fr:display-uri>
-    <fr:route>/forest/ahf-talks/</fr:route>
-    <fr:title text="Talks">Talks</fr:title>
+    <fr:authors>
+      <fr:author>
+        <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+      </fr:author>
+    </fr:authors>
+    <fr:date>
+      <fr:year>2025</fr:year>
+      <fr:month>4</fr:month>
+      <fr:day>22</fr:day>
+    </fr:date>
+    <fr:uri>https://astahfrom.github.io/forest/ahf-0001/</fr:uri>
+    <fr:display-uri>ahf-0001</fr:display-uri>
+    <fr:route>/forest/ahf-0001/</fr:route>
+    <fr:title text="Academic Activities">Academic Activities</fr:title>
   </fr:frontmatter>
   <fr:mainmatter>
-    <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+    <fr:tree show-metadata="false">
       <fr:frontmatter>
         <fr:authors>
           <fr:author>
@@ -18,23 +27,23 @@
         </fr:authors>
         <fr:date>
           <fr:year>2025</fr:year>
-          <fr:month>1</fr:month>
-          <fr:day>7</fr:day>
+          <fr:month>4</fr:month>
+          <fr:day>22</fr:day>
         </fr:date>
-        <fr:uri>https://astahfrom.github.io/forest/ahfrom-2025-talk-bits/</fr:uri>
-        <fr:display-uri>ahfrom-2025-talk-bits</fr:display-uri>
-        <fr:route>/forest/ahfrom-2025-talk-bits/</fr:route>
-        <fr:title text="How to Speak Logic with your Computer: The Unreasonable Effectiveness of a Machine Assistant">How to Speak Logic with your Computer: The Unreasonable Effectiveness of a Machine Assistant</fr:title>
-        <fr:taxon>Reference</fr:taxon>
-        <fr:meta name="venue"><fr:link href="/forest/diku/" title="Department of Computer Science" uri="https://astahfrom.github.io/forest/diku/" display-uri="diku" type="local">DIKU</fr:link> Bits</fr:meta>
-        <fr:meta name="slides">/forest/bafkrmih2onpoea7xf6nbpjoeusnnhuwnyus4bdfc6zjy6tnbv6dc2435ye.pdf</fr:meta>
-        <fr:meta name="external">https://di.ku.dk/forsidebegivenheder/begivenheder-2024/diku-bits-by-asta-halkjaer-from/</fr:meta>
+        <fr:uri>https://astahfrom.github.io/forest/ahf-pc/</fr:uri>
+        <fr:display-uri>ahf-pc</fr:display-uri>
+        <fr:route>/forest/ahf-pc/</fr:route>
+        <fr:title text="Program Committees">Program Committees</fr:title>
       </fr:frontmatter>
       <fr:mainmatter>
-        <html:p>Imagine if LaTeX could check your work and fill out parts of your proofs for you. In this talk, I will introduce higher-order logic and the Isabelle proof assistant. Unlike English, sentences in logic have a precise meaning. This means we can do computer science and mathematics in a language that both humans and computers can "speak". I do most of my own work on logic with Isabelle as my companion.</html:p>
+        <html:p>I was or am a member of the following PCs.
+<html:ul><html:li>Dalí 2025: 6th Workshop on Dynamic Logic - New trends and applications</html:li>
+<html:li>Interactive Theorem Proving (ITP) 2025</html:li>
+<html:li>Dalí 2023: 5th Workshop on Dynamic Logic - New trends and applications</html:li></html:ul></html:p>
+        <html:p>I was co-chair of the Logic and Computation track at the student session at ESSLLI 2021 — 32nd European Summer School in Logic, Language and Information.</html:p>
       </fr:mainmatter>
     </fr:tree>
-    <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+    <fr:tree show-metadata="false">
       <fr:frontmatter>
         <fr:authors>
           <fr:author>
@@ -42,23 +51,24 @@
           </fr:author>
         </fr:authors>
         <fr:date>
-          <fr:year>2023</fr:year>
-          <fr:month>3</fr:month>
-          <fr:day>17</fr:day>
+          <fr:year>2025</fr:year>
+          <fr:month>4</fr:month>
+          <fr:day>22</fr:day>
         </fr:date>
-        <fr:uri>https://astahfrom.github.io/forest/ahfrom-2023-talk-clg/</fr:uri>
-        <fr:display-uri>ahfrom-2023-talk-clg</fr:display-uri>
-        <fr:route>/forest/ahfrom-2023-talk-clg/</fr:route>
-        <fr:title text="A Cute Trick for Calculating Saturated Sets">A Cute Trick for Calculating Saturated Sets</fr:title>
-        <fr:taxon>Reference</fr:taxon>
-        <fr:meta name="venue">Copenhagen Logic Gathering</fr:meta>
-        <fr:meta name="slides">/forest/bafkrmigo6jbqscqdbxyvnap7lbnh5dntbow4fltfber62mtd5fvodtrhj4.pdf</fr:meta>
+        <fr:uri>https://astahfrom.github.io/forest/ahf-reviewing/</fr:uri>
+        <fr:display-uri>ahf-reviewing</fr:display-uri>
+        <fr:route>/forest/ahf-reviewing/</fr:route>
+        <fr:title text="Reviewing">Reviewing</fr:title>
       </fr:frontmatter>
       <fr:mainmatter>
-        <html:p>I present part of my <fr:link href="/forest/ahfrom-2023-phd-thesis/" title="Formally Correct Deduction Methods for Computational Logic" uri="https://astahfrom.github.io/forest/ahfrom-2023-phd-thesis/" display-uri="ahfrom-2023-phd-thesis" type="local">PhD thesis</fr:link> on calculating saturated set conditions for each operator of a logic.</html:p>
+        <html:p>I have reviewed for the following journals.
+<html:ul><html:li>Journal of Automated Reasoning (JAR)</html:li>
+<html:li>Synthese: An International Journal for Epistemology, Methodology and Philosophy of Science</html:li>
+<html:li>Journal of Logic, Language and Information (JLLI)</html:li>
+<html:li>Journal of Logic and Computation(JLC)</html:li></html:ul></html:p>
       </fr:mainmatter>
     </fr:tree>
-    <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+    <fr:tree show-metadata="false">
       <fr:frontmatter>
         <fr:authors>
           <fr:author>
@@ -66,22 +76,25 @@
           </fr:author>
         </fr:authors>
         <fr:date>
-          <fr:year>2022</fr:year>
-          <fr:month>9</fr:month>
+          <fr:year>2025</fr:year>
+          <fr:month>4</fr:month>
+          <fr:day>22</fr:day>
         </fr:date>
-        <fr:uri>https://astahfrom.github.io/forest/ahfrom-2022-talk-pal/</fr:uri>
-        <fr:display-uri>ahfrom-2022-talk-pal</fr:display-uri>
-        <fr:route>/forest/ahfrom-2022-talk-pal/</fr:route>
-        <fr:title text="Generic Epistemic and Public Announcement Logic Completeness Results">Generic Epistemic and Public Announcement Logic Completeness Results</fr:title>
-        <fr:taxon>Reference</fr:taxon>
-        <fr:meta name="venue">Logic &amp; AI @ AlgoLoG seminar, <fr:link href="/forest/dtucompute/" title="DTU Compute" uri="https://astahfrom.github.io/forest/dtucompute/" display-uri="dtucompute" type="local">DTU Compute</fr:link></fr:meta>
-        <fr:meta name="slides">/forest/bafkrmiati2ris22dy24q6aix3smywxzd22xklozrgi55fngo7mnv3n2dz4.pdf</fr:meta>
+        <fr:uri>https://astahfrom.github.io/forest/ahf-subreviewing/</fr:uri>
+        <fr:display-uri>ahf-subreviewing</fr:display-uri>
+        <fr:route>/forest/ahf-subreviewing/</fr:route>
+        <fr:title text="Subreviewing">Subreviewing</fr:title>
       </fr:frontmatter>
       <fr:mainmatter>
-        <html:p>A tour de force of my <fr:link href="/forest/ahfrom-2018-afp-epistemic/" title="Epistemic Logic: Completeness of Modal Logics" uri="https://astahfrom.github.io/forest/ahfrom-2018-afp-epistemic/" display-uri="ahfrom-2018-afp-epistemic" type="local">epistemic logic</fr:link> and <fr:link href="/forest/ahfrom-2021-afp-pal/" title="Public Announcement Logic" uri="https://astahfrom.github.io/forest/ahfrom-2021-afp-pal/" display-uri="ahfrom-2021-afp-pal" type="local">public announcement logic</fr:link> formalizations.</html:p>
+        <html:p>I have subreviewed for the following venues.
+<html:ul><html:li>Proceedings of Asian Workshop on Philosophical Logic (AWPL 2024)</html:li>
+<html:li>Theoretical Aspects of Rationality &amp; Knowledge (TARK 2023)</html:li>
+<html:li>Conference on Intelligent Computer Mathematics (CICM 2022)</html:li>
+<html:li>Conference on Logic, Rationality and Interaction (LORI-VIII 2021)</html:li>
+<html:li>Dynamic Logic: New Trends and Applications (DaLí 2020)</html:li></html:ul></html:p>
       </fr:mainmatter>
     </fr:tree>
-    <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+    <fr:tree show-metadata="false">
       <fr:frontmatter>
         <fr:authors>
           <fr:author>
@@ -89,193 +102,20 @@
           </fr:author>
         </fr:authors>
         <fr:date>
-          <fr:year>2022</fr:year>
-          <fr:month>5</fr:month>
-          <fr:day>6</fr:day>
+          <fr:year>2025</fr:year>
+          <fr:month>4</fr:month>
+          <fr:day>22</fr:day>
         </fr:date>
-        <fr:uri>https://astahfrom.github.io/forest/ahfrom-2022-talk-lsd/</fr:uri>
-        <fr:display-uri>ahfrom-2022-talk-lsd</fr:display-uri>
-        <fr:route>/forest/ahfrom-2022-talk-lsd/</fr:route>
-        <fr:title text="A Naive Prover for First-Order Logic">A Naive Prover for First-Order Logic</fr:title>
-        <fr:taxon>Reference</fr:taxon>
-        <fr:meta name="venue">The Languages, Systems, and Data Seminar (LSD spring 2022)</fr:meta>
-        <fr:meta name="slides">/forest/bafkrmigayu2vn7j5jdnawtzu5e6tlksd6vjlamv2fvuv5mjvhbanhpndxa.pdf</fr:meta>
+        <fr:uri>https://astahfrom.github.io/forest/ahf-visits/</fr:uri>
+        <fr:display-uri>ahf-visits</fr:display-uri>
+        <fr:route>/forest/ahf-visits/</fr:route>
+        <fr:title text="Research Visits">Research Visits</fr:title>
       </fr:frontmatter>
       <fr:mainmatter>
-        <html:p>I present the <fr:link href="/forest/ahfrom-2022-afp-naive/" title="A Naive Prover for First-Order Logic" uri="https://astahfrom.github.io/forest/ahfrom-2022-afp-naive/" display-uri="ahfrom-2022-afp-naive" type="local">naive prover</fr:link> for proving completeness of first-order logic sequent calculus.</html:p>
-        <html:p>Invited by Lindsey Kuper (UC Santa Cruz).</html:p>
-        <html:p>I gave an earlier version of this talk as a guest lecture in 02256 Automated Reasoning at <fr:link href="/forest/dtucompute/" title="DTU Compute" uri="https://astahfrom.github.io/forest/dtucompute/" display-uri="dtucompute" type="local">DTU Compute</fr:link>, invited by <fr:link href="/forest/jvilladsen/" title="Jørgen Villadsen" uri="https://astahfrom.github.io/forest/jvilladsen/" display-uri="jvilladsen" type="local">Jørgen Villadsen</fr:link>.</html:p>
-      </fr:mainmatter>
-    </fr:tree>
-    <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
-      <fr:frontmatter>
-        <fr:authors>
-          <fr:author>
-            <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
-          </fr:author>
-        </fr:authors>
-        <fr:date>
-          <fr:year>2021</fr:year>
-          <fr:month>9</fr:month>
-          <fr:day>27</fr:day>
-        </fr:date>
-        <fr:uri>https://astahfrom.github.io/forest/ahfrom-2021-talk-kickoff/</fr:uri>
-        <fr:display-uri>ahfrom-2021-talk-kickoff</fr:display-uri>
-        <fr:route>/forest/ahfrom-2021-talk-kickoff/</fr:route>
-        <fr:title text="My PhD Journey">My PhD Journey</fr:title>
-        <fr:taxon>Reference</fr:taxon>
-        <fr:meta name="venue">Kick-off event for new PhD students at <fr:link href="/forest/dtucompute/" title="DTU Compute" uri="https://astahfrom.github.io/forest/dtucompute/" display-uri="dtucompute" type="local">DTU Compute</fr:link></fr:meta>
-      </fr:frontmatter>
-      <fr:mainmatter>
-        <html:p>Slides available on request.</html:p>
-        <html:p>Invited by Kim Knudsen, Head of PhD School, <fr:link href="/forest/dtucompute/" title="DTU Compute" uri="https://astahfrom.github.io/forest/dtucompute/" display-uri="dtucompute" type="local">DTU Compute</fr:link>.</html:p>
-      </fr:mainmatter>
-    </fr:tree>
-    <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
-      <fr:frontmatter>
-        <fr:authors>
-          <fr:author>
-            <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
-          </fr:author>
-        </fr:authors>
-        <fr:date>
-          <fr:year>2021</fr:year>
-          <fr:month>1</fr:month>
-          <fr:day>14</fr:day>
-        </fr:date>
-        <fr:uri>https://astahfrom.github.io/forest/ahfrom-2021-talk-wld/</fr:uri>
-        <fr:display-uri>ahfrom-2021-talk-wld</fr:display-uri>
-        <fr:route>/forest/ahfrom-2021-talk-wld/</fr:route>
-        <fr:title text="Hybrid Logic">Hybrid Logic</fr:title>
-        <fr:taxon>Reference</fr:taxon>
-        <fr:meta name="venue">3rd World Logic Day 2021, A Zoom on Logic, <fr:link href="/forest/dtucompute/" title="DTU Compute" uri="https://astahfrom.github.io/forest/dtucompute/" display-uri="dtucompute" type="local">DTU Compute</fr:link></fr:meta>
-        <fr:meta name="slides">/forest/bafkrmig2ivpizcq3mwoc3dffs5i6s73pumbt2n4huc4t52ubizi54pjbvu.pdf</fr:meta>
-      </fr:frontmatter>
-      <fr:mainmatter>
-        <html:p>I talk about our <fr:link href="/forest/ahfrom-pblackburn-jvilladsen-2020-ijcar/" title="Formalizing a Seligman-Style Tableau System for Hybrid Logic (Short Paper)" uri="https://astahfrom.github.io/forest/ahfrom-pblackburn-jvilladsen-2020-ijcar/" display-uri="ahfrom-pblackburn-jvilladsen-2020-ijcar" type="local">Seligman-style tableau system for hybrid logic</fr:link>.</html:p>
-      </fr:mainmatter>
-    </fr:tree>
-    <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
-      <fr:frontmatter>
-        <fr:authors>
-          <fr:author>
-            <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
-          </fr:author>
-        </fr:authors>
-        <fr:date>
-          <fr:year>2020</fr:year>
-          <fr:month>11</fr:month>
-          <fr:day>26</fr:day>
-        </fr:date>
-        <fr:uri>https://astahfrom.github.io/forest/ahfrom-2020-talk-belief-revision/</fr:uri>
-        <fr:display-uri>ahfrom-2020-talk-belief-revision</fr:display-uri>
-        <fr:route>/forest/ahfrom-2020-talk-belief-revision/</fr:route>
-        <fr:title text="Belief Revision and Isabelle/HOL">Belief Revision and Isabelle/HOL</fr:title>
-        <fr:taxon>Reference</fr:taxon>
-        <fr:meta name="venue">Seminar course on belief revision at <fr:link href="/forest/dtucompute/" title="DTU Compute" uri="https://astahfrom.github.io/forest/dtucompute/" display-uri="dtucompute" type="local">DTU Compute</fr:link></fr:meta>
-        <fr:meta name="slides">/forest/bafkrmibawehd65itfdzm2owllfouwwmzfsb7j52dhonxpgdgvtbwqvy7ke.pdf</fr:meta>
-      </fr:frontmatter>
-      <fr:mainmatter>
-        <html:p>I discuss Isabelle/Pure and the <html:em>generic</html:em> aspect of the Isabelle proof assistant, and encode axioms from belief revision in Isabelle/HOL to model check them.</html:p>
-      </fr:mainmatter>
-    </fr:tree>
-    <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
-      <fr:frontmatter>
-        <fr:authors>
-          <fr:author>
-            <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
-          </fr:author>
-        </fr:authors>
-        <fr:date>
-          <fr:year>2020</fr:year>
-          <fr:month>7</fr:month>
-          <fr:day>20</fr:day>
-        </fr:date>
-        <fr:uri>https://astahfrom.github.io/forest/ahfrom-2020-talk-cicm/</fr:uri>
-        <fr:display-uri>ahfrom-2020-talk-cicm</fr:display-uri>
-        <fr:route>/forest/ahfrom-2020-talk-cicm/</fr:route>
-        <fr:title text="Formally Correct Deduction
-Methods for Computational Logic">Formally Correct Deduction
-Methods for Computational Logic</fr:title>
-        <fr:taxon>Reference</fr:taxon>
-        <fr:meta name="venue">13th Conference on Intelligent Computer Mathematics (CICM 2020) doctoral session</fr:meta>
-        <fr:meta name="slides">/forest/bafkrmibdgbezbheebux5gkklfzqgkndpwdnprztb7caswvw56b7xo4z2oq.pdf</fr:meta>
-      </fr:frontmatter>
-      <fr:mainmatter>
-        <html:p>I present preliminary work on my <fr:link href="/forest/ahfrom-2023-phd-thesis/" title="Formally Correct Deduction Methods for Computational Logic" uri="https://astahfrom.github.io/forest/ahfrom-2023-phd-thesis/" display-uri="ahfrom-2023-phd-thesis" type="local">PhD project</fr:link> including <fr:link href="/forest/ahfrom-pblackburn-jvilladsen-2020-ijcar/" title="Formalizing a Seligman-Style Tableau System for Hybrid Logic (Short Paper)" uri="https://astahfrom.github.io/forest/ahfrom-pblackburn-jvilladsen-2020-ijcar/" display-uri="ahfrom-pblackburn-jvilladsen-2020-ijcar" type="local">our paper on formalizing hybrid logic</fr:link>.</html:p>
-      </fr:mainmatter>
-    </fr:tree>
-    <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
-      <fr:frontmatter>
-        <fr:authors>
-          <fr:author>
-            <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
-          </fr:author>
-        </fr:authors>
-        <fr:date>
-          <fr:year>2019</fr:year>
-          <fr:month>9</fr:month>
-          <fr:day>7</fr:day>
-        </fr:date>
-        <fr:uri>https://astahfrom.github.io/forest/ahfrom-2019-talk-prior/</fr:uri>
-        <fr:display-uri>ahfrom-2019-talk-prior</fr:display-uri>
-        <fr:route>/forest/ahfrom-2019-talk-prior/</fr:route>
-        <fr:title text="Using the Isabelle Proof Assistant: Seligman-Style Tableau for Hybrid Logic">Using the Isabelle Proof Assistant: Seligman-Style Tableau for Hybrid Logic</fr:title>
-        <fr:taxon>Reference</fr:taxon>
-        <fr:meta name="venue">The LogicS of Prior: Past, Present, and Future, Roskilde University</fr:meta>
-        <fr:meta name="slides">/forest/bafkrmicvxtj2njtxd4zvg7acfgdezs2boyvfm2l7zodcpkb4vundwhwysm.pdf</fr:meta>
-      </fr:frontmatter>
-      <fr:mainmatter>
-        <html:p>I present ideas for my <fr:link href="/forest/ahfrom-2020-msc-thesis/" title="Hybrid Logic" uri="https://astahfrom.github.io/forest/ahfrom-2020-msc-thesis/" display-uri="ahfrom-2020-msc-thesis" type="local">MSc thesis</fr:link> on using Isabelle/HOL to formalizing <fr:link href="/forest/ahfrom-pblackburn-jvilladsen-2020-ijcar/" title="Formalizing a Seligman-Style Tableau System for Hybrid Logic (Short Paper)" uri="https://astahfrom.github.io/forest/ahfrom-pblackburn-jvilladsen-2020-ijcar/" display-uri="ahfrom-pblackburn-jvilladsen-2020-ijcar" type="local">a Seligman-style tableau system for hybrid logic</fr:link>.</html:p>
-        <html:p>I also gave this talk at an AlgoLoG section seminar seminar at <fr:link href="/forest/dtucompute/" title="DTU Compute" uri="https://astahfrom.github.io/forest/dtucompute/" display-uri="dtucompute" type="local">DTU Compute</fr:link>.</html:p>
-      </fr:mainmatter>
-    </fr:tree>
-    <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
-      <fr:frontmatter>
-        <fr:authors>
-          <fr:author>
-            <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
-          </fr:author>
-        </fr:authors>
-        <fr:date>
-          <fr:year>2018</fr:year>
-          <fr:month>3</fr:month>
-          <fr:day>15</fr:day>
-        </fr:date>
-        <fr:uri>https://astahfrom.github.io/forest/ahfrom-2018-talk-magnolia/</fr:uri>
-        <fr:display-uri>ahfrom-2018-talk-magnolia</fr:display-uri>
-        <fr:route>/forest/ahfrom-2018-talk-magnolia/</fr:route>
-        <fr:title text="Magnolia: Implementing System F with Anonymous Sums and Products">Magnolia: Implementing System F with Anonymous Sums and Products</fr:title>
-        <fr:taxon>Reference</fr:taxon>
-        <fr:meta name="venue">Workshop on Programs &amp; Proofs, <fr:link href="/forest/dtucompute/" title="DTU Compute" uri="https://astahfrom.github.io/forest/dtucompute/" display-uri="dtucompute" type="local">DTU Compute</fr:link></fr:meta>
-        <fr:meta name="slides">/forest/bafkrmicrj3hz2lqxewdjt2gkjkszssqessmbd4q5hwslrr7mpt53f5ygdu.pdf</fr:meta>
-      </fr:frontmatter>
-      <fr:mainmatter>
-        <html:p>I present my OCaml implementation of the Complete and Easy Bidirectional Type Checking for Higher-Rank Polymorphism paper using Harper's abstract binding trees and with data types from PFPL.</html:p>
-      </fr:mainmatter>
-    </fr:tree>
-    <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
-      <fr:frontmatter>
-        <fr:authors>
-          <fr:author>
-            <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
-          </fr:author>
-        </fr:authors>
-        <fr:date>
-          <fr:year>2017</fr:year>
-          <fr:month>12</fr:month>
-          <fr:day>10</fr:day>
-        </fr:date>
-        <fr:uri>https://astahfrom.github.io/forest/ahfrom-2017-talk-fit/</fr:uri>
-        <fr:display-uri>ahfrom-2017-talk-fit</fr:display-uri>
-        <fr:route>/forest/ahfrom-2017-talk-fit/</fr:route>
-        <fr:title text="FIT: From's Isabelle Tutorial: Verification of Quicksort">FIT: From's Isabelle Tutorial: Verification of Quicksort</fr:title>
-        <fr:taxon>Reference</fr:taxon>
-        <fr:meta name="venue">Proof Assistants and Related Tools (PART), <fr:link href="/forest/dtucompute/" title="DTU Compute" uri="https://astahfrom.github.io/forest/dtucompute/" display-uri="dtucompute" type="local">DTU Compute</fr:link></fr:meta>
-        <fr:meta name="slides">/forest/bafkrmidsxiws4hsnsxe2afgjfilfjb45zjna3r4fynpqlaum3wok64zmmq.pdf</fr:meta>
-      </fr:frontmatter>
-      <fr:mainmatter>
-        <html:p>I give a fast-paced introduction to Isabelle/HOL.</html:p>
+        <html:p>I visited <fr:link href="/forest/jlimperg/" title="Jannis Limperg" uri="https://astahfrom.github.io/forest/jlimperg/" display-uri="jlimperg" type="local">Jannis Limperg</fr:link> on multiple occasions in Amsterdam for the <fr:link href="/forest/jlimperg-ahfrom-2023-cpp/" title="Aesop: White-Box Best-First Proof Search for Lean" uri="https://astahfrom.github.io/forest/jlimperg-ahfrom-2023-cpp/" display-uri="jlimperg-ahfrom-2023-cpp" type="local">Aesop</fr:link> work.
+<html:ul><html:li>VU Amsterdam Lean Forward: Proof automation for the Lean theorem prover (May 2022)</html:li>
+<html:li>VU Amsterdam Lean Forward: Proof automation for the Lean theorem prover (November 2022)</html:li>
+<html:li>VU Amsterdam (remote) Virtual research stay hosted by Jasmin Blanchette (May &amp; June 2021)</html:li></html:ul></html:p>
       </fr:mainmatter>
     </fr:tree>
   </fr:mainmatter>
@@ -285,7 +125,45 @@ Methods for Computational Logic</fr:title>
         <fr:authors />
         <fr:title text="References">References</fr:title>
       </fr:frontmatter>
-      <fr:mainmatter />
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/forest/jlimperg/" title="Jannis Limperg" uri="https://astahfrom.github.io/forest/jlimperg/" display-uri="jlimperg" type="local">Jannis Limperg</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2023</fr:year>
+            </fr:date>
+            <fr:uri>https://astahfrom.github.io/forest/jlimperg-ahfrom-2023-cpp/</fr:uri>
+            <fr:display-uri>jlimperg-ahfrom-2023-cpp</fr:display-uri>
+            <fr:route>/forest/jlimperg-ahfrom-2023-cpp/</fr:route>
+            <fr:title text="Aesop: White-Box Best-First Proof Search for Lean">Aesop: White-Box Best-First Proof Search for Lean</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+            <fr:meta name="doi">10.1145/3573105.3575671</fr:meta>
+            <fr:meta name="venue">In R. Krebbers et al (ed.) Proceedings of the 12th ACM SIGPLAN International Conference on Certified Programs and Proofs (CPP 2023)</fr:meta>
+            <fr:meta name="bibtex"><![CDATA[@inproceedings{LimpergF23,
+abstract = {We present Aesop, a proof search tactic for the Lean 4 interactive theorem prover. Aesop performs a tree-based search over a user-specified set of proof rules. It supports safe and unsafe rules and uses a best-first search strategy with customisable prioritisation. Aesop also allows users to register custom normalisation rules and integrates Lean's simplifier to support equational reasoning. Many details of Aesop's search procedure are designed to make it a white-box proof automation tactic, meaning that users should be able to easily predict how their rules will be applied, and thus how powerful and fast their Aesop invocations will be. Since we use a best-first search strategy, it is not obvious how to handle metavariables which appear in multiple goals. The most common strategy for dealing with metavariables relies on backtracking and is therefore not suitable for best-first search. We give an algorithm which addresses this issue. The algorithm works with any search strategy, is independent of the underlying logic and makes few assumptions about how rules interact with metavariables. We conjecture that with a fair search strategy, the algorithm is as complete as the given set of rules allows.},
+author = {Jannis Limperg and Asta Halkj{æ}r From},
+booktitle = {Proceedings of the 12th {ACM} {SIGPLAN} International Conference on Certified Programs and Proofs, {CPP} 2023, Boston, MA, USA, January 16-17, 2023},
+doi = {10.1145/3573105.3575671},
+editor = {Robbert Krebbers and Dmitriy Traytel and Brigitte Pientka and Steve Zdancewic},
+pages = {253--266},
+publisher = {{ACM}},
+title = {Aesop: White-Box Best-First Proof Search for Lean},
+year = {2023},
+}]]></fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>We present Aesop, a proof search tactic for the Lean 4 interactive theorem prover. Aesop performs a tree-based search over a user-specified set of proof rules. It supports safe and unsafe rules and uses a best-first search strategy with customisable prioritisation. Aesop also allows users to register custom normalisation rules and integrates Lean's simplifier to support equational reasoning. Many details of Aesop's search procedure are designed to make it a white-box proof automation tactic, meaning that users should be able to easily predict how their rules will be applied, and thus how powerful and fast their Aesop invocations will be. Since we use a best-first search strategy, it is not obvious how to handle metavariables which appear in multiple goals. The most common strategy for dealing with metavariables relies on backtracking and is therefore not suitable for best-first search. We give an algorithm which addresses this issue. The algorithm works with any search strategy, is independent of the underlying logic and makes few assumptions about how rules interact with metavariables. We conjecture that with a fair search strategy, the algorithm is as complete as the given set of rules allows.</html:p>
+            <html:p>We won a distinguished paper award for this work.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+      </fr:mainmatter>
     </fr:tree>
     <fr:tree show-metadata="false" hidden-when-empty="true">
       <fr:frontmatter>

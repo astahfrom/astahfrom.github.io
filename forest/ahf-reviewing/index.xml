@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/forest/default.xsl"?>
+<fr:tree xmlns:fr="http://www.forester-notes.org" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:xml="http://www.w3.org/XML/1998/namespace" root="false" base-url="/forest/">
+  <fr:frontmatter>
+    <fr:authors>
+      <fr:author>
+        <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+      </fr:author>
+    </fr:authors>
+    <fr:date>
+      <fr:year>2025</fr:year>
+      <fr:month>4</fr:month>
+      <fr:day>22</fr:day>
+    </fr:date>
+    <fr:uri>https://astahfrom.github.io/forest/ahf-reviewing/</fr:uri>
+    <fr:display-uri>ahf-reviewing</fr:display-uri>
+    <fr:route>/forest/ahf-reviewing/</fr:route>
+    <fr:title text="Reviewing">Reviewing</fr:title>
+  </fr:frontmatter>
+  <fr:mainmatter>
+    <html:p>I have reviewed for the following journals.
+<html:ul><html:li>Journal of Automated Reasoning (JAR)</html:li>
+<html:li>Synthese: An International Journal for Epistemology, Methodology and Philosophy of Science</html:li>
+<html:li>Journal of Logic, Language and Information (JLLI)</html:li>
+<html:li>Journal of Logic and Computation(JLC)</html:li></html:ul></html:p>
+  </fr:mainmatter>
+  <fr:backmatter>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="References">References</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Context">Context</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>4</fr:month>
+              <fr:day>22</fr:day>
+            </fr:date>
+            <fr:uri>https://astahfrom.github.io/forest/ahf-0001/</fr:uri>
+            <fr:display-uri>ahf-0001</fr:display-uri>
+            <fr:route>/forest/ahf-0001/</fr:route>
+            <fr:title text="Academic Activities">Academic Activities</fr:title>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>4</fr:month>
+                  <fr:day>22</fr:day>
+                </fr:date>
+                <fr:uri>https://astahfrom.github.io/forest/ahf-pc/</fr:uri>
+                <fr:display-uri>ahf-pc</fr:display-uri>
+                <fr:route>/forest/ahf-pc/</fr:route>
+                <fr:title text="Program Committees">Program Committees</fr:title>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>I was or am a member of the following PCs.
+<html:ul><html:li>Dalí 2025: 6th Workshop on Dynamic Logic - New trends and applications</html:li>
+<html:li>Interactive Theorem Proving (ITP) 2025</html:li>
+<html:li>Dalí 2023: 5th Workshop on Dynamic Logic - New trends and applications</html:li></html:ul></html:p>
+                <html:p>I was co-chair of the Logic and Computation track at the student session at ESSLLI 2021 — 32nd European Summer School in Logic, Language and Information.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>4</fr:month>
+                  <fr:day>22</fr:day>
+                </fr:date>
+                <fr:uri>https://astahfrom.github.io/forest/ahf-reviewing/</fr:uri>
+                <fr:display-uri>ahf-reviewing</fr:display-uri>
+                <fr:route>/forest/ahf-reviewing/</fr:route>
+                <fr:title text="Reviewing">Reviewing</fr:title>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>I have reviewed for the following journals.
+<html:ul><html:li>Journal of Automated Reasoning (JAR)</html:li>
+<html:li>Synthese: An International Journal for Epistemology, Methodology and Philosophy of Science</html:li>
+<html:li>Journal of Logic, Language and Information (JLLI)</html:li>
+<html:li>Journal of Logic and Computation(JLC)</html:li></html:ul></html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>4</fr:month>
+                  <fr:day>22</fr:day>
+                </fr:date>
+                <fr:uri>https://astahfrom.github.io/forest/ahf-subreviewing/</fr:uri>
+                <fr:display-uri>ahf-subreviewing</fr:display-uri>
+                <fr:route>/forest/ahf-subreviewing/</fr:route>
+                <fr:title text="Subreviewing">Subreviewing</fr:title>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>I have subreviewed for the following venues.
+<html:ul><html:li>Proceedings of Asian Workshop on Philosophical Logic (AWPL 2024)</html:li>
+<html:li>Theoretical Aspects of Rationality &amp; Knowledge (TARK 2023)</html:li>
+<html:li>Conference on Intelligent Computer Mathematics (CICM 2022)</html:li>
+<html:li>Conference on Logic, Rationality and Interaction (LORI-VIII 2021)</html:li>
+<html:li>Dynamic Logic: New Trends and Applications (DaLí 2020)</html:li></html:ul></html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>4</fr:month>
+                  <fr:day>22</fr:day>
+                </fr:date>
+                <fr:uri>https://astahfrom.github.io/forest/ahf-visits/</fr:uri>
+                <fr:display-uri>ahf-visits</fr:display-uri>
+                <fr:route>/forest/ahf-visits/</fr:route>
+                <fr:title text="Research Visits">Research Visits</fr:title>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>I visited <fr:link href="/forest/jlimperg/" title="Jannis Limperg" uri="https://astahfrom.github.io/forest/jlimperg/" display-uri="jlimperg" type="local">Jannis Limperg</fr:link> on multiple occasions in Amsterdam for the <fr:link href="/forest/jlimperg-ahfrom-2023-cpp/" title="Aesop: White-Box Best-First Proof Search for Lean" uri="https://astahfrom.github.io/forest/jlimperg-ahfrom-2023-cpp/" display-uri="jlimperg-ahfrom-2023-cpp" type="local">Aesop</fr:link> work.
+<html:ul><html:li>VU Amsterdam Lean Forward: Proof automation for the Lean theorem prover (May 2022)</html:li>
+<html:li>VU Amsterdam Lean Forward: Proof automation for the Lean theorem prover (November 2022)</html:li>
+<html:li>VU Amsterdam (remote) Virtual research stay hosted by Jasmin Blanchette (May &amp; June 2021)</html:li></html:ul></html:p>
+              </fr:mainmatter>
+            </fr:tree>
+          </fr:mainmatter>
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Backlinks">Backlinks</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Related">Related</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Contributions">Contributions</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+  </fr:backmatter>
+</fr:tree>

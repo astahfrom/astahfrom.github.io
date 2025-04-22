@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/forest/default.xsl"?>
+<fr:tree xmlns:fr="http://www.forester-notes.org" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:xml="http://www.w3.org/XML/1998/namespace" root="false" base-url="/forest/">
+  <fr:frontmatter>
+    <fr:authors>
+      <fr:author>
+        <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+      </fr:author>
+    </fr:authors>
+    <fr:date>
+      <fr:year>2025</fr:year>
+      <fr:month>4</fr:month>
+      <fr:day>22</fr:day>
+    </fr:date>
+    <fr:uri>https://astahfrom.github.io/forest/0001/</fr:uri>
+    <fr:display-uri>0001</fr:display-uri>
+    <fr:route>/forest/0001/</fr:route>
+    <fr:title text="Reviewing">Reviewing</fr:title>
+  </fr:frontmatter>
+  <fr:mainmatter>
+    <html:p>I have reviewed for a number of journals.
+<html:ul><html:li>Journal of Automated Reasoning (JAR)</html:li>
+<html:li>Synthese: An International Journal for Epistemology, Methodology and Philosophy of Science</html:li>
+<html:li>Journal of Logic, Language and Information (JLLI)</html:li>
+<html:li>Journal of Logic and Computation(JLC)</html:li></html:ul></html:p>
+    <html:p>I have subreviewed for a number of venues.
+<html:ul><html:li>Asian Workshop on Philosophical Logic (AWPL 2024)</html:li>
+<html:li>Theoretical Aspects of Rationality &amp; Knowledge (TARK 2023)</html:li>
+<html:li>Conference on Intelligent Computer Mathematics (CICM 2022)</html:li>
+<html:li>Conference on Logic, Rationality and Interaction (LORI-VIII 2021)</html:li>
+<html:li>Dynamic Logic: New Trends and Applications (DaLí 2020)</html:li></html:ul></html:p>
+  </fr:mainmatter>
+  <fr:backmatter>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="References">References</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Context">Context</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Backlinks">Backlinks</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Related">Related</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Contributions">Contributions</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+  </fr:backmatter>
+</fr:tree>
