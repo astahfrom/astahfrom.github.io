@@ -128,7 +128,8 @@
         <html:p>You might also be looking for <html:ul><html:li>a <fr:link href="/forest/ahf-writing/" title="Writing" uri="https://astahfrom.github.io/forest/ahf-writing/" display-uri="ahf-writing" type="local">complete list of my articles</fr:link></html:li>
   <html:li>an <fr:link href="/forest/ahf-talks/" title="Talks" uri="https://astahfrom.github.io/forest/ahf-talks/" display-uri="ahf-talks" type="local">overview of other talks</fr:link></html:li>
   <html:li>a <fr:link href="/forest/ahf-afp/" title="Entries in the Archive of Formal Proofs" uri="https://astahfrom.github.io/forest/ahf-afp/" display-uri="ahf-afp" type="local">list of my entries in the Archive of Formal Proofs</fr:link></html:li>
-  <html:li>some <fr:link href="/forest/ahf-0001/" title="Academic Activities" uri="https://astahfrom.github.io/forest/ahf-0001/" display-uri="ahf-0001" type="local">other academic activities</fr:link></html:li></html:ul></html:p>
+  <html:li>other <fr:link href="/forest/ahf-0001/" title="Academic Activities" uri="https://astahfrom.github.io/forest/ahf-0001/" display-uri="ahf-0001" type="local">academic activities</fr:link></html:li>
+  <html:li>some <fr:link href="/forest/ahf-0002/" title="Teaching" uri="https://astahfrom.github.io/forest/ahf-0002/" display-uri="ahf-0002" type="local">teaching enterprises</fr:link></html:li></html:ul></html:p>
       </fr:mainmatter>
     </fr:tree>
     <fr:tree show-metadata="false">
@@ -479,6 +480,91 @@ year = {2023},
             <fr:date>
               <fr:year>2025</fr:year>
               <fr:month>4</fr:month>
+              <fr:day>23</fr:day>
+            </fr:date>
+            <fr:uri>https://astahfrom.github.io/forest/ahf-0002/</fr:uri>
+            <fr:display-uri>ahf-0002</fr:display-uri>
+            <fr:route>/forest/ahf-0002/</fr:route>
+            <fr:title text="Teaching">Teaching</fr:title>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>4</fr:month>
+                  <fr:day>23</fr:day>
+                </fr:date>
+                <fr:uri>https://astahfrom.github.io/forest/ahf-supervision/</fr:uri>
+                <fr:display-uri>ahf-supervision</fr:display-uri>
+                <fr:route>/forest/ahf-supervision/</fr:route>
+                <fr:title text="Supervision">Supervision</fr:title>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>I co-supervised the following projects at <fr:link href="/forest/dtucompute/" title="DTU Compute" uri="https://astahfrom.github.io/forest/dtucompute/" display-uri="dtucompute" type="local">DTU Compute</fr:link>.
+<html:ul><html:li><html:em>MSc thesis</html:em> Frederik Krogsdal Jacobsen, Formalization of Logical Systems in Isabelle (2021)</html:li>
+<html:li><html:em>BSc thesis</html:em> Emmanuel André Ryom, A Proof Tool for First-Order Logic (2021)</html:li>
+<html:li><html:em>BSc thesis</html:em> Simon Tobias Lund, Prover Programming (2021)</html:li>
+<html:li><html:em>Special Course</html:em> A Case Study in Computer-Assisted Meta-Reasoning (2021)</html:li>
+<html:li><html:em>Special Course</html:em> Advanced Automated Reasoning (2021)</html:li>
+<html:li><html:em>Special Course</html:em> Sequent Calculus Verifier (2021)</html:li>
+<html:li><html:em>Special Course</html:em> Advanced Topics in Types and Programming Languages (2021)</html:li>
+<html:li><html:em>Special Course</html:em> Advanced Theorem Proving in Isabelle (2020)</html:li>
+<html:li><html:em>Special Course</html:em> Type Theory and Formal Proof (2020)</html:li>
+<html:li><html:em>Special Course</html:em> Correctness proofs for distributed systems in Isabelle (2020)</html:li>
+<html:li><html:em>Special Course</html:em> Fundamental Concepts in Algebraic Topology (2020)</html:li>
+<html:li><html:em>Special Course</html:em> Visualization of proofs (2020)</html:li></html:ul></html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>4</fr:month>
+                  <fr:day>23</fr:day>
+                </fr:date>
+                <fr:uri>https://astahfrom.github.io/forest/ahf-ta/</fr:uri>
+                <fr:display-uri>ahf-ta</fr:display-uri>
+                <fr:route>/forest/ahf-ta/</fr:route>
+                <fr:title text="Teaching Assistant">Teaching Assistant</fr:title>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>I was a teaching assistant in the following courses at <fr:link href="/forest/dtucompute/" title="DTU Compute" uri="https://astahfrom.github.io/forest/dtucompute/" display-uri="dtucompute" type="local">DTU Compute</fr:link>.
+<html:ul><html:li><fr:link href="https://kurser.dtu.dk/course/02287" type="external">Logical Theories for Uncertainty and Learning (2020)</fr:link></html:li>
+<html:li><fr:link href="https://kurser.dtu.dk/course/02102" type="external">Introductory Programming (Java &amp; C) (2020)</fr:link></html:li>
+<html:li><fr:link href="https://kurser.dtu.dk/course/02256" type="external">Automated Reasoning (2020)</fr:link></html:li>
+<html:li><fr:link href="https://kurser.dtu.dk/course/02156" type="external">Logical Systems and Logic Programming (2019)</fr:link></html:li>
+<html:li><fr:link href="https://kurser.dtu.dk/course/02156" type="external">Logical Systems and Logic Programming (2018)</fr:link></html:li>
+<html:li><fr:link href="https://kurser.dtu.dk/course/02180" type="external">Introduction to Artificial Intelligence (2018)</fr:link></html:li>
+<html:li><fr:link href="https://kurser.dtu.dk/course/02105" type="external">Algorithms and Data Structures 1 (2017)</fr:link></html:li>
+<html:li><fr:link href="https://kurser.dtu.dk/course/02110" type="external">Algorithms and Data Structures 2 (2016)</fr:link></html:li>
+<html:li><fr:link href="https://kurser.dtu.dk/course/02105" type="external">Algorithms and Data Structures 1 (2016)</fr:link></html:li>
+<html:li><fr:link href="https://kurser.dtu.dk/course/02101" type="external">Introductory Programming (Java) (2016)</fr:link></html:li>
+<html:li><fr:link href="https://kurser.dtu.dk/course/02101" type="external">Introductory Programming (Java) (2015)</fr:link></html:li></html:ul></html:p>
+              </fr:mainmatter>
+            </fr:tree>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>4</fr:month>
               <fr:day>22</fr:day>
             </fr:date>
             <fr:uri>https://astahfrom.github.io/forest/ahf-0001/</fr:uri>
@@ -585,6 +671,24 @@ year = {2023},
 <html:ul><html:li>VU Amsterdam Lean Forward: Proof automation for the Lean theorem prover (May 2022)</html:li>
 <html:li>VU Amsterdam Lean Forward: Proof automation for the Lean theorem prover (November 2022)</html:li>
 <html:li>VU Amsterdam (remote) Virtual research stay hosted by Jasmin Blanchette (May &amp; June 2021)</html:li></html:ul></html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>4</fr:month>
+                  <fr:day>22</fr:day>
+                </fr:date>
+                <fr:title text="Summer School">Summer School</fr:title>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>I participated in the Satisfiability (SAT), Satisfiability Modulo Theories (SMT), and Automated Reasoning (AR) Summer School 2019 in Lisbon, Portugal. Laura Kovács invited me during my Erasmus stay at TU Wien.</html:p>
               </fr:mainmatter>
             </fr:tree>
           </fr:mainmatter>

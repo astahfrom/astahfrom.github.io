@@ -1787,7 +1787,8 @@ year = {2016},
                 <html:p>You might also be looking for <html:ul><html:li>a <fr:link href="/forest/ahf-writing/" title="Writing" uri="https://astahfrom.github.io/forest/ahf-writing/" display-uri="ahf-writing" type="local">complete list of my articles</fr:link></html:li>
   <html:li>an <fr:link href="/forest/ahf-talks/" title="Talks" uri="https://astahfrom.github.io/forest/ahf-talks/" display-uri="ahf-talks" type="local">overview of other talks</fr:link></html:li>
   <html:li>a <fr:link href="/forest/ahf-afp/" title="Entries in the Archive of Formal Proofs" uri="https://astahfrom.github.io/forest/ahf-afp/" display-uri="ahf-afp" type="local">list of my entries in the Archive of Formal Proofs</fr:link></html:li>
-  <html:li>some <fr:link href="/forest/ahf-0001/" title="Academic Activities" uri="https://astahfrom.github.io/forest/ahf-0001/" display-uri="ahf-0001" type="local">other academic activities</fr:link></html:li></html:ul></html:p>
+  <html:li>other <fr:link href="/forest/ahf-0001/" title="Academic Activities" uri="https://astahfrom.github.io/forest/ahf-0001/" display-uri="ahf-0001" type="local">academic activities</fr:link></html:li>
+  <html:li>some <fr:link href="/forest/ahf-0002/" title="Teaching" uri="https://astahfrom.github.io/forest/ahf-0002/" display-uri="ahf-0002" type="local">teaching enterprises</fr:link></html:li></html:ul></html:p>
               </fr:mainmatter>
             </fr:tree>
             <fr:tree show-metadata="false">

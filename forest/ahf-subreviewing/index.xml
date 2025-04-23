@@ -157,6 +157,24 @@
 <html:li>VU Amsterdam (remote) Virtual research stay hosted by Jasmin Blanchette (May &amp; June 2021)</html:li></html:ul></html:p>
               </fr:mainmatter>
             </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>4</fr:month>
+                  <fr:day>22</fr:day>
+                </fr:date>
+                <fr:title text="Summer School">Summer School</fr:title>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>I participated in the Satisfiability (SAT), Satisfiability Modulo Theories (SMT), and Automated Reasoning (AR) Summer School 2019 in Lisbon, Portugal. Laura Kovács invited me during my Erasmus stay at TU Wien.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
           </fr:mainmatter>
         </fr:tree>
       </fr:mainmatter>
