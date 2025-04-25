@@ -22,14 +22,11 @@
 <html:ul><html:li><fr:link href="https://kurser.dtu.dk/course/02287" type="external">Logical Theories for Uncertainty and Learning (2020)</fr:link></html:li>
 <html:li><fr:link href="https://kurser.dtu.dk/course/02102" type="external">Introductory Programming (Java &amp; C) (2020)</fr:link></html:li>
 <html:li><fr:link href="https://kurser.dtu.dk/course/02256" type="external">Automated Reasoning (2020)</fr:link></html:li>
-<html:li><fr:link href="https://kurser.dtu.dk/course/02156" type="external">Logical Systems and Logic Programming (2019)</fr:link></html:li>
-<html:li><fr:link href="https://kurser.dtu.dk/course/02156" type="external">Logical Systems and Logic Programming (2018)</fr:link></html:li>
+<html:li><fr:link href="https://kurser.dtu.dk/course/02156" type="external">Logical Systems and Logic Programming (2018 &amp; 2019)</fr:link></html:li>
 <html:li><fr:link href="https://kurser.dtu.dk/course/02180" type="external">Introduction to Artificial Intelligence (2018)</fr:link></html:li>
-<html:li><fr:link href="https://kurser.dtu.dk/course/02105" type="external">Algorithms and Data Structures 1 (2017)</fr:link></html:li>
+<html:li><fr:link href="https://kurser.dtu.dk/course/02105" type="external">Algorithms and Data Structures 1 (2016 &amp; 2017)</fr:link></html:li>
 <html:li><fr:link href="https://kurser.dtu.dk/course/02110" type="external">Algorithms and Data Structures 2 (2016)</fr:link></html:li>
-<html:li><fr:link href="https://kurser.dtu.dk/course/02105" type="external">Algorithms and Data Structures 1 (2016)</fr:link></html:li>
-<html:li><fr:link href="https://kurser.dtu.dk/course/02101" type="external">Introductory Programming (Java) (2016)</fr:link></html:li>
-<html:li><fr:link href="https://kurser.dtu.dk/course/02101" type="external">Introductory Programming (Java) (2015)</fr:link></html:li></html:ul></html:p>
+<html:li><fr:link href="https://kurser.dtu.dk/course/02101" type="external">Introductory Programming (Java) (2015 &amp; 2016)</fr:link></html:li></html:ul></html:p>
   </fr:mainmatter>
   <fr:backmatter>
     <fr:tree show-metadata="false" hidden-when-empty="true">
@@ -63,6 +60,30 @@
             <fr:title text="Teaching">Teaching</fr:title>
           </fr:frontmatter>
           <fr:mainmatter>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>4</fr:month>
+                  <fr:day>25</fr:day>
+                </fr:date>
+                <fr:uri>https://astahfrom.github.io/forest/ahf-sddh/</fr:uri>
+                <fr:display-uri>ahf-sddh</fr:display-uri>
+                <fr:route>/forest/ahf-sddh/</fr:route>
+                <fr:title text="Software Development for Digital Health">Software Development for Digital Health</fr:title>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>I am currently teaching <fr:link href="https://kurser.ku.dk/course/ndab22007u/2024-2025" type="external">Software Development for Digital Health</fr:link> for 4th semester Health and IT students.</html:p>
+                <html:p>
+                  <html:em>The course provides an introduction to the elementary elements in the development of IT systems in the healthcare system. The course focuses on system development and software engineering techniques: requirements specification, basic UML diagrams and system development methods. As software integrates with information systems, the student will acquire skills in modelling and manipulation of data in relational databases. Finally, the course will equip the student with skills in data communication via information exchange.</html:em>
+                </html:p>
+              </fr:mainmatter>
+            </fr:tree>
             <fr:tree show-metadata="false">
               <fr:frontmatter>
                 <fr:authors>
@@ -118,14 +139,11 @@
 <html:ul><html:li><fr:link href="https://kurser.dtu.dk/course/02287" type="external">Logical Theories for Uncertainty and Learning (2020)</fr:link></html:li>
 <html:li><fr:link href="https://kurser.dtu.dk/course/02102" type="external">Introductory Programming (Java &amp; C) (2020)</fr:link></html:li>
 <html:li><fr:link href="https://kurser.dtu.dk/course/02256" type="external">Automated Reasoning (2020)</fr:link></html:li>
-<html:li><fr:link href="https://kurser.dtu.dk/course/02156" type="external">Logical Systems and Logic Programming (2019)</fr:link></html:li>
-<html:li><fr:link href="https://kurser.dtu.dk/course/02156" type="external">Logical Systems and Logic Programming (2018)</fr:link></html:li>
+<html:li><fr:link href="https://kurser.dtu.dk/course/02156" type="external">Logical Systems and Logic Programming (2018 &amp; 2019)</fr:link></html:li>
 <html:li><fr:link href="https://kurser.dtu.dk/course/02180" type="external">Introduction to Artificial Intelligence (2018)</fr:link></html:li>
-<html:li><fr:link href="https://kurser.dtu.dk/course/02105" type="external">Algorithms and Data Structures 1 (2017)</fr:link></html:li>
+<html:li><fr:link href="https://kurser.dtu.dk/course/02105" type="external">Algorithms and Data Structures 1 (2016 &amp; 2017)</fr:link></html:li>
 <html:li><fr:link href="https://kurser.dtu.dk/course/02110" type="external">Algorithms and Data Structures 2 (2016)</fr:link></html:li>
-<html:li><fr:link href="https://kurser.dtu.dk/course/02105" type="external">Algorithms and Data Structures 1 (2016)</fr:link></html:li>
-<html:li><fr:link href="https://kurser.dtu.dk/course/02101" type="external">Introductory Programming (Java) (2016)</fr:link></html:li>
-<html:li><fr:link href="https://kurser.dtu.dk/course/02101" type="external">Introductory Programming (Java) (2015)</fr:link></html:li></html:ul></html:p>
+<html:li><fr:link href="https://kurser.dtu.dk/course/02101" type="external">Introductory Programming (Java) (2015 &amp; 2016)</fr:link></html:li></html:ul></html:p>
               </fr:mainmatter>
             </fr:tree>
           </fr:mainmatter>
