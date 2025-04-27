@@ -139,7 +139,11 @@ year = {2023},
             <fr:taxon>Journal</fr:taxon>
             <fr:meta name="external">https://www.isa-afp.org/</fr:meta>
           </fr:frontmatter>
-          <fr:mainmatter />
+          <fr:mainmatter>
+            <html:p>
+              <html:em>The Archive of Formal Proofs is a collection of proof libraries, examples, and larger scientific developments, mechanically checked in the theorem prover Isabelle. It is organized in the way of a scientific journal, is indexed by dblp and has an ISSN: 2150-914x. Submissions are refereed and we encourage companion AFP submissions to conference and journal publications.</html:em>
+            </html:p>
+          </fr:mainmatter>
         </fr:tree>
       </fr:mainmatter>
     </fr:tree>

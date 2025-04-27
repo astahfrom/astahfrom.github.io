@@ -104,9 +104,9 @@ year = {2023},
           </fr:frontmatter>
           <fr:mainmatter>
             <html:p>I visited <fr:link href="/forest/jlimperg/" title="Jannis Limperg" uri="https://astahfrom.github.io/forest/jlimperg/" display-uri="jlimperg" type="local">Jannis Limperg</fr:link> in Amsterdam for the <fr:link href="/forest/jlimperg-ahfrom-2023-cpp/" title="Aesop: White-Box Best-First Proof Search for Lean" uri="https://astahfrom.github.io/forest/jlimperg-ahfrom-2023-cpp/" display-uri="jlimperg-ahfrom-2023-cpp" type="local">Aesop</fr:link> work.
-<html:ul><html:li>VU Amsterdam Lean Forward: Proof automation for the Lean theorem prover (May 2022)</html:li>
-<html:li>VU Amsterdam Lean Forward: Proof automation for the Lean theorem prover (November 2022)</html:li>
-<html:li>VU Amsterdam (remote) Virtual research stay hosted by Jasmin Blanchette (May &amp; June 2021)</html:li></html:ul></html:p>
+<html:ul><html:li><html:strong>VU Amsterdam</html:strong> Lean Forward: Proof automation for the Lean theorem prover (May 2022)</html:li>
+<html:li><html:strong>VU Amsterdam</html:strong> Lean Forward: Proof automation for the Lean theorem prover (November 2022)</html:li>
+<html:li><html:strong>VU Amsterdam (remote)</html:strong> Virtual research stay hosted by Jasmin Blanchette (May &amp; June 2021)</html:li></html:ul></html:p>
           </fr:mainmatter>
         </fr:tree>
         <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">

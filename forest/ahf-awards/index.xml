@@ -133,9 +133,9 @@ year = {2022},
               <fr:month>4</fr:month>
               <fr:day>22</fr:day>
             </fr:date>
-            <fr:uri>https://astahfrom.github.io/forest/ahf-0001/</fr:uri>
-            <fr:display-uri>ahf-0001</fr:display-uri>
-            <fr:route>/forest/ahf-0001/</fr:route>
+            <fr:uri>https://astahfrom.github.io/forest/ahf-academia/</fr:uri>
+            <fr:display-uri>ahf-academia</fr:display-uri>
+            <fr:route>/forest/ahf-academia/</fr:route>
             <fr:title text="Academic Activities">Academic Activities</fr:title>
           </fr:frontmatter>
           <fr:mainmatter>
@@ -158,9 +158,9 @@ year = {2022},
               </fr:frontmatter>
               <fr:mainmatter>
                 <html:p>I was or am a member of the following PCs.
-<html:ul><html:li>Dalí 2025: 6th Workshop on Dynamic Logic - New trends and applications</html:li>
-<html:li>ITP 2025: 16th International Conference on Interactive Theorem Proving</html:li>
-<html:li>Dalí 2023: 5th Workshop on Dynamic Logic - New trends and applications</html:li></html:ul></html:p>
+<html:ul><html:li><html:strong>Dalí 2025</html:strong>: 6th Workshop on Dynamic Logic - New trends and applications</html:li>
+<html:li><html:strong>ITP 2025</html:strong>: 16th International Conference on Interactive Theorem Proving</html:li>
+<html:li><html:strong>Dalí 2023</html:strong>: 5th Workshop on Dynamic Logic - New trends and applications</html:li></html:ul></html:p>
                 <html:p>I was co-chair of the Logic and Computation track at the student session at ESSLLI 2021 — 32nd European Summer School in Logic, Language and Information.</html:p>
               </fr:mainmatter>
             </fr:tree>
@@ -183,10 +183,10 @@ year = {2022},
               </fr:frontmatter>
               <fr:mainmatter>
                 <html:p>I have reviewed for the following journals.
-<html:ul><html:li>Journal of Automated Reasoning (JAR)</html:li>
-<html:li>Synthese: An International Journal for Epistemology, Methodology and Philosophy of Science</html:li>
-<html:li>Journal of Logic, Language and Information (JLLI)</html:li>
-<html:li>Journal of Logic and Computation(JLC)</html:li></html:ul></html:p>
+<html:ul><html:li><html:strong>JAR</html:strong>: Journal of Automated Reasoning</html:li>
+<html:li><html:strong>Synthese</html:strong>: An International Journal for Epistemology, Methodology and Philosophy of Science</html:li>
+<html:li><html:strong>JLLI</html:strong>: Journal of Logic, Language and Information</html:li>
+<html:li><html:strong>JLC</html:strong>: Journal of Logic and Computation</html:li></html:ul></html:p>
               </fr:mainmatter>
             </fr:tree>
             <fr:tree show-metadata="false">
@@ -208,11 +208,11 @@ year = {2022},
               </fr:frontmatter>
               <fr:mainmatter>
                 <html:p>I have subreviewed for the following venues.
-<html:ul><html:li>Proceedings of Asian Workshop on Philosophical Logic (AWPL 2024)</html:li>
-<html:li>Theoretical Aspects of Rationality &amp; Knowledge (TARK 2023)</html:li>
-<html:li>Conference on Intelligent Computer Mathematics (CICM 2022)</html:li>
-<html:li>Conference on Logic, Rationality and Interaction (LORI-VIII 2021)</html:li>
-<html:li>Dynamic Logic: New Trends and Applications (DaLí 2020)</html:li></html:ul></html:p>
+<html:ul><html:li><html:strong>AWPL 2024</html:strong> Proceedings of the 6th Asian Workshop on Philosophical Logic</html:li>
+<html:li><html:strong>TARK 2023</html:strong> Theoretical Aspects of Rationality &amp; Knowledge</html:li>
+<html:li><html:strong>CICM 2022</html:strong> Conference on Intelligent Computer Mathematics</html:li>
+<html:li><html:strong>LORI-VIII 2021</html:strong> Conference on Logic, Rationality and Interaction</html:li>
+<html:li><html:strong>DaLí 2020</html:strong> Dynamic Logic: New Trends and Applications</html:li></html:ul></html:p>
               </fr:mainmatter>
             </fr:tree>
             <fr:tree show-metadata="false">
@@ -234,9 +234,9 @@ year = {2022},
               </fr:frontmatter>
               <fr:mainmatter>
                 <html:p>I visited <fr:link href="/forest/jlimperg/" title="Jannis Limperg" uri="https://astahfrom.github.io/forest/jlimperg/" display-uri="jlimperg" type="local">Jannis Limperg</fr:link> in Amsterdam for the <fr:link href="/forest/jlimperg-ahfrom-2023-cpp/" title="Aesop: White-Box Best-First Proof Search for Lean" uri="https://astahfrom.github.io/forest/jlimperg-ahfrom-2023-cpp/" display-uri="jlimperg-ahfrom-2023-cpp" type="local">Aesop</fr:link> work.
-<html:ul><html:li>VU Amsterdam Lean Forward: Proof automation for the Lean theorem prover (May 2022)</html:li>
-<html:li>VU Amsterdam Lean Forward: Proof automation for the Lean theorem prover (November 2022)</html:li>
-<html:li>VU Amsterdam (remote) Virtual research stay hosted by Jasmin Blanchette (May &amp; June 2021)</html:li></html:ul></html:p>
+<html:ul><html:li><html:strong>VU Amsterdam</html:strong> Lean Forward: Proof automation for the Lean theorem prover (May 2022)</html:li>
+<html:li><html:strong>VU Amsterdam</html:strong> Lean Forward: Proof automation for the Lean theorem prover (November 2022)</html:li>
+<html:li><html:strong>VU Amsterdam (remote)</html:strong> Virtual research stay hosted by Jasmin Blanchette (May &amp; June 2021)</html:li></html:ul></html:p>
               </fr:mainmatter>
             </fr:tree>
             <fr:tree show-metadata="false">
@@ -285,6 +285,27 @@ year = {2022},
                 </html:p>
               </fr:mainmatter>
             </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>4</fr:month>
+                  <fr:day>27</fr:day>
+                </fr:date>
+                <fr:uri>https://astahfrom.github.io/forest/ahf-metrics/</fr:uri>
+                <fr:display-uri>ahf-metrics</fr:display-uri>
+                <fr:route>/forest/ahf-metrics/</fr:route>
+                <fr:title text="Metrics">Metrics</fr:title>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>52 works in <fr:link href="https://orcid.org/0000-0002-3601-0804" type="external">ORCID</fr:link>, 33 records in <fr:link href="https://dblp.org/pid/214/1791" type="external">DBLP</fr:link>, and h-index 11 on <fr:link href="https://scholar.google.dk/citations" type="external">Google Scholar</fr:link>.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
           </fr:mainmatter>
         </fr:tree>
       </fr:mainmatter>
@@ -294,7 +315,29 @@ year = {2022},
         <fr:authors />
         <fr:title text="Backlinks">Backlinks</fr:title>
       </fr:frontmatter>
-      <fr:mainmatter />
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>4</fr:month>
+              <fr:day>15</fr:day>
+            </fr:date>
+            <fr:uri>https://astahfrom.github.io/forest/ahf-phd/</fr:uri>
+            <fr:display-uri>ahf-phd</fr:display-uri>
+            <fr:route>/forest/ahf-phd/</fr:route>
+            <fr:title text="PhD">PhD</fr:title>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>I was a PhD student at <fr:link href="/forest/dtucompute/" title="DTU Compute" uri="https://astahfrom.github.io/forest/dtucompute/" display-uri="dtucompute" type="local">DTU Compute</fr:link> from 2020 to 2023. I wrote my thesis <fr:link href="/forest/ahfrom-2023-phd-thesis/" title="Formally Correct Deduction Methods for Computational Logic" uri="https://astahfrom.github.io/forest/ahfrom-2023-phd-thesis/" display-uri="ahfrom-2023-phd-thesis" type="local">Formally Correct Deduction Methods for Computational Logic</fr:link> supervised by <fr:link href="/forest/jvilladsen/" title="Jørgen Villadsen" uri="https://astahfrom.github.io/forest/jvilladsen/" display-uri="jvilladsen" type="local">Jørgen Villadsen</fr:link> and <fr:link href="/forest/ngierasimczuk/" title="Nina Gierasimczuk" uri="https://astahfrom.github.io/forest/ngierasimczuk/" display-uri="ngierasimczuk" type="local">Nina Gierasimczuk</fr:link>. <fr:link href="/forest/dtu/" title="Technical University of Denmark" uri="https://astahfrom.github.io/forest/dtu/" display-uri="dtu" type="local">DTU</fr:link> awarded me with a <fr:link href="/forest/ahf-awards/" title="Awards, Grants &amp; Competitions" uri="https://astahfrom.github.io/forest/ahf-awards/" display-uri="ahf-awards" type="local">Young Researcher Award</fr:link> for my PhD.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+      </fr:mainmatter>
     </fr:tree>
     <fr:tree show-metadata="false" hidden-when-empty="true">
       <fr:frontmatter>

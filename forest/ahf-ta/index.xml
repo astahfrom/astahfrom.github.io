@@ -19,14 +19,14 @@
   </fr:frontmatter>
   <fr:mainmatter>
     <html:p>I was a teaching assistant in the following courses at <fr:link href="/forest/dtucompute/" title="DTU Compute" uri="https://astahfrom.github.io/forest/dtucompute/" display-uri="dtucompute" type="local">DTU Compute</fr:link>.
-<html:ul><html:li><fr:link href="https://kurser.dtu.dk/course/02287" type="external">Logical Theories for Uncertainty and Learning (2020)</fr:link></html:li>
-<html:li><fr:link href="https://kurser.dtu.dk/course/02102" type="external">Introductory Programming (Java &amp; C) (2020)</fr:link></html:li>
-<html:li><fr:link href="https://kurser.dtu.dk/course/02256" type="external">Automated Reasoning (2020)</fr:link></html:li>
-<html:li><fr:link href="https://kurser.dtu.dk/course/02156" type="external">Logical Systems and Logic Programming (2018 &amp; 2019)</fr:link></html:li>
-<html:li><fr:link href="https://kurser.dtu.dk/course/02180" type="external">Introduction to Artificial Intelligence (2018)</fr:link></html:li>
-<html:li><fr:link href="https://kurser.dtu.dk/course/02105" type="external">Algorithms and Data Structures 1 (2016 &amp; 2017)</fr:link></html:li>
-<html:li><fr:link href="https://kurser.dtu.dk/course/02110" type="external">Algorithms and Data Structures 2 (2016)</fr:link></html:li>
-<html:li><fr:link href="https://kurser.dtu.dk/course/02101" type="external">Introductory Programming (Java) (2015 &amp; 2016)</fr:link></html:li></html:ul></html:p>
+<html:ul><html:li><fr:link href="https://kurser.dtu.dk/course/02287" type="external"><html:strong>02287</html:strong></fr:link> Logical Theories for Uncertainty and Learning (2020)</html:li>
+<html:li><fr:link href="https://kurser.dtu.dk/course/02102" type="external"><html:strong>02102</html:strong></fr:link> Introductory Programming (Java &amp; C) (2020)</html:li>
+<html:li><fr:link href="https://kurser.dtu.dk/course/02256" type="external"><html:strong>02256</html:strong></fr:link> Automated Reasoning (2020)</html:li>
+<html:li><fr:link href="https://kurser.dtu.dk/course/02156" type="external"><html:strong>02156</html:strong></fr:link> Logical Systems and Logic Programming (2018 &amp; 2019)</html:li>
+<html:li><fr:link href="https://kurser.dtu.dk/course/02180" type="external"><html:strong>02180</html:strong></fr:link> Introduction to Artificial Intelligence (2018)</html:li>
+<html:li><fr:link href="https://kurser.dtu.dk/course/02105" type="external"><html:strong>02105</html:strong></fr:link> Algorithms and Data Structures 1 (2016 &amp; 2017)</html:li>
+<html:li><fr:link href="https://kurser.dtu.dk/course/02110" type="external"><html:strong>02110</html:strong></fr:link> Algorithms and Data Structures 2 (2016)</html:li>
+<html:li><fr:link href="https://kurser.dtu.dk/course/02101" type="external"><html:strong>02101</html:strong></fr:link> Introductory Programming (Java) (2015 &amp; 2016)</html:li></html:ul></html:p>
   </fr:mainmatter>
   <fr:backmatter>
     <fr:tree show-metadata="false" hidden-when-empty="true">
@@ -54,9 +54,9 @@
               <fr:month>4</fr:month>
               <fr:day>23</fr:day>
             </fr:date>
-            <fr:uri>https://astahfrom.github.io/forest/ahf-0002/</fr:uri>
-            <fr:display-uri>ahf-0002</fr:display-uri>
-            <fr:route>/forest/ahf-0002/</fr:route>
+            <fr:uri>https://astahfrom.github.io/forest/ahf-teaching/</fr:uri>
+            <fr:display-uri>ahf-teaching</fr:display-uri>
+            <fr:route>/forest/ahf-teaching/</fr:route>
             <fr:title text="Teaching">Teaching</fr:title>
           </fr:frontmatter>
           <fr:mainmatter>
@@ -103,18 +103,18 @@
               </fr:frontmatter>
               <fr:mainmatter>
                 <html:p>I co-supervised the following projects at <fr:link href="/forest/dtucompute/" title="DTU Compute" uri="https://astahfrom.github.io/forest/dtucompute/" display-uri="dtucompute" type="local">DTU Compute</fr:link>.
-<html:ul><html:li><html:em>MSc thesis</html:em> Frederik Krogsdal Jacobsen, Formalization of Logical Systems in Isabelle (2021)</html:li>
-<html:li><html:em>BSc thesis</html:em> Emmanuel André Ryom, A Proof Tool for First-Order Logic (2021)</html:li>
-<html:li><html:em>BSc thesis</html:em> Simon Tobias Lund, Prover Programming (2021)</html:li>
-<html:li><html:em>Special Course</html:em> A Case Study in Computer-Assisted Meta-Reasoning (2021)</html:li>
-<html:li><html:em>Special Course</html:em> Advanced Automated Reasoning (2021)</html:li>
-<html:li><html:em>Special Course</html:em> Sequent Calculus Verifier (2021)</html:li>
-<html:li><html:em>Special Course</html:em> Advanced Topics in Types and Programming Languages (2021)</html:li>
-<html:li><html:em>Special Course</html:em> Advanced Theorem Proving in Isabelle (2020)</html:li>
-<html:li><html:em>Special Course</html:em> Type Theory and Formal Proof (2020)</html:li>
-<html:li><html:em>Special Course</html:em> Correctness proofs for distributed systems in Isabelle (2020)</html:li>
-<html:li><html:em>Special Course</html:em> Fundamental Concepts in Algebraic Topology (2020)</html:li>
-<html:li><html:em>Special Course</html:em> Visualization of proofs (2020)</html:li></html:ul></html:p>
+<html:ul><html:li><html:strong>MSc thesis</html:strong> Frederik Krogsdal Jacobsen, Formalization of Logical Systems in Isabelle (2021)</html:li>
+<html:li><html:strong>BSc thesis</html:strong> Emmanuel André Ryom, A Proof Tool for First-Order Logic (2021)</html:li>
+<html:li><html:strong>BSc thesis</html:strong> Simon Tobias Lund, Prover Programming (2021)</html:li>
+<html:li><html:strong>Special Course</html:strong> A Case Study in Computer-Assisted Meta-Reasoning (2021)</html:li>
+<html:li><html:strong>Special Course</html:strong> Advanced Automated Reasoning (2021)</html:li>
+<html:li><html:strong>Special Course</html:strong> Sequent Calculus Verifier (2021)</html:li>
+<html:li><html:strong>Special Course</html:strong> Advanced Topics in Types and Programming Languages (2021)</html:li>
+<html:li><html:strong>Special Course</html:strong> Advanced Theorem Proving in Isabelle (2020)</html:li>
+<html:li><html:strong>Special Course</html:strong> Type Theory and Formal Proof (2020)</html:li>
+<html:li><html:strong>Special Course</html:strong> Correctness proofs for distributed systems in Isabelle (2020)</html:li>
+<html:li><html:strong>Special Course</html:strong> Fundamental Concepts in Algebraic Topology (2020)</html:li>
+<html:li><html:strong>Special Course</html:strong> Visualization of proofs (2020)</html:li></html:ul></html:p>
               </fr:mainmatter>
             </fr:tree>
             <fr:tree show-metadata="false">
@@ -136,14 +136,14 @@
               </fr:frontmatter>
               <fr:mainmatter>
                 <html:p>I was a teaching assistant in the following courses at <fr:link href="/forest/dtucompute/" title="DTU Compute" uri="https://astahfrom.github.io/forest/dtucompute/" display-uri="dtucompute" type="local">DTU Compute</fr:link>.
-<html:ul><html:li><fr:link href="https://kurser.dtu.dk/course/02287" type="external">Logical Theories for Uncertainty and Learning (2020)</fr:link></html:li>
-<html:li><fr:link href="https://kurser.dtu.dk/course/02102" type="external">Introductory Programming (Java &amp; C) (2020)</fr:link></html:li>
-<html:li><fr:link href="https://kurser.dtu.dk/course/02256" type="external">Automated Reasoning (2020)</fr:link></html:li>
-<html:li><fr:link href="https://kurser.dtu.dk/course/02156" type="external">Logical Systems and Logic Programming (2018 &amp; 2019)</fr:link></html:li>
-<html:li><fr:link href="https://kurser.dtu.dk/course/02180" type="external">Introduction to Artificial Intelligence (2018)</fr:link></html:li>
-<html:li><fr:link href="https://kurser.dtu.dk/course/02105" type="external">Algorithms and Data Structures 1 (2016 &amp; 2017)</fr:link></html:li>
-<html:li><fr:link href="https://kurser.dtu.dk/course/02110" type="external">Algorithms and Data Structures 2 (2016)</fr:link></html:li>
-<html:li><fr:link href="https://kurser.dtu.dk/course/02101" type="external">Introductory Programming (Java) (2015 &amp; 2016)</fr:link></html:li></html:ul></html:p>
+<html:ul><html:li><fr:link href="https://kurser.dtu.dk/course/02287" type="external"><html:strong>02287</html:strong></fr:link> Logical Theories for Uncertainty and Learning (2020)</html:li>
+<html:li><fr:link href="https://kurser.dtu.dk/course/02102" type="external"><html:strong>02102</html:strong></fr:link> Introductory Programming (Java &amp; C) (2020)</html:li>
+<html:li><fr:link href="https://kurser.dtu.dk/course/02256" type="external"><html:strong>02256</html:strong></fr:link> Automated Reasoning (2020)</html:li>
+<html:li><fr:link href="https://kurser.dtu.dk/course/02156" type="external"><html:strong>02156</html:strong></fr:link> Logical Systems and Logic Programming (2018 &amp; 2019)</html:li>
+<html:li><fr:link href="https://kurser.dtu.dk/course/02180" type="external"><html:strong>02180</html:strong></fr:link> Introduction to Artificial Intelligence (2018)</html:li>
+<html:li><fr:link href="https://kurser.dtu.dk/course/02105" type="external"><html:strong>02105</html:strong></fr:link> Algorithms and Data Structures 1 (2016 &amp; 2017)</html:li>
+<html:li><fr:link href="https://kurser.dtu.dk/course/02110" type="external"><html:strong>02110</html:strong></fr:link> Algorithms and Data Structures 2 (2016)</html:li>
+<html:li><fr:link href="https://kurser.dtu.dk/course/02101" type="external"><html:strong>02101</html:strong></fr:link> Introductory Programming (Java) (2015 &amp; 2016)</html:li></html:ul></html:p>
               </fr:mainmatter>
             </fr:tree>
           </fr:mainmatter>

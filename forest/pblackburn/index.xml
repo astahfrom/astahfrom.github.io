@@ -43,6 +43,27 @@
               </fr:author>
             </fr:authors>
             <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>4</fr:month>
+              <fr:day>26</fr:day>
+            </fr:date>
+            <fr:uri>https://astahfrom.github.io/forest/ahf-msc/</fr:uri>
+            <fr:display-uri>ahf-msc</fr:display-uri>
+            <fr:route>/forest/ahf-msc/</fr:route>
+            <fr:title text="MSc">MSc</fr:title>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>I was a MSc student at <fr:link href="/forest/dtucompute/" title="DTU Compute" uri="https://astahfrom.github.io/forest/dtucompute/" display-uri="dtucompute" type="local">DTU Compute</fr:link> from 2018 to 2020 on the Honours Programme in Computer Science and Engineering. My study line was <html:em>Artificial Intelligence and Algorithms</html:em> (GPA 12). I wrote my thesis on <fr:link href="/forest/ahfrom-2020-msc-thesis/" title="Hybrid Logic" uri="https://astahfrom.github.io/forest/ahfrom-2020-msc-thesis/" display-uri="ahfrom-2020-msc-thesis" type="local">Hybrid Logic</fr:link> supervised by <fr:link href="/forest/jvilladsen/" title="Jørgen Villadsen" uri="https://astahfrom.github.io/forest/jvilladsen/" display-uri="jvilladsen" type="local">Jørgen Villadsen</fr:link>, <fr:link href="/forest/abjensen/" title="Alexander Birch Jensen" uri="https://astahfrom.github.io/forest/abjensen/" display-uri="abjensen" type="local">Alexander Birch Jensen</fr:link> and <fr:link href="/forest/pblackburn/" title="Patrick Blackburn" uri="https://astahfrom.github.io/forest/pblackburn/" display-uri="pblackburn" type="local">Patrick Blackburn</fr:link>. I took 30 ECTS at TU Wien as an Erasmus+ student.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
               <fr:year>2020</fr:year>
               <fr:month>2</fr:month>
               <fr:day>5</fr:day>

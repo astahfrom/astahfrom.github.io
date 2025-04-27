@@ -10,19 +10,15 @@
     <fr:date>
       <fr:year>2025</fr:year>
       <fr:month>4</fr:month>
-      <fr:day>22</fr:day>
+      <fr:day>27</fr:day>
     </fr:date>
-    <fr:uri>https://astahfrom.github.io/forest/ahf-pc/</fr:uri>
-    <fr:display-uri>ahf-pc</fr:display-uri>
-    <fr:route>/forest/ahf-pc/</fr:route>
-    <fr:title text="Program Committees">Program Committees</fr:title>
+    <fr:uri>https://astahfrom.github.io/forest/ahf-metrics/</fr:uri>
+    <fr:display-uri>ahf-metrics</fr:display-uri>
+    <fr:route>/forest/ahf-metrics/</fr:route>
+    <fr:title text="Metrics">Metrics</fr:title>
   </fr:frontmatter>
   <fr:mainmatter>
-    <html:p>I was or am a member of the following PCs.
-<html:ul><html:li><html:strong>Dalí 2025</html:strong>: 6th Workshop on Dynamic Logic - New trends and applications</html:li>
-<html:li><html:strong>ITP 2025</html:strong>: 16th International Conference on Interactive Theorem Proving</html:li>
-<html:li><html:strong>Dalí 2023</html:strong>: 5th Workshop on Dynamic Logic - New trends and applications</html:li></html:ul></html:p>
-    <html:p>I was co-chair of the Logic and Computation track at the student session at ESSLLI 2021 — 32nd European Summer School in Logic, Language and Information.</html:p>
+    <html:p>52 works in <fr:link href="https://orcid.org/0000-0002-3601-0804" type="external">ORCID</fr:link>, 33 records in <fr:link href="https://dblp.org/pid/214/1791" type="external">DBLP</fr:link>, and h-index 11 on <fr:link href="https://scholar.google.dk/citations" type="external">Google Scholar</fr:link>.</html:p>
   </fr:mainmatter>
   <fr:backmatter>
     <fr:tree show-metadata="false" hidden-when-empty="true">
