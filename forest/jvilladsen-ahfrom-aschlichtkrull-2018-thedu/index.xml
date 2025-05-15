@@ -556,6 +556,30 @@ year = {2018},
                     </fr:authors>
                     <fr:date>
                       <fr:year>2025</fr:year>
+                      <fr:month>5</fr:month>
+                      <fr:day>15</fr:day>
+                    </fr:date>
+                    <fr:uri>https://astahfrom.github.io/forest/ahfrom-2025-talk-tb/</fr:uri>
+                    <fr:display-uri>ahfrom-2025-talk-tb</fr:display-uri>
+                    <fr:route>/forest/ahfrom-2025-talk-tb/</fr:route>
+                    <fr:title text="Abstract Consistency Properties for Hybrid Logic: Smullyan’s Unifying Principle in Isabelle/HOL">Abstract Consistency Properties for Hybrid Logic: Smullyan’s Unifying Principle in Isabelle/HOL</fr:title>
+                    <fr:taxon>Reference</fr:taxon>
+                    <fr:meta name="venue">Logic: from Arthur Prior to Computation and Cognition — Workshop in Honour of Professor <fr:link href="/forest/tbrauner/" title="Torben Braüner" uri="https://astahfrom.github.io/forest/tbrauner/" display-uri="tbrauner" type="local">Torben Braüner</fr:link>, <fr:link href="/forest/ruc/" title="Roskilde University" uri="https://astahfrom.github.io/forest/ruc/" display-uri="ruc" type="local">Roskilde University</fr:link></fr:meta>
+                    <fr:meta name="slides">/forest/bafkrmifpien6mpvy4eouximtq6qg5qemag5h64tgd3iorbw3hdwvffl3qa.pdf</fr:meta>
+                  </fr:frontmatter>
+                  <fr:mainmatter>
+                    <html:p>Smullyan unified a number of results in "quantification theory" by proving model existence abstractly via consistency properties. Fitting developed consistency properties for intuitionistic and modal logic. I use Isabelle/HOL to develop the theory for any language. In particular, consistency properties can capture <fr:link href="/forest/blackburn-brauner-kofod-2025/" title="Prior’s ideal language" uri="https://astahfrom.github.io/forest/blackburn-brauner-kofod-2025/" display-uri="blackburn-brauner-kofod-2025" type="local">Blackburn, Braüner and Kofod's very strong hybrid logic PIL: Prior's Ideal Language</fr:link>.</html:p>
+                  </fr:mainmatter>
+                </fr:tree>
+                <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+                  <fr:frontmatter>
+                    <fr:authors>
+                      <fr:author>
+                        <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+                      </fr:author>
+                    </fr:authors>
+                    <fr:date>
+                      <fr:year>2025</fr:year>
                       <fr:month>1</fr:month>
                       <fr:day>7</fr:day>
                     </fr:date>

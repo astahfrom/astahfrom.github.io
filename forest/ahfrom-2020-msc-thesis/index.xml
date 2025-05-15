@@ -176,7 +176,9 @@ year = {2019},
             <fr:title text="Patrick Blackburn">Patrick Blackburn</fr:title>
             <fr:taxon>Person</fr:taxon>
             <fr:meta name="external">https://www.patrickblackburn.org/</fr:meta>
-            <fr:meta name="institution">University of Roskilde</fr:meta>
+            <fr:meta name="institution">
+              <fr:link href="/forest/ruc/" title="Roskilde University" uri="https://astahfrom.github.io/forest/ruc/" display-uri="ruc" type="local">Roskilde University</fr:link>
+            </fr:meta>
             <fr:meta name="orcid">0000-0001-9345-552X</fr:meta>
             <fr:meta name="position">Professor</fr:meta>
           </fr:frontmatter>
