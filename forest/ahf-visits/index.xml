@@ -257,7 +257,7 @@ year = {2023},
                 <fr:title text="Metrics">Metrics</fr:title>
               </fr:frontmatter>
               <fr:mainmatter>
-                <html:p>52 works in <fr:link href="https://orcid.org/0000-0002-3601-0804" type="external">ORCID</fr:link>, 33 records in <fr:link href="https://dblp.org/pid/214/1791" type="external">DBLP</fr:link>, and h-index 11 on <fr:link href="https://scholar.google.dk/citations" type="external">Google Scholar</fr:link>.</html:p>
+                <html:p>52 works in <fr:link href="https://orcid.org/0000-0002-3601-0804" type="external">ORCID</fr:link>, 33 records in <fr:link href="https://dblp.org/pid/214/1791" type="external">DBLP</fr:link>, and h-index 11 on <fr:link href="https://scholar.google.dk/citations?user=8SR5ntoAAAAJ" type="external">Google Scholar</fr:link>.</html:p>
               </fr:mainmatter>
             </fr:tree>
           </fr:mainmatter>
