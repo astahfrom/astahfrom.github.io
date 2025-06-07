@@ -52,13 +52,13 @@
               <fr:month>4</fr:month>
               <fr:day>15</fr:day>
             </fr:date>
-            <fr:uri>https://astahfrom.github.io/forest/ahf-dalux/</fr:uri>
-            <fr:display-uri>ahf-dalux</fr:display-uri>
-            <fr:route>/forest/ahf-dalux/</fr:route>
+            <fr:uri>https://astahfrom.github.io/forest/at-dalux/</fr:uri>
+            <fr:display-uri>at-dalux</fr:display-uri>
+            <fr:route>/forest/at-dalux/</fr:route>
             <fr:title text="Dalux">Dalux</fr:title>
           </fr:frontmatter>
           <fr:mainmatter>
-            <html:p>I was employed as a full-stack software developer at <fr:link href="/forest/dalux/" title="Dalux" uri="https://astahfrom.github.io/forest/dalux/" display-uri="dalux" type="local">Dalux</fr:link> from August 2023 to August 2024. I worked in C#, TypeScript and Angular. Besides completing tickets, I also:
+            <html:p>I was employed as a full-stack software developer at <fr:link href="/forest/dalux/" title="Dalux" uri="https://astahfrom.github.io/forest/dalux/" display-uri="dalux" type="local">Dalux</fr:link> from August 2023 to August 2024. I worked with C#, TypeScript, Angular, Cypress, Git, etc. Besides completing tickets, I also:
 <html:ul><html:li>refined the suite of concurrent, end-to-end Cypress tests,</html:li>
 <html:li>improved the handling and stamping of PDFs,</html:li>
 <html:li>wrote a Roslyn code analyzer to detect would-be runtime errors at compile time,</html:li>

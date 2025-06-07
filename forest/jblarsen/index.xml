@@ -44,9 +44,9 @@
               <fr:month>4</fr:month>
               <fr:day>26</fr:day>
             </fr:date>
-            <fr:uri>https://astahfrom.github.io/forest/ahf-bsc/</fr:uri>
-            <fr:display-uri>ahf-bsc</fr:display-uri>
-            <fr:route>/forest/ahf-bsc/</fr:route>
+            <fr:uri>https://astahfrom.github.io/forest/bsc/</fr:uri>
+            <fr:display-uri>bsc</fr:display-uri>
+            <fr:route>/forest/bsc/</fr:route>
             <fr:title text="BSc">BSc</fr:title>
           </fr:frontmatter>
           <fr:mainmatter>

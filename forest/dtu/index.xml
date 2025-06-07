@@ -40,16 +40,39 @@
             </fr:authors>
             <fr:date>
               <fr:year>2025</fr:year>
+              <fr:month>6</fr:month>
+              <fr:day>7</fr:day>
+            </fr:date>
+            <fr:uri>https://astahfrom.github.io/forest/teaching-training/</fr:uri>
+            <fr:display-uri>teaching-training</fr:display-uri>
+            <fr:route>/forest/teaching-training/</fr:route>
+            <fr:title text="Training">Training</fr:title>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>
+I took a 2.5 ECTS <fr:link href="https://learninglab.dtu.dk/courses-and-events/teaching-lab" type="external">Teaching Lab</fr:link> course as a PhD student at <fr:link href="/forest/dtu/" title="Technical University of Denmark" uri="https://astahfrom.github.io/forest/dtu/" display-uri="dtu" type="local">DTU</fr:link>:
+<html:em>Teaching Lab is our introduction to Teaching &amp; Learning in Engineering Education. During the course you will design and deliver a short teaching session, and you will give and receive feedback.</html:em></html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
               <fr:month>4</fr:month>
               <fr:day>15</fr:day>
             </fr:date>
-            <fr:uri>https://astahfrom.github.io/forest/ahf-phd/</fr:uri>
-            <fr:display-uri>ahf-phd</fr:display-uri>
-            <fr:route>/forest/ahf-phd/</fr:route>
+            <fr:uri>https://astahfrom.github.io/forest/phd/</fr:uri>
+            <fr:display-uri>phd</fr:display-uri>
+            <fr:route>/forest/phd/</fr:route>
             <fr:title text="PhD">PhD</fr:title>
           </fr:frontmatter>
           <fr:mainmatter>
-            <html:p>I was a PhD student at <fr:link href="/forest/dtucompute/" title="DTU Compute" uri="https://astahfrom.github.io/forest/dtucompute/" display-uri="dtucompute" type="local">DTU Compute</fr:link> from 2020 to 2023. I wrote my thesis <fr:link href="/forest/ahfrom-2023-phd-thesis/" title="Formally Correct Deduction Methods for Computational Logic" uri="https://astahfrom.github.io/forest/ahfrom-2023-phd-thesis/" display-uri="ahfrom-2023-phd-thesis" type="local">Formally Correct Deduction Methods for Computational Logic</fr:link> supervised by <fr:link href="/forest/jvilladsen/" title="Jørgen Villadsen" uri="https://astahfrom.github.io/forest/jvilladsen/" display-uri="jvilladsen" type="local">Jørgen Villadsen</fr:link> and <fr:link href="/forest/ngierasimczuk/" title="Nina Gierasimczuk" uri="https://astahfrom.github.io/forest/ngierasimczuk/" display-uri="ngierasimczuk" type="local">Nina Gierasimczuk</fr:link>. <fr:link href="/forest/dtu/" title="Technical University of Denmark" uri="https://astahfrom.github.io/forest/dtu/" display-uri="dtu" type="local">DTU</fr:link> awarded me a <fr:link href="/forest/ahf-awards/" title="Awards, Grants &amp; Competitions" uri="https://astahfrom.github.io/forest/ahf-awards/" display-uri="ahf-awards" type="local">Young Researcher Award</fr:link> for my PhD.</html:p>
+            <html:p>I was a PhD student at <fr:link href="/forest/dtucompute/" title="DTU Compute" uri="https://astahfrom.github.io/forest/dtucompute/" display-uri="dtucompute" type="local">DTU Compute</fr:link> from 2020 to 2023. I wrote my thesis <fr:link href="/forest/ahfrom-2023-phd-thesis/" title="Formally Correct Deduction Methods for Computational Logic" uri="https://astahfrom.github.io/forest/ahfrom-2023-phd-thesis/" display-uri="ahfrom-2023-phd-thesis" type="local">Formally Correct Deduction Methods for Computational Logic</fr:link> supervised by <fr:link href="/forest/jvilladsen/" title="Jørgen Villadsen" uri="https://astahfrom.github.io/forest/jvilladsen/" display-uri="jvilladsen" type="local">Jørgen Villadsen</fr:link> and <fr:link href="/forest/ngierasimczuk/" title="Nina Gierasimczuk" uri="https://astahfrom.github.io/forest/ngierasimczuk/" display-uri="ngierasimczuk" type="local">Nina Gierasimczuk</fr:link>. <fr:link href="/forest/dtu/" title="Technical University of Denmark" uri="https://astahfrom.github.io/forest/dtu/" display-uri="dtu" type="local">DTU</fr:link> awarded me a <fr:link href="/forest/awards/" title="Awards, Grants &amp; Competitions" uri="https://astahfrom.github.io/forest/awards/" display-uri="awards" type="local">Young Researcher Award</fr:link> for my PhD.</html:p>
           </fr:mainmatter>
         </fr:tree>
         <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">

@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/forest/default.xsl"?>
+<fr:tree xmlns:fr="http://www.forester-notes.org" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:xml="http://www.w3.org/XML/1998/namespace" root="false" base-url="/forest/">
+  <fr:frontmatter>
+    <fr:authors>
+      <fr:author>
+        <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+      </fr:author>
+    </fr:authors>
+    <fr:date>
+      <fr:year>2025</fr:year>
+      <fr:month>4</fr:month>
+      <fr:day>22</fr:day>
+    </fr:date>
+    <fr:uri>https://astahfrom.github.io/forest/visits/</fr:uri>
+    <fr:display-uri>visits</fr:display-uri>
+    <fr:route>/forest/visits/</fr:route>
+    <fr:title text="Research Visits">Research Visits</fr:title>
+  </fr:frontmatter>
+  <fr:mainmatter>
+    <html:p>
+I visited <fr:link href="/forest/jlimperg/" title="Jannis Limperg" uri="https://astahfrom.github.io/forest/jlimperg/" display-uri="jlimperg" type="local">Jannis Limperg</fr:link> in Amsterdam for the <fr:link href="/forest/jlimperg-ahfrom-2023-cpp/" title="Aesop: White-Box Best-First Proof Search for Lean" uri="https://astahfrom.github.io/forest/jlimperg-ahfrom-2023-cpp/" display-uri="jlimperg-ahfrom-2023-cpp" type="local">Aesop</fr:link> work.
+<html:ul><html:li><html:strong>VU Amsterdam</html:strong> Lean Forward: Proof automation for the Lean theorem prover (May 2022)</html:li>
+<html:li><html:strong>VU Amsterdam</html:strong> Lean Forward: Proof automation for the Lean theorem prover (November 2022)</html:li>
+<html:li><html:strong>VU Amsterdam (remote)</html:strong> Virtual research stay hosted by Jasmin Blanchette (May &amp; June 2021)</html:li></html:ul></html:p>
+  </fr:mainmatter>
+  <fr:backmatter>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="References">References</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/forest/jlimperg/" title="Jannis Limperg" uri="https://astahfrom.github.io/forest/jlimperg/" display-uri="jlimperg" type="local">Jannis Limperg</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2023</fr:year>
+            </fr:date>
+            <fr:uri>https://astahfrom.github.io/forest/jlimperg-ahfrom-2023-cpp/</fr:uri>
+            <fr:display-uri>jlimperg-ahfrom-2023-cpp</fr:display-uri>
+            <fr:route>/forest/jlimperg-ahfrom-2023-cpp/</fr:route>
+            <fr:title text="Aesop: White-Box Best-First Proof Search for Lean">Aesop: White-Box Best-First Proof Search for Lean</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+            <fr:meta name="doi">10.1145/3573105.3575671</fr:meta>
+            <fr:meta name="venue">In R. Krebbers et al (ed.) Proceedings of the 12th ACM SIGPLAN International Conference on Certified Programs and Proofs (CPP 2023)</fr:meta>
+            <fr:meta name="bibtex"><![CDATA[@inproceedings{LimpergF23,
+abstract = {We present Aesop, a proof search tactic for the Lean 4 interactive theorem prover. Aesop performs a tree-based search over a user-specified set of proof rules. It supports safe and unsafe rules and uses a best-first search strategy with customisable prioritisation. Aesop also allows users to register custom normalisation rules and integrates Lean's simplifier to support equational reasoning. Many details of Aesop's search procedure are designed to make it a white-box proof automation tactic, meaning that users should be able to easily predict how their rules will be applied, and thus how powerful and fast their Aesop invocations will be. Since we use a best-first search strategy, it is not obvious how to handle metavariables which appear in multiple goals. The most common strategy for dealing with metavariables relies on backtracking and is therefore not suitable for best-first search. We give an algorithm which addresses this issue. The algorithm works with any search strategy, is independent of the underlying logic and makes few assumptions about how rules interact with metavariables. We conjecture that with a fair search strategy, the algorithm is as complete as the given set of rules allows.},
+author = {Jannis Limperg and Asta Halkj{æ}r From},
+booktitle = {Proceedings of the 12th {ACM} {SIGPLAN} International Conference on Certified Programs and Proofs, {CPP} 2023, Boston, MA, USA, January 16-17, 2023},
+doi = {10.1145/3573105.3575671},
+editor = {Robbert Krebbers and Dmitriy Traytel and Brigitte Pientka and Steve Zdancewic},
+pages = {253--266},
+publisher = {{ACM}},
+title = {Aesop: White-Box Best-First Proof Search for Lean},
+year = {2023},
+}]]></fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>We present Aesop, a proof search tactic for the Lean 4 interactive theorem prover. Aesop performs a tree-based search over a user-specified set of proof rules. It supports safe and unsafe rules and uses a best-first search strategy with customisable prioritisation. Aesop also allows users to register custom normalisation rules and integrates Lean's simplifier to support equational reasoning. Many details of Aesop's search procedure are designed to make it a white-box proof automation tactic, meaning that users should be able to easily predict how their rules will be applied, and thus how powerful and fast their Aesop invocations will be. Since we use a best-first search strategy, it is not obvious how to handle metavariables which appear in multiple goals. The most common strategy for dealing with metavariables relies on backtracking and is therefore not suitable for best-first search. We give an algorithm which addresses this issue. The algorithm works with any search strategy, is independent of the underlying logic and makes few assumptions about how rules interact with metavariables. We conjecture that with a fair search strategy, the algorithm is as complete as the given set of rules allows.</html:p>
+            <html:p>We won a distinguished paper award for this work.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Context">Context</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>4</fr:month>
+              <fr:day>22</fr:day>
+            </fr:date>
+            <fr:uri>https://astahfrom.github.io/forest/academia/</fr:uri>
+            <fr:display-uri>academia</fr:display-uri>
+            <fr:route>/forest/academia/</fr:route>
+            <fr:title text="Academic Activities">Academic Activities</fr:title>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>4</fr:month>
+                  <fr:day>22</fr:day>
+                </fr:date>
+                <fr:uri>https://astahfrom.github.io/forest/pc/</fr:uri>
+                <fr:display-uri>pc</fr:display-uri>
+                <fr:route>/forest/pc/</fr:route>
+                <fr:title text="Program Committees">Program Committees</fr:title>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>
+I was or am a member of the following PCs.
+<html:ul><html:li><html:strong>Dalí 2025</html:strong>: 6th Workshop on Dynamic Logic - New trends and applications</html:li>
+<html:li><html:strong>ITP 2025</html:strong>: 16th International Conference on Interactive Theorem Proving</html:li>
+<html:li><html:strong>Dalí 2023</html:strong>: 5th Workshop on Dynamic Logic - New trends and applications</html:li></html:ul></html:p>
+                <html:p>I was co-chair of the Logic and Computation track at the student session at ESSLLI 2021 — 32nd European Summer School in Logic, Language and Information.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>4</fr:month>
+                  <fr:day>22</fr:day>
+                </fr:date>
+                <fr:uri>https://astahfrom.github.io/forest/reviewing/</fr:uri>
+                <fr:display-uri>reviewing</fr:display-uri>
+                <fr:route>/forest/reviewing/</fr:route>
+                <fr:title text="Reviewing">Reviewing</fr:title>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>
+I have reviewed for the following journals.
+<html:ul><html:li><html:strong>JAR</html:strong>: Journal of Automated Reasoning</html:li>
+<html:li><html:strong>Synthese</html:strong>: An International Journal for Epistemology, Methodology and Philosophy of Science</html:li>
+<html:li><html:strong>JLLI</html:strong>: Journal of Logic, Language and Information</html:li>
+<html:li><html:strong>JLC</html:strong>: Journal of Logic and Computation</html:li></html:ul></html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>4</fr:month>
+                  <fr:day>22</fr:day>
+                </fr:date>
+                <fr:uri>https://astahfrom.github.io/forest/subreviewing/</fr:uri>
+                <fr:display-uri>subreviewing</fr:display-uri>
+                <fr:route>/forest/subreviewing/</fr:route>
+                <fr:title text="Subreviewing">Subreviewing</fr:title>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>
+I have subreviewed for the following venues.
+<html:ul><html:li><html:strong>AWPL 2024</html:strong> Proceedings of the 6th Asian Workshop on Philosophical Logic</html:li>
+<html:li><html:strong>TARK 2023</html:strong> Theoretical Aspects of Rationality &amp; Knowledge</html:li>
+<html:li><html:strong>CICM 2022</html:strong> Conference on Intelligent Computer Mathematics</html:li>
+<html:li><html:strong>LORI-VIII 2021</html:strong> Conference on Logic, Rationality and Interaction</html:li>
+<html:li><html:strong>DaLí 2020</html:strong> Dynamic Logic: New Trends and Applications</html:li></html:ul></html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>4</fr:month>
+                  <fr:day>22</fr:day>
+                </fr:date>
+                <fr:uri>https://astahfrom.github.io/forest/visits/</fr:uri>
+                <fr:display-uri>visits</fr:display-uri>
+                <fr:route>/forest/visits/</fr:route>
+                <fr:title text="Research Visits">Research Visits</fr:title>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>
+I visited <fr:link href="/forest/jlimperg/" title="Jannis Limperg" uri="https://astahfrom.github.io/forest/jlimperg/" display-uri="jlimperg" type="local">Jannis Limperg</fr:link> in Amsterdam for the <fr:link href="/forest/jlimperg-ahfrom-2023-cpp/" title="Aesop: White-Box Best-First Proof Search for Lean" uri="https://astahfrom.github.io/forest/jlimperg-ahfrom-2023-cpp/" display-uri="jlimperg-ahfrom-2023-cpp" type="local">Aesop</fr:link> work.
+<html:ul><html:li><html:strong>VU Amsterdam</html:strong> Lean Forward: Proof automation for the Lean theorem prover (May 2022)</html:li>
+<html:li><html:strong>VU Amsterdam</html:strong> Lean Forward: Proof automation for the Lean theorem prover (November 2022)</html:li>
+<html:li><html:strong>VU Amsterdam (remote)</html:strong> Virtual research stay hosted by Jasmin Blanchette (May &amp; June 2021)</html:li></html:ul></html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>4</fr:month>
+                  <fr:day>22</fr:day>
+                </fr:date>
+                <fr:title text="Summer School">Summer School</fr:title>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>I participated in the Satisfiability (SAT), Satisfiability Modulo Theories (SMT), and Automated Reasoning (AR) Summer School 2019 in Lisbon, Portugal. Laura Kovács invited me during my Erasmus stay at TU Wien.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>4</fr:month>
+                  <fr:day>25</fr:day>
+                </fr:date>
+                <fr:uri>https://astahfrom.github.io/forest/awards/</fr:uri>
+                <fr:display-uri>awards</fr:display-uri>
+                <fr:route>/forest/awards/</fr:route>
+                <fr:title text="Awards, Grants &amp; Competitions">Awards, Grants &amp; Competitions</fr:title>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>
+                  <html:ul><html:li><html:strong>DTU Young Researcher Award</html:strong> DKK 15,000. <html:em>Given every year to six young researchers who have made an extraordinary effort and who have great potential for further development</html:em></html:li>
+<html:li><html:strong>Distinguished Paper Award</html:strong> For the <fr:link href="/forest/jlimperg-ahfrom-2023-cpp/" title="Aesop: White-Box Best-First Proof Search for Lean" uri="https://astahfrom.github.io/forest/jlimperg-ahfrom-2023-cpp/" display-uri="jlimperg-ahfrom-2023-cpp" type="local">CPP 2023 paper</fr:link> with <fr:link href="/forest/jlimperg/" title="Jannis Limperg" uri="https://astahfrom.github.io/forest/jlimperg/" display-uri="jlimperg" type="local">Jannis Limperg</fr:link> on Lean 4 automation.</html:li>
+<html:li><html:strong>Otto Mønsted Fonden Travel Grant</html:strong> DKK 7,500. To participate at the 8th Federated Logic Conference (FLoC 2022) where <fr:link href="/forest/fkjacobsen/" title="Frederik Krogsdal Jacobsen" uri="https://astahfrom.github.io/forest/fkjacobsen/" display-uri="fkjacobsen" type="local">Frederik Krogsdal Jacobsen</fr:link> and I presented our <fr:link href="/forest/ahfrom-fkjacobsen-2022-itp/" title="Verifying a Sequent Calculus Prover for First-Order Logic with Functions in Isabelle/HOL" uri="https://astahfrom.github.io/forest/ahfrom-fkjacobsen-2022-itp/" display-uri="ahfrom-fkjacobsen-2022-itp" type="local">ITP'22 paper</fr:link>.</html:li>
+<html:li><html:strong>DTU Travel Grant</html:strong> DKK 25,000. Awarded to me personally by DTU’s Executive Board, February 2022, in recognition of my academic qualities and merits.</html:li>
+<html:li><html:strong>2nd team of 26</html:strong> In the 02285 Artificial Intelligence and Multi-Agent Systems (2018) internal competition.</html:li>
+<html:li><html:strong>Shared 1st</html:strong> In the 02210 Algorithms and Data Structures 2 (2015) internal competition.</html:li></html:ul>
+                </html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>4</fr:month>
+                  <fr:day>27</fr:day>
+                </fr:date>
+                <fr:uri>https://astahfrom.github.io/forest/metrics/</fr:uri>
+                <fr:display-uri>metrics</fr:display-uri>
+                <fr:route>/forest/metrics/</fr:route>
+                <fr:title text="Metrics">Metrics</fr:title>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>52 works in <fr:link href="https://orcid.org/0000-0002-3601-0804" type="external">ORCID</fr:link>, 33 records in <fr:link href="https://dblp.org/pid/214/1791" type="external">DBLP</fr:link>, and h-index 11 on <fr:link href="https://scholar.google.dk/citations?user=8SR5ntoAAAAJ" type="external">Google Scholar</fr:link>.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+          </fr:mainmatter>
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Backlinks">Backlinks</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Related">Related</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors />
+            <fr:uri>https://astahfrom.github.io/forest/jlimperg/</fr:uri>
+            <fr:display-uri>jlimperg</fr:display-uri>
+            <fr:route>/forest/jlimperg/</fr:route>
+            <fr:title text="Jannis Limperg">Jannis Limperg</fr:title>
+            <fr:taxon>Person</fr:taxon>
+            <fr:meta name="external">https://limperg.de/</fr:meta>
+            <fr:meta name="institution">LMU München</fr:meta>
+            <fr:meta name="orcid">0000-0002-8861-5231</fr:meta>
+            <fr:meta name="position">PhD student</fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter />
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Contributions">Contributions</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+  </fr:backmatter>
+</fr:tree>

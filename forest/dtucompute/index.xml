@@ -46,9 +46,9 @@
               <fr:month>4</fr:month>
               <fr:day>26</fr:day>
             </fr:date>
-            <fr:uri>https://astahfrom.github.io/forest/ahf-bsc/</fr:uri>
-            <fr:display-uri>ahf-bsc</fr:display-uri>
-            <fr:route>/forest/ahf-bsc/</fr:route>
+            <fr:uri>https://astahfrom.github.io/forest/bsc/</fr:uri>
+            <fr:display-uri>bsc</fr:display-uri>
+            <fr:route>/forest/bsc/</fr:route>
             <fr:title text="BSc">BSc</fr:title>
           </fr:frontmatter>
           <fr:mainmatter>
@@ -67,13 +67,13 @@
               <fr:month>4</fr:month>
               <fr:day>26</fr:day>
             </fr:date>
-            <fr:uri>https://astahfrom.github.io/forest/ahf-msc/</fr:uri>
-            <fr:display-uri>ahf-msc</fr:display-uri>
-            <fr:route>/forest/ahf-msc/</fr:route>
+            <fr:uri>https://astahfrom.github.io/forest/msc/</fr:uri>
+            <fr:display-uri>msc</fr:display-uri>
+            <fr:route>/forest/msc/</fr:route>
             <fr:title text="MSc">MSc</fr:title>
           </fr:frontmatter>
           <fr:mainmatter>
-            <html:p>I was a MSc student at <fr:link href="/forest/dtucompute/" title="DTU Compute" uri="https://astahfrom.github.io/forest/dtucompute/" display-uri="dtucompute" type="local">DTU Compute</fr:link> from 2018 to 2020 on the Honours Programme in Computer Science and Engineering. My study line was <html:em>Artificial Intelligence and Algorithms</html:em> (GPA 12). I wrote my thesis on <fr:link href="/forest/ahfrom-2020-msc-thesis/" title="Hybrid Logic" uri="https://astahfrom.github.io/forest/ahfrom-2020-msc-thesis/" display-uri="ahfrom-2020-msc-thesis" type="local">Hybrid Logic</fr:link> supervised by <fr:link href="/forest/jvilladsen/" title="Jørgen Villadsen" uri="https://astahfrom.github.io/forest/jvilladsen/" display-uri="jvilladsen" type="local">Jørgen Villadsen</fr:link>, <fr:link href="/forest/abjensen/" title="Alexander Birch Jensen" uri="https://astahfrom.github.io/forest/abjensen/" display-uri="abjensen" type="local">Alexander Birch Jensen</fr:link> and <fr:link href="/forest/pblackburn/" title="Patrick Blackburn" uri="https://astahfrom.github.io/forest/pblackburn/" display-uri="pblackburn" type="local">Patrick Blackburn</fr:link>. I took 30 ECTS at TU Wien as an Erasmus+ student.</html:p>
+            <html:p>I was a MSc student at <fr:link href="/forest/dtucompute/" title="DTU Compute" uri="https://astahfrom.github.io/forest/dtucompute/" display-uri="dtucompute" type="local">DTU Compute</fr:link> from 2018 to 2020 on the Honours Programme in Computer Science and Engineering. My study line was <html:em>Artificial Intelligence and Algorithms</html:em> (GPA 12). I wrote my thesis on <fr:link href="/forest/ahfrom-2020-msc-thesis/" title="Hybrid Logic" uri="https://astahfrom.github.io/forest/ahfrom-2020-msc-thesis/" display-uri="ahfrom-2020-msc-thesis" type="local">Hybrid Logic</fr:link> supervised by <fr:link href="/forest/jvilladsen/" title="Jørgen Villadsen" uri="https://astahfrom.github.io/forest/jvilladsen/" display-uri="jvilladsen" type="local">Jørgen Villadsen</fr:link>, <fr:link href="/forest/abjensen/" title="Alexander Birch Jensen" uri="https://astahfrom.github.io/forest/abjensen/" display-uri="abjensen" type="local">Alexander Birch Jensen</fr:link> and <fr:link href="/forest/pblackburn/" title="Patrick Blackburn" uri="https://astahfrom.github.io/forest/pblackburn/" display-uri="pblackburn" type="local">Patrick Blackburn</fr:link>. I did 30 ECTS at TU Wien as an Erasmus+ student.</html:p>
           </fr:mainmatter>
         </fr:tree>
         <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
@@ -88,12 +88,13 @@
               <fr:month>4</fr:month>
               <fr:day>25</fr:day>
             </fr:date>
-            <fr:uri>https://astahfrom.github.io/forest/ahf-cv/</fr:uri>
-            <fr:display-uri>ahf-cv</fr:display-uri>
-            <fr:route>/forest/ahf-cv/</fr:route>
+            <fr:uri>https://astahfrom.github.io/forest/cv/</fr:uri>
+            <fr:display-uri>cv</fr:display-uri>
+            <fr:route>/forest/cv/</fr:route>
             <fr:title text="Curriculum Vitae">Curriculum Vitae</fr:title>
           </fr:frontmatter>
           <fr:mainmatter>
+            <html:p>I love computers. From the Docker images that run on my home server, to the engineering efforts needed at scale. I care about software, the people who build it and the processes needed to support them. My <fr:link href="/forest/phd/" title="PhD" uri="https://astahfrom.github.io/forest/phd/" display-uri="phd" type="local">PhD</fr:link> taught me how to build the technical foundations for getting things right, in my <fr:link href="/forest/teaching/" title="Teaching" uri="https://astahfrom.github.io/forest/teaching/" display-uri="teaching" type="local">teaching</fr:link> I have prepared the domain experts of the future for the software industry, and in my own <fr:link href="/forest/at-dalux/" title="Dalux" uri="https://astahfrom.github.io/forest/at-dalux/" display-uri="at-dalux" type="local">time at a software company</fr:link>, I improved the developer experience while also working on customer-facing features. I enjoy cracking hard problems and sharing my knowledge and expertise with others, as I have done again and again through my studies and career.</html:p>
             <fr:tree show-metadata="false">
               <fr:frontmatter>
                 <fr:authors>
@@ -106,13 +107,13 @@
                   <fr:month>4</fr:month>
                   <fr:day>15</fr:day>
                 </fr:date>
-                <fr:uri>https://astahfrom.github.io/forest/ahf-sdps/</fr:uri>
-                <fr:display-uri>ahf-sdps</fr:display-uri>
-                <fr:route>/forest/ahf-sdps/</fr:route>
+                <fr:uri>https://astahfrom.github.io/forest/sdps/</fr:uri>
+                <fr:display-uri>sdps</fr:display-uri>
+                <fr:route>/forest/sdps/</fr:route>
                 <fr:title text="Postdoc">Postdoc</fr:title>
               </fr:frontmatter>
               <fr:mainmatter>
-                <html:p>I am a <fr:link href="https://di.ku.dk/Ansatte/?pure=da/persons/824375" type="external">postdoc</fr:link> in <fr:link href="/forest/dtraytel/" title="Dmitriy Traytel" uri="https://astahfrom.github.io/forest/dtraytel/" display-uri="dtraytel" type="local">Dmitriy Traytel</fr:link>'s group in the section for Software, Data, People &amp; Society (SDPS) in the <fr:link href="/forest/diku/" title="Department of Computer Science" uri="https://astahfrom.github.io/forest/diku/" display-uri="diku" type="local">Department of Computer Science</fr:link> at the <fr:link href="/forest/ucph/" title="University of Copenhagen" uri="https://astahfrom.github.io/forest/ucph/" display-uri="ucph" type="local">University of Copenhagen</fr:link>. I am employed from August 2024 to August 2026. <fr:link href="/forest/ahf-sddh/" title="Software Development for Digital Health" uri="https://astahfrom.github.io/forest/ahf-sddh/" display-uri="ahf-sddh" type="local">I teach Software Development for Digital Health for 4th semester Health and IT students</fr:link>.</html:p>
+                <html:p>I am a <fr:link href="https://di.ku.dk/Ansatte/?pure=da/persons/824375" type="external">postdoc</fr:link> in <fr:link href="/forest/dtraytel/" title="Dmitriy Traytel" uri="https://astahfrom.github.io/forest/dtraytel/" display-uri="dtraytel" type="local">Dmitriy Traytel</fr:link>'s group in the section for Software, Data, People &amp; Society (SDPS) in the <fr:link href="/forest/diku/" title="Department of Computer Science" uri="https://astahfrom.github.io/forest/diku/" display-uri="diku" type="local">Department of Computer Science</fr:link> at the <fr:link href="/forest/ucph/" title="University of Copenhagen" uri="https://astahfrom.github.io/forest/ucph/" display-uri="ucph" type="local">University of Copenhagen</fr:link>. I am employed from August 2024 to August 2026. <fr:link href="/forest/sddh/" title="Software Development for Digital Health" uri="https://astahfrom.github.io/forest/sddh/" display-uri="sddh" type="local">I teach Software Development for Digital Health for 4th semester Health and IT students</fr:link>.</html:p>
               </fr:mainmatter>
             </fr:tree>
             <fr:tree show-metadata="false">
@@ -142,13 +143,13 @@
                       <fr:month>4</fr:month>
                       <fr:day>15</fr:day>
                     </fr:date>
-                    <fr:uri>https://astahfrom.github.io/forest/ahf-phd/</fr:uri>
-                    <fr:display-uri>ahf-phd</fr:display-uri>
-                    <fr:route>/forest/ahf-phd/</fr:route>
+                    <fr:uri>https://astahfrom.github.io/forest/phd/</fr:uri>
+                    <fr:display-uri>phd</fr:display-uri>
+                    <fr:route>/forest/phd/</fr:route>
                     <fr:title text="PhD">PhD</fr:title>
                   </fr:frontmatter>
                   <fr:mainmatter>
-                    <html:p>I was a PhD student at <fr:link href="/forest/dtucompute/" title="DTU Compute" uri="https://astahfrom.github.io/forest/dtucompute/" display-uri="dtucompute" type="local">DTU Compute</fr:link> from 2020 to 2023. I wrote my thesis <fr:link href="/forest/ahfrom-2023-phd-thesis/" title="Formally Correct Deduction Methods for Computational Logic" uri="https://astahfrom.github.io/forest/ahfrom-2023-phd-thesis/" display-uri="ahfrom-2023-phd-thesis" type="local">Formally Correct Deduction Methods for Computational Logic</fr:link> supervised by <fr:link href="/forest/jvilladsen/" title="Jørgen Villadsen" uri="https://astahfrom.github.io/forest/jvilladsen/" display-uri="jvilladsen" type="local">Jørgen Villadsen</fr:link> and <fr:link href="/forest/ngierasimczuk/" title="Nina Gierasimczuk" uri="https://astahfrom.github.io/forest/ngierasimczuk/" display-uri="ngierasimczuk" type="local">Nina Gierasimczuk</fr:link>. <fr:link href="/forest/dtu/" title="Technical University of Denmark" uri="https://astahfrom.github.io/forest/dtu/" display-uri="dtu" type="local">DTU</fr:link> awarded me a <fr:link href="/forest/ahf-awards/" title="Awards, Grants &amp; Competitions" uri="https://astahfrom.github.io/forest/ahf-awards/" display-uri="ahf-awards" type="local">Young Researcher Award</fr:link> for my PhD.</html:p>
+                    <html:p>I was a PhD student at <fr:link href="/forest/dtucompute/" title="DTU Compute" uri="https://astahfrom.github.io/forest/dtucompute/" display-uri="dtucompute" type="local">DTU Compute</fr:link> from 2020 to 2023. I wrote my thesis <fr:link href="/forest/ahfrom-2023-phd-thesis/" title="Formally Correct Deduction Methods for Computational Logic" uri="https://astahfrom.github.io/forest/ahfrom-2023-phd-thesis/" display-uri="ahfrom-2023-phd-thesis" type="local">Formally Correct Deduction Methods for Computational Logic</fr:link> supervised by <fr:link href="/forest/jvilladsen/" title="Jørgen Villadsen" uri="https://astahfrom.github.io/forest/jvilladsen/" display-uri="jvilladsen" type="local">Jørgen Villadsen</fr:link> and <fr:link href="/forest/ngierasimczuk/" title="Nina Gierasimczuk" uri="https://astahfrom.github.io/forest/ngierasimczuk/" display-uri="ngierasimczuk" type="local">Nina Gierasimczuk</fr:link>. <fr:link href="/forest/dtu/" title="Technical University of Denmark" uri="https://astahfrom.github.io/forest/dtu/" display-uri="dtu" type="local">DTU</fr:link> awarded me a <fr:link href="/forest/awards/" title="Awards, Grants &amp; Competitions" uri="https://astahfrom.github.io/forest/awards/" display-uri="awards" type="local">Young Researcher Award</fr:link> for my PhD.</html:p>
                   </fr:mainmatter>
                 </fr:tree>
                 <fr:tree show-metadata="false">
@@ -163,13 +164,13 @@
                       <fr:month>4</fr:month>
                       <fr:day>26</fr:day>
                     </fr:date>
-                    <fr:uri>https://astahfrom.github.io/forest/ahf-msc/</fr:uri>
-                    <fr:display-uri>ahf-msc</fr:display-uri>
-                    <fr:route>/forest/ahf-msc/</fr:route>
+                    <fr:uri>https://astahfrom.github.io/forest/msc/</fr:uri>
+                    <fr:display-uri>msc</fr:display-uri>
+                    <fr:route>/forest/msc/</fr:route>
                     <fr:title text="MSc">MSc</fr:title>
                   </fr:frontmatter>
                   <fr:mainmatter>
-                    <html:p>I was a MSc student at <fr:link href="/forest/dtucompute/" title="DTU Compute" uri="https://astahfrom.github.io/forest/dtucompute/" display-uri="dtucompute" type="local">DTU Compute</fr:link> from 2018 to 2020 on the Honours Programme in Computer Science and Engineering. My study line was <html:em>Artificial Intelligence and Algorithms</html:em> (GPA 12). I wrote my thesis on <fr:link href="/forest/ahfrom-2020-msc-thesis/" title="Hybrid Logic" uri="https://astahfrom.github.io/forest/ahfrom-2020-msc-thesis/" display-uri="ahfrom-2020-msc-thesis" type="local">Hybrid Logic</fr:link> supervised by <fr:link href="/forest/jvilladsen/" title="Jørgen Villadsen" uri="https://astahfrom.github.io/forest/jvilladsen/" display-uri="jvilladsen" type="local">Jørgen Villadsen</fr:link>, <fr:link href="/forest/abjensen/" title="Alexander Birch Jensen" uri="https://astahfrom.github.io/forest/abjensen/" display-uri="abjensen" type="local">Alexander Birch Jensen</fr:link> and <fr:link href="/forest/pblackburn/" title="Patrick Blackburn" uri="https://astahfrom.github.io/forest/pblackburn/" display-uri="pblackburn" type="local">Patrick Blackburn</fr:link>. I took 30 ECTS at TU Wien as an Erasmus+ student.</html:p>
+                    <html:p>I was a MSc student at <fr:link href="/forest/dtucompute/" title="DTU Compute" uri="https://astahfrom.github.io/forest/dtucompute/" display-uri="dtucompute" type="local">DTU Compute</fr:link> from 2018 to 2020 on the Honours Programme in Computer Science and Engineering. My study line was <html:em>Artificial Intelligence and Algorithms</html:em> (GPA 12). I wrote my thesis on <fr:link href="/forest/ahfrom-2020-msc-thesis/" title="Hybrid Logic" uri="https://astahfrom.github.io/forest/ahfrom-2020-msc-thesis/" display-uri="ahfrom-2020-msc-thesis" type="local">Hybrid Logic</fr:link> supervised by <fr:link href="/forest/jvilladsen/" title="Jørgen Villadsen" uri="https://astahfrom.github.io/forest/jvilladsen/" display-uri="jvilladsen" type="local">Jørgen Villadsen</fr:link>, <fr:link href="/forest/abjensen/" title="Alexander Birch Jensen" uri="https://astahfrom.github.io/forest/abjensen/" display-uri="abjensen" type="local">Alexander Birch Jensen</fr:link> and <fr:link href="/forest/pblackburn/" title="Patrick Blackburn" uri="https://astahfrom.github.io/forest/pblackburn/" display-uri="pblackburn" type="local">Patrick Blackburn</fr:link>. I did 30 ECTS at TU Wien as an Erasmus+ student.</html:p>
                   </fr:mainmatter>
                 </fr:tree>
                 <fr:tree show-metadata="false">
@@ -184,9 +185,9 @@
                       <fr:month>4</fr:month>
                       <fr:day>26</fr:day>
                     </fr:date>
-                    <fr:uri>https://astahfrom.github.io/forest/ahf-bsc/</fr:uri>
-                    <fr:display-uri>ahf-bsc</fr:display-uri>
-                    <fr:route>/forest/ahf-bsc/</fr:route>
+                    <fr:uri>https://astahfrom.github.io/forest/bsc/</fr:uri>
+                    <fr:display-uri>bsc</fr:display-uri>
+                    <fr:route>/forest/bsc/</fr:route>
                     <fr:title text="BSc">BSc</fr:title>
                   </fr:frontmatter>
                   <fr:mainmatter>
@@ -222,13 +223,13 @@
                       <fr:month>4</fr:month>
                       <fr:day>15</fr:day>
                     </fr:date>
-                    <fr:uri>https://astahfrom.github.io/forest/ahf-dalux/</fr:uri>
-                    <fr:display-uri>ahf-dalux</fr:display-uri>
-                    <fr:route>/forest/ahf-dalux/</fr:route>
+                    <fr:uri>https://astahfrom.github.io/forest/at-dalux/</fr:uri>
+                    <fr:display-uri>at-dalux</fr:display-uri>
+                    <fr:route>/forest/at-dalux/</fr:route>
                     <fr:title text="Dalux">Dalux</fr:title>
                   </fr:frontmatter>
                   <fr:mainmatter>
-                    <html:p>I was employed as a full-stack software developer at <fr:link href="/forest/dalux/" title="Dalux" uri="https://astahfrom.github.io/forest/dalux/" display-uri="dalux" type="local">Dalux</fr:link> from August 2023 to August 2024. I worked in C#, TypeScript and Angular. Besides completing tickets, I also:
+                    <html:p>I was employed as a full-stack software developer at <fr:link href="/forest/dalux/" title="Dalux" uri="https://astahfrom.github.io/forest/dalux/" display-uri="dalux" type="local">Dalux</fr:link> from August 2023 to August 2024. I worked with C#, TypeScript, Angular, Cypress, Git, etc. Besides completing tickets, I also:
 <html:ul><html:li>refined the suite of concurrent, end-to-end Cypress tests,</html:li>
 <html:li>improved the handling and stamping of PDFs,</html:li>
 <html:li>wrote a Roslyn code analyzer to detect would-be runtime errors at compile time,</html:li>
@@ -268,9 +269,9 @@
                   <fr:month>4</fr:month>
                   <fr:day>22</fr:day>
                 </fr:date>
-                <fr:uri>https://astahfrom.github.io/forest/ahf-academia/</fr:uri>
-                <fr:display-uri>ahf-academia</fr:display-uri>
-                <fr:route>/forest/ahf-academia/</fr:route>
+                <fr:uri>https://astahfrom.github.io/forest/academia/</fr:uri>
+                <fr:display-uri>academia</fr:display-uri>
+                <fr:route>/forest/academia/</fr:route>
                 <fr:title text="Academic Activities">Academic Activities</fr:title>
               </fr:frontmatter>
               <fr:mainmatter>
@@ -286,13 +287,14 @@
                       <fr:month>4</fr:month>
                       <fr:day>22</fr:day>
                     </fr:date>
-                    <fr:uri>https://astahfrom.github.io/forest/ahf-pc/</fr:uri>
-                    <fr:display-uri>ahf-pc</fr:display-uri>
-                    <fr:route>/forest/ahf-pc/</fr:route>
+                    <fr:uri>https://astahfrom.github.io/forest/pc/</fr:uri>
+                    <fr:display-uri>pc</fr:display-uri>
+                    <fr:route>/forest/pc/</fr:route>
                     <fr:title text="Program Committees">Program Committees</fr:title>
                   </fr:frontmatter>
                   <fr:mainmatter>
-                    <html:p>I was or am a member of the following PCs.
+                    <html:p>
+I was or am a member of the following PCs.
 <html:ul><html:li><html:strong>Dalí 2025</html:strong>: 6th Workshop on Dynamic Logic - New trends and applications</html:li>
 <html:li><html:strong>ITP 2025</html:strong>: 16th International Conference on Interactive Theorem Proving</html:li>
 <html:li><html:strong>Dalí 2023</html:strong>: 5th Workshop on Dynamic Logic - New trends and applications</html:li></html:ul></html:p>
@@ -311,13 +313,14 @@
                       <fr:month>4</fr:month>
                       <fr:day>22</fr:day>
                     </fr:date>
-                    <fr:uri>https://astahfrom.github.io/forest/ahf-reviewing/</fr:uri>
-                    <fr:display-uri>ahf-reviewing</fr:display-uri>
-                    <fr:route>/forest/ahf-reviewing/</fr:route>
+                    <fr:uri>https://astahfrom.github.io/forest/reviewing/</fr:uri>
+                    <fr:display-uri>reviewing</fr:display-uri>
+                    <fr:route>/forest/reviewing/</fr:route>
                     <fr:title text="Reviewing">Reviewing</fr:title>
                   </fr:frontmatter>
                   <fr:mainmatter>
-                    <html:p>I have reviewed for the following journals.
+                    <html:p>
+I have reviewed for the following journals.
 <html:ul><html:li><html:strong>JAR</html:strong>: Journal of Automated Reasoning</html:li>
 <html:li><html:strong>Synthese</html:strong>: An International Journal for Epistemology, Methodology and Philosophy of Science</html:li>
 <html:li><html:strong>JLLI</html:strong>: Journal of Logic, Language and Information</html:li>
@@ -336,13 +339,14 @@
                       <fr:month>4</fr:month>
                       <fr:day>22</fr:day>
                     </fr:date>
-                    <fr:uri>https://astahfrom.github.io/forest/ahf-subreviewing/</fr:uri>
-                    <fr:display-uri>ahf-subreviewing</fr:display-uri>
-                    <fr:route>/forest/ahf-subreviewing/</fr:route>
+                    <fr:uri>https://astahfrom.github.io/forest/subreviewing/</fr:uri>
+                    <fr:display-uri>subreviewing</fr:display-uri>
+                    <fr:route>/forest/subreviewing/</fr:route>
                     <fr:title text="Subreviewing">Subreviewing</fr:title>
                   </fr:frontmatter>
                   <fr:mainmatter>
-                    <html:p>I have subreviewed for the following venues.
+                    <html:p>
+I have subreviewed for the following venues.
 <html:ul><html:li><html:strong>AWPL 2024</html:strong> Proceedings of the 6th Asian Workshop on Philosophical Logic</html:li>
 <html:li><html:strong>TARK 2023</html:strong> Theoretical Aspects of Rationality &amp; Knowledge</html:li>
 <html:li><html:strong>CICM 2022</html:strong> Conference on Intelligent Computer Mathematics</html:li>
@@ -362,13 +366,14 @@
                       <fr:month>4</fr:month>
                       <fr:day>22</fr:day>
                     </fr:date>
-                    <fr:uri>https://astahfrom.github.io/forest/ahf-visits/</fr:uri>
-                    <fr:display-uri>ahf-visits</fr:display-uri>
-                    <fr:route>/forest/ahf-visits/</fr:route>
+                    <fr:uri>https://astahfrom.github.io/forest/visits/</fr:uri>
+                    <fr:display-uri>visits</fr:display-uri>
+                    <fr:route>/forest/visits/</fr:route>
                     <fr:title text="Research Visits">Research Visits</fr:title>
                   </fr:frontmatter>
                   <fr:mainmatter>
-                    <html:p>I visited <fr:link href="/forest/jlimperg/" title="Jannis Limperg" uri="https://astahfrom.github.io/forest/jlimperg/" display-uri="jlimperg" type="local">Jannis Limperg</fr:link> in Amsterdam for the <fr:link href="/forest/jlimperg-ahfrom-2023-cpp/" title="Aesop: White-Box Best-First Proof Search for Lean" uri="https://astahfrom.github.io/forest/jlimperg-ahfrom-2023-cpp/" display-uri="jlimperg-ahfrom-2023-cpp" type="local">Aesop</fr:link> work.
+                    <html:p>
+I visited <fr:link href="/forest/jlimperg/" title="Jannis Limperg" uri="https://astahfrom.github.io/forest/jlimperg/" display-uri="jlimperg" type="local">Jannis Limperg</fr:link> in Amsterdam for the <fr:link href="/forest/jlimperg-ahfrom-2023-cpp/" title="Aesop: White-Box Best-First Proof Search for Lean" uri="https://astahfrom.github.io/forest/jlimperg-ahfrom-2023-cpp/" display-uri="jlimperg-ahfrom-2023-cpp" type="local">Aesop</fr:link> work.
 <html:ul><html:li><html:strong>VU Amsterdam</html:strong> Lean Forward: Proof automation for the Lean theorem prover (May 2022)</html:li>
 <html:li><html:strong>VU Amsterdam</html:strong> Lean Forward: Proof automation for the Lean theorem prover (November 2022)</html:li>
 <html:li><html:strong>VU Amsterdam (remote)</html:strong> Virtual research stay hosted by Jasmin Blanchette (May &amp; June 2021)</html:li></html:ul></html:p>
@@ -404,9 +409,9 @@
                       <fr:month>4</fr:month>
                       <fr:day>25</fr:day>
                     </fr:date>
-                    <fr:uri>https://astahfrom.github.io/forest/ahf-awards/</fr:uri>
-                    <fr:display-uri>ahf-awards</fr:display-uri>
-                    <fr:route>/forest/ahf-awards/</fr:route>
+                    <fr:uri>https://astahfrom.github.io/forest/awards/</fr:uri>
+                    <fr:display-uri>awards</fr:display-uri>
+                    <fr:route>/forest/awards/</fr:route>
                     <fr:title text="Awards, Grants &amp; Competitions">Awards, Grants &amp; Competitions</fr:title>
                   </fr:frontmatter>
                   <fr:mainmatter>
@@ -432,9 +437,9 @@
                       <fr:month>4</fr:month>
                       <fr:day>27</fr:day>
                     </fr:date>
-                    <fr:uri>https://astahfrom.github.io/forest/ahf-metrics/</fr:uri>
-                    <fr:display-uri>ahf-metrics</fr:display-uri>
-                    <fr:route>/forest/ahf-metrics/</fr:route>
+                    <fr:uri>https://astahfrom.github.io/forest/metrics/</fr:uri>
+                    <fr:display-uri>metrics</fr:display-uri>
+                    <fr:route>/forest/metrics/</fr:route>
                     <fr:title text="Metrics">Metrics</fr:title>
                   </fr:frontmatter>
                   <fr:mainmatter>
@@ -455,9 +460,9 @@
                   <fr:month>4</fr:month>
                   <fr:day>23</fr:day>
                 </fr:date>
-                <fr:uri>https://astahfrom.github.io/forest/ahf-teaching/</fr:uri>
-                <fr:display-uri>ahf-teaching</fr:display-uri>
-                <fr:route>/forest/ahf-teaching/</fr:route>
+                <fr:uri>https://astahfrom.github.io/forest/teaching/</fr:uri>
+                <fr:display-uri>teaching</fr:display-uri>
+                <fr:route>/forest/teaching/</fr:route>
                 <fr:title text="Teaching">Teaching</fr:title>
               </fr:frontmatter>
               <fr:mainmatter>
@@ -470,12 +475,35 @@
                     </fr:authors>
                     <fr:date>
                       <fr:year>2025</fr:year>
+                      <fr:month>6</fr:month>
+                      <fr:day>7</fr:day>
+                    </fr:date>
+                    <fr:uri>https://astahfrom.github.io/forest/teaching-training/</fr:uri>
+                    <fr:display-uri>teaching-training</fr:display-uri>
+                    <fr:route>/forest/teaching-training/</fr:route>
+                    <fr:title text="Training">Training</fr:title>
+                  </fr:frontmatter>
+                  <fr:mainmatter>
+                    <html:p>
+I took a 2.5 ECTS <fr:link href="https://learninglab.dtu.dk/courses-and-events/teaching-lab" type="external">Teaching Lab</fr:link> course as a PhD student at <fr:link href="/forest/dtu/" title="Technical University of Denmark" uri="https://astahfrom.github.io/forest/dtu/" display-uri="dtu" type="local">DTU</fr:link>:
+<html:em>Teaching Lab is our introduction to Teaching &amp; Learning in Engineering Education. During the course you will design and deliver a short teaching session, and you will give and receive feedback.</html:em></html:p>
+                  </fr:mainmatter>
+                </fr:tree>
+                <fr:tree show-metadata="false">
+                  <fr:frontmatter>
+                    <fr:authors>
+                      <fr:author>
+                        <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+                      </fr:author>
+                    </fr:authors>
+                    <fr:date>
+                      <fr:year>2025</fr:year>
                       <fr:month>4</fr:month>
                       <fr:day>25</fr:day>
                     </fr:date>
-                    <fr:uri>https://astahfrom.github.io/forest/ahf-sddh/</fr:uri>
-                    <fr:display-uri>ahf-sddh</fr:display-uri>
-                    <fr:route>/forest/ahf-sddh/</fr:route>
+                    <fr:uri>https://astahfrom.github.io/forest/sddh/</fr:uri>
+                    <fr:display-uri>sddh</fr:display-uri>
+                    <fr:route>/forest/sddh/</fr:route>
                     <fr:title text="Software Development for Digital Health">Software Development for Digital Health</fr:title>
                   </fr:frontmatter>
                   <fr:mainmatter>
@@ -497,13 +525,14 @@
                       <fr:month>4</fr:month>
                       <fr:day>23</fr:day>
                     </fr:date>
-                    <fr:uri>https://astahfrom.github.io/forest/ahf-supervision/</fr:uri>
-                    <fr:display-uri>ahf-supervision</fr:display-uri>
-                    <fr:route>/forest/ahf-supervision/</fr:route>
+                    <fr:uri>https://astahfrom.github.io/forest/supervision/</fr:uri>
+                    <fr:display-uri>supervision</fr:display-uri>
+                    <fr:route>/forest/supervision/</fr:route>
                     <fr:title text="Supervision">Supervision</fr:title>
                   </fr:frontmatter>
                   <fr:mainmatter>
-                    <html:p>I co-supervised the following projects at <fr:link href="/forest/dtucompute/" title="DTU Compute" uri="https://astahfrom.github.io/forest/dtucompute/" display-uri="dtucompute" type="local">DTU Compute</fr:link>.
+                    <html:p>
+I co-supervised the following projects at <fr:link href="/forest/dtucompute/" title="DTU Compute" uri="https://astahfrom.github.io/forest/dtucompute/" display-uri="dtucompute" type="local">DTU Compute</fr:link>.
 <html:ul><html:li><html:strong>MSc thesis</html:strong> Frederik Krogsdal Jacobsen, Formalization of Logical Systems in Isabelle (2021)</html:li>
 <html:li><html:strong>BSc thesis</html:strong> Emmanuel André Ryom, A Proof Tool for First-Order Logic (2021)</html:li>
 <html:li><html:strong>BSc thesis</html:strong> Simon Tobias Lund, Prover Programming (2021)</html:li>
@@ -530,13 +559,14 @@
                       <fr:month>4</fr:month>
                       <fr:day>23</fr:day>
                     </fr:date>
-                    <fr:uri>https://astahfrom.github.io/forest/ahf-ta/</fr:uri>
-                    <fr:display-uri>ahf-ta</fr:display-uri>
-                    <fr:route>/forest/ahf-ta/</fr:route>
+                    <fr:uri>https://astahfrom.github.io/forest/ta/</fr:uri>
+                    <fr:display-uri>ta</fr:display-uri>
+                    <fr:route>/forest/ta/</fr:route>
                     <fr:title text="Teaching Assistant">Teaching Assistant</fr:title>
                   </fr:frontmatter>
                   <fr:mainmatter>
-                    <html:p>I was a teaching assistant in the following courses at <fr:link href="/forest/dtucompute/" title="DTU Compute" uri="https://astahfrom.github.io/forest/dtucompute/" display-uri="dtucompute" type="local">DTU Compute</fr:link>.
+                    <html:p>
+I was a teaching assistant in the following courses at <fr:link href="/forest/dtucompute/" title="DTU Compute" uri="https://astahfrom.github.io/forest/dtucompute/" display-uri="dtucompute" type="local">DTU Compute</fr:link>.
 <html:ul><html:li><fr:link href="https://kurser.dtu.dk/course/02287" type="external"><html:strong>02287</html:strong></fr:link> Logical Theories for Uncertainty and Learning (2020)</html:li>
 <html:li><fr:link href="https://kurser.dtu.dk/course/02102" type="external"><html:strong>02102</html:strong></fr:link> Introductory Programming (Java &amp; C) (2020)</html:li>
 <html:li><fr:link href="https://kurser.dtu.dk/course/02256" type="external"><html:strong>02256</html:strong></fr:link> Automated Reasoning (2020)</html:li>
@@ -556,12 +586,13 @@
                     <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
                   </fr:author>
                 </fr:authors>
-                <fr:uri>https://astahfrom.github.io/forest/ahf-talks/</fr:uri>
-                <fr:display-uri>ahf-talks</fr:display-uri>
-                <fr:route>/forest/ahf-talks/</fr:route>
+                <fr:uri>https://astahfrom.github.io/forest/talks/</fr:uri>
+                <fr:display-uri>talks</fr:display-uri>
+                <fr:route>/forest/talks/</fr:route>
                 <fr:title text="Talks">Talks</fr:title>
               </fr:frontmatter>
               <fr:mainmatter>
+                <html:p>I have given a number of non-conference talks.</html:p>
                 <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
                   <fr:frontmatter>
                     <fr:authors>
@@ -864,9 +895,9 @@ Methods for Computational Logic</fr:title>
                     <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
                   </fr:author>
                 </fr:authors>
-                <fr:uri>https://astahfrom.github.io/forest/ahf-bib/</fr:uri>
-                <fr:display-uri>ahf-bib</fr:display-uri>
-                <fr:route>/forest/ahf-bib/</fr:route>
+                <fr:uri>https://astahfrom.github.io/forest/bib/</fr:uri>
+                <fr:display-uri>bib</fr:display-uri>
+                <fr:route>/forest/bib/</fr:route>
                 <fr:title text="Bibliography">Bibliography</fr:title>
               </fr:frontmatter>
               <fr:mainmatter>
@@ -2531,9 +2562,9 @@ year = {2016},
                     <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
                   </fr:author>
                 </fr:authors>
-                <fr:uri>https://astahfrom.github.io/forest/ahf-afp/</fr:uri>
-                <fr:display-uri>ahf-afp</fr:display-uri>
-                <fr:route>/forest/ahf-afp/</fr:route>
+                <fr:uri>https://astahfrom.github.io/forest/my-afp/</fr:uri>
+                <fr:display-uri>my-afp</fr:display-uri>
+                <fr:route>/forest/my-afp/</fr:route>
                 <fr:title text="Entries in the Archive of Formal Proofs">Entries in the <fr:link href="/forest/afp/" title="Archive of Formal Proofs" uri="https://astahfrom.github.io/forest/afp/" display-uri="afp" type="local">Archive of Formal Proofs</fr:link></fr:title>
               </fr:frontmatter>
               <fr:mainmatter>
@@ -2602,7 +2633,7 @@ year = {2022},
 }]]></fr:meta>
                   </fr:frontmatter>
                   <fr:mainmatter>
-                    <html:p>The AFP entry Abstract Completeness by Blanchette, Popescu and Traytel formalizes the core of Beth/Hintikka-style completeness proofs for first-order logic and can be used to formalize executable sequent calculus provers. In the Journal of Automated Reasoning, the authors instantiate the framework with a sequent calculus for first-order logic and prove its completeness. Their use of an infinite set of proof rules indexed by formulas yields very direct arguments. A fair stream of these rules controls the prover, making its definition remarkably simple. The AFP entry, however, only contains a toy example for propositional logic. The AFP entry A Sequent Calculus Prover for First-Order Logic with Functions by From and Jacobsen also uses the framework, but uses a finite set of generic rules resulting in a more sophisticated prover with more complicated proofs. This entry contains an executable sequent calculus prover for first-order logic with functions in the style presented by Blanchette et al. The prover can be exported to Haskell and this entry includes formalized proofs of its soundness and completeness. The proofs are simpler than those for the prover by From and Jacobsen but the performance of the prover is significantly worse. The included theory Fair-Stream first proves that the sequence of natural numbers 0, 0, 1, 0, 1, 2, etc. is fair. It then proves that mapping any surjective function across the sequence preserves fairness. This method of obtaining a fair stream of rules is similar to the one given by Blanchette et al. The concrete functions from natural numbers to terms, formulas and rules are defined using the Nat-Bijection theory in the HOL-Library.</html:p>
+                    <html:p> The AFP entry Abstract Completeness by Blanchette, Popescu and Traytel formalizes the core of Beth/Hintikka-style completeness proofs for first-order logic and can be used to formalize executable sequent calculus provers. In the Journal of Automated Reasoning, the authors instantiate the framework with a sequent calculus for first-order logic and prove its completeness. Their use of an infinite set of proof rules indexed by formulas yields very direct arguments. A fair stream of these rules controls the prover, making its definition remarkably simple. The AFP entry, however, only contains a toy example for propositional logic. The AFP entry A Sequent Calculus Prover for First-Order Logic with Functions by From and Jacobsen also uses the framework, but uses a finite set of generic rules resulting in a more sophisticated prover with more complicated proofs. This entry contains an executable sequent calculus prover for first-order logic with functions in the style presented by Blanchette et al. The prover can be exported to Haskell and this entry includes formalized proofs of its soundness and completeness. The proofs are simpler than those for the prover by From and Jacobsen but the performance of the prover is significantly worse. The included theory Fair-Stream first proves that the sequence of natural numbers 0, 0, 1, 0, 1, 2, etc. is fair. It then proves that mapping any surjective function across the sequence preserves fairness. This method of obtaining a fair stream of rules is similar to the one given by Blanchette et al. The concrete functions from natural numbers to terms, formulas and rules are defined using the Nat-Bijection theory in the HOL-Library. </html:p>
                   </fr:mainmatter>
                 </fr:tree>
                 <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
@@ -2865,13 +2896,14 @@ year = {2018},
               <fr:month>4</fr:month>
               <fr:day>23</fr:day>
             </fr:date>
-            <fr:uri>https://astahfrom.github.io/forest/ahf-supervision/</fr:uri>
-            <fr:display-uri>ahf-supervision</fr:display-uri>
-            <fr:route>/forest/ahf-supervision/</fr:route>
+            <fr:uri>https://astahfrom.github.io/forest/supervision/</fr:uri>
+            <fr:display-uri>supervision</fr:display-uri>
+            <fr:route>/forest/supervision/</fr:route>
             <fr:title text="Supervision">Supervision</fr:title>
           </fr:frontmatter>
           <fr:mainmatter>
-            <html:p>I co-supervised the following projects at <fr:link href="/forest/dtucompute/" title="DTU Compute" uri="https://astahfrom.github.io/forest/dtucompute/" display-uri="dtucompute" type="local">DTU Compute</fr:link>.
+            <html:p>
+I co-supervised the following projects at <fr:link href="/forest/dtucompute/" title="DTU Compute" uri="https://astahfrom.github.io/forest/dtucompute/" display-uri="dtucompute" type="local">DTU Compute</fr:link>.
 <html:ul><html:li><html:strong>MSc thesis</html:strong> Frederik Krogsdal Jacobsen, Formalization of Logical Systems in Isabelle (2021)</html:li>
 <html:li><html:strong>BSc thesis</html:strong> Emmanuel André Ryom, A Proof Tool for First-Order Logic (2021)</html:li>
 <html:li><html:strong>BSc thesis</html:strong> Simon Tobias Lund, Prover Programming (2021)</html:li>
@@ -2898,13 +2930,14 @@ year = {2018},
               <fr:month>4</fr:month>
               <fr:day>23</fr:day>
             </fr:date>
-            <fr:uri>https://astahfrom.github.io/forest/ahf-ta/</fr:uri>
-            <fr:display-uri>ahf-ta</fr:display-uri>
-            <fr:route>/forest/ahf-ta/</fr:route>
+            <fr:uri>https://astahfrom.github.io/forest/ta/</fr:uri>
+            <fr:display-uri>ta</fr:display-uri>
+            <fr:route>/forest/ta/</fr:route>
             <fr:title text="Teaching Assistant">Teaching Assistant</fr:title>
           </fr:frontmatter>
           <fr:mainmatter>
-            <html:p>I was a teaching assistant in the following courses at <fr:link href="/forest/dtucompute/" title="DTU Compute" uri="https://astahfrom.github.io/forest/dtucompute/" display-uri="dtucompute" type="local">DTU Compute</fr:link>.
+            <html:p>
+I was a teaching assistant in the following courses at <fr:link href="/forest/dtucompute/" title="DTU Compute" uri="https://astahfrom.github.io/forest/dtucompute/" display-uri="dtucompute" type="local">DTU Compute</fr:link>.
 <html:ul><html:li><fr:link href="https://kurser.dtu.dk/course/02287" type="external"><html:strong>02287</html:strong></fr:link> Logical Theories for Uncertainty and Learning (2020)</html:li>
 <html:li><fr:link href="https://kurser.dtu.dk/course/02102" type="external"><html:strong>02102</html:strong></fr:link> Introductory Programming (Java &amp; C) (2020)</html:li>
 <html:li><fr:link href="https://kurser.dtu.dk/course/02256" type="external"><html:strong>02256</html:strong></fr:link> Automated Reasoning (2020)</html:li>
@@ -2927,13 +2960,13 @@ year = {2018},
               <fr:month>4</fr:month>
               <fr:day>15</fr:day>
             </fr:date>
-            <fr:uri>https://astahfrom.github.io/forest/ahf-phd/</fr:uri>
-            <fr:display-uri>ahf-phd</fr:display-uri>
-            <fr:route>/forest/ahf-phd/</fr:route>
+            <fr:uri>https://astahfrom.github.io/forest/phd/</fr:uri>
+            <fr:display-uri>phd</fr:display-uri>
+            <fr:route>/forest/phd/</fr:route>
             <fr:title text="PhD">PhD</fr:title>
           </fr:frontmatter>
           <fr:mainmatter>
-            <html:p>I was a PhD student at <fr:link href="/forest/dtucompute/" title="DTU Compute" uri="https://astahfrom.github.io/forest/dtucompute/" display-uri="dtucompute" type="local">DTU Compute</fr:link> from 2020 to 2023. I wrote my thesis <fr:link href="/forest/ahfrom-2023-phd-thesis/" title="Formally Correct Deduction Methods for Computational Logic" uri="https://astahfrom.github.io/forest/ahfrom-2023-phd-thesis/" display-uri="ahfrom-2023-phd-thesis" type="local">Formally Correct Deduction Methods for Computational Logic</fr:link> supervised by <fr:link href="/forest/jvilladsen/" title="Jørgen Villadsen" uri="https://astahfrom.github.io/forest/jvilladsen/" display-uri="jvilladsen" type="local">Jørgen Villadsen</fr:link> and <fr:link href="/forest/ngierasimczuk/" title="Nina Gierasimczuk" uri="https://astahfrom.github.io/forest/ngierasimczuk/" display-uri="ngierasimczuk" type="local">Nina Gierasimczuk</fr:link>. <fr:link href="/forest/dtu/" title="Technical University of Denmark" uri="https://astahfrom.github.io/forest/dtu/" display-uri="dtu" type="local">DTU</fr:link> awarded me a <fr:link href="/forest/ahf-awards/" title="Awards, Grants &amp; Competitions" uri="https://astahfrom.github.io/forest/ahf-awards/" display-uri="ahf-awards" type="local">Young Researcher Award</fr:link> for my PhD.</html:p>
+            <html:p>I was a PhD student at <fr:link href="/forest/dtucompute/" title="DTU Compute" uri="https://astahfrom.github.io/forest/dtucompute/" display-uri="dtucompute" type="local">DTU Compute</fr:link> from 2020 to 2023. I wrote my thesis <fr:link href="/forest/ahfrom-2023-phd-thesis/" title="Formally Correct Deduction Methods for Computational Logic" uri="https://astahfrom.github.io/forest/ahfrom-2023-phd-thesis/" display-uri="ahfrom-2023-phd-thesis" type="local">Formally Correct Deduction Methods for Computational Logic</fr:link> supervised by <fr:link href="/forest/jvilladsen/" title="Jørgen Villadsen" uri="https://astahfrom.github.io/forest/jvilladsen/" display-uri="jvilladsen" type="local">Jørgen Villadsen</fr:link> and <fr:link href="/forest/ngierasimczuk/" title="Nina Gierasimczuk" uri="https://astahfrom.github.io/forest/ngierasimczuk/" display-uri="ngierasimczuk" type="local">Nina Gierasimczuk</fr:link>. <fr:link href="/forest/dtu/" title="Technical University of Denmark" uri="https://astahfrom.github.io/forest/dtu/" display-uri="dtu" type="local">DTU</fr:link> awarded me a <fr:link href="/forest/awards/" title="Awards, Grants &amp; Competitions" uri="https://astahfrom.github.io/forest/awards/" display-uri="awards" type="local">Young Researcher Award</fr:link> for my PhD.</html:p>
           </fr:mainmatter>
         </fr:tree>
         <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">

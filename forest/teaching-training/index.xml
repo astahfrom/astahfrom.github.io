@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/forest/default.xsl"?>
+<fr:tree xmlns:fr="http://www.forester-notes.org" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:xml="http://www.w3.org/XML/1998/namespace" root="false" base-url="/forest/">
+  <fr:frontmatter>
+    <fr:authors>
+      <fr:author>
+        <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+      </fr:author>
+    </fr:authors>
+    <fr:date>
+      <fr:year>2025</fr:year>
+      <fr:month>6</fr:month>
+      <fr:day>7</fr:day>
+    </fr:date>
+    <fr:uri>https://astahfrom.github.io/forest/teaching-training/</fr:uri>
+    <fr:display-uri>teaching-training</fr:display-uri>
+    <fr:route>/forest/teaching-training/</fr:route>
+    <fr:title text="Training">Training</fr:title>
+  </fr:frontmatter>
+  <fr:mainmatter>
+    <html:p>
+I took a 2.5 ECTS <fr:link href="https://learninglab.dtu.dk/courses-and-events/teaching-lab" type="external">Teaching Lab</fr:link> course as a PhD student at <fr:link href="/forest/dtu/" title="Technical University of Denmark" uri="https://astahfrom.github.io/forest/dtu/" display-uri="dtu" type="local">DTU</fr:link>:
+<html:em>Teaching Lab is our introduction to Teaching &amp; Learning in Engineering Education. During the course you will design and deliver a short teaching session, and you will give and receive feedback.</html:em></html:p>
+  </fr:mainmatter>
+  <fr:backmatter>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="References">References</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Context">Context</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2025</fr:year>
+              <fr:month>4</fr:month>
+              <fr:day>23</fr:day>
+            </fr:date>
+            <fr:uri>https://astahfrom.github.io/forest/teaching/</fr:uri>
+            <fr:display-uri>teaching</fr:display-uri>
+            <fr:route>/forest/teaching/</fr:route>
+            <fr:title text="Teaching">Teaching</fr:title>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>6</fr:month>
+                  <fr:day>7</fr:day>
+                </fr:date>
+                <fr:uri>https://astahfrom.github.io/forest/teaching-training/</fr:uri>
+                <fr:display-uri>teaching-training</fr:display-uri>
+                <fr:route>/forest/teaching-training/</fr:route>
+                <fr:title text="Training">Training</fr:title>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>
+I took a 2.5 ECTS <fr:link href="https://learninglab.dtu.dk/courses-and-events/teaching-lab" type="external">Teaching Lab</fr:link> course as a PhD student at <fr:link href="/forest/dtu/" title="Technical University of Denmark" uri="https://astahfrom.github.io/forest/dtu/" display-uri="dtu" type="local">DTU</fr:link>:
+<html:em>Teaching Lab is our introduction to Teaching &amp; Learning in Engineering Education. During the course you will design and deliver a short teaching session, and you will give and receive feedback.</html:em></html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>4</fr:month>
+                  <fr:day>25</fr:day>
+                </fr:date>
+                <fr:uri>https://astahfrom.github.io/forest/sddh/</fr:uri>
+                <fr:display-uri>sddh</fr:display-uri>
+                <fr:route>/forest/sddh/</fr:route>
+                <fr:title text="Software Development for Digital Health">Software Development for Digital Health</fr:title>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>I am currently teaching <fr:link href="https://kurser.ku.dk/course/ndab22007u/2024-2025" type="external">Software Development for Digital Health</fr:link> for 4th semester Health and IT students.</html:p>
+                <html:p>
+                  <html:em>The course provides an introduction to the elementary elements in the development of IT systems in the healthcare system. The course focuses on system development and software engineering techniques: requirements specification, basic UML diagrams and system development methods. As software integrates with information systems, the student will acquire skills in modelling and manipulation of data in relational databases. Finally, the course will equip the student with skills in data communication via information exchange.</html:em>
+                </html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>4</fr:month>
+                  <fr:day>23</fr:day>
+                </fr:date>
+                <fr:uri>https://astahfrom.github.io/forest/supervision/</fr:uri>
+                <fr:display-uri>supervision</fr:display-uri>
+                <fr:route>/forest/supervision/</fr:route>
+                <fr:title text="Supervision">Supervision</fr:title>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>
+I co-supervised the following projects at <fr:link href="/forest/dtucompute/" title="DTU Compute" uri="https://astahfrom.github.io/forest/dtucompute/" display-uri="dtucompute" type="local">DTU Compute</fr:link>.
+<html:ul><html:li><html:strong>MSc thesis</html:strong> Frederik Krogsdal Jacobsen, Formalization of Logical Systems in Isabelle (2021)</html:li>
+<html:li><html:strong>BSc thesis</html:strong> Emmanuel André Ryom, A Proof Tool for First-Order Logic (2021)</html:li>
+<html:li><html:strong>BSc thesis</html:strong> Simon Tobias Lund, Prover Programming (2021)</html:li>
+<html:li><html:strong>Special Course</html:strong> A Case Study in Computer-Assisted Meta-Reasoning (2021)</html:li>
+<html:li><html:strong>Special Course</html:strong> Advanced Automated Reasoning (2021)</html:li>
+<html:li><html:strong>Special Course</html:strong> Sequent Calculus Verifier (2021)</html:li>
+<html:li><html:strong>Special Course</html:strong> Advanced Topics in Types and Programming Languages (2021)</html:li>
+<html:li><html:strong>Special Course</html:strong> Advanced Theorem Proving in Isabelle (2020)</html:li>
+<html:li><html:strong>Special Course</html:strong> Type Theory and Formal Proof (2020)</html:li>
+<html:li><html:strong>Special Course</html:strong> Correctness proofs for distributed systems in Isabelle (2020)</html:li>
+<html:li><html:strong>Special Course</html:strong> Fundamental Concepts in Algebraic Topology (2020)</html:li>
+<html:li><html:strong>Special Course</html:strong> Visualization of proofs (2020)</html:li></html:ul></html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>4</fr:month>
+                  <fr:day>23</fr:day>
+                </fr:date>
+                <fr:uri>https://astahfrom.github.io/forest/ta/</fr:uri>
+                <fr:display-uri>ta</fr:display-uri>
+                <fr:route>/forest/ta/</fr:route>
+                <fr:title text="Teaching Assistant">Teaching Assistant</fr:title>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>
+I was a teaching assistant in the following courses at <fr:link href="/forest/dtucompute/" title="DTU Compute" uri="https://astahfrom.github.io/forest/dtucompute/" display-uri="dtucompute" type="local">DTU Compute</fr:link>.
+<html:ul><html:li><fr:link href="https://kurser.dtu.dk/course/02287" type="external"><html:strong>02287</html:strong></fr:link> Logical Theories for Uncertainty and Learning (2020)</html:li>
+<html:li><fr:link href="https://kurser.dtu.dk/course/02102" type="external"><html:strong>02102</html:strong></fr:link> Introductory Programming (Java &amp; C) (2020)</html:li>
+<html:li><fr:link href="https://kurser.dtu.dk/course/02256" type="external"><html:strong>02256</html:strong></fr:link> Automated Reasoning (2020)</html:li>
+<html:li><fr:link href="https://kurser.dtu.dk/course/02156" type="external"><html:strong>02156</html:strong></fr:link> Logical Systems and Logic Programming (2018 &amp; 2019)</html:li>
+<html:li><fr:link href="https://kurser.dtu.dk/course/02180" type="external"><html:strong>02180</html:strong></fr:link> Introduction to Artificial Intelligence (2018)</html:li>
+<html:li><fr:link href="https://kurser.dtu.dk/course/02105" type="external"><html:strong>02105</html:strong></fr:link> Algorithms and Data Structures 1 (2016 &amp; 2017)</html:li>
+<html:li><fr:link href="https://kurser.dtu.dk/course/02110" type="external"><html:strong>02110</html:strong></fr:link> Algorithms and Data Structures 2 (2016)</html:li>
+<html:li><fr:link href="https://kurser.dtu.dk/course/02101" type="external"><html:strong>02101</html:strong></fr:link> Introductory Programming (Java) (2015 &amp; 2016)</html:li></html:ul></html:p>
+              </fr:mainmatter>
+            </fr:tree>
+          </fr:mainmatter>
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Backlinks">Backlinks</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Related">Related</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors />
+            <fr:uri>https://astahfrom.github.io/forest/dtu/</fr:uri>
+            <fr:display-uri>dtu</fr:display-uri>
+            <fr:route>/forest/dtu/</fr:route>
+            <fr:title text="Technical University of Denmark">Technical University of Denmark</fr:title>
+            <fr:taxon>Institution</fr:taxon>
+          </fr:frontmatter>
+          <fr:mainmatter />
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Contributions">Contributions</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+  </fr:backmatter>
+</fr:tree>

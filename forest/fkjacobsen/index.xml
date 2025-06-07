@@ -45,9 +45,9 @@
               <fr:month>4</fr:month>
               <fr:day>25</fr:day>
             </fr:date>
-            <fr:uri>https://astahfrom.github.io/forest/ahf-awards/</fr:uri>
-            <fr:display-uri>ahf-awards</fr:display-uri>
-            <fr:route>/forest/ahf-awards/</fr:route>
+            <fr:uri>https://astahfrom.github.io/forest/awards/</fr:uri>
+            <fr:display-uri>awards</fr:display-uri>
+            <fr:route>/forest/awards/</fr:route>
             <fr:title text="Awards, Grants &amp; Competitions">Awards, Grants &amp; Competitions</fr:title>
           </fr:frontmatter>
           <fr:mainmatter>
