@@ -1698,7 +1698,7 @@ year = {2016},
             <fr:title text="Curriculum Vitae">Curriculum Vitae</fr:title>
           </fr:frontmatter>
           <fr:mainmatter>
-            <html:p>I love computers. From the Docker images that run on my home server to the engineering efforts needed at scale. I care about software, the people who build it and the processes needed to support them. My <fr:link href="/forest/phd/" title="PhD" uri="https://astahfrom.github.io/forest/phd/" display-uri="phd" type="local">PhD</fr:link> taught me how to design the foundations for getting things right, in my <fr:link href="/forest/teaching/" title="Teaching" uri="https://astahfrom.github.io/forest/teaching/" display-uri="teaching" type="local">teaching</fr:link> I have prepared the domain experts of the future for the software industry, and in my own <fr:link href="/forest/at-dalux/" title="Dalux" uri="https://astahfrom.github.io/forest/at-dalux/" display-uri="at-dalux" type="local">time at a software company</fr:link>, I improved the developer experience while also working on customer-facing features. I enjoy cracking hard problems and sharing my knowledge and expertise with others, as I have done again and again through my studies and career.</html:p>
+            <html:p>I love computers. From the Docker images that run on my home server to the engineering efforts needed at scale. I care about software, the people who build it and the processes needed to support them. My <fr:link href="/forest/phd/" title="PhD" uri="https://astahfrom.github.io/forest/phd/" display-uri="phd" type="local">PhD</fr:link> taught me how to design the foundations for getting things right, in my <fr:link href="/forest/teaching/" title="Teaching" uri="https://astahfrom.github.io/forest/teaching/" display-uri="teaching" type="local">teaching</fr:link> I have prepared the domain experts of the future for the software industry, and in my own <fr:link href="/forest/at-dalux/" title="Dalux" uri="https://astahfrom.github.io/forest/at-dalux/" display-uri="at-dalux" type="local">time at a software company</fr:link>, I improved the developer experience while also working on customer-facing features. I enjoy cracking hard problems and sharing my knowledge and expertise with others, and have done so again and again through my studies and career.</html:p>
             <fr:tree show-metadata="false">
               <fr:frontmatter>
                 <fr:authors>
@@ -1718,6 +1718,7 @@ year = {2016},
               </fr:frontmatter>
               <fr:mainmatter>
                 <html:p>I am a <fr:link href="https://di.ku.dk/Ansatte/?pure=da/persons/824375" type="external">postdoc</fr:link> in <fr:link href="/forest/dtraytel/" title="Dmitriy Traytel" uri="https://astahfrom.github.io/forest/dtraytel/" display-uri="dtraytel" type="local">Dmitriy Traytel</fr:link>'s group in the section for Software, Data, People &amp; Society (SDPS) in the <fr:link href="/forest/diku/" title="Department of Computer Science" uri="https://astahfrom.github.io/forest/diku/" display-uri="diku" type="local">Department of Computer Science</fr:link> at the <fr:link href="/forest/ucph/" title="University of Copenhagen" uri="https://astahfrom.github.io/forest/ucph/" display-uri="ucph" type="local">University of Copenhagen</fr:link>. I am employed from August 2024 to August 2026. <fr:link href="/forest/sddh/" title="Software Development for Digital Health" uri="https://astahfrom.github.io/forest/sddh/" display-uri="sddh" type="local">I teach Software Development for Digital Health for 4th semester Health and IT students</fr:link>.</html:p>
+                <html:p>Contact: <fr:link href="mailto:asfr@di.ku.dk" type="external">asfr@di.ku.dk</fr:link></html:p>
               </fr:mainmatter>
             </fr:tree>
             <fr:tree show-metadata="false">
@@ -1938,6 +1939,36 @@ I took a 2.5 ECTS <fr:link href="https://learninglab.dtu.dk/courses-and-events/t
                       <fr:month>4</fr:month>
                       <fr:day>23</fr:day>
                     </fr:date>
+                    <fr:uri>https://astahfrom.github.io/forest/ta/</fr:uri>
+                    <fr:display-uri>ta</fr:display-uri>
+                    <fr:route>/forest/ta/</fr:route>
+                    <fr:title text="Teaching Assistant">Teaching Assistant</fr:title>
+                  </fr:frontmatter>
+                  <fr:mainmatter>
+                    <html:p>
+I was a teaching assistant in the following courses at <fr:link href="/forest/dtucompute/" title="DTU Compute" uri="https://astahfrom.github.io/forest/dtucompute/" display-uri="dtucompute" type="local">DTU Compute</fr:link>.
+<html:ul><html:li><fr:link href="https://kurser.dtu.dk/course/02287" type="external"><html:strong>02287</html:strong></fr:link> Logical Theories for Uncertainty and Learning (2020)</html:li>
+<html:li><fr:link href="https://kurser.dtu.dk/course/02102" type="external"><html:strong>02102</html:strong></fr:link> Introductory Programming (Java &amp; C) (2020)</html:li>
+<html:li><fr:link href="https://kurser.dtu.dk/course/02256" type="external"><html:strong>02256</html:strong></fr:link> Automated Reasoning (2020)</html:li>
+<html:li><fr:link href="https://kurser.dtu.dk/course/02156" type="external"><html:strong>02156</html:strong></fr:link> Logical Systems and Logic Programming (2018 &amp; 2019)</html:li>
+<html:li><fr:link href="https://kurser.dtu.dk/course/02180" type="external"><html:strong>02180</html:strong></fr:link> Introduction to Artificial Intelligence (2018)</html:li>
+<html:li><fr:link href="https://kurser.dtu.dk/course/02105" type="external"><html:strong>02105</html:strong></fr:link> Algorithms and Data Structures 1 (2016 &amp; 2017)</html:li>
+<html:li><fr:link href="https://kurser.dtu.dk/course/02110" type="external"><html:strong>02110</html:strong></fr:link> Algorithms and Data Structures 2 (2016)</html:li>
+<html:li><fr:link href="https://kurser.dtu.dk/course/02101" type="external"><html:strong>02101</html:strong></fr:link> Introductory Programming (Java) (2015 &amp; 2016)</html:li></html:ul></html:p>
+                  </fr:mainmatter>
+                </fr:tree>
+                <fr:tree show-metadata="false">
+                  <fr:frontmatter>
+                    <fr:authors>
+                      <fr:author>
+                        <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+                      </fr:author>
+                    </fr:authors>
+                    <fr:date>
+                      <fr:year>2025</fr:year>
+                      <fr:month>4</fr:month>
+                      <fr:day>23</fr:day>
+                    </fr:date>
                     <fr:uri>https://astahfrom.github.io/forest/supervision/</fr:uri>
                     <fr:display-uri>supervision</fr:display-uri>
                     <fr:route>/forest/supervision/</fr:route>
@@ -1958,36 +1989,6 @@ I co-supervised the following projects at <fr:link href="/forest/dtucompute/" ti
 <html:li><html:strong>Special Course</html:strong> Correctness proofs for distributed systems in Isabelle (2020)</html:li>
 <html:li><html:strong>Special Course</html:strong> Fundamental Concepts in Algebraic Topology (2020)</html:li>
 <html:li><html:strong>Special Course</html:strong> Visualization of proofs (2020)</html:li></html:ul></html:p>
-                  </fr:mainmatter>
-                </fr:tree>
-                <fr:tree show-metadata="false">
-                  <fr:frontmatter>
-                    <fr:authors>
-                      <fr:author>
-                        <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
-                      </fr:author>
-                    </fr:authors>
-                    <fr:date>
-                      <fr:year>2025</fr:year>
-                      <fr:month>4</fr:month>
-                      <fr:day>23</fr:day>
-                    </fr:date>
-                    <fr:uri>https://astahfrom.github.io/forest/ta/</fr:uri>
-                    <fr:display-uri>ta</fr:display-uri>
-                    <fr:route>/forest/ta/</fr:route>
-                    <fr:title text="Teaching Assistant">Teaching Assistant</fr:title>
-                  </fr:frontmatter>
-                  <fr:mainmatter>
-                    <html:p>
-I was a teaching assistant in the following courses at <fr:link href="/forest/dtucompute/" title="DTU Compute" uri="https://astahfrom.github.io/forest/dtucompute/" display-uri="dtucompute" type="local">DTU Compute</fr:link>.
-<html:ul><html:li><fr:link href="https://kurser.dtu.dk/course/02287" type="external"><html:strong>02287</html:strong></fr:link> Logical Theories for Uncertainty and Learning (2020)</html:li>
-<html:li><fr:link href="https://kurser.dtu.dk/course/02102" type="external"><html:strong>02102</html:strong></fr:link> Introductory Programming (Java &amp; C) (2020)</html:li>
-<html:li><fr:link href="https://kurser.dtu.dk/course/02256" type="external"><html:strong>02256</html:strong></fr:link> Automated Reasoning (2020)</html:li>
-<html:li><fr:link href="https://kurser.dtu.dk/course/02156" type="external"><html:strong>02156</html:strong></fr:link> Logical Systems and Logic Programming (2018 &amp; 2019)</html:li>
-<html:li><fr:link href="https://kurser.dtu.dk/course/02180" type="external"><html:strong>02180</html:strong></fr:link> Introduction to Artificial Intelligence (2018)</html:li>
-<html:li><fr:link href="https://kurser.dtu.dk/course/02105" type="external"><html:strong>02105</html:strong></fr:link> Algorithms and Data Structures 1 (2016 &amp; 2017)</html:li>
-<html:li><fr:link href="https://kurser.dtu.dk/course/02110" type="external"><html:strong>02110</html:strong></fr:link> Algorithms and Data Structures 2 (2016)</html:li>
-<html:li><fr:link href="https://kurser.dtu.dk/course/02101" type="external"><html:strong>02101</html:strong></fr:link> Introductory Programming (Java) (2015 &amp; 2016)</html:li></html:ul></html:p>
                   </fr:mainmatter>
                 </fr:tree>
               </fr:mainmatter>
@@ -2030,7 +2031,8 @@ I was a teaching assistant in the following courses at <fr:link href="/forest/dt
                   <fr:mainmatter>
                     <html:p>
 I was or am a member of the following PCs.
-<html:ul><html:li><html:strong>Dalí 2025</html:strong>: 6th Workshop on Dynamic Logic - New trends and applications</html:li>
+<html:ul><html:li><html:strong>CPP 2026</html:strong>: Certified Programs and Proofs</html:li>
+<html:li><html:strong>Dalí 2025</html:strong>: 6th Workshop on Dynamic Logic - New trends and applications</html:li>
 <html:li><html:strong>ITP 2025</html:strong>: 16th International Conference on Interactive Theorem Proving</html:li>
 <html:li><html:strong>Dalí 2023</html:strong>: 5th Workshop on Dynamic Logic - New trends and applications</html:li></html:ul></html:p>
                     <html:p>I was co-chair of the Logic and Computation track at the student session at ESSLLI 2021 — 32nd European Summer School in Logic, Language and Information.</html:p>
@@ -4528,6 +4530,7 @@ year = {2018},
               </fr:frontmatter>
               <fr:mainmatter>
                 <html:p>I am a <fr:link href="https://di.ku.dk/Ansatte/?pure=da/persons/824375" type="external">postdoc</fr:link> in <fr:link href="/forest/dtraytel/" title="Dmitriy Traytel" uri="https://astahfrom.github.io/forest/dtraytel/" display-uri="dtraytel" type="local">Dmitriy Traytel</fr:link>'s group in the section for Software, Data, People &amp; Society (SDPS) in the <fr:link href="/forest/diku/" title="Department of Computer Science" uri="https://astahfrom.github.io/forest/diku/" display-uri="diku" type="local">Department of Computer Science</fr:link> at the <fr:link href="/forest/ucph/" title="University of Copenhagen" uri="https://astahfrom.github.io/forest/ucph/" display-uri="ucph" type="local">University of Copenhagen</fr:link>. I am employed from August 2024 to August 2026. <fr:link href="/forest/sddh/" title="Software Development for Digital Health" uri="https://astahfrom.github.io/forest/sddh/" display-uri="sddh" type="local">I teach Software Development for Digital Health for 4th semester Health and IT students</fr:link>.</html:p>
+                <html:p>Contact: <fr:link href="mailto:asfr@di.ku.dk" type="external">asfr@di.ku.dk</fr:link></html:p>
               </fr:mainmatter>
             </fr:tree>
             <fr:tree show-metadata="false">

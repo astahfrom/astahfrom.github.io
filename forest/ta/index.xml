@@ -120,6 +120,36 @@ I took a 2.5 ECTS <fr:link href="https://learninglab.dtu.dk/courses-and-events/t
                   <fr:month>4</fr:month>
                   <fr:day>23</fr:day>
                 </fr:date>
+                <fr:uri>https://astahfrom.github.io/forest/ta/</fr:uri>
+                <fr:display-uri>ta</fr:display-uri>
+                <fr:route>/forest/ta/</fr:route>
+                <fr:title text="Teaching Assistant">Teaching Assistant</fr:title>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>
+I was a teaching assistant in the following courses at <fr:link href="/forest/dtucompute/" title="DTU Compute" uri="https://astahfrom.github.io/forest/dtucompute/" display-uri="dtucompute" type="local">DTU Compute</fr:link>.
+<html:ul><html:li><fr:link href="https://kurser.dtu.dk/course/02287" type="external"><html:strong>02287</html:strong></fr:link> Logical Theories for Uncertainty and Learning (2020)</html:li>
+<html:li><fr:link href="https://kurser.dtu.dk/course/02102" type="external"><html:strong>02102</html:strong></fr:link> Introductory Programming (Java &amp; C) (2020)</html:li>
+<html:li><fr:link href="https://kurser.dtu.dk/course/02256" type="external"><html:strong>02256</html:strong></fr:link> Automated Reasoning (2020)</html:li>
+<html:li><fr:link href="https://kurser.dtu.dk/course/02156" type="external"><html:strong>02156</html:strong></fr:link> Logical Systems and Logic Programming (2018 &amp; 2019)</html:li>
+<html:li><fr:link href="https://kurser.dtu.dk/course/02180" type="external"><html:strong>02180</html:strong></fr:link> Introduction to Artificial Intelligence (2018)</html:li>
+<html:li><fr:link href="https://kurser.dtu.dk/course/02105" type="external"><html:strong>02105</html:strong></fr:link> Algorithms and Data Structures 1 (2016 &amp; 2017)</html:li>
+<html:li><fr:link href="https://kurser.dtu.dk/course/02110" type="external"><html:strong>02110</html:strong></fr:link> Algorithms and Data Structures 2 (2016)</html:li>
+<html:li><fr:link href="https://kurser.dtu.dk/course/02101" type="external"><html:strong>02101</html:strong></fr:link> Introductory Programming (Java) (2015 &amp; 2016)</html:li></html:ul></html:p>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                  <fr:month>4</fr:month>
+                  <fr:day>23</fr:day>
+                </fr:date>
                 <fr:uri>https://astahfrom.github.io/forest/supervision/</fr:uri>
                 <fr:display-uri>supervision</fr:display-uri>
                 <fr:route>/forest/supervision/</fr:route>
@@ -140,36 +170,6 @@ I co-supervised the following projects at <fr:link href="/forest/dtucompute/" ti
 <html:li><html:strong>Special Course</html:strong> Correctness proofs for distributed systems in Isabelle (2020)</html:li>
 <html:li><html:strong>Special Course</html:strong> Fundamental Concepts in Algebraic Topology (2020)</html:li>
 <html:li><html:strong>Special Course</html:strong> Visualization of proofs (2020)</html:li></html:ul></html:p>
-              </fr:mainmatter>
-            </fr:tree>
-            <fr:tree show-metadata="false">
-              <fr:frontmatter>
-                <fr:authors>
-                  <fr:author>
-                    <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
-                  </fr:author>
-                </fr:authors>
-                <fr:date>
-                  <fr:year>2025</fr:year>
-                  <fr:month>4</fr:month>
-                  <fr:day>23</fr:day>
-                </fr:date>
-                <fr:uri>https://astahfrom.github.io/forest/ta/</fr:uri>
-                <fr:display-uri>ta</fr:display-uri>
-                <fr:route>/forest/ta/</fr:route>
-                <fr:title text="Teaching Assistant">Teaching Assistant</fr:title>
-              </fr:frontmatter>
-              <fr:mainmatter>
-                <html:p>
-I was a teaching assistant in the following courses at <fr:link href="/forest/dtucompute/" title="DTU Compute" uri="https://astahfrom.github.io/forest/dtucompute/" display-uri="dtucompute" type="local">DTU Compute</fr:link>.
-<html:ul><html:li><fr:link href="https://kurser.dtu.dk/course/02287" type="external"><html:strong>02287</html:strong></fr:link> Logical Theories for Uncertainty and Learning (2020)</html:li>
-<html:li><fr:link href="https://kurser.dtu.dk/course/02102" type="external"><html:strong>02102</html:strong></fr:link> Introductory Programming (Java &amp; C) (2020)</html:li>
-<html:li><fr:link href="https://kurser.dtu.dk/course/02256" type="external"><html:strong>02256</html:strong></fr:link> Automated Reasoning (2020)</html:li>
-<html:li><fr:link href="https://kurser.dtu.dk/course/02156" type="external"><html:strong>02156</html:strong></fr:link> Logical Systems and Logic Programming (2018 &amp; 2019)</html:li>
-<html:li><fr:link href="https://kurser.dtu.dk/course/02180" type="external"><html:strong>02180</html:strong></fr:link> Introduction to Artificial Intelligence (2018)</html:li>
-<html:li><fr:link href="https://kurser.dtu.dk/course/02105" type="external"><html:strong>02105</html:strong></fr:link> Algorithms and Data Structures 1 (2016 &amp; 2017)</html:li>
-<html:li><fr:link href="https://kurser.dtu.dk/course/02110" type="external"><html:strong>02110</html:strong></fr:link> Algorithms and Data Structures 2 (2016)</html:li>
-<html:li><fr:link href="https://kurser.dtu.dk/course/02101" type="external"><html:strong>02101</html:strong></fr:link> Introductory Programming (Java) (2015 &amp; 2016)</html:li></html:ul></html:p>
               </fr:mainmatter>
             </fr:tree>
           </fr:mainmatter>
