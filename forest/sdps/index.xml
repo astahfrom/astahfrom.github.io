@@ -2909,7 +2909,7 @@ year = {2018},
                 <fr:title text="Tools">Tools</fr:title>
               </fr:frontmatter>
               <fr:mainmatter>
-                <html:p>You might be looking for my <fr:link href="../cartouches/" type="external">Isabelle snippets generator</fr:link> or my <fr:link href="../htmlbib/" type="external">online bibliography templating tool</fr:link>.</html:p>
+                <html:p>You might be looking for my <fr:link href="../../cartouches/" type="external">Isabelle snippets generator</fr:link> or my <fr:link href="../../htmlbib/" type="external">online bibliography templating tool</fr:link>.</html:p>
               </fr:mainmatter>
             </fr:tree>
             <fr:tree show-metadata="false">
