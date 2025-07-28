@@ -1299,7 +1299,7 @@ Methods for Computational Logic</fr:title>
                         <fr:meta name="external">/forest/bafkrmifiayrgd4cwa44y3xb4vgkr7zuow74en5la3cav6tlpxwzbbtzrl4.pdf</fr:meta>
                       </fr:frontmatter>
                       <fr:mainmatter>
-                        <html:p>Accepted for publication.</html:p>
+                        <html:p>Accepted for publication. <fr:link href="/forest/ahfrom-2025-talk-tb/" title="Abstract Consistency Properties for Hybrid Logic: Smullyan’s Unifying Principle in Isabelle/HOL" uri="https://astahfrom.github.io/forest/ahfrom-2025-talk-tb/" display-uri="ahfrom-2025-talk-tb" type="local">Workshop talk with a logic focus</fr:link>.</html:p>
                         <html:p>Smullyan and Fitting have used abstract consistency properties to great effect in unifying meta-theoretical results in logic. In this paper, we generalize these developments with the help of Isabelle/HOL. We use locales to decompose abstract consistency into general parts, and provide the textbook variants as special cases. Users can assemble their own consistency property for a given logic. The compositionality alleviates the absence of dependent types in Isabelle/HOL. We use our development to mechanize completeness of calculi for three logics: (1) first-order logic where we only instantiate universal quantifiers with already occurring terms, (2) second-order logic over general models, and (3) a recently developed strong hybrid logic with propositional quantification.</html:p>
                       </fr:mainmatter>
                     </fr:tree>
@@ -3577,7 +3577,7 @@ miniclue.setup({
                     <fr:meta name="external">/forest/bafkrmifiayrgd4cwa44y3xb4vgkr7zuow74en5la3cav6tlpxwzbbtzrl4.pdf</fr:meta>
                   </fr:frontmatter>
                   <fr:mainmatter>
-                    <html:p>Accepted for publication.</html:p>
+                    <html:p>Accepted for publication. <fr:link href="/forest/ahfrom-2025-talk-tb/" title="Abstract Consistency Properties for Hybrid Logic: Smullyan’s Unifying Principle in Isabelle/HOL" uri="https://astahfrom.github.io/forest/ahfrom-2025-talk-tb/" display-uri="ahfrom-2025-talk-tb" type="local">Workshop talk with a logic focus</fr:link>.</html:p>
                     <html:p>Smullyan and Fitting have used abstract consistency properties to great effect in unifying meta-theoretical results in logic. In this paper, we generalize these developments with the help of Isabelle/HOL. We use locales to decompose abstract consistency into general parts, and provide the textbook variants as special cases. Users can assemble their own consistency property for a given logic. The compositionality alleviates the absence of dependent types in Isabelle/HOL. We use our development to mechanize completeness of calculi for three logics: (1) first-order logic where we only instantiate universal quantifiers with already occurring terms, (2) second-order logic over general models, and (3) a recently developed strong hybrid logic with propositional quantification.</html:p>
                   </fr:mainmatter>
                 </fr:tree>
