@@ -934,6 +934,44 @@ Methods for Computational Logic</fr:title>
                 <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
               </fr:author>
             </fr:authors>
+            <fr:title text="Preprints">Preprints</fr:title>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+              <fr:frontmatter>
+                <fr:authors>
+                  <fr:author>
+                    <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+                  </fr:author>
+                  <fr:author>
+                    <fr:link href="/forest/aschlichtkrull/" title="Anders Schlichtkrull" uri="https://astahfrom.github.io/forest/aschlichtkrull/" display-uri="aschlichtkrull" type="local">Anders Schlichtkrull</fr:link>
+                  </fr:author>
+                </fr:authors>
+                <fr:date>
+                  <fr:year>2025</fr:year>
+                </fr:date>
+                <fr:uri>https://astahfrom.github.io/forest/ahfrom-aschlichtkrull-2025-itp/</fr:uri>
+                <fr:display-uri>ahfrom-aschlichtkrull-2025-itp</fr:display-uri>
+                <fr:route>/forest/ahfrom-aschlichtkrull-2025-itp/</fr:route>
+                <fr:title text="Abstract, Compositional Consistency: Isabelle/HOL Locales for Completeness à la Fitting">Abstract, Compositional Consistency: Isabelle/HOL Locales for Completeness à la Fitting</fr:title>
+                <fr:taxon>Reference</fr:taxon>
+                <fr:meta name="venue">16th International Conference on Interactive Theorem Proving (ITP '25)</fr:meta>
+                <fr:meta name="external">/forest/bafkrmifiayrgd4cwa44y3xb4vgkr7zuow74en5la3cav6tlpxwzbbtzrl4.pdf</fr:meta>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>Accepted for publication.</html:p>
+                <html:p>Smullyan and Fitting have used abstract consistency properties to great effect in unifying meta-theoretical results in logic. In this paper, we generalize these developments with the help of Isabelle/HOL. We use locales to decompose abstract consistency into general parts, and provide the textbook variants as special cases. Users can assemble their own consistency property for a given logic. The compositionality alleviates the absence of dependent types in Isabelle/HOL. We use our development to mechanize completeness of calculi for three logics: (1) first-order logic where we only instantiate universal quantifiers with already occurring terms, (2) second-order logic over general models, and (3) a recently developed strong hybrid logic with propositional quantification.</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+              </fr:author>
+            </fr:authors>
             <fr:title text="Journal">Journal</fr:title>
           </fr:frontmatter>
           <fr:mainmatter>
@@ -3356,7 +3394,7 @@ miniclue.setup({
   window = {
     delay = 0,
     config = {
-      width = "40",
+      width = 40,
     },
   }
 })]]></html:pre>
@@ -3396,6 +3434,32 @@ miniclue.setup({
                   </fr:frontmatter>
                   <fr:mainmatter>
                     <html:p>Smullyan unified a number of results in "quantification theory" by proving model existence abstractly via consistency properties. Fitting developed consistency properties for intuitionistic and modal logic. I use Isabelle/HOL to develop the theory for any language. In particular, consistency properties can capture <fr:link href="/forest/blackburn-brauner-kofod-2025/" title="Prior’s ideal language" uri="https://astahfrom.github.io/forest/blackburn-brauner-kofod-2025/" display-uri="blackburn-brauner-kofod-2025" type="local">Blackburn, Braüner and Kofod's very strong hybrid logic PIL: Prior's Ideal Language</fr:link>.</html:p>
+                  </fr:mainmatter>
+                </fr:tree>
+                <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+                  <fr:frontmatter>
+                    <fr:authors>
+                      <fr:author>
+                        <fr:link href="/forest/ahfrom/" title="Asta Halkjær From" uri="https://astahfrom.github.io/forest/ahfrom/" display-uri="ahfrom" type="local">Asta Halkjær From</fr:link>
+                      </fr:author>
+                      <fr:author>
+                        <fr:link href="/forest/aschlichtkrull/" title="Anders Schlichtkrull" uri="https://astahfrom.github.io/forest/aschlichtkrull/" display-uri="aschlichtkrull" type="local">Anders Schlichtkrull</fr:link>
+                      </fr:author>
+                    </fr:authors>
+                    <fr:date>
+                      <fr:year>2025</fr:year>
+                    </fr:date>
+                    <fr:uri>https://astahfrom.github.io/forest/ahfrom-aschlichtkrull-2025-itp/</fr:uri>
+                    <fr:display-uri>ahfrom-aschlichtkrull-2025-itp</fr:display-uri>
+                    <fr:route>/forest/ahfrom-aschlichtkrull-2025-itp/</fr:route>
+                    <fr:title text="Abstract, Compositional Consistency: Isabelle/HOL Locales for Completeness à la Fitting">Abstract, Compositional Consistency: Isabelle/HOL Locales for Completeness à la Fitting</fr:title>
+                    <fr:taxon>Reference</fr:taxon>
+                    <fr:meta name="venue">16th International Conference on Interactive Theorem Proving (ITP '25)</fr:meta>
+                    <fr:meta name="external">/forest/bafkrmifiayrgd4cwa44y3xb4vgkr7zuow74en5la3cav6tlpxwzbbtzrl4.pdf</fr:meta>
+                  </fr:frontmatter>
+                  <fr:mainmatter>
+                    <html:p>Accepted for publication.</html:p>
+                    <html:p>Smullyan and Fitting have used abstract consistency properties to great effect in unifying meta-theoretical results in logic. In this paper, we generalize these developments with the help of Isabelle/HOL. We use locales to decompose abstract consistency into general parts, and provide the textbook variants as special cases. Users can assemble their own consistency property for a given logic. The compositionality alleviates the absence of dependent types in Isabelle/HOL. We use our development to mechanize completeness of calculi for three logics: (1) first-order logic where we only instantiate universal quantifiers with already occurring terms, (2) second-order logic over general models, and (3) a recently developed strong hybrid logic with propositional quantification.</html:p>
                   </fr:mainmatter>
                 </fr:tree>
                 <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
